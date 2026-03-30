@@ -87,7 +87,7 @@
 |------|----------|-----------|
 | HackerNews | `.score` | `min(score / 5, 100)` |
 | Reddit | `.upvotes` | `min(upvotes / 10, 100)` |
-| GitHub | stars today（页面解析） | `min(stars * 2, 100)` |
+| GitHub | stars today（页面解析） | `min(stars / 10, 100)` |
 | arXiv | 无实时指标 | 固定 40 分 |
 | HuggingFace | `.upvotes` | `min(upvotes / 2, 100)` |
 | Lobsters | `.score` | `min(score / 3, 100)` |
@@ -216,10 +216,10 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 
 ### 中文资讯（低优先级）
 
-| 数据源 | 采集命令 | 模式 | 备选命令 |
-|--------|---------|------|---------|
-| 量子位 | `opencli google news "量子位 AI" -f json` | 公开 | WebSearch `site:qbitai.com AI` |
-| 机器之心 | `opencli google news "机器之心 AI" -f json` | 公开 | WebSearch `site:jiqizhixin.com` |
+| 数据源 | 采集命令 | 模式 | 说明 |
+|--------|---------|------|------|
+| 36氪 AI | WebSearch `site:36kr.com AI 2026` | — | 中文科技媒体 |
+| 即刻 AI 圈 | 浏览器访问 `https://web.okjike.com/topic/AI` 或 WebSearch | 浏览器 | 中文 AI 社区 |
 
 ### 兜底搜索
 
