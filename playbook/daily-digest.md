@@ -157,7 +157,7 @@
 `AI`, `artificial intelligence`, `machine learning`, `ML`, `deep learning`, `neural network`, `LLM`, `large language model`, `GPT`, `Claude`, `Gemini`, `transformer`, `diffusion`, `computer vision`, `NLP`, `natural language`, `reinforcement learning`, `generative`, `foundation model`, `fine-tuning`, `inference`, `embedding`, `vector`, `RAG`, `agent`, `copilot`, `coding assistant`
 
 **来源直接相关**（以下源的全部内容默认保留，不需二次筛选）：
-arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X/Twitter 用户
+arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、r/ChatGPTCoding、r/MLOps、r/deeplearning、r/LanguageTechnology、关注的 X/Twitter 用户、AI 实验室博客（Anthropic/OpenAI/DeepMind/HuggingFace）
 
 ---
 
@@ -175,6 +175,14 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 | Reddit r/MachineLearning | `opencli reddit subreddit MachineLearning --limit 15 -f json` | 浏览器 | 全部保留 |
 | Reddit r/LocalLLaMA | `opencli reddit subreddit LocalLLaMA --limit 15 -f json` | 浏览器 | 全部保留 |
 | Reddit r/artificial | `opencli reddit subreddit artificial --limit 10 -f json` | 浏览器 | 热帖 |
+| Reddit r/singularity | `opencli reddit subreddit singularity --limit 10 -f json` | 浏览器 | 热帖 |
+| Reddit r/ClaudeAI | `opencli reddit subreddit ClaudeAI --limit 10 -f json` | 浏览器 | 热帖 |
+| Reddit r/OpenAI | `opencli reddit subreddit OpenAI --limit 10 -f json` | 浏览器 | 热帖 |
+| Reddit r/ChatGPTCoding | `opencli reddit subreddit ChatGPTCoding --limit 15 -f json` | 浏览器 | 全部保留 |
+| Reddit r/StableDiffusion | `opencli reddit subreddit StableDiffusion --limit 10 -f json` | 浏览器 | 热帖 |
+| Reddit r/MLOps | `opencli reddit subreddit MLOps --limit 10 -f json` | 浏览器 | 全部保留 |
+| Reddit r/deeplearning | `opencli reddit subreddit deeplearning --limit 10 -f json` | 浏览器 | 全部保留 |
+| Reddit r/LanguageTechnology | `opencli reddit subreddit LanguageTechnology --limit 10 -f json` | 浏览器 | 全部保留 |
 | Lobsters | `opencli lobsters hot -f json` | 公开 | AI 相关 |
 
 ### 开源与工具（高优先级）
@@ -206,6 +214,22 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 | @_akhaliq | `opencli twitter search "from:_akhaliq" --limit 10 -f json` | 每日论文速递 |
 | @karpathy | `opencli twitter search "from:karpathy" --limit 5 -f json` | AI 技术观点 |
 | @swyx | `opencli twitter search "from:swyx" --limit 5 -f json` | AI 工程实践 |
+| @dair_ai | `opencli twitter search "from:daboromir" --limit 10 -f json` | AI 研究教育，论文解读 |
+| @rasbt | `opencli twitter search "from:rasbt" --limit 5 -f json` | LLM 原理、训练技术 |
+| @ylecun | `opencli twitter search "from:ylecun" --limit 5 -f json` | AI 方向争论、反炒作 |
+| @DrJimFan | `opencli twitter search "from:DrJimFan" --limit 5 -f json` | 具身 AI、机器人 |
+| @lilianweng | `opencli twitter search "from:lilianweng" --limit 5 -f json` | Agent 架构、深度研究 |
+| @simonw | `opencli twitter search "from:simonw" --limit 10 -f json` | LLM 实测、工具评测 |
+| @emollick | `opencli twitter search "from:emollick" --limit 10 -f json` | AI 对工作/教育影响 |
+| @mattshumer_ | `opencli twitter search "from:mattshumer_" --limit 5 -f json` | AI 产品开发、能力评估 |
+| @TheRundownAI | `opencli twitter search "from:TheRundownAI" --limit 10 -f json` | 每日 AI 新闻聚合 |
+| @AlphaSignalAI | `opencli twitter search "from:AlphaSignalAI" --limit 10 -f json` | 热门 GitHub 项目、新模型 |
+| @ClementDelangue | `opencli twitter search "from:ClementDelangue" --limit 5 -f json` | 开源模型发布、HF 生态 |
+| @hardmaru | `opencli twitter search "from:hardmaru" --limit 5 -f json` | 创意 AI、非主流方向 |
+| @AnthropicAI | `opencli twitter search "from:AnthropicAI" --limit 5 -f json` | Claude 更新、安全研究 |
+| @OpenAI | `opencli twitter search "from:OpenAI" --limit 5 -f json` | GPT 生态更新 |
+| @GoogleDeepMind | `opencli twitter search "from:GoogleDeepMind" --limit 5 -f json` | Gemini、研究突破 |
+| @MetaAI | `opencli twitter search "from:MetaAI" --limit 5 -f json` | Llama 系列、开源发布 |
 
 > 注意：Twitter 命令为浏览器模式，需要 Chrome 已登录 Twitter/X。
 > **实测经验**：`opencli twitter search` 返回结果不按时间排序且可能包含数周前的推文。采集后必须按 `created_at` 字段过滤 48 小时窗口，不能依赖结果顺序判断时效。
@@ -220,6 +244,44 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 | Medium AI | `opencli medium search "artificial intelligence" --limit 10 -f json` | 浏览器 | 热门 AI 文章 |
 | Simon Willison's Blog | WebFetch `https://simonwillison.net/atom/everything/` | — | 独立开发者视角 |
 | DevTo AI | `opencli devto top -f json` | 公开 | AI 相关文章 |
+
+#### AI 实验室/公司博客
+
+| 数据源 | 采集命令 | 模式 | 说明 |
+|--------|---------|------|------|
+| OpenAI Blog | WebFetch `https://openai.com/news/rss.xml` | — | 模型发布、产品更新 |
+| Google DeepMind Blog | WebFetch `https://deepmind.google/blog/rss.xml` | — | 前沿研究（Gemini、AlphaFold 等）|
+| Google Research Blog | WebFetch `https://research.google/blog/rss/` | — | Google 全线 AI 研究 |
+| HuggingFace Blog | WebFetch `https://huggingface.co/blog/feed.xml` | — | 开源模型、库更新、教程 |
+| Anthropic Blog | WebFetch `https://www.anthropic.com/research` 检查新内容 | — | Claude 更新、安全/对齐研究（无原生 RSS，每次采集时抓取页面比对标题）|
+| fast.ai | WebFetch `https://www.fast.ai/index.xml` | — | Jeremy Howard 的实用 DL 观点 |
+
+#### 个人研究者/实践者博客
+
+| 数据源 | 采集命令 | 模式 | 说明 |
+|--------|---------|------|------|
+| Lilian Weng (Lil'Log) | WebFetch `https://lilianweng.github.io/index.xml` | — | Agent/RLHF 等主题权威长文 |
+| Sebastian Raschka (Ahead of AI) | WebFetch `https://magazine.sebastianraschka.com/feed` | — | LLM 论文深度解读，150K+ 订阅 |
+| Nathan Lambert (Interconnects) | WebFetch `https://www.interconnects.ai/feed` | — | RLHF、开源模型、对齐研究 |
+| Jay Alammar | WebFetch `https://jalammar.github.io/feed.xml` | — | 最佳 ML 可视化解释 |
+| BAIR Blog (Berkeley AI) | WebFetch `https://bair.berkeley.edu/blog/feed.xml` | — | Berkeley 前沿研究通俗解读 |
+
+#### 策展型 Newsletter
+
+| 数据源 | 采集命令 | 模式 | 说明 |
+|--------|---------|------|------|
+| Import AI (Jack Clark) | WebFetch `https://importai.substack.com/feed` | — | Anthropic 联合创始人策展，AI 政策+研究 |
+| Latent Space (swyx) | WebFetch `https://www.latent.space/feed` | — | AI 工程实践、工具、基础设施 |
+| Last Week in AI | WebFetch `https://lastweekin.ai/feed` | — | 每周 AI 新闻综述 |
+| The Gradient | WebFetch `https://thegradientpub.substack.com/feed` | — | 学术级长文分析、研究者访谈 |
+| Ben's Bites | WebFetch `https://www.bensbites.com/feed` | — | AI 工具/产品/商业应用，150K+ 订阅 |
+
+#### 聚合/研究 Feed
+
+| 数据源 | 采集命令 | 模式 | 说明 |
+|--------|---------|------|------|
+| HF Daily Papers (社区维护) | WebFetch `https://jamesg.blog/hf-papers.xml` | — | AK 在 HuggingFace 策展的每日论文 |
+| arXiv cs.AI+CL+LG 合并 | WebFetch `https://rss.arxiv.org/rss/cs.AI+cs.CL+cs.LG` | — | 三类合并 feed（量大，作为 arXiv 搜索的替代方案）|
 
 ### 中文资讯（低优先级）
 
