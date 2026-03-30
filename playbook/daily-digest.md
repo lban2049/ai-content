@@ -51,10 +51,12 @@
 
 1. 运行 `opencli list -f json` 确认 opencli 已安装且可用
 2. 运行 `opencli doctor` 检查 Browser Bridge 连通性
-   - 如果 Bridge 不可用 → 标记所有浏览器模式源为"跳过"，仅执行公开 API 源
+   - **不要只依赖 doctor 结果做最终判断**：某些环境下 doctor 可能报 Extension 未连接，但浏览器模式命令仍然可以正常返回数据
+   - 建议额外做 1~2 个浏览器源抽样探测（如 `opencli reddit subreddit MachineLearning --limit 1 -f json`、`opencli twitter search "from:karpathy" --limit 1 -f json`）
+   - 如果 doctor 失败且抽样命令也失败 → 标记所有浏览器模式源为"跳过"，仅执行公开 API 源
    - **CDP 降级**：对于关键的浏览器模式源（Reddit、Twitter），可通过 web-access skill 使用 CDP 协议直接操作 Chrome 浏览器采集，不依赖 opencli Browser Bridge
 3. 对照数据源清单中的命令，确认子命令存在（`opencli <site> --help`）
-   - 如果某命令不存在（opencli 版本差异）→ 跳过该源，尝试备选命令或 WebSearch
+   - 如果某命令不存在（opencli 版本差异）→ 优先尝试本地插件兼容命令、官方替代命令或 WebFetch / WebSearch
 
 ### Step 1: 数据采集
 
@@ -189,9 +191,9 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、r/ChatGPTCo
 
 | 数据源 | 采集命令 | 模式 | 筛选规则 |
 |--------|---------|------|---------|
-| GitHub Trending | 插件 `opencli-plugin-github-trending` 或 WebFetch `https://github.com/trending` | 公开 | AI 相关（见筛选标准） |
+| GitHub Trending | `opencli github trending -f json`（兼容命令，底层可由本地插件提供）或 WebFetch `https://github.com/trending` | 浏览器 | AI 相关（见筛选标准） |
 | HuggingFace Top Papers | `opencli hf top -f json` | 公开 | 全部保留 |
-| Product Hunt | `opencli producthunt leaderboard -f json` | 公开 | AI 相关 |
+| Product Hunt | `opencli producthunt leaderboard -f json`（兼容命令，当前环境默认映射到 `today` feed） | 公开 | AI 相关 |
 
 ### 学术论文（低优先级，备选）
 
@@ -374,8 +376,8 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、r/ChatGPTCo
 
 在任意支持定时触发的 Agent 平台（OpenClaw、Claude Code Schedule 等）中配置：
 
-- **触发时间建议**：每天北京时间 08:00（UTC 00:00），确保前一天的内容已充分发布
-- **Cron 表达式**：`0 0 * * *`
+- **触发时间建议**：每天北京时间 07:00（UTC 23:00，前一日），确保前一天的内容已充分发布
+- **Cron 表达式**：`0 23 * * *`
 - **Git 源**：本仓库的 GitHub URL
 - **Agent prompt**：`请按照 playbook/daily-digest.md 执行今日的信息简报采集，日期为 {today}`
 - **所需能力**：文件读写、Bash 执行（运行 opencli）、WebSearch、WebFetch、Git 操作
