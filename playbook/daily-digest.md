@@ -52,6 +52,7 @@
 1. 运行 `opencli list -f json` 确认 opencli 已安装且可用
 2. 运行 `opencli doctor` 检查 Browser Bridge 连通性
    - 如果 Bridge 不可用 → 标记所有浏览器模式源为"跳过"，仅执行公开 API 源
+   - **CDP 降级**：对于关键的浏览器模式源（Reddit、Twitter），可通过 web-access skill 使用 CDP 协议直接操作 Chrome 浏览器采集，不依赖 opencli Browser Bridge
 3. 对照数据源清单中的命令，确认子命令存在（`opencli <site> --help`）
    - 如果某命令不存在（opencli 版本差异）→ 跳过该源，尝试备选命令或 WebSearch
 
@@ -67,6 +68,7 @@
 - 在最终简报的"采集状态"中注明每个源的结果
 - **高优先级源**全部失败 → 放弃本次执行，不生成空简报
   - 高优先级源清单：HackerNews Top、HackerNews Show、Lobsters、GitHub Trending、HuggingFace Top Papers
+- **建议采集顺序**：先并行执行所有公开 API 源，再并行执行浏览器模式源。避免浏览器源超时阻塞整体进度
 
 ### Step 2: 合并去重
 
@@ -129,6 +131,8 @@
 
 从所有条目中取 **top 5** 作为精选 Highlights（跨分类），这 5 条不在分类中重复出现。
 
+**多样性约束**：精选 5 条必须来自 **至少 3 个不同数据源类型**（如 HackerNews、GitHub、Reddit、Twitter 各算一类）。如果 top 5 按纯分数排列后不满足此条件，将分数最低的同源条目替换为下一个不同源的最高分条目。
+
 输出文件：`digests/YYYY-MM-DD.md`
 
 格式模板见下方"输出格式"。
@@ -181,15 +185,17 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 | HuggingFace Top Papers | `opencli hf top -f json` | 公开 | 全部保留 |
 | Product Hunt | `opencli producthunt leaderboard -f json` | 公开 | AI 相关 |
 
-### 学术论文（中优先级）
+### 学术论文（低优先级，备选）
 
-> 注意：arXiv API 有频率限制，多次搜索之间间隔 3 秒以避免 429 错误。如遇 429，等待 30 秒后重试一次。
+> **实测经验**：arXiv API 频繁 429 限流（即使间隔 30 秒重试也经常失败），且 HuggingFace Top Papers 已覆盖当日高影响力论文并附带社区投票信号。arXiv 搜索作为补充，仅在 HuggingFace 结果不足 5 条时启用。
 
 | 数据源 | 采集命令 | 模式 | 筛选规则 |
 |--------|---------|------|---------|
 | arXiv AI | `opencli arxiv search "artificial intelligence" --limit 10 -f json` | 公开 | 全部保留 |
 | arXiv LLM | `opencli arxiv search "large language model" --limit 10 -f json` | 公开 | 全部保留 |
 | arXiv Agent | `opencli arxiv search "AI agent" --limit 10 -f json` | 公开 | 全部保留 |
+
+> 如需启用：多次搜索之间间隔 **10 秒**（3 秒不够）。如遇 429，等待 **60 秒**后重试一次，仍失败则放弃。
 
 ### X/Twitter 关注用户（中优先级）
 
@@ -202,6 +208,7 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 | @swyx | `opencli twitter search "from:swyx" --limit 5 -f json` | AI 工程实践 |
 
 > 注意：Twitter 命令为浏览器模式，需要 Chrome 已登录 Twitter/X。
+> **实测经验**：`opencli twitter search` 返回结果不按时间排序且可能包含数周前的推文。采集后必须按 `created_at` 字段过滤 48 小时窗口，不能依赖结果顺序判断时效。
 
 ### Newsletter / 博客（中优先级）
 
