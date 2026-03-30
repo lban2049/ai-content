@@ -26,7 +26,7 @@
 
 **诊断**：`opencli doctor` 检查扩展和 daemon 连通性
 
-**输出格式**：所有命令支持 `--format json`（推荐，便于解析）、`table`、`yaml`、`md`、`csv`
+**输出格式**：所有命令支持 `-f json`（`--format json` 的缩写，推荐用于采集）、`table`（默认）、`yaml`、`md`、`csv`
 
 **退出码**（用于判断采集结果）：
 - `0` — 成功
@@ -42,12 +42,22 @@
 ## 执行流程
 
 ```
-采集（各数据源并行）→ 合并去重 → 评分筛选 → 分类整理 → 生成简报 → 提交仓库
+环境检查 → 采集（各数据源并行）→ 合并去重 → 评分筛选 → 分类整理 → 生成简报 → 提交仓库
 ```
+
+### Step 0: 环境检查
+
+采集前先验证工具可用性：
+
+1. 运行 `opencli list -f json` 确认 opencli 已安装且可用
+2. 运行 `opencli doctor` 检查 Browser Bridge 连通性
+   - 如果 Bridge 不可用 → 标记所有浏览器模式源为"跳过"，仅执行公开 API 源
+3. 对照数据源清单中的命令，确认子命令存在（`opencli <site> --help`）
+   - 如果某命令不存在（opencli 版本差异）→ 跳过该源，尝试备选命令或 WebSearch
 
 ### Step 1: 数据采集
 
-按下方"数据源清单"逐一采集，建议加 `--format json` 获取结构化输出。可将独立的源并行执行。
+按下方"数据源清单"逐一采集，统一使用 `-f json` 获取结构化输出。可将独立的源并行执行。
 
 **降级策略**：
 - 某个源命令退出码非 0 → 根据退出码判断原因，跳过该源，继续其余采集
@@ -55,14 +65,15 @@
   - 退出码 75（超时）→ 重试一次，仍失败则跳过
   - 退出码 66（无数据）→ 正常，视为该源今日无相关内容
 - 在最终简报的"采集状态"中注明每个源的结果
-- 全部高优先级源都失败 → 放弃本次执行，不生成空简报
+- **高优先级源**全部失败 → 放弃本次执行，不生成空简报
+  - 高优先级源清单：HackerNews Top、HackerNews Show、Lobsters、GitHub Trending、HuggingFace Top Papers
 
 ### Step 2: 合并去重
 
-- **时效性过滤**：只保留 48 小时内发布的内容（无法判断发布时间的条目保留）
+- **时效性过滤**：只保留 48 小时内发布的内容。以 UTC 时间为基准，将各源的发布时间统一转换为 UTC 后比较（无法判断发布时间的条目保留）
 - **去重**：
   - 相同 URL → 只保留一条
-  - 标题去除标点和空格后，如果两个标题有 80% 以上的词重叠（按词集合的 Jaccard 相似度），保留热度指标更高的那条
+  - 标题相似度判断：将标题统一转为小写，去除标点，按空格分词（中文标题按字符分割），计算两个词集合的 Jaccard 相似度（交集/并集）。相似度 > 0.8 时视为重复，保留**归一化热度分**（见 Step 3）更高的那条
 
 ### Step 3: 评分筛选
 
@@ -72,16 +83,21 @@
 
 **归一化热度分**（将各平台指标映射到 0-100）：
 
-| 平台 | 原始指标 | 归一化公式 |
-|------|---------|-----------|
-| HackerNews | score | `min(score / 5, 100)` |
-| Reddit | upvotes | `min(upvotes / 10, 100)` |
-| GitHub | stars today | `min(stars * 2, 100)` |
-| arXiv | — (无实时指标) | 固定 40 分 |
-| HuggingFace | — | 固定 50 分 |
-| Twitter | likes + retweets | `min((likes + retweets) / 5, 100)` |
-| Substack/Medium/RSS | — | 固定 30 分 |
-| Product Hunt | upvotes | `min(upvotes / 3, 100)` |
+| 平台 | JSON 字段 | 归一化公式 |
+|------|----------|-----------|
+| HackerNews | `.score` | `min(score / 5, 100)` |
+| Reddit | `.upvotes` | `min(upvotes / 10, 100)` |
+| GitHub | stars today（页面解析） | `min(stars * 2, 100)` |
+| arXiv | 无实时指标 | 固定 40 分 |
+| HuggingFace | `.upvotes` | `min(upvotes / 2, 100)` |
+| Lobsters | `.score` | `min(score / 3, 100)` |
+| Twitter | `.likes` + `.retweets` | `min((likes + retweets) / 5, 100)` |
+| Product Hunt | `.upvotes` | `min(upvotes / 3, 100)` |
+| Google News | 无热度指标 | 固定 30 分 |
+| Substack/Medium/RSS | 无热度指标 | 固定 30 分 |
+| DevTo | `.reactions` | `min(reactions / 5, 100)` |
+
+> 注意：JSON 字段名基于 opencli 当前版本验证。如果实际输出的字段名不同，以 `opencli <site> <cmd> --limit 1 -f json` 的实际输出为准。
 
 **关键词加分**（标题或摘要中命中即加分，多个关键词可叠加，上限 50）：
 
@@ -105,7 +121,7 @@
 | 社区讨论 (Community) | HN/Reddit/X 热门讨论 | 5 |
 | 中文资讯 (Chinese) | 中文 AI 新闻 | 5 |
 
-**总输出上限：40 条**（含 5 条精选）。
+**总输出上限：40 条** = 5 条精选 + 各分类合计最多 35 条。精选从全局 top 5 中选出后，剩余条目再分配到各分类（各分类上限之和为 36，但受 35 条总量约束，先到先得）。
 
 **最少输出**：如果去重筛选后不足 10 条，仍然生成简报，精选取实际条数的前 1/3（至少 1 条）。
 
@@ -119,10 +135,11 @@
 
 ### Step 6: 提交仓库
 
-1. 检查 `digests/YYYY-MM-DD.md` 是否已存在
-   - 已存在 → 重命名新文件为 `digests/YYYY-MM-DD-v2.md`（依次递增）
-   - 不存在 → 正常写入
-2. `git add digests/YYYY-MM-DD.md && git commit -m "Add daily digest for YYYY-MM-DD"`
+1. 确定输出文件名：
+   - 检查 `digests/YYYY-MM-DD.md` 是否已存在
+   - 已存在 → 使用 `digests/YYYY-MM-DD-v2.md`（依次递增 v3, v4...）
+   - 不存在 → 使用 `digests/YYYY-MM-DD.md`
+2. 写入文件后提交：`git add digests/ && git commit -m "Add daily digest for YYYY-MM-DD"`
 3. `git push`
 4. 如果 push 因冲突失败 → `git pull --rebase` 后重试一次，仍失败则放弃并输出错误信息
 
@@ -162,9 +179,11 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 |--------|---------|------|---------|
 | GitHub Trending | 插件 `opencli-plugin-github-trending` 或 WebFetch `https://github.com/trending` | 公开 | AI 相关（见筛选标准） |
 | HuggingFace Top Papers | `opencli hf top -f json` | 公开 | 全部保留 |
-| Product Hunt | `opencli producthunt today -f json` | 公开 | AI 相关 |
+| Product Hunt | `opencli producthunt leaderboard -f json` | 公开 | AI 相关 |
 
 ### 学术论文（中优先级）
+
+> 注意：arXiv API 有频率限制，多次搜索之间间隔 3 秒以避免 429 错误。如遇 429，等待 30 秒后重试一次。
 
 | 数据源 | 采集命令 | 模式 | 筛选规则 |
 |--------|---------|------|---------|
@@ -201,7 +220,6 @@ arXiv cs.AI/CL/LG、HuggingFace、r/MachineLearning、r/LocalLLaMA、关注的 X
 |--------|---------|------|---------|
 | 量子位 | `opencli google news "量子位 AI" -f json` | 公开 | WebSearch `site:qbitai.com AI` |
 | 机器之心 | `opencli google news "机器之心 AI" -f json` | 公开 | WebSearch `site:jiqizhixin.com` |
-| 36氪 AI | `opencli 36kr search "AI" -f json` | 公开 | — |
 
 ### 兜底搜索
 
