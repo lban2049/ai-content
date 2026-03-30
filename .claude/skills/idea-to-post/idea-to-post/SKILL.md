@@ -1,0 +1,141 @@
+---
+name: idea-to-post
+description: |
+  通过对话式讨论，将用户的想法打磨成适合在 X/Twitter 上发布的短帖子。
+  触发场景：(1) 用户想讨论一个想法或观点 (2) 用户想写一条 X/Twitter 帖子
+  (3) 用户说"我有个想法"、"帮我写条推"、"讨论一下"、"idea"、"post" 等
+  (4) 用户想把某个观察或感受整理成社交媒体内容
+  具备风格自学习能力：每次定稿后分析用户的修改偏好，逐步逼近用户风格。
+---
+
+# Idea to Post
+
+将想法通过对话打磨成 X/Twitter 帖子，并持续学习用户风格。
+
+## 工作流程
+
+### Phase 1: 对话探索
+
+1. 读取 `references/style-profile.md` 中的累积风格画像
+2. 用户提出想法后，通过追问深化：
+   - 这个想法的核心洞察是什么？（帮用户提炼，不是让用户回答问题）
+   - 有没有具体的例子或亲身经历支撑？
+   - 目标读者看完应该有什么反应？
+3. 每轮对话主动给出补充、挑战或更好的表达角度，而非只是提问
+4. 当想法足够清晰时，主动提议进入初稿阶段
+
+### Phase 2: 生成初稿
+
+根据对话内容和风格画像，生成 1-2 个版本的帖子草稿。
+
+帖子格式参考 `playbook/platforms.md` 中 X 平台规则：
+- 单条推文（≤280 字符）或 thread
+- 内容类型：即时感受、工具速评、实践碎片、观点回应
+
+生成时应用累积风格画像中的所有已知偏好。
+
+生成初稿后，必须执行一次去 AI 味优化（见下方"去 AI 味检查清单"），再交给用户审阅。
+
+### Phase 3: 用户调整
+
+用户对草稿提出修改意见，反复迭代直到用户说"定了"、"就这样"、"发吧"等确认词。
+
+记录每一轮用户的修改内容（原文 vs 用户修改后），供 Phase 4 分析。
+
+### Phase 4: 定稿与学习
+
+用户确认定稿后，执行以下步骤：
+
+#### 4a. 保存帖子
+
+将帖子保存到 `posts/` 目录：
+- 文件名：`posts/YYYY-MM-DD-<slug>.md`（slug 从内容自动生成，英文短横线连接）
+- 文件格式：
+
+```markdown
+---
+date: YYYY-MM-DD
+status: final
+topic: 一句话主题
+tags: [相关标签]
+---
+
+帖子正文内容
+```
+
+- 同步更新 `posts/index.md`，在表格中追加一行
+
+若 `posts/` 目录或 `posts/index.md` 不存在，自动创建：
+
+`posts/index.md` 格式：
+```markdown
+# Posts Index
+
+X/Twitter 帖子汇总。碎片积累，可整合为公众号长文。
+
+| Date | Topic | Tags | File | Status |
+| --- | --- | --- | --- | --- |
+```
+
+#### 4b. 风格学习
+
+对比初稿和最终版，分析用户做了哪些调整，提炼风格信号。
+将分析结果追加到 `references/style-profile.md` 的"风格演化记录"部分。
+
+当演化记录积累 3 条以上时，更新"累积风格画像"部分，合并提炼出稳定的风格规律。
+
+风格分析维度：
+- **语气**：正式/口语化、断言/留有余地、幽默/严肃
+- **结构**：开头方式、是否用对比、结尾习惯
+- **用词**：偏好的词汇、回避的表达、中英文混用程度
+- **长度**：偏好精简还是展开
+- **标点与格式**：emoji 使用、换行习惯、标点风格
+
+如果用户未做任何修改直接定稿，记录为"无调整——当前风格匹配良好"。
+
+## 去 AI 味检查清单
+
+初稿生成后、交给用户前，逐项检查并修正：
+
+### 必须消灭的 AI 痕迹
+
+**空洞词汇** — 删除或替换：Additionally, crucial, delve, enhance, foster, garner, highlight, landscape（抽象用法）, pivotal, showcase, tapestry, testament, underscore, vibrant, groundbreaking, nestled, renowned, profound
+
+**注水句式** — 直接砍掉：
+- 意义膨胀："stands as a testament to", "marking a pivotal moment", "reflects broader trends"
+- -ing 尾巴："highlighting the importance of...", "underscoring...", "showcasing..."
+- 否定对仗："It's not just X; it's Y", "Not only... but also..."
+- 三连装："innovation, inspiration, and industry insights" — 有一个观点就说一个
+- 虚假归因："Experts argue", "Industry observers note" — 要么给具体来源，要么别装
+- 废话开头："In order to", "It is important to note that", "At this point in time"
+- 过度对冲："could potentially possibly be argued that... might have some"
+
+**格式陷阱**：
+- 不要用 emoji 装饰标题或列表
+- 不要机械加粗关键词
+- 不要用花引号 "" — 用直引号 ""
+- 破折号 — 每条帖子最多用一次
+
+### 必须注入的人味
+
+**有观点** — 不要中立报道，要有态度。"我觉得这事有点离谱"比"这引发了广泛讨论"好一百倍。
+
+**有节奏** — 长短句交替。短句冲击。长句铺陈。别每句都一样长。
+
+**有体感** — 写具体感受，不写抽象评价。不说"这很有价值"，说"用完之后我把原来的工作流全删了"。
+
+**有人称** — 该说"我"就说"我"。"我试了两天发现..."比"经过测试发现..."真实得多。
+
+**允许不完美** — 半成品想法、跑题的类比、没想清楚的地方，都比打磨得滴水不漏的 AI 腔更像人。
+
+### 最终自检
+
+写完后问自己：**"这读起来像一个真实的人随手发的，还是像 AI 生成的？"**
+如果还有 AI 感，找出具体哪句有问题，改掉，而不是整体重写。
+
+## 关键原则
+
+- 做想法的共创者，不是被动的文字工具
+- 追问要有价值，不要为了流程而追问
+- 宁可少问一轮多给一个好的角度，也不要变成审讯
+- 风格学习是渐进的，前几次多观察，不要过早固化

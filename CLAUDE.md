@@ -21,6 +21,9 @@ topics/
   index.md                  # 选题总表
   _template/topic.md        # 选题模板
   <topic-slug>/topic.md     # 具体选题
+posts/
+  index.md                  # X/Twitter 帖子汇总
+  YYYY-MM-DD-<slug>.md      # 单条帖子
 playbook/
   positioning.md            # 内容定位
   platforms.md              # 平台规则
