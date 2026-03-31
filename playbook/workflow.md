@@ -4,8 +4,9 @@
 
 ### 信息输入（15 min）
 - 查看 `digests/` 中当天的自动简报（执行手册见 `playbook/daily-digest.md`）
+- 查看 `selected-posts/` 中当天筛出的帖子（执行手册见 `playbook/x-following-filter.md`）
 - 只看 AI 筛选后的摘要，标记值得关注的
-- 有价值的素材追加到 `inbox/index.md`
+- 只有补过自己的实践验证后，才把素材追加到 `inbox/index.md`
 
 ### X 输出（10 min）
 - 基于当天使用体感或标记内容，发 1-3 条

@@ -1,0 +1,11 @@
+请按 `playbook/x-following-filter.md` 执行一次 X Following Filter。
+
+要求：
+
+- 只执行一轮，不进入循环
+- 严格按手册运行
+- 只对 X 平台只读，不做任何互动操作
+- 允许写本地文件：`.runtime/` 和 `selected-posts/`
+- 如果环境检查失败，只记录状态，不要强行继续
+- 如果本轮没有符合条件的帖子，也要正常更新状态并结束
+- 最终输出简短说明：本轮是否执行成功、是否有新帖子进入 `selected-posts/`
