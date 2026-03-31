@@ -24,15 +24,22 @@ const selectedPostsPromptFile = path.join(
   "prompts",
   "x-following-selected-posts.txt",
 );
-const codexBin = "/Users/lban/.nvm/versions/node/v22.14.0/bin/codex";
-const opencliBin = "/Users/lban/.nvm/versions/node/v22.14.0/bin/opencli";
+const nodeBin = "/Users/lban/.nvm/versions/node/v22.14.0/bin/node";
+const codexEntry =
+  "/Users/lban/.nvm/versions/node/v22.14.0/lib/node_modules/@openai/codex/bin/codex.js";
+const claudeBin = "/Users/lban/.local/bin/claude";
+const opencliEntry =
+  "/Users/lban/.nvm/versions/node/v22.14.0/lib/node_modules/@jackwener/opencli/dist/main.js";
 const timezone = "Asia/Shanghai";
-const codexTimeoutMs = 3 * 60 * 1000;
+const codexTimeoutMs = 8 * 60 * 1000;
+const claudeTimeoutMs = 8 * 60 * 1000;
 const opencliTimeoutMs = 60 * 1000;
+const bridgeMissingRetryMinutes = 60;
 
 const args = new Set(process.argv.slice(2));
 const force = args.has("--force");
 const dryRun = args.has("--dry-run");
+const backend = args.has("--claude") ? "claude" : "codex";
 
 const ACTIVE_WINDOW = {
   startMinutes: 8 * 60 + 30,
@@ -92,6 +99,35 @@ function computeNextDelayMinutes(now = new Date()) {
   }
 
   return randomInt(QUIET_WINDOW.minDelayMinutes, QUIET_WINDOW.maxDelayMinutes);
+}
+
+function detectOpencliCaptureFailure(capture) {
+  const parts = [
+    capture?.result?.stdout ?? "",
+    capture?.result?.stderr ?? "",
+    capture?.parseError ?? "",
+  ]
+    .join("\n")
+    .toLowerCase();
+
+  if (
+    parts.includes("browser bridge not connected") ||
+    parts.includes("extension is not connected") ||
+    parts.includes("extension ✗ not connected") ||
+    parts.includes("please install and enable the opencli browser bridge extension")
+  ) {
+    return {
+      status: "failed_bridge_disconnected",
+      retryMinutes: bridgeMissingRetryMinutes,
+      message: "opencli browser bridge not connected",
+    };
+  }
+
+  return {
+    status: "failed_capture",
+    retryMinutes: computeNextDelayMinutes(new Date()),
+    message: "timeline capture failed",
+  };
 }
 
 function readJson(filePath, fallback) {
@@ -179,8 +215,8 @@ function rawCapturePath(date = new Date()) {
 
 function captureTimeline() {
   const result = spawnSync(
-    opencliBin,
-    ["twitter", "timeline", "--type", "following", "--limit", "40", "-f", "json"],
+    nodeBin,
+    [opencliEntry, "twitter", "timeline", "--type", "following", "--limit", "40", "-f", "json"],
     {
       cwd: repoRoot,
       encoding: "utf8",
@@ -236,8 +272,8 @@ function dueRechecks(now = new Date()) {
 
 function captureThread(tweetId) {
   return spawnSync(
-    opencliBin,
-    ["twitter", "thread", String(tweetId), "-f", "json"],
+    nodeBin,
+    [opencliEntry, "twitter", "thread", String(tweetId), "-f", "json"],
     {
       cwd: repoRoot,
       encoding: "utf8",
@@ -287,8 +323,9 @@ function captureDueRechecks(entries) {
 
 function runCodexPrompt(prompt) {
   return spawnSync(
-    codexBin,
+    nodeBin,
     [
+      codexEntry,
       "exec",
       "-C",
       repoRoot,
@@ -305,9 +342,33 @@ function runCodexPrompt(prompt) {
   );
 }
 
+function runClaudePrompt(prompt) {
+  return spawnSync(
+    claudeBin,
+    [
+      "-p",
+      "--dangerously-skip-permissions",
+      "--no-chrome",
+      "--allowedTools",
+      "Read,Write,Edit,Glob,Grep,Bash",
+    ],
+    {
+      input: prompt,
+      cwd: repoRoot,
+      encoding: "utf8",
+      maxBuffer: 10 * 1024 * 1024,
+      timeout: claudeTimeoutMs,
+    },
+  );
+}
+
+function runPrompt(prompt) {
+  return backend === "claude" ? runClaudePrompt(prompt) : runCodexPrompt(prompt);
+}
+
 function runCodexOnce(captureFilePath) {
   const prompt = `${loadPrompt()}\n\n本轮原始抓取文件：\`${captureFilePath}\`\n\n要求补充：\n- 直接读取这份原始 JSON，作为本轮唯一 timeline 输入源\n- 本轮不要再调用 opencli 获取 timeline\n- 本轮不要处理 recheck 队列\n- 如果这份 JSON 为空数组，按“本轮无新内容”处理并正常结束`;
-  return runCodexPrompt(prompt);
+  return runPrompt(prompt);
 }
 
 function evaluateDueRechecks(recheckManifestPath) {
@@ -404,7 +465,7 @@ function runSelectedPostsCodex(readyPath) {
   }
 
   const prompt = `${loadSelectedPostsPrompt()}\n\n本轮通过第二轮过滤的帖子文件：\`${readyPath}\`\n\n要求补充：\n- 直接读取这份 JSON\n- 不要调用 opencli\n- 将通过项追加写入 \`selected-posts/YYYY-MM-DD.md\`\n- 必须包含：链接、原文、英文帖子的中文翻译、AI 总结、人工复核`;
-  return runCodexPrompt(prompt);
+  return runPrompt(prompt);
 }
 
 ensureDir(stateDir);
@@ -468,29 +529,33 @@ if (dryRun) {
   process.exit(0);
 }
 
-appendLog("run: invoking codex exec");
+appendLog(`run: backend=${backend}`);
 appendLog("run: capturing timeline via opencli");
 const capture = captureTimeline();
 
 if (!capture.ok) {
-  const delay = computeNextDelayMinutes(new Date());
-  const nextRunAt = isoAfterMinutes(new Date(), delay);
+  const failure = detectOpencliCaptureFailure(capture);
+  const nextRunAt = isoAfterMinutes(new Date(), failure.retryMinutes);
   const nextState = {
     ...state,
     last_run_at: now.toISOString(),
     next_run_at: nextRunAt,
-    last_status: "failed_capture",
+    last_status: failure.status,
     consecutive_failures: (state.consecutive_failures ?? 0) + 1,
   };
 
   writeJson(stateFile, nextState);
+  appendLog(`capture failure classified as ${failure.status}`);
   if (capture.result?.stderr) {
     appendLog(`opencli stderr: ${capture.result.stderr.trim().slice(0, 500)}`);
+  }
+  if (capture.result?.stdout) {
+    appendLog(`opencli stdout: ${capture.result.stdout.trim().slice(0, 500)}`);
   }
   if (capture.parseError) {
     appendLog(`opencli parse error: ${capture.parseError}`);
   }
-  process.stderr.write("timeline capture failed\n");
+  process.stderr.write(`${failure.message}\n`);
   process.exit(1);
 }
 
@@ -499,40 +564,47 @@ const recheckManifestPath = captureDueRechecks(dueRechecks());
 if (recheckManifestPath) {
   appendLog(`run: due rechecks captured to ${recheckManifestPath}`);
 }
-appendLog("run: invoking codex exec");
+appendLog(`run: invoking ${backend} for filtering`);
 const result = runCodexOnce(capture.filePath);
 const delay = computeNextDelayMinutes(new Date());
 const nextRunAt = isoAfterMinutes(new Date(), delay);
+const codexFailed = commandFailed(result);
 
 const nextState = {
   ...state,
   last_run_at: now.toISOString(),
   next_run_at: nextRunAt,
-  last_status: result.status === 0 ? "success" : "failed",
-  consecutive_failures: result.status === 0 ? 0 : (state.consecutive_failures ?? 0) + 1,
+  last_status:
+    result.error?.code === "ETIMEDOUT"
+      ? `failed_${backend}_timeout`
+      : codexFailed
+        ? "failed"
+        : "success",
+  last_backend: backend,
+  consecutive_failures: codexFailed ? (state.consecutive_failures ?? 0) + 1 : 0,
 };
 
 writeJson(stateFile, nextState);
 
 if (result.stdout) {
-  appendLog(`codex stdout: ${result.stdout.trim().slice(0, 500)}`);
+  appendLog(`${backend} stdout: ${result.stdout.trim().slice(0, 500)}`);
 }
 
 if (result.stderr) {
-  appendLog(`codex stderr: ${result.stderr.trim().slice(0, 500)}`);
+  appendLog(`${backend} stderr: ${result.stderr.trim().slice(0, 500)}`);
 }
 
 if (result.error) {
-  appendLog(`codex spawn error: ${result.error.message}`);
+  appendLog(`${backend} spawn error: ${result.error.message}`);
 }
 
 if (result.signal) {
-  appendLog(`codex terminated by signal: ${result.signal}`);
+  appendLog(`${backend} terminated by signal: ${result.signal}`);
 }
 
-if (commandFailed(result)) {
+if (codexFailed) {
   appendLog(`run failed: exit_code=${result.status}, next_run_at=${nextRunAt}`);
-  process.stderr.write(result.stderr || `codex exec failed with code ${result.status}\n`);
+  process.stderr.write(result.stderr || `${backend} exec failed with code ${result.status}\n`);
   process.exit(result.status ?? 1);
 }
 
