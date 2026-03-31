@@ -1,8 +1,9 @@
 ---
 date: 2026-03-31
-status: final
+status: published
 topic: Agent 获取数据的最优解不是 RSS，是分层策略
 tags: [AI Agent, RSS, 数据获取, 浏览器自动化, 实践验证]
+url: https://x.com/LBan2049/status/2038784261390823856
 ---
 
 想让 AI Agent 自己去获取信息，最好的方式是什么？

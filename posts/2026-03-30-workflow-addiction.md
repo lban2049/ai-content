@@ -1,8 +1,9 @@
 ---
 date: 2026-03-30
-status: draft
+status: published
 topic: AI 工作流成瘾：搭建的爽感替代了思考
 tags: [AI工作流, 需求倒置, 实践反思]
+url: https://x.com/LBan2049/status/2038614748892451323
 ---
 
 你用 AI 搭的工作流，最后真的用起来了吗？
