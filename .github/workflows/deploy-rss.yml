@@ -1,0 +1,17 @@
+name: Deploy RSS to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+    paths: [rss/**]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          command: pages deploy rss --project-name ai-content-rss --branch main --commit-dirty=true
