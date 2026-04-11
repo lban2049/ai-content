@@ -5,8 +5,122 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Apr 2026 18:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 19:01:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tried migrating from OpenClaw to Hermes and it didn't go well? That's been fixed!
+
+OpenClaw's config...</title>
+      <link>https://x.com/NousResearch/status/2043041349608309007</link>
+      <guid isPermaLink="false">2043041349608309007</guid>
+      <pubDate>Sat, 11 Apr 2026 18:59:50 +0000</pubDate>
+      <description><![CDATA[Tried migrating from OpenClaw to Hermes and it didn't go well? That's been fixed!
+
+OpenClaw's config format changed a lot and our migration tool fell behind on path references, so some users had better luck with fresh installs.
+
+This is now patched - try 'hermes claw migrate'.
+
+---
+@NousResearch | ❤️ 6 | 🔁 0 | 💬 0 | 👁 163]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>RT @tszzl: @CantEverDie you’re a constant disgusting liar and you should feel much worse about yours...</title>
+      <link>https://x.com/elonmusk/status/2043041347918270633</link>
+      <guid isPermaLink="false">2043041347918270633</guid>
+      <pubDate>Sat, 11 Apr 2026 18:59:49 +0000</pubDate>
+      <description><![CDATA[RT @tszzl: @CantEverDie you’re a constant disgusting liar and you should feel much worse about yourself https://t.co/hsA32JgkOE
+
+---
+@elonmusk | ❤️ 0 | 🔁 38 | 💬 0 | 👁 18]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @leftcurvedev_: How to Run Hermes Agent with MiMo V2 Pro completely FREE for the next 10 days, wi...</title>
+      <link>https://x.com/Teknium/status/2043038859915825577</link>
+      <guid isPermaLink="false">2043038859915825577</guid>
+      <pubDate>Sat, 11 Apr 2026 18:49:56 +0000</pubDate>
+      <description><![CDATA[RT @leftcurvedev_: How to Run Hermes Agent with MiMo V2 Pro completely FREE for the next 10 days, without risking your main setup ⚡️
+
+Zero…
+
+---
+@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @KanikaBK: 🚨 JUST IN: SOMEONE JUST WROTE A WHOLE THE HERMES AGENT MANUAL Nous Research never gave...</title>
+      <link>https://x.com/Teknium/status/2043037571325055245</link>
+      <guid isPermaLink="false">2043037571325055245</guid>
+      <pubDate>Sat, 11 Apr 2026 18:44:49 +0000</pubDate>
+      <description><![CDATA[RT @KanikaBK: 🚨 JUST IN: SOMEONE JUST WROTE A WHOLE THE HERMES AGENT MANUAL Nous Research never gave you. 100% FREE.
+
+No experience needed…
+
+---
+@Teknium | ❤️ 0 | 🔁 36 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Welcome to Hermes Agent Gang</title>
+      <link>https://x.com/Teknium/status/2043037373718761856</link>
+      <guid isPermaLink="false">2043037373718761856</guid>
+      <pubDate>Sat, 11 Apr 2026 18:44:02 +0000</pubDate>
+      <description><![CDATA[Welcome to Hermes Agent Gang
+
+---
+@Teknium | ❤️ 17 | 🔁 0 | 💬 1 | 👁 899]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @fancylancer3991: Only 4 spots left for the upcoming IRL event of Hermes agent by @NousResearch i...</title>
+      <link>https://x.com/Teknium/status/2043037300104552535</link>
+      <guid isPermaLink="false">2043037300104552535</guid>
+      <pubDate>Sat, 11 Apr 2026 18:43:44 +0000</pubDate>
+      <description><![CDATA[RT @fancylancer3991: Only 4 spots left for the upcoming IRL event of Hermes agent by @NousResearch in Munich!
+
+If you are around on the 5th…
+
+---
+@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @MEJ50749: 爱马仕（Hermes）搞定！小龙虾拜拜了！测评下
+（后附热门博主攻略推文，建议收藏）
+
+我被爱马仕的协同合作特点深深打动，看下是哪5层结构让它出圈的：指令层/约束层/反馈层...</title>
+      <link>https://x.com/Teknium/status/2043036950354079978</link>
+      <guid isPermaLink="false">2043036950354079978</guid>
+      <pubDate>Sat, 11 Apr 2026 18:42:21 +0000</pubDate>
+      <description><![CDATA[RT @MEJ50749: 爱马仕（Hermes）搞定！小龙虾拜拜了！测评下
+（后附热门博主攻略推文，建议收藏）
+
+我被爱马仕的协同合作特点深深打动，看下是哪5层结构让它出圈的：指令层/约束层/反馈层/记忆层/编排层。
+
+这比OpenClaw更“贴心”，我刚刚试了一下午，爱马仕…
+
+---
+@Teknium | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @brad_zhang2024: 🔄 fireworks-tech-graph 大版本更新！
+
+再次感谢神佬 @berryxia 和各位小伙伴的支持，一天时间竟然十多万曝光，今天啥也没干，看了大...</title>
+      <link>https://x.com/dotey/status/2043035490467631477</link>
+      <guid isPermaLink="false">2043035490467631477</guid>
+      <pubDate>Sat, 11 Apr 2026 18:36:33 +0000</pubDate>
+      <description><![CDATA[RT @brad_zhang2024: 🔄 fireworks-tech-graph 大版本更新！
+
+再次感谢神佬 @berryxia 和各位小伙伴的支持，一天时间竟然十多万曝光，今天啥也没干，看了大家的反馈，进行了大幅升级更新。
+
+根据推友的反馈，后续会考虑对 codex,w…
+
+---
+@dotey | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@dotey</author>
+    </item>
     <item>
       <title>True</title>
       <link>https://x.com/elonmusk/status/2043029143709978971</link>
@@ -15,7 +129,7 @@
       <description><![CDATA[True
 
 ---
-@elonmusk | ❤️ 11215 | 🔁 1372 | 💬 1031 | 👁 748603]]></description>
+@elonmusk | ❤️ 25895 | 🔁 2843 | 💬 1767 | 👁 2294928]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -26,7 +140,7 @@
       <description><![CDATA[RT @Nero: He might be the only true centrist. He hits the common sense middle squarely and on just about everything.
 
 ---
-@elonmusk | ❤️ 0 | 🔁 156 | 💬 0 | 👁 47]]></description>
+@elonmusk | ❤️ 0 | 🔁 228 | 💬 0 | 👁 100]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -39,7 +153,7 @@
 81% score. Outrankin…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 105 | 💬 0 | 👁 19]]></description>
+@elonmusk | ❤️ 0 | 🔁 164 | 💬 0 | 👁 40]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -50,7 +164,7 @@
       <description><![CDATA[“eNoUGh FoR tHiS WeEk…” https://t.co/GSaoObKTnz
 
 ---
-@binance | ❤️ 200 | 🔁 12 | 💬 87 | 👁 17524]]></description>
+@binance | ❤️ 293 | 🔁 20 | 💬 116 | 👁 26796]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -63,7 +177,7 @@
 https://t.co/GKdmntLvXz
 
 ---
-@CoinMarketCap | ❤️ 33 | 🔁 5 | 💬 23 | 👁 7967]]></description>
+@CoinMarketCap | ❤️ 37 | 🔁 5 | 💬 23 | 👁 9314]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -78,7 +192,7 @@ https://t.co/GKdmntLvXz
 • Starlink mission launched from California - 25 more satellites successfull…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 358 | 💬 0 | 👁 59]]></description>
+@elonmusk | ❤️ 0 | 🔁 408 | 💬 0 | 👁 72]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -119,7 +233,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
       <description><![CDATA[Welcome to the Hermes Crew!
 
 ---
-@Teknium | ❤️ 37 | 🔁 1 | 💬 4 | 👁 1907]]></description>
+@Teknium | ❤️ 41 | 🔁 1 | 💬 4 | 👁 2236]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -141,7 +255,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
       <description><![CDATA[RT @somewheresy: Hermes Agent is good. What makes it impressive is how performant it is with even small or locally hosted models. This used…
 
 ---
-@NousResearch | ❤️ 0 | 🔁 2 | 💬 0 | 👁 3]]></description>
+@NousResearch | ❤️ 0 | 🔁 3 | 💬 0 | 👁 4]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -178,7 +292,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
 2022:…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 2448 | 💬 0 | 👁 149]]></description>
+@elonmusk | ❤️ 0 | 🔁 2614 | 💬 0 | 👁 166]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -189,7 +303,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
       <description><![CDATA[#ICYMI: Over 11,000 pounds of new science and supplies are on its way to the International Space Station after @NorthropGrumman's Cygnus XL cargo spacecraft launched atop a @SpaceX Falcon 9 rocket from Cape Canaveral Space Force Station in Florida on Saturday, April 11, 2026. https://t.co/6CdnG2DyyF
 
 ---
-@Space_Station | ❤️ 369 | 🔁 59 | 💬 14 | 👁 30996]]></description>
+@Space_Station | ❤️ 382 | 🔁 58 | 💬 14 | 👁 32653]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -200,7 +314,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
       <description><![CDATA[刚才和国内做房地产的朋友聊天，我感觉到他们似乎还停留在使用 AI 的最初级阶段，human in the loop 暂停点非常多，员工也很难使用 AI 工具交付足够好的东西出来，甚至不知道什么是 harness，这让我想到 harness 除了通用领域，wanman 其实可以深入垂直领域做更专业化的方案。
 
 ---
-@turingou | ❤️ 118 | 🔁 4 | 💬 5 | 👁 16334]]></description>
+@turingou | ❤️ 123 | 🔁 5 | 💬 5 | 👁 17505]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -211,7 +325,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
       <description><![CDATA[https://t.co/WXHSQAHXOU
 
 ---
-@NousResearch | ❤️ 675 | 🔁 40 | 💬 26 | 👁 15059]]></description>
+@NousResearch | ❤️ 718 | 🔁 43 | 💬 27 | 👁 16100]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -222,7 +336,7 @@ Inspired by the creativity of Hermes, I made a skill for something…
       <description><![CDATA[家人海边散步随手拍，很喜欢这张照片的光线 https://t.co/UJxgJNKiO7
 
 ---
-@bearliu | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1060]]></description>
+@bearliu | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1085]]></description>
       <author>@bearliu</author>
     </item>
     <item>
@@ -239,7 +353,7 @@ But the best one? It's the one that matches your trading style.
 Explore options 👉 https://t.co/YDo2jquLab https://t.co/KtNZOVFb3I
 
 ---
-@binance | ❤️ 264 | 🔁 57 | 💬 56 | 👁 36714]]></description>
+@binance | ❤️ 276 | 🔁 59 | 💬 56 | 👁 38072]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -250,7 +364,7 @@ Explore options 👉 https://t.co/YDo2jquLab https://t.co/KtNZOVFb3I
       <description><![CDATA[LATEST: ⚡ Benchmark says Securitize capturing just one basis point of NYSE's $44 trillion market cap would more than double its current $4 billion asset base, reiterating a $16 price target for SECZ. https://t.co/QISwce6Phr
 
 ---
-@CoinMarketCap | ❤️ 115 | 🔁 18 | 💬 26 | 👁 15038]]></description>
+@CoinMarketCap | ❤️ 124 | 🔁 19 | 💬 27 | 👁 15661]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -261,7 +375,7 @@ Explore options 👉 https://t.co/YDo2jquLab https://t.co/KtNZOVFb3I
       <description><![CDATA[前几天在上海和啵啵去听了 Frank Bretschneider 的 live，现场 edm 的可视化让我想到了我前段时间在 vibelab 上直播用 codex 做简单音乐并且创建对应的可视化界面这个事情，其实可以单独做一个产品给到 live 现场，正好啵啵有在东京运营 live 现场的朋友，也许是个很好的机会把手头的 vibe 产品切入艺术领域。
 
 ---
-@turingou | ❤️ 12 | 🔁 0 | 💬 0 | 👁 6498]]></description>
+@turingou | ❤️ 12 | 🔁 0 | 💬 0 | 👁 6663]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -272,7 +386,7 @@ Explore options 👉 https://t.co/YDo2jquLab https://t.co/KtNZOVFb3I
       <description><![CDATA[感觉都不是很有想象力。。。
 
 ---
-@turingou | ❤️ 33 | 🔁 0 | 💬 3 | 👁 12382]]></description>
+@turingou | ❤️ 33 | 🔁 0 | 💬 3 | 👁 12858]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -285,7 +399,7 @@ Explore options 👉 https://t.co/YDo2jquLab https://t.co/KtNZOVFb3I
 He’s now r…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 32431 | 💬 0 | 👁 210]]></description>
+@elonmusk | ❤️ 0 | 🔁 32694 | 💬 0 | 👁 221]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -300,7 +414,7 @@ Farmers are being dragged out of their tractors and assaulted by ...</title>
 Farmers are being dragged out of their tractors and assaulted by gardaí at the Whitegate oil refinery ri…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 8989 | 💬 0 | 👁 287]]></description>
+@elonmusk | ❤️ 0 | 🔁 9175 | 💬 0 | 👁 297]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -311,7 +425,7 @@ Farmers are being dragged out of their tractors and assaulted by gardaí at the 
       <description><![CDATA[Grok saved the cat
 
 ---
-@elonmusk | ❤️ 33530 | 🔁 3826 | 💬 2486 | 👁 5864676]]></description>
+@elonmusk | ❤️ 35189 | 🔁 4016 | 💬 2544 | 👁 6217292]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -322,7 +436,7 @@ Farmers are being dragged out of their tractors and assaulted by gardaí at the 
       <description><![CDATA[今天白天几乎下了一天的雨，但天还算明亮。于是下午托着女儿在阳台练习抬头，让她看看绿植、听听雨声和鸟叫。她则继续摇头晃脑，感受着这个新鲜的世界。 https://t.co/UV1hK3xjNh
 
 ---
-@tualatrix | ❤️ 27 | 🔁 0 | 💬 2 | 👁 2120]]></description>
+@tualatrix | ❤️ 27 | 🔁 0 | 💬 2 | 👁 2143]]></description>
       <author>@tualatrix</author>
     </item>
     <item>
@@ -333,7 +447,7 @@ Farmers are being dragged out of their tractors and assaulted by gardaí at the 
       <description><![CDATA[Given the extremely high rate of recidivism, this is important for community safety
 
 ---
-@elonmusk | ❤️ 85299 | 🔁 12072 | 💬 4017 | 👁 12877938]]></description>
+@elonmusk | ❤️ 90034 | 🔁 12843 | 💬 4196 | 👁 13792233]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -344,7 +458,7 @@ Farmers are being dragged out of their tractors and assaulted by gardaí at the 
       <description><![CDATA[.@NorthropGrumman's Cygnus XL cargo craft has deployed its two solar arrays powering its flight to the International Space Station where it will arrive at 12:50 pm ET on Monday. https://t.co/VgUlr2mZBz
 
 ---
-@Space_Station | ❤️ 392 | 🔁 59 | 💬 5 | 👁 33222]]></description>
+@Space_Station | ❤️ 404 | 🔁 60 | 💬 5 | 👁 34241]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -355,7 +469,7 @@ Farmers are being dragged out of their tractors and assaulted by gardaí at the 
       <description><![CDATA[Falcon has landed https://t.co/7Lt1sfMs1H
 
 ---
-@elonmusk | ❤️ 175600 | 🔁 11668 | 💬 5861 | 👁 23883083]]></description>
+@elonmusk | ❤️ 184443 | 🔁 12317 | 💬 6076 | 👁 25484291]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -366,7 +480,7 @@ Farmers are being dragged out of their tractors and assaulted by gardaí at the 
       <description><![CDATA[把三个 ChatGPT Plus 账号的 5 小时 Codex 编程额度都干完了，这在以前是不可想象的事情…先休息下，等下个月再买 100 美元的 Pro。 https://t.co/r2DGr5pt3g
 
 ---
-@tualatrix | ❤️ 84 | 🔁 1 | 💬 21 | 👁 12904]]></description>
+@tualatrix | ❤️ 88 | 🔁 1 | 💬 21 | 👁 13531]]></description>
       <author>@tualatrix</author>
     </item>
     <item>
@@ -381,7 +495,7 @@ Securities offered by Coinbase Capital Markets (Member SIPC, FINRA). For informa
 Securities offered by Coinbase Capital Markets (Member SIPC, FINRA). For informational purposes only. Not investment advice or a recommendation. Trading involves risks and may result in loss of capital.
 
 ---
-@coinbase | ❤️ 70 | 🔁 25 | 💬 2 | 👁 20707]]></description>
+@coinbase | ❤️ 70 | 🔁 25 | 💬 2 | 👁 21035]]></description>
       <author>@coinbase</author>
     </item>
     <item>
@@ -396,7 +510,7 @@ Here, catch. https://t.co/B8HvbwI7rP</title>
 Here, catch. https://t.co/B8HvbwI7rP
 
 ---
-@coinbase | ❤️ 501 | 🔁 85 | 💬 105 | 👁 43116]]></description>
+@coinbase | ❤️ 517 | 🔁 88 | 💬 106 | 👁 44403]]></description>
       <author>@coinbase</author>
     </item>
     <item>
@@ -411,7 +525,7 @@ Fro...</title>
 From your dirt-floor childhood in rural Ch…
 
 ---
-@cz_binance | ❤️ 0 | 🔁 20 | 💬 0 | 👁 22]]></description>
+@cz_binance | ❤️ 0 | 🔁 23 | 💬 0 | 👁 22]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -428,7 +542,7 @@ From your dirt-floor childhood in rural Ch…
 最先触动我的，是一姐 @heyibinance 写在开篇的那篇序言，我看了两遍。从最初相识，到后来并肩同行，那种一路陪伴、共同经历风雨的感情，没…
 
 ---
-@cz_binance | ❤️ 0 | 🔁 14 | 💬 0 | 👁 10]]></description>
+@cz_binance | ❤️ 0 | 🔁 15 | 💬 0 | 👁 11]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -443,7 +557,7 @@ CZ从农村煤油灯下写作业，到温哥华打工炸薯条，再到把币安
 CZ从农村煤油灯下写作业，到温哥华打工炸薯条，再到把币安做成全球老大，一路全是真事：用户第一、现金流命脉、监管风波，他全摊开讲。没有高大上鸡汤，就讲怎么打好手里的牌。…
 
 ---
-@cz_binance | ❤️ 0 | 🔁 6 | 💬 0 | 👁 12]]></description>
+@cz_binance | ❤️ 0 | 🔁 7 | 💬 0 | 👁 13]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -454,7 +568,7 @@ CZ从农村煤油灯下写作业，到温哥华打工炸薯条，再到把币安
       <description><![CDATA[经过几个月的思考，我终于确认这就是我想要的工作和生活方式。与多个客户合作，却能掌控自己的节奏和产品进度，同时有充足时间做内容创作和个人成长，不再受他人日程的束缚。今年特别能感受到这种自由带来的充实感。 https://t.co/rEQQl4kVRw
 
 ---
-@bearliu | ❤️ 30 | 🔁 1 | 💬 4 | 👁 3593]]></description>
+@bearliu | ❤️ 31 | 🔁 1 | 💬 4 | 👁 3656]]></description>
       <author>@bearliu</author>
     </item>
     <item>
@@ -484,7 +598,7 @@ It's abo…
 其实以现在的条件来说，agent matrix 产品已经可以完成任何一个软件在云端的自动化开发，部署，测试和运维了。
 
 ---
-@turingou | ❤️ 29 | 🔁 3 | 💬 1 | 👁 6822]]></description>
+@turingou | ❤️ 34 | 🔁 3 | 💬 1 | 👁 7071]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -495,7 +609,7 @@ It's abo…
       <description><![CDATA[Which chain are you most bullish on? 🐂
 
 ---
-@CoinMarketCap | ❤️ 494 | 🔁 37 | 💬 543 | 👁 50983]]></description>
+@CoinMarketCap | ❤️ 506 | 🔁 38 | 💬 559 | 👁 52990]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -506,7 +620,7 @@ It's abo…
       <description><![CDATA[字节的产品化做的太好了，coze 只查一个真正优秀的模型。
 
 ---
-@turingou | ❤️ 153 | 🔁 3 | 💬 13 | 👁 38686]]></description>
+@turingou | ❤️ 162 | 🔁 3 | 💬 13 | 👁 39631]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -517,7 +631,7 @@ It's abo…
       <description><![CDATA[下午把 tuwa 的新版会话引擎重构完成了，stage 测试的结果非常不错，准备深夜找个时间上线。
 
 ---
-@turingou | ❤️ 8 | 🔁 0 | 💬 0 | 👁 5066]]></description>
+@turingou | ❤️ 8 | 🔁 0 | 💬 0 | 👁 5135]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -528,7 +642,7 @@ It's abo…
       <description><![CDATA[happy national pet day to the real main characters https://t.co/TKFhZHgyJV
 
 ---
-@binance | ❤️ 582 | 🔁 107 | 💬 224 | 👁 57949]]></description>
+@binance | ❤️ 592 | 🔁 108 | 💬 225 | 👁 58821]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -539,7 +653,7 @@ It's abo…
       <description><![CDATA[.@NorthropGrumman's Cygnus XL cargo craft lifted atop a @SpaceX Falcon 9 rocket at 7:41am ET today for a space cargo delivery to the Exp 74 crew on Monday. https://t.co/FlUJr7mjHT
 
 ---
-@Space_Station | ❤️ 269 | 🔁 42 | 💬 5 | 👁 31745]]></description>
+@Space_Station | ❤️ 273 | 🔁 42 | 💬 5 | 👁 32229]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -550,7 +664,7 @@ It's abo…
       <description><![CDATA[LATEST: 🇺🇸 US Senator Cynthia Lummis warns that &quot;this is our last chance to pass the Clarity Act until at least 2030.&quot; https://t.co/a5ILpi3odE
 
 ---
-@CoinMarketCap | ❤️ 664 | 🔁 74 | 💬 47 | 👁 31788]]></description>
+@CoinMarketCap | ❤️ 679 | 🔁 77 | 💬 49 | 👁 32607]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -565,7 +679,7 @@ No, owning 100 different dog coins doesn't count.</title>
 No, owning 100 different dog coins doesn't count.
 
 ---
-@coinbase | ❤️ 459 | 🔁 57 | 💬 161 | 👁 40603]]></description>
+@coinbase | ❤️ 463 | 🔁 58 | 💬 162 | 👁 41149]]></description>
       <author>@coinbase</author>
     </item>
     <item>
@@ -576,7 +690,7 @@ No, owning 100 different dog coins doesn't count.
       <description><![CDATA[.@NorthropGrumman's Cygnus XL cargo craft is counting down to a launch atop a @SpaceX Falcon 9 rocket at 7:41am ET today to resupply the Exp 74 crew with new science and supplies.  https://t.co/l0HJL9Mkwo
 
 ---
-@Space_Station | ❤️ 238 | 🔁 37 | 💬 9 | 👁 32163]]></description>
+@Space_Station | ❤️ 239 | 🔁 37 | 💬 9 | 👁 32606]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -589,7 +703,7 @@ No, owning 100 different dog coins doesn't count.
 You do not need to…
 
 ---
-@Teknium | ❤️ 0 | 🔁 27 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 28 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -611,7 +725,7 @@ You do not need to…
       <description><![CDATA[Hermes was built linux first! It has some special capabilities if running on a mac (like accessing your notes) but, generally, it performs super well on a Linux OS!
 
 ---
-@Teknium | ❤️ 274 | 🔁 10 | 💬 21 | 👁 13921]]></description>
+@Teknium | ❤️ 283 | 🔁 10 | 💬 21 | 👁 14223]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -658,7 +772,7 @@ You do not need to…
       <description><![CDATA[Crypto is cool.
 
 ---
-@CoinMarketCap | ❤️ 537 | 🔁 38 | 💬 266 | 👁 29488]]></description>
+@CoinMarketCap | ❤️ 550 | 🔁 38 | 💬 267 | 👁 29913]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -669,7 +783,7 @@ You do not need to…
       <description><![CDATA[UPDATE: 📈 Morgan Stanley head of digital assets Amy Oldenburg says this week's Bitcoin ETF launch was &quot;the best first day of trading for any of our ETFs.&quot; https://t.co/9wXdj10A5U
 
 ---
-@CoinMarketCap | ❤️ 337 | 🔁 49 | 💬 50 | 👁 29858]]></description>
+@CoinMarketCap | ❤️ 340 | 🔁 50 | 💬 51 | 👁 30198]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -680,7 +794,7 @@ You do not need to…
       <description><![CDATA[Pretty easy guide to setting up WeChat through telegram!
 
 ---
-@Teknium | ❤️ 19 | 🔁 0 | 💬 3 | 👁 4824]]></description>
+@Teknium | ❤️ 20 | 🔁 0 | 💬 3 | 👁 4873]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -691,7 +805,7 @@ You do not need to…
       <description><![CDATA[👀👀
 
 ---
-@Teknium | ❤️ 54 | 🔁 2 | 💬 1 | 👁 7258]]></description>
+@Teknium | ❤️ 56 | 🔁 2 | 💬 1 | 👁 7360]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -713,7 +827,7 @@ You do not need to…
       <description><![CDATA[RT @teodorio: I told my girlfriend I was talking with my Hermes agent on Whatsapp. She got really happy and a bit confused and asked me sin…
 
 ---
-@Teknium | ❤️ 0 | 🔁 21 | 💬 0 | 👁 1]]></description>
+@Teknium | ❤️ 0 | 🔁 22 | 💬 0 | 👁 1]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -736,7 +850,7 @@ Trade your favorite altcoins with improved liquidity now
 👉 https://t.co/byEV19NX6N
 
 ---
-@binance | ❤️ 546 | 🔁 111 | 💬 121 | 👁 69086]]></description>
+@binance | ❤️ 563 | 🔁 112 | 💬 121 | 👁 70127]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -747,7 +861,7 @@ Trade your favorite altcoins with improved liquidity now
       <description><![CDATA[YOU WILL WIN.
 
 ---
-@CoinMarketCap | ❤️ 2207 | 🔁 218 | 💬 487 | 👁 79582]]></description>
+@CoinMarketCap | ❤️ 2238 | 🔁 222 | 💬 490 | 👁 81851]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -784,7 +898,7 @@ openclaw-gateway-diagnosis 这个技能不是我让它创建的。我前天晚�
       <description><![CDATA[RT @AYi_AInotes: https://t.co/WUwSrkO1ik
 
 ---
-@Teknium | ❤️ 0 | 🔁 141 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 144 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -795,7 +909,7 @@ openclaw-gateway-diagnosis 这个技能不是我让它创建的。我前天晚�
       <description><![CDATA[Do you prefer if tool call notifications were on or off by default in your favorite messenger in Hermes Agent?
 
 ---
-@Teknium | ❤️ 31 | 🔁 0 | 💬 34 | 👁 5227]]></description>
+@Teknium | ❤️ 33 | 🔁 0 | 💬 35 | 👁 5332]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -810,7 +924,7 @@ We have integrated skill hubs like ClawHub, https://t.co/O3mPXXRZr6, and more.
 https://t.co/WFd2iXpI6f
 
 ---
-@Teknium | ❤️ 359 | 🔁 27 | 💬 17 | 👁 12173]]></description>
+@Teknium | ❤️ 369 | 🔁 27 | 💬 19 | 👁 12474]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -836,7 +950,7 @@ The Irish Government sent in the MILITARY to CRUSH fu...</title>
 The Irish Government sent in the MILITARY to CRUSH fuel protesters…but the Crowds EXPLODED i…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 26115 | 💬 0 | 👁 766]]></description>
+@elonmusk | ❤️ 0 | 🔁 26255 | 💬 0 | 👁 775]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -852,7 +966,7 @@ America is back in the business of sending astronauts to the Moon and bringing t
 Reid, Vict…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 4907 | 💬 0 | 👁 451]]></description>
+@elonmusk | ❤️ 0 | 🔁 4931 | 💬 0 | 👁 455]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -863,7 +977,7 @@ Reid, Vict…
       <description><![CDATA[RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/KJNQA5eZqJ
 
 ---
-@elonmusk | ❤️ 0 | 🔁 1154 | 💬 0 | 👁 1144]]></description>
+@elonmusk | ❤️ 0 | 🔁 1179 | 💬 0 | 👁 1153]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -874,7 +988,7 @@ Reid, Vict…
       <description><![CDATA[RT @WhiteHouse: NEXT STEP: MARS! https://t.co/X4TJDFp67A
 
 ---
-@elonmusk | ❤️ 0 | 🔁 6501 | 💬 0 | 👁 1797]]></description>
+@elonmusk | ❤️ 0 | 🔁 6559 | 💬 0 | 👁 1815]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -887,7 +1001,7 @@ Reid, Vict…
 And what if Sharon McMahon…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 1264 | 💬 0 | 👁 297]]></description>
+@elonmusk | ❤️ 0 | 🔁 1287 | 💬 0 | 👁 301]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -898,7 +1012,7 @@ And what if Sharon McMahon…
       <description><![CDATA[RT @DrewPavlou: BREAKING: The Australian government chose to arrest Ben Roberts-Smith in Sydney rather than his home state of Queensland be…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 2789 | 💬 0 | 👁 419]]></description>
+@elonmusk | ❤️ 0 | 🔁 2829 | 💬 0 | 👁 421]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -909,7 +1023,7 @@ And what if Sharon McMahon…
       <description><![CDATA[Crypto is just picking which song you believe today https://t.co/jNrpj0Wr29
 
 ---
-@binance | ❤️ 657 | 🔁 105 | 💬 215 | 👁 57798]]></description>
+@binance | ❤️ 664 | 🔁 107 | 💬 215 | 👁 58277]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -920,7 +1034,7 @@ And what if Sharon McMahon…
       <description><![CDATA[@Bravohenry_ @Weixin_WeChat 本适配器使用的是腾讯官方的 iLink Bot API，而非逆向工程协议或非官方客户端。不过，如果您担心账号被封禁，绝对值得保持谨慎，并使用小号进行测试！
 
 ---
-@NousResearch | ❤️ 60 | 🔁 1 | 💬 3 | 👁 21851]]></description>
+@NousResearch | ❤️ 60 | 🔁 1 | 💬 3 | 👁 22127]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -949,7 +1063,7 @@ And what if Sharon McMahon…
 而定义问题、找到需求，或者把东西卖出去，才是真正难的部分，这是一种非常稀缺的能力和资源。
 
 ---
-@bearliu | ❤️ 5 | 🔁 0 | 💬 0 | 👁 2330]]></description>
+@bearliu | ❤️ 5 | 🔁 0 | 💬 0 | 👁 2338]]></description>
       <author>@bearliu</author>
     </item>
     <item>
@@ -960,7 +1074,7 @@ And what if Sharon McMahon…
       <description><![CDATA[Models will only get better at code. APIs are comprehension units for Claude.
 
 ---
-@angjiang | ❤️ 9 | 🔁 0 | 💬 1 | 👁 1574]]></description>
+@angjiang | ❤️ 9 | 🔁 0 | 💬 1 | 👁 1583]]></description>
       <author>@angjiang</author>
     </item>
     <item>
@@ -983,7 +1097,7 @@ And what if Sharon McMahon…
 感谢 @Bravohenry_ 的贡献 https://t.co/xFir5yAN6G
 
 ---
-@NousResearch | ❤️ 2376 | 🔁 395 | 💬 241 | 👁 299038]]></description>
+@NousResearch | ❤️ 2392 | 🔁 399 | 💬 241 | 👁 303356]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -998,7 +1112,7 @@ We kn...</title>
 We know it can be addictive https://t.co/YTdNxoaGFX
 
 ---
-@NousResearch | ❤️ 467 | 🔁 13 | 💬 55 | 👁 19214]]></description>
+@NousResearch | ❤️ 478 | 🔁 13 | 💬 55 | 👁 19538]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -1020,7 +1134,7 @@ Vaults 是 CMA 里专门管理终端用户凭证的组件。开发者给每个�
 CMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 0.08 美元的会话费计费。Notion、Rakuten、Asana、Sentry 已经在用了。Claude Code 里也内置了一个 claude-api Skill，可以直接在命令行里引导你完成 Vaults 的配置。
 
 ---
-@dotey | ❤️ 63 | 🔁 5 | 💬 8 | 👁 25460]]></description>
+@dotey | ❤️ 63 | 🔁 5 | 💬 8 | 👁 25636]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1033,7 +1147,7 @@ CMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 
 这属于自己“蒸馏”自己了😂
 
 ---
-@dotey | ❤️ 146 | 🔁 25 | 💬 7 | 👁 48918]]></description>
+@dotey | ❤️ 149 | 🔁 25 | 💬 7 | 👁 49306]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1048,7 +1162,7 @@ CMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 
 这应该是好事吧
 
 ---
-@bearliu | ❤️ 4 | 🔁 0 | 💬 7 | 👁 2564]]></description>
+@bearliu | ❤️ 4 | 🔁 0 | 💬 7 | 👁 2573]]></description>
       <author>@bearliu</author>
     </item>
     <item>
@@ -1059,7 +1173,7 @@ CMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 
       <description><![CDATA[今天恢复 vibe 节奏，刚收到邮件发现我的 stripe project 开发者预览版申请通过了，准备给 wanman 接上这个 agent https://t.co/ZcfGrpCbJ8
 
 ---
-@turingou | ❤️ 21 | 🔁 0 | 💬 1 | 👁 11394]]></description>
+@turingou | ❤️ 21 | 🔁 0 | 💬 1 | 👁 11480]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -1072,7 +1186,7 @@ CMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 
 🔸#1 spot trading - 34.3% shar…
 
 ---
-@cz_binance | ❤️ 0 | 🔁 48 | 💬 0 | 👁 84]]></description>
+@cz_binance | ❤️ 0 | 🔁 48 | 💬 0 | 👁 85]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -1090,7 +1204,7 @@ let’s break it down ⤵
 https://t.co/ZJJi97C3b2
 
 ---
-@binance | ❤️ 270 | 🔁 46 | 💬 72 | 👁 47736]]></description>
+@binance | ❤️ 271 | 🔁 47 | 💬 72 | 👁 48022]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -1121,7 +1235,7 @@ herme…
       <description><![CDATA[The worst thing you can do on an exponential is be late
 
 ---
-@angjiang | ❤️ 15 | 🔁 0 | 💬 2 | 👁 2644]]></description>
+@angjiang | ❤️ 15 | 🔁 0 | 💬 2 | 👁 2670]]></description>
       <author>@angjiang</author>
     </item>
     <item>
@@ -1140,7 +1254,7 @@ Axios 是前端和 Node.js 开发中极其常用的 HTTP 请求库，全球下�
 如果你在 Mac 上用 ChatGPT 桌面端或 Codex，现在就去更新。可以通过应用内更新，也可以去官网重新下载。暂时不用担心数据泄露，但拖着不更新，万一后续出现仿冒应用，旧版本的签名验证可能挡不住。
 
 ---
-@dotey | ❤️ 44 | 🔁 2 | 💬 4 | 👁 32741]]></description>
+@dotey | ❤️ 44 | 🔁 2 | 💬 4 | 👁 32916]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1183,7 +1297,7 @@ Local + Hermes + Qwen + Mo…
       <description><![CDATA[RT @Astro_ChrisW: Our crew on the @Space_Station caught a glimpse of the @NASAArtemis II crew as they re-entered the atmosphere from their…
 
 ---
-@Space_Station | ❤️ 0 | 🔁 5080 | 💬 0 | 👁 26]]></description>
+@Space_Station | ❤️ 0 | 🔁 5093 | 💬 0 | 👁 26]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -1244,7 +1358,7 @@ Of the top 10 models used in Hermes Agent, 8 different model companies are…
       <description><![CDATA[@Xiaomi https://t.co/KCXV2EtbOa
 
 ---
-@NousResearch | ❤️ 15 | 🔁 1 | 💬 2 | 👁 7515]]></description>
+@NousResearch | ❤️ 16 | 🔁 1 | 💬 2 | 👁 7607]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -1257,7 +1371,7 @@ Of the top 10 models used in Hermes Agent, 8 different model companies are…
 點燃一個一個的小火種. Love it!
 
 ---
-@cz_binance | ❤️ 710 | 🔁 72 | 💬 304 | 👁 1560149]]></description>
+@cz_binance | ❤️ 716 | 🔁 72 | 💬 304 | 👁 1561303]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -1292,7 +1406,7 @@ Codex 的会话存档噪音很多，直接让 AI 读原始记录又慢又乱。�
 Codex 团队还搞了一个 Skill 叫 cli-creator：https://t.co/nF6K4Ci4tJ
 
 ---
-@dotey | ❤️ 632 | 🔁 100 | 💬 16 | 👁 85971]]></description>
+@dotey | ❤️ 635 | 🔁 100 | 💬 16 | 👁 86442]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1309,7 +1423,7 @@ You loved it so much that we faced heavier initial usage than anticipated.
 Thank you to @Xiaomi for helping us improve the stability - update Hermes and it should now be rock solid. https://t.co/2G0jlmK6uY
 
 ---
-@NousResearch | ❤️ 733 | 🔁 35 | 💬 59 | 👁 130027]]></description>
+@NousResearch | ❤️ 742 | 🔁 35 | 💬 60 | 👁 131948]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -1320,7 +1434,7 @@ Thank you to @Xiaomi for helping us improve the stability - update Hermes and it
       <description><![CDATA[🇺🇸🇺🇸 Welcome home! 🇺🇸🇺🇸
 
 ---
-@elonmusk | ❤️ 509731 | 🔁 43955 | 💬 8631 | 👁 44960847]]></description>
+@elonmusk | ❤️ 514478 | 🔁 44391 | 💬 8703 | 👁 45756110]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1331,7 +1445,7 @@ Thank you to @Xiaomi for helping us improve the stability - update Hermes and it
       <description><![CDATA[最优雅的方案是使用 One Switch 的「保持亮屏」里面的「合盖不休眠」功能，随时选择开启或关闭。 https://t.co/Qy91kT7LJj https://t.co/MQf77GClyH
 
 ---
-@tualatrix | ❤️ 217 | 🔁 30 | 💬 15 | 👁 47516]]></description>
+@tualatrix | ❤️ 220 | 🔁 30 | 💬 15 | 👁 47843]]></description>
       <author>@tualatrix</author>
     </item>
     <item>
@@ -1342,7 +1456,7 @@ Thank you to @Xiaomi for helping us improve the stability - update Hermes and it
       <description><![CDATA[Grok can be quite funny 😂 https://t.co/kopVI70H32
 
 ---
-@elonmusk | ❤️ 20310 | 🔁 2210 | 💬 2862 | 👁 14222192]]></description>
+@elonmusk | ❤️ 20590 | 🔁 2243 | 💬 2878 | 👁 14498425]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1381,7 +1495,7 @@ This should be implemented in every compan…
       <description><![CDATA[Really love all the sick setups people are making for their Hermes Agents!!
 
 ---
-@Teknium | ❤️ 183 | 🔁 8 | 💬 4 | 👁 12042]]></description>
+@Teknium | ❤️ 185 | 🔁 8 | 💬 4 | 👁 12207]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1407,7 +1521,7 @@ Please give me your most honest assessment of pros and cons between t…
       <description><![CDATA[看起来 claude code 在为更多非专业用户做全面的「泛化」处理，说不定内部有一款还没上线的完整 web harness engineering app
 
 ---
-@turingou | ❤️ 30 | 🔁 1 | 💬 3 | 👁 16351]]></description>
+@turingou | ❤️ 30 | 🔁 1 | 💬 3 | 👁 16418]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -1434,7 +1548,7 @@ Please give me your most honest assessment of pros and cons between t…
 世界需要你，ColaOS 需要你。
 
 ---
-@oran_ge | ❤️ 47 | 🔁 2 | 💬 11 | 👁 19061]]></description>
+@oran_ge | ❤️ 47 | 🔁 2 | 💬 11 | 👁 19149]]></description>
       <author>@oran_ge</author>
     </item>
     <item>
@@ -1456,7 +1570,7 @@ Please give me your most honest assessment of pros and cons between t…
       <description><![CDATA[https://t.co/CY6F32QtaQ
 
 ---
-@binance | ❤️ 471 | 🔁 54 | 💬 122 | 👁 97181]]></description>
+@binance | ❤️ 472 | 🔁 54 | 💬 122 | 👁 98113]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -1467,7 +1581,7 @@ Please give me your most honest assessment of pros and cons between t…
       <description><![CDATA[RT @Astro_Jessica: The sun sets behind one of our @Space_Station solar arrays, illuminating a rainbow edge of Earth. The historic Artemis I…
 
 ---
-@Space_Station | ❤️ 0 | 🔁 1012 | 💬 0 | 👁 6]]></description>
+@Space_Station | ❤️ 0 | 🔁 1014 | 💬 0 | 👁 6]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -1478,7 +1592,7 @@ Please give me your most honest assessment of pros and cons between t…
       <description><![CDATA[RT @Astro_Jessica: Eyes peeled in the cupola awaiting the safe return of our @NASAArtemis friends. Our trajectory on @Space_Station will be…
 
 ---
-@Space_Station | ❤️ 0 | 🔁 2799 | 💬 0 | 👁 12]]></description>
+@Space_Station | ❤️ 0 | 🔁 2804 | 💬 0 | 👁 12]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -1495,7 +1609,7 @@ Please give me your most honest assessment of pros and cons between t…
 他把这次袭击和几天前一篇关于他的争议文章联系在一起。有人提醒他，在公众对 AI 的焦虑情绪高涨的当下，那篇文章可能会让他变得更危险。他当时没当回事，现在凌晨坐在家里后悔了。
 
 ---
-@dotey | ❤️ 311 | 🔁 17 | 💬 64 | 👁 225690]]></description>
+@dotey | ❤️ 311 | 🔁 18 | 💬 64 | 👁 226514]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1512,7 +1626,7 @@ Claude ~74%. Others sitting in the 60s… or way lower.
 Less gue…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 1052 | 💬 0 | 👁 411]]></description>
+@elonmusk | ❤️ 0 | 🔁 1058 | 💬 0 | 👁 412]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1523,7 +1637,7 @@ Less gue…
       <description><![CDATA[RT @TRobinsonNewEra: The Irish government have announced they're sending in the &quot;Defence Forces&quot; to remove farmers and lorry drivers protes…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 23686 | 💬 0 | 👁 451]]></description>
+@elonmusk | ❤️ 0 | 🔁 23719 | 💬 0 | 👁 454]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1538,7 +1652,7 @@ The Artemis II crew ...</title>
 The Artemis II crew will splash down off the coast of San D…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 8808 | 💬 0 | 👁 180]]></description>
+@elonmusk | ❤️ 0 | 🔁 8833 | 💬 0 | 👁 181]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1560,7 +1674,7 @@ Robbery: 70%
 Assau…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 2035 | 💬 0 | 👁 241]]></description>
+@elonmusk | ❤️ 0 | 🔁 2051 | 💬 0 | 👁 241]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1575,7 +1689,7 @@ Watch as the Artemis II crew returns to Earth, splashing dow...</title>
 Watch as the Artemis II crew returns to Earth, splashing down at around 8:07pm ET (0007 UTC April 1…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 33942 | 💬 0 | 👁 143]]></description>
+@elonmusk | ❤️ 0 | 🔁 33956 | 💬 0 | 👁 144]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1608,7 +1722,7 @@ Watch as the Artemis II crew returns to Earth, splashing down at around 8:07pm E
       <description><![CDATA[Hermes Agent coming to SLOCK soon!!
 
 ---
-@Teknium | ❤️ 57 | 🔁 2 | 💬 3 | 👁 3973]]></description>
+@Teknium | ❤️ 58 | 🔁 2 | 💬 3 | 👁 3995]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1634,7 +1748,7 @@ Poignant end of an er...</title>
 Poignant end of an era.
 
 ---
-@elonmusk | ❤️ 45511 | 🔁 3644 | 💬 2972 | 👁 23743135]]></description>
+@elonmusk | ❤️ 45894 | 🔁 3688 | 💬 2985 | 👁 24100356]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1645,7 +1759,7 @@ Poignant end of an era.
       <description><![CDATA[https://t.co/hPjiupTlDJ ****
 
 ---
-@Teknium | ❤️ 6 | 🔁 0 | 💬 1 | 👁 1105]]></description>
+@Teknium | ❤️ 6 | 🔁 0 | 💬 1 | 👁 1108]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1656,7 +1770,7 @@ Poignant end of an era.
       <description><![CDATA[True
 
 ---
-@elonmusk | ❤️ 123990 | 🔁 21332 | 💬 7659 | 👁 11200704]]></description>
+@elonmusk | ❤️ 125753 | 🔁 21686 | 💬 7775 | 👁 11432889]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1679,7 +1793,7 @@ Poignant end of an era.
 成王之后第一步就是写自己的史书
 
 ---
-@oran_ge | ❤️ 81 | 🔁 7 | 💬 9 | 👁 7020]]></description>
+@oran_ge | ❤️ 81 | 🔁 7 | 💬 9 | 👁 7064]]></description>
       <author>@oran_ge</author>
     </item>
     <item>
@@ -1690,7 +1804,7 @@ Poignant end of an era.
       <description><![CDATA[The Sun is ~everything
 
 ---
-@elonmusk | ❤️ 158095 | 🔁 17344 | 💬 7167 | 👁 17805366]]></description>
+@elonmusk | ❤️ 159709 | 🔁 17570 | 💬 7217 | 👁 18114234]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1701,7 +1815,7 @@ Poignant end of an era.
       <description><![CDATA[RDW was extremely rigorous in their review
 
 ---
-@elonmusk | ❤️ 29477 | 🔁 3949 | 💬 1489 | 👁 7168369]]></description>
+@elonmusk | ❤️ 29835 | 🔁 4015 | 💬 1501 | 👁 7283224]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1723,7 +1837,7 @@ Poignant end of an era.
       <description><![CDATA[RT @Tesla: FSD Supervised approved in the Netherlands 🇳🇱
 
 ---
-@elonmusk | ❤️ 0 | 🔁 2362 | 💬 0 | 👁 233]]></description>
+@elonmusk | ❤️ 0 | 🔁 2377 | 💬 0 | 👁 233]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1738,7 +1852,7 @@ Congratulations to the Tesla team and thank you to the r...</title>
 Congratulations to the Tesla team and thank you to the regulatory authorities in the Netherlands for all the hard work required to make this happen.
 
 ---
-@elonmusk | ❤️ 66848 | 🔁 8759 | 💬 3247 | 👁 23456124]]></description>
+@elonmusk | ❤️ 67423 | 🔁 8849 | 💬 3261 | 👁 23831553]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1749,7 +1863,7 @@ Congratulations to the Tesla team and thank you to the regulatory authorities in
       <description><![CDATA[LATEST: ⚡ The US government has moved roughly $177,000 in Bitcoin to a Coinbase Prime address, with the funds believed to be seized from wallets possibly linked to a steroid distribution case, per Arkham. https://t.co/zmg6ZHbd9s
 
 ---
-@CoinMarketCap | ❤️ 194 | 🔁 49 | 💬 36 | 👁 18931]]></description>
+@CoinMarketCap | ❤️ 195 | 🔁 50 | 💬 36 | 👁 19018]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -1783,7 +1897,7 @@ Anthropic 刚刚发布了 Word 插件的测试版。装上之后，Claude 直接
 目前仅对 Claude Team 和 Enterprise 付费用户开放，支持 .docx 和 .docm 格式。
 
 ---
-@dotey | ❤️ 176 | 🔁 23 | 💬 21 | 👁 57148]]></description>
+@dotey | ❤️ 176 | 🔁 23 | 💬 21 | 👁 57381]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1794,7 +1908,7 @@ Anthropic 刚刚发布了 Word 插件的测试版。装上之后，Claude 直接
       <description><![CDATA[asked for the bag, got the jpeg https://t.co/Cae1UkdWvS
 
 ---
-@binance | ❤️ 570 | 🔁 76 | 💬 170 | 👁 52776]]></description>
+@binance | ❤️ 575 | 🔁 76 | 💬 171 | 👁 53059]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -1805,7 +1919,7 @@ Anthropic 刚刚发布了 Word 插件的测试版。装上之后，Claude 直接
       <description><![CDATA[The Exp 74 crew trains for the arrival of @NorthropGrumman’s Cygnus XL cargo mission targeted to launch at 7:41 am ET on Saturday. https://t.co/E9lhfVJQcV
 
 ---
-@Space_Station | ❤️ 341 | 🔁 51 | 💬 4 | 👁 44886]]></description>
+@Space_Station | ❤️ 344 | 🔁 51 | 💬 4 | 👁 45021]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
@@ -1846,7 +1960,7 @@ Like every day, thank you all...</title>
 Like every day, thank you all who have helped build this crazy project! https://t.co/7z8nYs8IQ0
 
 ---
-@Teknium | ❤️ 1553 | 🔁 83 | 💬 125 | 👁 54033]]></description>
+@Teknium | ❤️ 1559 | 🔁 83 | 💬 126 | 👁 54357]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1872,7 +1986,7 @@ The Artemis II crew is now under 35,000 miles from Earth. The astronauts a...</t
 The Artemis II crew is now under 35,000 miles from Earth. The astronauts are preparing the spacecraft for reentry…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 7907 | 💬 0 | 👁 106]]></description>
+@elonmusk | ❤️ 0 | 🔁 7921 | 💬 0 | 👁 106]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1885,7 +1999,7 @@ The Artemis II crew is now under 35,000 miles from Earth. The astronauts are pre
 AT THIS PACE: 1,000,000 BTC BY E…
 
 ---
-@cz_binance | ❤️ 0 | 🔁 209 | 💬 0 | 👁 64]]></description>
+@cz_binance | ❤️ 0 | 🔁 212 | 💬 0 | 👁 64]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -1896,7 +2010,7 @@ AT THIS PACE: 1,000,000 BTC BY E…
       <description><![CDATA[@NousResearch See ya there!
 
 ---
-@Teknium | ❤️ 2 | 🔁 0 | 💬 0 | 👁 706]]></description>
+@Teknium | ❤️ 2 | 🔁 0 | 💬 0 | 👁 708]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1907,7 +2021,7 @@ AT THIS PACE: 1,000,000 BTC BY E…
       <description><![CDATA[Join us next Tuesday for a Hermes Agent Jam Session in our discord!
 
 ---
-@Teknium | ❤️ 69 | 🔁 4 | 💬 3 | 👁 3512]]></description>
+@Teknium | ❤️ 69 | 🔁 4 | 💬 3 | 👁 3520]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1918,7 +2032,7 @@ AT THIS PACE: 1,000,000 BTC BY E…
       <description><![CDATA[Check this out!
 
 ---
-@Teknium | ❤️ 269 | 🔁 10 | 💬 4 | 👁 29934]]></description>
+@Teknium | ❤️ 269 | 🔁 10 | 💬 4 | 👁 30075]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -1933,7 +2047,7 @@ Tuesday April...</title>
 Tuesday April 14th, 4PM EST in the Nous Discord https://t.co/vou9UmNlwO
 
 ---
-@NousResearch | ❤️ 287 | 🔁 16 | 💬 28 | 👁 22205]]></description>
+@NousResearch | ❤️ 290 | 🔁 16 | 💬 29 | 👁 22311]]></description>
       <author>@NousResearch</author>
     </item>
     <item>
@@ -1952,7 +2066,7 @@ Anthropic 工程师 Thariq 说，这个功能的核心思路是：实现代码�
 这个功能今天开始对所有开启了 Claude Code 网页版的用户开放预览，需要 Claude Code v2.1.91 或更新版本。
 
 ---
-@dotey | ❤️ 231 | 🔁 35 | 💬 19 | 👁 46735]]></description>
+@dotey | ❤️ 235 | 🔁 36 | 💬 19 | 👁 46897]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -1963,7 +2077,7 @@ Anthropic 工程师 Thariq 说，这个功能的核心思路是：实现代码�
       <description><![CDATA[Starlink provides an Internet connection in flight that is on par with ground Internet speed &amp;amp; latency
 
 ---
-@elonmusk | ❤️ 99884 | 🔁 7575 | 💬 2982 | 👁 25203751]]></description>
+@elonmusk | ❤️ 100684 | 🔁 7635 | 💬 2998 | 👁 25478530]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -1974,7 +2088,7 @@ Anthropic 工程师 Thariq 说，这个功能的核心思路是：实现代码�
       <description><![CDATA[UPDATE: 🇧🇹 Bhutan has moved another 250 BTC worth about $18 million to a new wallet, per Arkham, with its tracked Bitcoin holdings now down over 70% from a 2024 peak near 13,000 BTC. https://t.co/yoFRijMSdZ
 
 ---
-@CoinMarketCap | ❤️ 147 | 🔁 35 | 💬 26 | 👁 27951]]></description>
+@CoinMarketCap | ❤️ 147 | 🔁 35 | 💬 26 | 👁 28040]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -1989,7 +2103,7 @@ I think the insight here is that implementation can sometime...</title>
 I think the insight here is that implementation can sometimes require a local environment/interactivity, but planning can happen in the cloud since it's mostly about reading code &amp;amp; understanding intent.
 
 ---
-@trq212 | ❤️ 312 | 🔁 14 | 💬 36 | 👁 50983]]></description>
+@trq212 | ❤️ 316 | 🔁 14 | 💬 36 | 👁 51570]]></description>
       <author>@trq212</author>
     </item>
     <item>
@@ -2000,7 +2114,7 @@ I think the insight here is that implementation can sometimes require a local en
       <description><![CDATA[🔫🛡️
 
 ---
-@elonmusk | ❤️ 55603 | 🔁 7507 | 💬 2245 | 👁 16167900]]></description>
+@elonmusk | ❤️ 56163 | 🔁 7580 | 💬 2254 | 👁 16399119]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2015,7 +2129,7 @@ See t...</title>
 See the docs for more: https://t.co/42xCfg7ecN
 
 ---
-@trq212 | ❤️ 352 | 🔁 17 | 💬 16 | 👁 61176]]></description>
+@trq212 | ❤️ 354 | 🔁 17 | 💬 16 | 👁 61867]]></description>
       <author>@trq212</author>
     </item>
     <item>
@@ -2032,7 +2146,7 @@ Claude builds an implementation plan for you on the web. You can read it and edi
 Available now in preview for all users with CC on the web enabled.
 
 ---
-@trq212 | ❤️ 8935 | 🔁 592 | 💬 468 | 👁 974895]]></description>
+@trq212 | ❤️ 8995 | 🔁 596 | 💬 470 | 👁 988261]]></description>
       <author>@trq212</author>
     </item>
     <item>
@@ -2043,7 +2157,7 @@ Available now in preview for all users with CC on the web enabled.
       <description><![CDATA[Neuralink enables those who have lost the ability to speak to speak again
 
 ---
-@elonmusk | ❤️ 132730 | 🔁 20494 | 💬 5262 | 👁 18416131]]></description>
+@elonmusk | ❤️ 133770 | 🔁 20666 | 💬 5289 | 👁 18679782]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2056,7 +2170,7 @@ Available now in preview for all users with CC on the web enabled.
 Read more: https://t.co/MJ89c4IuTt
 
 ---
-@claudeai | ❤️ 1034 | 🔁 58 | 💬 35 | 👁 267146]]></description>
+@claudeai | ❤️ 1042 | 🔁 58 | 💬 35 | 👁 269336]]></description>
       <author>@claudeai</author>
     </item>
     <item>
@@ -2073,7 +2187,7 @@ Draft, edit, and revise documents directly from the sidebar. Claude preserves yo
 Available on Team and Enterprise plans. https://t.co/tl1mZVELNg
 
 ---
-@claudeai | ❤️ 28404 | 🔁 2136 | 💬 1017 | 👁 10039381]]></description>
+@claudeai | ❤️ 28566 | 🔁 2145 | 💬 1027 | 👁 10144605]]></description>
       <author>@claudeai</author>
     </item>
     <item>
@@ -2091,7 +2205,7 @@ Available on Team and Enterprise plans. https://t.co/tl1mZVELNg
 Know more 👉 https://t.co/cNiL0gIKhS https://t.co/0zKteweb7x
 
 ---
-@binance | ❤️ 320 | 🔁 64 | 💬 65 | 👁 47744]]></description>
+@binance | ❤️ 321 | 🔁 64 | 💬 65 | 👁 47870]]></description>
       <author>@binance</author>
     </item>
     <item>
@@ -2102,7 +2216,7 @@ Know more 👉 https://t.co/cNiL0gIKhS https://t.co/0zKteweb7x
       <description><![CDATA[LATEST: ⚡ TD Cowen has cut its Strategy price target by 20.5% to $350, projecting the company's Bitcoin gains will fall to $7.87 billion in 2026 from $10.17 billion in 2025. https://t.co/YWmvRkmCgF
 
 ---
-@CoinMarketCap | ❤️ 108 | 🔁 36 | 💬 29 | 👁 15983]]></description>
+@CoinMarketCap | ❤️ 108 | 🔁 36 | 💬 29 | 👁 16031]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2113,7 +2227,7 @@ Know more 👉 https://t.co/cNiL0gIKhS https://t.co/0zKteweb7x
       <description><![CDATA[RT @Tesla_AI: Improved auto wipers
 
 ---
-@elonmusk | ❤️ 0 | 🔁 1105 | 💬 0 | 👁 230]]></description>
+@elonmusk | ❤️ 0 | 🔁 1108 | 💬 0 | 👁 230]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2128,7 +2242,7 @@ As the crew prepares to splash down in the P...</title>
 As the crew prepares to splash down in the Pacific Ocean this evening, they started…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 9040 | 💬 0 | 👁 120]]></description>
+@elonmusk | ❤️ 0 | 🔁 9049 | 💬 0 | 👁 120]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2141,7 +2255,7 @@ As the crew prepares to splash down in the Pacific Ocean this evening, they star
 In The Abolition of Man,…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 8580 | 💬 0 | 👁 228]]></description>
+@elonmusk | ❤️ 0 | 🔁 8611 | 💬 0 | 👁 229]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2158,7 +2272,7 @@ Stay informed, stay ahead: https://t.co/p1eLjNur7s
 7/7
 
 ---
-@CoinMarketCap | ❤️ 6 | 🔁 0 | 💬 3 | 👁 9261]]></description>
+@CoinMarketCap | ❤️ 6 | 🔁 0 | 💬 3 | 👁 9277]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2175,7 +2289,7 @@ The DOJ and CFTC are trying to stop several states from taking action against Ka
 6/7 https://t.co/eoZoM3B8xU
 
 ---
-@CoinMarketCap | ❤️ 9 | 🔁 1 | 💬 4 | 👁 9482]]></description>
+@CoinMarketCap | ❤️ 9 | 🔁 1 | 💬 4 | 👁 9496]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2192,7 +2306,7 @@ Here’s the full picture. 👇🧵
 1/7
 
 ---
-@CoinMarketCap | ❤️ 53 | 🔁 18 | 💬 13 | 👁 13244]]></description>
+@CoinMarketCap | ❤️ 54 | 🔁 18 | 💬 13 | 👁 13276]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2203,7 +2317,7 @@ Here’s the full picture. 👇🧵
       <description><![CDATA[waat
 
 ---
-@Teknium | ❤️ 92 | 🔁 3 | 💬 7 | 👁 7747]]></description>
+@Teknium | ❤️ 92 | 🔁 3 | 💬 7 | 👁 7760]]></description>
       <author>@Teknium</author>
     </item>
     <item>
@@ -2214,7 +2328,7 @@ Here’s the full picture. 👇🧵
       <description><![CDATA[21,000,000
 
 ---
-@coinbase | ❤️ 7839 | 🔁 492 | 💬 781 | 👁 444844]]></description>
+@coinbase | ❤️ 7885 | 🔁 497 | 💬 785 | 👁 447766]]></description>
       <author>@coinbase</author>
     </item>
     <item>
@@ -2236,7 +2350,7 @@ Here’s the full picture. 👇🧵
       <description><![CDATA[LATEST: ⚡ The US Treasury says cyber threats targeting digital asset platforms are &quot;growing in frequency and sophistication,&quot; launching a new initiative to share threat intelligence with crypto firms. https://t.co/LtQAHEbjFR
 
 ---
-@CoinMarketCap | ❤️ 113 | 🔁 33 | 💬 28 | 👁 14562]]></description>
+@CoinMarketCap | ❤️ 113 | 🔁 33 | 💬 28 | 👁 14599]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2253,7 +2367,7 @@ We need to stay in it until it’s passed.
 Spread…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 11626 | 💬 0 | 👁 122]]></description>
+@elonmusk | ❤️ 0 | 🔁 11738 | 💬 0 | 👁 124]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2281,7 +2395,7 @@ Stay informed, stay ahead: https://t.co/0A9WNBQUCc
 6/6
 
 ---
-@CoinMarketCap | ❤️ 5 | 🔁 0 | 💬 5 | 👁 8609]]></description>
+@CoinMarketCap | ❤️ 6 | 🔁 0 | 💬 5 | 👁 8623]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2300,7 +2414,7 @@ At a ~$500M market cap, this wasn’t just a spike; it held attention across the
 5/6 https://t.co/toAWKfwHqx
 
 ---
-@CoinMarketCap | ❤️ 4 | 🔁 1 | 💬 3 | 👁 8507]]></description>
+@CoinMarketCap | ❤️ 5 | 🔁 1 | 💬 3 | 👁 8521]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2319,7 +2433,7 @@ Here’s what defined Alpha this week. 👇
 1/6 https://t.co/dJq3QnDQ0k
 
 ---
-@CoinMarketCap | ❤️ 71 | 🔁 20 | 💬 28 | 👁 12855]]></description>
+@CoinMarketCap | ❤️ 72 | 🔁 20 | 💬 28 | 👁 12883]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2338,7 +2452,7 @@ Here’s what defined Alpha this week. 👇
 在模型看来，顾问工具和bash工具是一样的，都是解决问题的工具。
 
 ---
-@dotey | ❤️ 20 | 🔁 1 | 💬 6 | 👁 17587]]></description>
+@dotey | ❤️ 20 | 🔁 1 | 💬 6 | 👁 17617]]></description>
       <author>@dotey</author>
     </item>
     <item>
@@ -2349,7 +2463,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[Yup
 
 ---
-@elonmusk | ❤️ 52851 | 🔁 7075 | 💬 2410 | 👁 26603985]]></description>
+@elonmusk | ❤️ 53120 | 🔁 7130 | 💬 2418 | 👁 26754458]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2360,7 +2474,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[RT @libsoftiktok: This monster was magically competent to stand trial the first 14 times but suddenly this time he isn’t competent when he’…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 6280 | 💬 0 | 👁 110]]></description>
+@elonmusk | ❤️ 0 | 🔁 6293 | 💬 0 | 👁 110]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2371,7 +2485,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[Grok Imagine is fun
 
 ---
-@elonmusk | ❤️ 21899 | 🔁 3101 | 💬 2243 | 👁 8008796]]></description>
+@elonmusk | ❤️ 21965 | 🔁 3119 | 💬 2243 | 👁 8048936]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2382,7 +2496,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[💯
 
 ---
-@elonmusk | ❤️ 20596 | 🔁 1982 | 💬 888 | 👁 77010844]]></description>
+@elonmusk | ❤️ 20647 | 🔁 1991 | 💬 889 | 👁 77184137]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2393,7 +2507,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[RT @TechOperator: “I spent 1 year with a Tesla and realized one thing: I was 100% confident in my misinformed opinions. I used to be an EV…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 903 | 💬 0 | 👁 222]]></description>
+@elonmusk | ❤️ 0 | 🔁 909 | 💬 0 | 👁 222]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2404,7 +2518,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[Figures
 
 ---
-@elonmusk | ❤️ 133091 | 🔁 11036 | 💬 2774 | 👁 33419052]]></description>
+@elonmusk | ❤️ 133808 | 🔁 11114 | 💬 2784 | 👁 33598766]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2415,7 +2529,7 @@ Here’s what defined Alpha this week. 👇
       <description><![CDATA[LATEST: 🇻🇳 OKX Ventures and HashKey Capital have invested in VPBank-linked CAEX to help it meet Vietnam's $380 million capital requirement for its crypto pilot program. https://t.co/K1X2McVeW3
 
 ---
-@CoinMarketCap | ❤️ 212 | 🔁 41 | 💬 22 | 👁 19786]]></description>
+@CoinMarketCap | ❤️ 213 | 🔁 41 | 💬 22 | 👁 19846]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2430,7 +2544,7 @@ I personally think UAE remains one of the safest countries in the world, far saf
 In fact, I might do a book signing event in Dubai soon. Who wants to come?
 
 ---
-@cz_binance | ❤️ 675 | 🔁 100 | 💬 311 | 👁 256655]]></description>
+@cz_binance | ❤️ 673 | 🔁 100 | 💬 311 | 👁 257459]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -2441,7 +2555,7 @@ In fact, I might do a book signing event in Dubai soon. Who wants to come?
       <description><![CDATA[我同意，因为它又开始「你说得对」了。 https://t.co/k8fb2kxAZQ
 
 ---
-@tualatrix | ❤️ 218 | 🔁 11 | 💬 15 | 👁 51567]]></description>
+@tualatrix | ❤️ 218 | 🔁 11 | 💬 16 | 👁 51634]]></description>
       <author>@tualatrix</author>
     </item>
     <item>
@@ -2455,7 +2569,7 @@ In fact, I might do a book signing event in Dubai soon. Who wants to come?
 Slowly but surely.
 
 ---
-@cz_binance | ❤️ 4090 | 🔁 492 | 💬 573 | 👁 325827]]></description>
+@cz_binance | ❤️ 4096 | 🔁 492 | 💬 576 | 👁 327605]]></description>
       <author>@cz_binance</author>
     </item>
     <item>
@@ -2466,7 +2580,7 @@ Slowly but surely.
       <description><![CDATA[LATEST: 🇭🇰 Hong Kong has granted its first stablecoin licences to HSBC and Anchorpoint Financial under the HKMA's new framework. https://t.co/mLtpmCKEH0
 
 ---
-@CoinMarketCap | ❤️ 234 | 🔁 46 | 💬 26 | 👁 18490]]></description>
+@CoinMarketCap | ❤️ 235 | 🔁 46 | 💬 26 | 👁 18516]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2510,7 +2624,7 @@ What you can do:
 🔍 Zoom in on the image to see the top 10 coins and compare current rates!
 
 ---
-@CoinMarketCap | ❤️ 55 | 🔁 13 | 💬 15 | 👁 12351]]></description>
+@CoinMarketCap | ❤️ 56 | 🔁 13 | 💬 15 | 👁 12368]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2521,7 +2635,7 @@ What you can do:
       <description><![CDATA[今年最valuable的技能是什么？学会规划+执行！发现别人没有意识到的价值，然后真正去执行它。从Xero离职后，我发现策略规划变成了我的核心优势。不仅专业能力更强，财务、心理和身体状况也都比一年前好很多。这就是成长的力量！ https://t.co/uY2kYTKWWy
 
 ---
-@bearliu | ❤️ 21 | 🔁 0 | 💬 0 | 👁 3657]]></description>
+@bearliu | ❤️ 21 | 🔁 0 | 💬 0 | 👁 3659]]></description>
       <author>@bearliu</author>
     </item>
     <item>
@@ -2532,7 +2646,7 @@ What you can do:
       <description><![CDATA[RT @SawyerMerritt: NEWS: The Tesla Model Y was the top-selling passenger vehicle in China in March 2026, with 39,827 retail registrations,…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 741 | 💬 0 | 👁 116]]></description>
+@elonmusk | ❤️ 0 | 🔁 742 | 💬 0 | 👁 116]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2543,7 +2657,7 @@ What you can do:
       <description><![CDATA[LATEST: ⚡ Bitcoin can be made quantum-safe today without a protocol upgrade, though each transaction could cost $75 to $150 in GPU compute, according to StarkWare’s Avihu Levy. https://t.co/15C9y71Sbz
 
 ---
-@CoinMarketCap | ❤️ 200 | 🔁 42 | 💬 58 | 👁 18291]]></description>
+@CoinMarketCap | ❤️ 201 | 🔁 42 | 💬 58 | 👁 18367]]></description>
       <author>@CoinMarketCap</author>
     </item>
     <item>
@@ -2554,7 +2668,7 @@ What you can do:
       <description><![CDATA[Tesla Semi
 
 ---
-@elonmusk | ❤️ 72191 | 🔁 9251 | 💬 3871 | 👁 13728364]]></description>
+@elonmusk | ❤️ 72546 | 🔁 9307 | 💬 3884 | 👁 13818267]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
@@ -2565,7 +2679,7 @@ What you can do:
       <description><![CDATA[ChatGPT Plus 套餐真的改 Codex 用量规则了，和 Claude Pro 差不多了，三四十分钟就能干完五小时窗口了。看来稍微想做点编程任务都需要上 100 刀的 ChatGPT Pro 套餐了。 https://t.co/CJRFRcFZrp
 
 ---
-@tualatrix | ❤️ 369 | 🔁 19 | 💬 47 | 👁 73598]]></description>
+@tualatrix | ❤️ 369 | 🔁 19 | 💬 47 | 👁 73664]]></description>
       <author>@tualatrix</author>
     </item>
     <item>
@@ -2591,7 +2705,7 @@ The Capital Connect Masters Tournament is now open for professional trading te�
       <description><![CDATA[在上海和啵啵体验一天亚比夜生活✌🏻 https://t.co/QIlKMfNp2P
 
 ---
-@turingou | ❤️ 108 | 🔁 1 | 💬 4 | 👁 44666]]></description>
+@turingou | ❤️ 108 | 🔁 1 | 💬 4 | 👁 44726]]></description>
       <author>@turingou</author>
     </item>
     <item>
@@ -2602,121 +2716,8 @@ The Capital Connect Masters Tournament is now open for professional trading te�
       <description><![CDATA[LATEST: 🇯🇵 Japan has approved an amendment to its Financial Instruments and Exchange Act that would classify crypto as a financial instrument, ban insider trading and require annual issuer disclosures. https://t.co/Tpy7uCc3E2
 
 ---
-@CoinMarketCap | ❤️ 337 | 🔁 60 | 💬 41 | 👁 28805]]></description>
+@CoinMarketCap | ❤️ 338 | 🔁 60 | 💬 41 | 👁 28829]]></description>
       <author>@CoinMarketCap</author>
-    </item>
-    <item>
-      <title>RT @XFreeze: Grok and Tesla FSD are literally saving lives
-
-Here are the two real live stories from ...</title>
-      <link>https://x.com/elonmusk/status/2042598755955020111</link>
-      <guid isPermaLink="false">2042598755955020111</guid>
-      <pubDate>Fri, 10 Apr 2026 13:41:07 +0000</pubDate>
-      <description><![CDATA[RT @XFreeze: Grok and Tesla FSD are literally saving lives
-
-Here are the two real live stories from 2026:
-
-➝  A man had a massive heart att…
-
----
-@elonmusk | ❤️ 0 | 🔁 992 | 💬 0 | 👁 136]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @cb_doge: ELON MUSK: “You can tell which side is the good side &amp;amp; which side is the bad si...</title>
-      <link>https://x.com/elonmusk/status/2042598534290247953</link>
-      <guid isPermaLink="false">2042598534290247953</guid>
-      <pubDate>Fri, 10 Apr 2026 13:40:14 +0000</pubDate>
-      <description><![CDATA[RT @cb_doge: ELON MUSK: “You can tell which side is the good side &amp;amp; which side is the bad side by which side wishes to restrict freedom of…
-
----
-@elonmusk | ❤️ 0 | 🔁 6277 | 💬 0 | 👁 114]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>We are so back. https://t.co/wOScpIaMMc</title>
-      <link>https://x.com/coinbase/status/2042596591115104294</link>
-      <guid isPermaLink="false">2042596591115104294</guid>
-      <pubDate>Fri, 10 Apr 2026 13:32:31 +0000</pubDate>
-      <description><![CDATA[We are so back. https://t.co/wOScpIaMMc
-
----
-@coinbase | ❤️ 1015 | 🔁 86 | 💬 247 | 👁 87437]]></description>
-      <author>@coinbase</author>
-    </item>
-    <item>
-      <title>公园里徒步，偶遇一个雕塑将一棵老树雕成一个图腾。
-
-也是天晴的时候了，如果阴雨大雾，一定非常有克苏鲁的气质。 https://t.co/duaVcAkxUQ</title>
-      <link>https://x.com/bearliu/status/2042590936669049098</link>
-      <guid isPermaLink="false">2042590936669049098</guid>
-      <pubDate>Fri, 10 Apr 2026 13:10:03 +0000</pubDate>
-      <description><![CDATA[公园里徒步，偶遇一个雕塑将一棵老树雕成一个图腾。
-
-也是天晴的时候了，如果阴雨大雾，一定非常有克苏鲁的气质。 https://t.co/duaVcAkxUQ
-
----
-@bearliu | ❤️ 13 | 🔁 0 | 💬 2 | 👁 2810]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>LATEST: 📈 BlackRock's Bitcoin ETF pulled in $269 million on Thursday, its best single day since earl...</title>
-      <link>https://x.com/CoinMarketCap/status/2042588956475199537</link>
-      <guid isPermaLink="false">2042588956475199537</guid>
-      <pubDate>Fri, 10 Apr 2026 13:02:11 +0000</pubDate>
-      <description><![CDATA[LATEST: 📈 BlackRock's Bitcoin ETF pulled in $269 million on Thursday, its best single day since early March, pushing US spot BTC ETFs to $358 million in net inflows, according to Farside Investors. https://t.co/PV7x70Wi6f
-
----
-@CoinMarketCap | ❤️ 174 | 🔁 40 | 💬 27 | 👁 13702]]></description>
-      <author>@CoinMarketCap</author>
-    </item>
-    <item>
-      <title>What’s the one coin you refuse to sell? 🙅‍♂️</title>
-      <link>https://x.com/CoinMarketCap/status/2042588542811922884</link>
-      <guid isPermaLink="false">2042588542811922884</guid>
-      <pubDate>Fri, 10 Apr 2026 13:00:32 +0000</pubDate>
-      <description><![CDATA[What’s the one coin you refuse to sell? 🙅‍♂️
-
----
-@CoinMarketCap | ❤️ 855 | 🔁 140 | 💬 1076 | 👁 125352]]></description>
-      <author>@CoinMarketCap</author>
-    </item>
-    <item>
-      <title>💡 CoinMarketCap | Wallet Portfolio Update 💡
-
-Your on-chain assets deserve a proper dashboard. 
-We’ve...</title>
-      <link>https://x.com/CoinMarketCap/status/2042588446141686044</link>
-      <guid isPermaLink="false">2042588446141686044</guid>
-      <pubDate>Fri, 10 Apr 2026 13:00:09 +0000</pubDate>
-      <description><![CDATA[💡 CoinMarketCap | Wallet Portfolio Update 💡
-
-Your on-chain assets deserve a proper dashboard. 
-We’ve upgraded the Wallet Portfolio UI so you can:
-
-🔷 Track Win Rate, Buy/Sell Volumes, and Transactions
-🔷 Spot your Best &amp; Worst performers
-🔷 Visualize your gains with the new Profit Barchart
-
-🧠 Pro Tip: No wallet connection needed!
-You can paste ANY public address and track it 👀
-
----
-@CoinMarketCap | ❤️ 36 | 🔁 4 | 💬 11 | 👁 10708]]></description>
-      <author>@CoinMarketCap</author>
-    </item>
-    <item>
-      <title>RT @AtakanElik_: Did you know that if you have a ChatGPT/Codex Plus or Pro subscription, you can use...</title>
-      <link>https://x.com/Teknium/status/2042587352170999937</link>
-      <guid isPermaLink="false">2042587352170999937</guid>
-      <pubDate>Fri, 10 Apr 2026 12:55:48 +0000</pubDate>
-      <description><![CDATA[RT @AtakanElik_: Did you know that if you have a ChatGPT/Codex Plus or Pro subscription, you can use it directly with your Hermes Agent?
-
-J…
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
-      <author>@Teknium</author>
     </item>
   </channel>
 </rss>
