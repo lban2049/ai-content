@@ -5,170 +5,61 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:31:27 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>这张图非常直观，谁在推动进步一目了然 https://t.co/Es3rS0p4wI</title>
-      <link>https://x.com/oran_ge/status/2043222064686113274</link>
-      <guid isPermaLink="false">2043222064686113274</guid>
-      <pubDate>Sun, 12 Apr 2026 06:57:56 +0000</pubDate>
-      <description><![CDATA[这张图非常直观，谁在推动进步一目了然 https://t.co/Es3rS0p4wI
-
----
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 1 | 👁 109]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>RT @1a1n1d1y: total. agentic. victory. https://t.co/nv7hQjPQck</title>
-      <link>https://x.com/Teknium/status/2043221793008505309</link>
-      <guid isPermaLink="false">2043221793008505309</guid>
-      <pubDate>Sun, 12 Apr 2026 06:56:51 +0000</pubDate>
-      <description><![CDATA[RT @1a1n1d1y: total. agentic. victory. https://t.co/nv7hQjPQck
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>So glad to hear it!</title>
-      <link>https://x.com/Teknium/status/2043221693850902565</link>
-      <guid isPermaLink="false">2043221693850902565</guid>
-      <pubDate>Sun, 12 Apr 2026 06:56:27 +0000</pubDate>
-      <description><![CDATA[So glad to hear it!
-
----
-@Teknium | ❤️ 1 | 🔁 0 | 💬 0 | 👁 143]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @cheery9998: Hermes Agent从2月发布到现在不过两个月，GitHub已经突破5万星，社区增速极快，它的核心架构是对的一个会越用越聪明、有真正记忆的Agent，是AI工具发展...</title>
-      <link>https://x.com/Teknium/status/2043221662225863129</link>
-      <guid isPermaLink="false">2043221662225863129</guid>
-      <pubDate>Sun, 12 Apr 2026 06:56:20 +0000</pubDate>
-      <description><![CDATA[RT @cheery9998: Hermes Agent从2月发布到现在不过两个月，GitHub已经突破5万星，社区增速极快，它的核心架构是对的一个会越用越聪明、有真正记忆的Agent，是AI工具发展的正确方向。
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @YakuzaDaddy: Thinking of setting up a Hermes agent tonight. I keep hearing really good things ab...</title>
-      <link>https://x.com/Teknium/status/2043221000725389568</link>
-      <guid isPermaLink="false">2043221000725389568</guid>
-      <pubDate>Sun, 12 Apr 2026 06:53:42 +0000</pubDate>
-      <description><![CDATA[RT @YakuzaDaddy: Thinking of setting up a Hermes agent tonight. I keep hearing really good things about @NousResearch   
-
-If you have any g…
+      <title>RT @docjais: @Teknium Hermes did in 24 hours of non stop coding -&quot;Congratulations This is an ex...</title>
+      <link>https://x.com/Teknium/status/2043229384124117201</link>
+      <guid isPermaLink="false">2043229384124117201</guid>
+      <pubDate>Sun, 12 Apr 2026 07:27:01 +0000</pubDate>
+      <description><![CDATA[RT @docjais: @Teknium Hermes did in 24 hours of non stop coding -&quot;Congratulations This is an exceptionally impressive production-grade medi…
 
 ---
 @Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>Welcome to Hermes Gang!</title>
-      <link>https://x.com/Teknium/status/2043220405012586628</link>
-      <guid isPermaLink="false">2043220405012586628</guid>
-      <pubDate>Sun, 12 Apr 2026 06:51:20 +0000</pubDate>
-      <description><![CDATA[Welcome to Hermes Gang!
+      <title>Starship https://t.co/IXZN5XqYDk</title>
+      <link>https://x.com/elonmusk/status/2043225145356263772</link>
+      <guid isPermaLink="false">2043225145356263772</guid>
+      <pubDate>Sun, 12 Apr 2026 07:10:10 +0000</pubDate>
+      <description><![CDATA[Starship https://t.co/IXZN5XqYDk
 
 ---
-@Teknium | ❤️ 5 | 🔁 0 | 💬 1 | 👁 368]]></description>
-      <author>@Teknium</author>
+@elonmusk | ❤️ 16476 | 🔁 1348 | 💬 2011 | 👁 491315]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @JulianGoldieSEO: Hermes 0.8 just quietly changed what AI agents can do.
-
-Not upgraded.
-
-Changed....</title>
-      <link>https://x.com/Teknium/status/2043220201886699617</link>
-      <guid isPermaLink="false">2043220201886699617</guid>
-      <pubDate>Sun, 12 Apr 2026 06:50:31 +0000</pubDate>
-      <description><![CDATA[RT @JulianGoldieSEO: Hermes 0.8 just quietly changed what AI agents can do.
-
-Not upgraded.
-
-Changed.
-
-Your agent can now run tasks in the b…
+      <title>x 这段时间对ai伪人的打击非常到位
+下一步要干诱饵震惊贴了
+为了流量而流量一定会被反噬
+希望早日回到那个朴实无华的x https://t.co/7pTbqDQeOf</title>
+      <link>https://x.com/oran_ge/status/2043225070806692202</link>
+      <guid isPermaLink="false">2043225070806692202</guid>
+      <pubDate>Sun, 12 Apr 2026 07:09:52 +0000</pubDate>
+      <description><![CDATA[x 这段时间对ai伪人的打击非常到位
+下一步要干诱饵震惊贴了
+为了流量而流量一定会被反噬
+希望早日回到那个朴实无华的x https://t.co/7pTbqDQeOf
 
 ---
-@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@oran_ge | ❤️ 6 | 🔁 0 | 💬 4 | 👁 834]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>RT @ShaneRobinett: Giant fan of @Teknium and what they have done with #HermesAgent at @NousResearch ...</title>
-      <link>https://x.com/Teknium/status/2043219879311052808</link>
-      <guid isPermaLink="false">2043219879311052808</guid>
-      <pubDate>Sun, 12 Apr 2026 06:49:15 +0000</pubDate>
-      <description><![CDATA[RT @ShaneRobinett: Giant fan of @Teknium and what they have done with #HermesAgent at @NousResearch .  I realize I am one of dozens working…
+      <title>RT @realsigridjin: open-source my own k8s helm chart for hermes agent
+
+aims to strict state-safety, ...</title>
+      <link>https://x.com/Teknium/status/2043224081814974580</link>
+      <guid isPermaLink="false">2043224081814974580</guid>
+      <pubDate>Sun, 12 Apr 2026 07:05:57 +0000</pubDate>
+      <description><![CDATA[RT @realsigridjin: open-source my own k8s helm chart for hermes agent
+
+aims to strict state-safety, external secrets, istio support, and op…
 
 ---
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @yoniebans: this has been incredible to watch in realtime. hermes agent is an insane productivity...</title>
-      <link>https://x.com/Teknium/status/2043219120309850172</link>
-      <guid isPermaLink="false">2043219120309850172</guid>
-      <pubDate>Sun, 12 Apr 2026 06:46:14 +0000</pubDate>
-      <description><![CDATA[RT @yoniebans: this has been incredible to watch in realtime. hermes agent is an insane productivity multiplier! onwards and upwards
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @its_brill_: @Teknium Been using Hermes’ agent for a couple weeks now and it gets better every ti...</title>
-      <link>https://x.com/Teknium/status/2043217619852067044</link>
-      <guid isPermaLink="false">2043217619852067044</guid>
-      <pubDate>Sun, 12 Apr 2026 06:40:16 +0000</pubDate>
-      <description><![CDATA[RT @its_brill_: @Teknium Been using Hermes’ agent for a couple weeks now and it gets better every time I interact with my Hermes’ agent sta…
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>Thank you!</title>
-      <link>https://x.com/Teknium/status/2043216961447043288</link>
-      <guid isPermaLink="false">2043216961447043288</guid>
-      <pubDate>Sun, 12 Apr 2026 06:37:39 +0000</pubDate>
-      <description><![CDATA[Thank you!
-
----
-@Teknium | ❤️ 4 | 🔁 0 | 💬 0 | 👁 499]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @bilion1983: https://t.co/0iN1kLFELq</title>
-      <link>https://x.com/Teknium/status/2043216723961352428</link>
-      <guid isPermaLink="false">2043216723961352428</guid>
-      <pubDate>Sun, 12 Apr 2026 06:36:42 +0000</pubDate>
-      <description><![CDATA[RT @bilion1983: https://t.co/0iN1kLFELq
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @NousResearch: 给中国用户的好消息：Hermes Agent 现在原生支持个人微信了
-
-微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 ...</title>
-      <link>https://x.com/NousResearch/status/2043215718657757205</link>
-      <guid isPermaLink="false">2043215718657757205</guid>
-      <pubDate>Sun, 12 Apr 2026 06:32:43 +0000</pubDate>
-      <description><![CDATA[RT @NousResearch: 给中国用户的好消息：Hermes Agent 现在原生支持个人微信了
-
-微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 IP。
-
-运行 'hermes update' 即可体验
-
-文档：https:…
-
----
-@NousResearch | ❤️ 0 | 🔁 485 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
