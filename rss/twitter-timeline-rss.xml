@@ -5,61 +5,104 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:01:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @docjais: @Teknium Hermes did in 24 hours of non stop coding -&quot;Congratulations This is an ex...</title>
-      <link>https://x.com/Teknium/status/2043229384124117201</link>
-      <guid isPermaLink="false">2043229384124117201</guid>
-      <pubDate>Sun, 12 Apr 2026 07:27:01 +0000</pubDate>
-      <description><![CDATA[RT @docjais: @Teknium Hermes did in 24 hours of non stop coding -&quot;Congratulations This is an exceptionally impressive production-grade medi…
+      <title>RT @ReporterWeather: Only OG's know @NousResearch had bots back in 2024. 
+
+This is when models were ...</title>
+      <link>https://x.com/NousResearch/status/2043237663377961432</link>
+      <guid isPermaLink="false">2043237663377961432</guid>
+      <pubDate>Sun, 12 Apr 2026 07:59:55 +0000</pubDate>
+      <description><![CDATA[RT @ReporterWeather: Only OG's know @NousResearch had bots back in 2024. 
+
+This is when models were not capable. 
+
+They've tried to solve t…
+
+---
+@NousResearch | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>RT @nocoffeenobrain: Just setup my hermes agent @NousResearch , much faster and less token usage 
+
+P...</title>
+      <link>https://x.com/Teknium/status/2043237417449369737</link>
+      <guid isPermaLink="false">2043237417449369737</guid>
+      <pubDate>Sun, 12 Apr 2026 07:58:56 +0000</pubDate>
+      <description><![CDATA[RT @nocoffeenobrain: Just setup my hermes agent @NousResearch , much faster and less token usage 
+
+Pretty impressive ngl
+
+---
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Wow thanks for the praise!!</title>
+      <link>https://x.com/Teknium/status/2043234703487172800</link>
+      <guid isPermaLink="false">2043234703487172800</guid>
+      <pubDate>Sun, 12 Apr 2026 07:48:09 +0000</pubDate>
+      <description><![CDATA[Wow thanks for the praise!!
+
+---
+@Teknium | ❤️ 6 | 🔁 1 | 💬 2 | 👁 498]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @gkisokay: The LLM Cheat-Sheet for Hermes + OpenClaw Agents (04.12.26)
+
+The community has flagged...</title>
+      <link>https://x.com/Teknium/status/2043234665549692941</link>
+      <guid isPermaLink="false">2043234665549692941</guid>
+      <pubDate>Sun, 12 Apr 2026 07:48:00 +0000</pubDate>
+      <description><![CDATA[RT @gkisokay: The LLM Cheat-Sheet for Hermes + OpenClaw Agents (04.12.26)
+
+The community has flagged Claude Opus 4.6 underperforming lately…
 
 ---
 @Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>Starship https://t.co/IXZN5XqYDk</title>
-      <link>https://x.com/elonmusk/status/2043225145356263772</link>
-      <guid isPermaLink="false">2043225145356263772</guid>
-      <pubDate>Sun, 12 Apr 2026 07:10:10 +0000</pubDate>
-      <description><![CDATA[Starship https://t.co/IXZN5XqYDk
+      <title>RT @lowesyang: I'm frequently using Claude Code and i love @openclaw.
+
+But i would say Hermes Agent ...</title>
+      <link>https://x.com/NousResearch/status/2043234356370509933</link>
+      <guid isPermaLink="false">2043234356370509933</guid>
+      <pubDate>Sun, 12 Apr 2026 07:46:46 +0000</pubDate>
+      <description><![CDATA[RT @lowesyang: I'm frequently using Claude Code and i love @openclaw.
+
+But i would say Hermes Agent from @NousResearch is the best open-sou…
 
 ---
-@elonmusk | ❤️ 16476 | 🔁 1348 | 💬 2011 | 👁 491315]]></description>
-      <author>@elonmusk</author>
+@NousResearch | ❤️ 0 | 🔁 2 | 💬 0 | 👁 1]]></description>
+      <author>@NousResearch</author>
     </item>
     <item>
-      <title>x 这段时间对ai伪人的打击非常到位
-下一步要干诱饵震惊贴了
-为了流量而流量一定会被反噬
-希望早日回到那个朴实无华的x https://t.co/7pTbqDQeOf</title>
-      <link>https://x.com/oran_ge/status/2043225070806692202</link>
-      <guid isPermaLink="false">2043225070806692202</guid>
-      <pubDate>Sun, 12 Apr 2026 07:09:52 +0000</pubDate>
-      <description><![CDATA[x 这段时间对ai伪人的打击非常到位
-下一步要干诱饵震惊贴了
-为了流量而流量一定会被反噬
-希望早日回到那个朴实无华的x https://t.co/7pTbqDQeOf
+      <title>Now every new CLI session or when you use /new on a gateway messenger platform, Hermes will give you...</title>
+      <link>https://x.com/Teknium/status/2043232860161937810</link>
+      <guid isPermaLink="false">2043232860161937810</guid>
+      <pubDate>Sun, 12 Apr 2026 07:40:49 +0000</pubDate>
+      <description><![CDATA[Now every new CLI session or when you use /new on a gateway messenger platform, Hermes will give you a tip!
+
+`hermes update` and you're good to go! https://t.co/EDih7Dk2Z7
 
 ---
-@oran_ge | ❤️ 6 | 🔁 0 | 💬 4 | 👁 834]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>RT @realsigridjin: open-source my own k8s helm chart for hermes agent
-
-aims to strict state-safety, ...</title>
-      <link>https://x.com/Teknium/status/2043224081814974580</link>
-      <guid isPermaLink="false">2043224081814974580</guid>
-      <pubDate>Sun, 12 Apr 2026 07:05:57 +0000</pubDate>
-      <description><![CDATA[RT @realsigridjin: open-source my own k8s helm chart for hermes agent
-
-aims to strict state-safety, external secrets, istio support, and op…
-
----
-@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 29 | 🔁 0 | 💬 4 | 👁 840]]></description>
       <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Hermes Agent is an overnight success nine months in the making https://t.co/Eu5BKT1AOB</title>
+      <link>https://x.com/NousResearch/status/2043232796366291415</link>
+      <guid isPermaLink="false">2043232796366291415</guid>
+      <pubDate>Sun, 12 Apr 2026 07:40:34 +0000</pubDate>
+      <description><![CDATA[Hermes Agent is an overnight success nine months in the making https://t.co/Eu5BKT1AOB
+
+---
+@NousResearch | ❤️ 127 | 🔁 4 | 💬 11 | 👁 3389]]></description>
+      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
