@@ -5,28 +5,29 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 03:43:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 04:01:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @timyangnet: 再复述一下上次的观点：
-
-不少人热衷用龙虾等 agent 做自动资讯摘要，心理错觉自己已经有 10x 阅读效率提升，但提升的更多是搬运效率，不是阅读效率。
-
-因为阅读的...</title>
-      <link>https://x.com/dotey/status/2043171447221207329</link>
-      <guid isPermaLink="false">2043171447221207329</guid>
-      <pubDate>Sun, 12 Apr 2026 03:36:47 +0000</pubDate>
-      <description><![CDATA[RT @timyangnet: 再复述一下上次的观点：
-
-不少人热衷用龙虾等 agent 做自动资讯摘要，心理错觉自己已经有 10x 阅读效率提升，但提升的更多是搬运效率，不是阅读效率。
-
-因为阅读的真正瓶颈，在于理解和洞见，自动摘要对这一步帮助很有限。
-
-有人会认为 agen…
+      <title>RT @inferencetoken: Here’s my OpenAI vaguepost https://t.co/ufrhJIMJgs</title>
+      <link>https://x.com/nickbaumann_/status/2043175827324711166</link>
+      <guid isPermaLink="false">2043175827324711166</guid>
+      <pubDate>Sun, 12 Apr 2026 03:54:12 +0000</pubDate>
+      <description><![CDATA[RT @inferencetoken: Here’s my OpenAI vaguepost https://t.co/ufrhJIMJgs
 
 ---
-@dotey | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@dotey</author>
+@nickbaumann_ | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>RT @teodorio: I told my girlfriend I was talking with my Hermes agent on Whatsapp. She got really ha...</title>
+      <link>https://x.com/NousResearch/status/2043175287647572284</link>
+      <guid isPermaLink="false">2043175287647572284</guid>
+      <pubDate>Sun, 12 Apr 2026 03:52:03 +0000</pubDate>
+      <description><![CDATA[RT @teodorio: I told my girlfriend I was talking with my Hermes agent on Whatsapp. She got really happy and a bit confused and asked me sin…
+
+---
+@NousResearch | ❤️ 0 | 🔁 31 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
