@@ -5,6 +5,63 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 04:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 05:01:24 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RT @SpaceX: Starship and Super Heavy move out to continue preflight testing https://t.co/zYN1fkvNIk</title>
+      <link>https://x.com/elonmusk/status/2043191692212551894</link>
+      <guid isPermaLink="false">2043191692212551894</guid>
+      <pubDate>Sun, 12 Apr 2026 04:57:14 +0000</pubDate>
+      <description><![CDATA[RT @SpaceX: Starship and Super Heavy move out to continue preflight testing https://t.co/zYN1fkvNIk
+
+---
+@elonmusk | ❤️ 0 | 🔁 615 | 💬 0 | 👁 6]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @Yuchenj_UW: MiniMax M2.7 is open-source!
+
+The most interesting part of its blog is the “model’s ...</title>
+      <link>https://x.com/MiniMax_AI/status/2043190656924045619</link>
+      <guid isPermaLink="false">2043190656924045619</guid>
+      <pubDate>Sun, 12 Apr 2026 04:53:07 +0000</pubDate>
+      <description><![CDATA[RT @Yuchenj_UW: MiniMax M2.7 is open-source!
+
+The most interesting part of its blog is the “model’s self-evolution.”
+
+It’s essentially Karp…
+
+---
+@MiniMax_AI | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@MiniMax_AI</author>
+    </item>
+    <item>
+      <title>MiniMax M2.7 is now live on @ollama's cloud. 
+
+Open-source, licensed for commercial use, and running...</title>
+      <link>https://x.com/MiniMax_AI/status/2043186753100796326</link>
+      <guid isPermaLink="false">2043186753100796326</guid>
+      <pubDate>Sun, 12 Apr 2026 04:37:37 +0000</pubDate>
+      <description><![CDATA[MiniMax M2.7 is now live on @ollama's cloud. 
+
+Open-source, licensed for commercial use, and running with a single command.
+
+Huge thanks to the @ollama team for the Day-0 support. 🙌
+
+---
+@MiniMax_AI | ❤️ 58 | 🔁 7 | 💬 5 | 👁 2438]]></description>
+      <author>@MiniMax_AI</author>
+    </item>
+    <item>
+      <title>Also can find on modelScope. https://t.co/Eh9PimiY1R</title>
+      <link>https://x.com/MiniMax_AI/status/2043181256159244523</link>
+      <guid isPermaLink="false">2043181256159244523</guid>
+      <pubDate>Sun, 12 Apr 2026 04:15:46 +0000</pubDate>
+      <description><![CDATA[Also can find on modelScope. https://t.co/Eh9PimiY1R
+
+---
+@MiniMax_AI | ❤️ 4 | 🔁 0 | 💬 0 | 👁 1533]]></description>
+      <author>@MiniMax_AI</author>
+    </item>
   </channel>
 </rss>
