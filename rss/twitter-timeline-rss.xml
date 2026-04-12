@@ -5,63 +5,153 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 05:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 05:31:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @SpaceX: Starship and Super Heavy move out to continue preflight testing https://t.co/zYN1fkvNIk</title>
-      <link>https://x.com/elonmusk/status/2043191692212551894</link>
-      <guid isPermaLink="false">2043191692212551894</guid>
-      <pubDate>Sun, 12 Apr 2026 04:57:14 +0000</pubDate>
-      <description><![CDATA[RT @SpaceX: Starship and Super Heavy move out to continue preflight testing https://t.co/zYN1fkvNIk
+      <title>Tip of the day - this exists buil in to hermes. To cast the spell on the llm of your choice simply t...</title>
+      <link>https://x.com/Teknium/status/2043198939965567373</link>
+      <guid isPermaLink="false">2043198939965567373</guid>
+      <pubDate>Sun, 12 Apr 2026 05:26:02 +0000</pubDate>
+      <description><![CDATA[Tip of the day - this exists buil in to hermes. To cast the spell on the llm of your choice simply type /obliteratus on a new message 🤗
 
 ---
-@elonmusk | ❤️ 0 | 🔁 615 | 💬 0 | 👁 6]]></description>
+@Teknium | ❤️ 10 | 🔁 0 | 💬 0 | 👁 264]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>@Teknium https://t.co/CCZKhHoaoc</title>
+      <link>https://x.com/NousResearch/status/2043198903688761427</link>
+      <guid isPermaLink="false">2043198903688761427</guid>
+      <pubDate>Sun, 12 Apr 2026 05:25:54 +0000</pubDate>
+      <description><![CDATA[@Teknium https://t.co/CCZKhHoaoc
+
+---
+@NousResearch | ❤️ 0 | 🔁 0 | 💬 0 | 👁 63]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Its that easy</title>
+      <link>https://x.com/Teknium/status/2043198489908462049</link>
+      <guid isPermaLink="false">2043198489908462049</guid>
+      <pubDate>Sun, 12 Apr 2026 05:24:15 +0000</pubDate>
+      <description><![CDATA[Its that easy
+
+---
+@Teknium | ❤️ 2 | 🔁 0 | 💬 0 | 👁 258]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @LufzzLiz: 牛逼，Hermes Agent 在OpenRouter tokens消耗日榜单已经排名第二了 👍 https://t.co/XN0ZOeu5ux</title>
+      <link>https://x.com/Teknium/status/2043198351030767855</link>
+      <guid isPermaLink="false">2043198351030767855</guid>
+      <pubDate>Sun, 12 Apr 2026 05:23:42 +0000</pubDate>
+      <description><![CDATA[RT @LufzzLiz: 牛逼，Hermes Agent 在OpenRouter tokens消耗日榜单已经排名第二了 👍 https://t.co/XN0ZOeu5ux
+
+---
+@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @BruceBlue: 🚀 被 Hermes Agent 干出人生级 AHA 时刻！
+
+前两天我只是随口说了一句：帮我搜一下 @karpathy 的 The LLM Wiki。
+
+结果 Herm...</title>
+      <link>https://x.com/Teknium/status/2043198252758258062</link>
+      <guid isPermaLink="false">2043198252758258062</guid>
+      <pubDate>Sun, 12 Apr 2026 05:23:18 +0000</pubDate>
+      <description><![CDATA[RT @BruceBlue: 🚀 被 Hermes Agent 干出人生级 AHA 时刻！
+
+前两天我只是随口说了一句：帮我搜一下 @karpathy 的 The LLM Wiki。
+
+结果 Hermes 不光搜完，直接把整个 LLM Wiki 的完整构建计划给我弄好了！ 从整…
+
+---
+@Teknium | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @teslajapan: Model Y🌸 https://t.co/XhGyAjQvgs</title>
+      <link>https://x.com/elonmusk/status/2043197709226803634</link>
+      <guid isPermaLink="false">2043197709226803634</guid>
+      <pubDate>Sun, 12 Apr 2026 05:21:09 +0000</pubDate>
+      <description><![CDATA[RT @teslajapan: Model Y🌸 https://t.co/XhGyAjQvgs
+
+---
+@elonmusk | ❤️ 0 | 🔁 114 | 💬 0 | 👁 12]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @Yuchenj_UW: MiniMax M2.7 is open-source!
-
-The most interesting part of its blog is the “model’s ...</title>
-      <link>https://x.com/MiniMax_AI/status/2043190656924045619</link>
-      <guid isPermaLink="false">2043190656924045619</guid>
-      <pubDate>Sun, 12 Apr 2026 04:53:07 +0000</pubDate>
-      <description><![CDATA[RT @Yuchenj_UW: MiniMax M2.7 is open-source!
-
-The most interesting part of its blog is the “model’s self-evolution.”
-
-It’s essentially Karp…
+      <title>RT @hosseeb: Migrating my OpenClaw to Hermes Agent tonight. Will update this thread with how it goes...</title>
+      <link>https://x.com/Teknium/status/2043197690205618684</link>
+      <guid isPermaLink="false">2043197690205618684</guid>
+      <pubDate>Sun, 12 Apr 2026 05:21:04 +0000</pubDate>
+      <description><![CDATA[RT @hosseeb: Migrating my OpenClaw to Hermes Agent tonight. Will update this thread with how it goes.
 
 ---
-@MiniMax_AI | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Muahahaha</title>
+      <link>https://x.com/Teknium/status/2043197569724289114</link>
+      <guid isPermaLink="false">2043197569724289114</guid>
+      <pubDate>Sun, 12 Apr 2026 05:20:36 +0000</pubDate>
+      <description><![CDATA[Muahahaha
+
+---
+@Teknium | ❤️ 8 | 🔁 0 | 💬 2 | 👁 364]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>vibe 时代让已经在 AI 之前就构建好的基础设施获得广泛受益，我可以想象到 6-12 个月之后 cloudflare 也会有类似的图表。</title>
+      <link>https://x.com/turingou/status/2043196982949544283</link>
+      <guid isPermaLink="false">2043196982949544283</guid>
+      <pubDate>Sun, 12 Apr 2026 05:18:16 +0000</pubDate>
+      <description><![CDATA[vibe 时代让已经在 AI 之前就构建好的基础设施获得广泛受益，我可以想象到 6-12 个月之后 cloudflare 也会有类似的图表。
+
+---
+@turingou | ❤️ 3 | 🔁 0 | 💬 0 | 👁 1324]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>Day-0 vLLM support for MiniMax M2.7 is now live. 🙌
+
+Huge thanks to the @vllm_project team for enabli...</title>
+      <link>https://x.com/MiniMax_AI/status/2043195951670780337</link>
+      <guid isPermaLink="false">2043195951670780337</guid>
+      <pubDate>Sun, 12 Apr 2026 05:14:10 +0000</pubDate>
+      <description><![CDATA[Day-0 vLLM support for MiniMax M2.7 is now live. 🙌
+
+Huge thanks to the @vllm_project team for enabling the open-source community to run M2.7 from day one.
+
+👉 Get started: https://t.co/DKvDd1mwRC
+
+---
+@MiniMax_AI | ❤️ 25 | 🔁 3 | 💬 3 | 👁 1714]]></description>
       <author>@MiniMax_AI</author>
     </item>
     <item>
-      <title>MiniMax M2.7 is now live on @ollama's cloud. 
-
-Open-source, licensed for commercial use, and running...</title>
-      <link>https://x.com/MiniMax_AI/status/2043186753100796326</link>
-      <guid isPermaLink="false">2043186753100796326</guid>
-      <pubDate>Sun, 12 Apr 2026 04:37:37 +0000</pubDate>
-      <description><![CDATA[MiniMax M2.7 is now live on @ollama's cloud. 
-
-Open-source, licensed for commercial use, and running with a single command.
-
-Huge thanks to the @ollama team for the Day-0 support. 🙌
+      <title>好有意思的想法，这让我想到是不是许多销售驱动的生意都可以改为“帮你抽卡”模式</title>
+      <link>https://x.com/turingou/status/2043195904275136890</link>
+      <guid isPermaLink="false">2043195904275136890</guid>
+      <pubDate>Sun, 12 Apr 2026 05:13:58 +0000</pubDate>
+      <description><![CDATA[好有意思的想法，这让我想到是不是许多销售驱动的生意都可以改为“帮你抽卡”模式
 
 ---
-@MiniMax_AI | ❤️ 58 | 🔁 7 | 💬 5 | 👁 2438]]></description>
-      <author>@MiniMax_AI</author>
+@turingou | ❤️ 4 | 🔁 0 | 💬 0 | 👁 1267]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>Also can find on modelScope. https://t.co/Eh9PimiY1R</title>
-      <link>https://x.com/MiniMax_AI/status/2043181256159244523</link>
-      <guid isPermaLink="false">2043181256159244523</guid>
-      <pubDate>Sun, 12 Apr 2026 04:15:46 +0000</pubDate>
-      <description><![CDATA[Also can find on modelScope. https://t.co/Eh9PimiY1R
+      <title>RT @Rothmus: https://t.co/YSzlmtXCRK</title>
+      <link>https://x.com/elonmusk/status/2043193386308628990</link>
+      <guid isPermaLink="false">2043193386308628990</guid>
+      <pubDate>Sun, 12 Apr 2026 05:03:58 +0000</pubDate>
+      <description><![CDATA[RT @Rothmus: https://t.co/YSzlmtXCRK
 
 ---
-@MiniMax_AI | ❤️ 4 | 🔁 0 | 💬 0 | 👁 1533]]></description>
-      <author>@MiniMax_AI</author>
+@elonmusk | ❤️ 0 | 🔁 586 | 💬 0 | 👁 35]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
