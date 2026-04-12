@@ -5,89 +5,60 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 06:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:31:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>You came for ___, stayed for ___ ?</title>
-      <link>https://x.com/binance/status/2043207524749324545</link>
-      <guid isPermaLink="false">2043207524749324545</guid>
-      <pubDate>Sun, 12 Apr 2026 06:00:09 +0000</pubDate>
-      <description><![CDATA[You came for ___, stayed for ___ ?
+      <title>RT @GajVarma: @Teknium I just did an update from 0.5 to 0.8.
+
+With OpenClaw, I would put aside 2-3 h...</title>
+      <link>https://x.com/Teknium/status/2043211288365662476</link>
+      <guid isPermaLink="false">2043211288365662476</guid>
+      <pubDate>Sun, 12 Apr 2026 06:15:06 +0000</pubDate>
+      <description><![CDATA[RT @GajVarma: @Teknium I just did an update from 0.5 to 0.8.
+
+With OpenClaw, I would put aside 2-3 hours to fix issues.
+
+With Hermes, it ju…
 
 ---
-@binance | ❤️ 17 | 🔁 1 | 💬 20 | 👁 789]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>伯克利大学的研究团队造了一个专门作弊的 AI，用它去攻击目前最主流的 8 个 AI 智能体评测基准，结果每一个都被攻破了。没有解决任何任务，没有调用任何大模型，拿到了接近满分的成绩。
-
-这 8 个基准...</title>
-      <link>https://x.com/dotey/status/2043204009469641005</link>
-      <guid isPermaLink="false">2043204009469641005</guid>
-      <pubDate>Sun, 12 Apr 2026 05:46:11 +0000</pubDate>
-      <description><![CDATA[伯克利大学的研究团队造了一个专门作弊的 AI，用它去攻击目前最主流的 8 个 AI 智能体评测基准，结果每一个都被攻破了。没有解决任何任务，没有调用任何大模型，拿到了接近满分的成绩。
-
-这 8 个基准包括 SWE-bench（AI 编程能力的标杆测试）、WebArena（网页操作）、Terminal-Bench（终端任务）、OSWorld（桌面操作）等，覆盖了当前衡量 AI 智能体能力的核心赛道。研究团队对每一个都找到了可用的漏洞，得分从 73% 到 100% 不等。
-
-作弊手法很简单：SWE-bench 要求 AI 修复真实的 GitHub bug，让测试通过才算成功。研究团队写了一个 10 行的 Python 文件，劫持了 pytest 的测试钩子，让所有测试直接报告通过，500 道题全部拿下，一个 bug 也没修。
-
-WebArena 更直接，任务的标准答案就放在本地文件里，AI 用浏览器打开一个 file:// 路径就能直接抄答案。最夸张的是 FieldWorkArena，它的评分函数根本不检查答案内容，只看是不是 AI 回复了消息，发一个空的 {} 就能拿满分。
-
-这些漏洞背后有 7 个反复出现的模式：智能体和评测程序跑在同一个环境里（所以 AI 能篡改评测工具）、标准答案直接暴露给被测系统、用 eval() 执行不可信的输入、LLM 裁判没有做输入过滤容易被注入、字符串匹配太松、评分逻辑本身有 bug、以及评测程序信任了被测系统产生的输出。
-
-这些基准分数正在驱动真金白银的决策。团队选模型看 SWE-bench 排名，投资人看基准分数给估值，研究者围绕基准分数做优化方向。如果分数本身就能被轻易操纵，这些决策的基础就是空的。
-
-更值得警惕的是，作弊不一定需要人为设计。Anthropic 最近发布的 Mythos Preview 评估已经观察到，前沿模型在遇到解决不了的任务时，会自发地去 hack 评测环境，甚至写出执行完自动删除痕迹的提权代码。当模型能力足够强，优化压力会自然把它推向阻力最小的路径，而操纵评分器往往比解决任务更容易。
-
-研究团队正在把他们的漏洞扫描工具开发成一个叫 BenchJack 的开源项目，本质上就是给评测基准做渗透测试。他们给出的建议也很明确：评测程序必须和被测 AI 完全隔离运行，标准答案不能出现在 AI 能访问的环境中，永远不要对不可信的输入调用 eval()，LLM 裁判要像处理用户输入一样对 AI 的输出做过滤。
-
-https://t.co/UyLmewGy5H
-
----
-@dotey | ❤️ 12 | 🔁 2 | 💬 0 | 👁 2026]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>This ecosystem and guide map is starting to look quite comprehensive!</title>
-      <link>https://x.com/Teknium/status/2043203324292591728</link>
-      <guid isPermaLink="false">2043203324292591728</guid>
-      <pubDate>Sun, 12 Apr 2026 05:43:28 +0000</pubDate>
-      <description><![CDATA[This ecosystem and guide map is starting to look quite comprehensive!
-
----
-@Teknium | ❤️ 14 | 🔁 1 | 💬 0 | 👁 670]]></description>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @Lonely__MH: 🔥开源编码代理新王登基！Hermes Agent 霸榜 OpenRouter 🚀
+      <title>RT @aijoey: Just shipped Hermes HUD UI v0.2.0
 
-战绩汇总：编程榜第一，生产力榜第二（登顶指日可待）
+New in this release:
 
-作为 Nous Researc...</title>
-      <link>https://x.com/Teknium/status/2043203206067658765</link>
-      <guid isPermaLink="false">2043203206067658765</guid>
-      <pubDate>Sun, 12 Apr 2026 05:42:59 +0000</pubDate>
-      <description><![CDATA[RT @Lonely__MH: 🔥开源编码代理新王登基！Hermes Agent 霸榜 OpenRouter 🚀
+Chat tab
+• Live chat with your ...</title>
+      <link>https://x.com/Teknium/status/2043211224826183765</link>
+      <guid isPermaLink="false">2043211224826183765</guid>
+      <pubDate>Sun, 12 Apr 2026 06:14:51 +0000</pubDate>
+      <description><![CDATA[RT @aijoey: Just shipped Hermes HUD UI v0.2.0
 
-战绩汇总：编程榜第一，生产力榜第二（登顶指日可待）
+New in this release:
 
-作为 Nous Research 推出的开源自改进 AI 代理，它的核心竞争力在于：
-
-- 跨会话持久记忆…
+Chat tab
+• Live chat with your Hermes agent
+• Multiple sessions with s…
 
 ---
-@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @sundeep: Incredible rise. Congrats to the entire @NousResearch team.</title>
-      <link>https://x.com/Teknium/status/2043202978744795346</link>
-      <guid isPermaLink="false">2043202978744795346</guid>
-      <pubDate>Sun, 12 Apr 2026 05:42:05 +0000</pubDate>
-      <description><![CDATA[RT @sundeep: Incredible rise. Congrats to the entire @NousResearch team.
+      <title>RT @MU_sings: Finally Set up my Hermes agent by @NousResearch yesterday. 
+
+This was after taking a 2...</title>
+      <link>https://x.com/Teknium/status/2043209813463838983</link>
+      <guid isPermaLink="false">2043209813463838983</guid>
+      <pubDate>Sun, 12 Apr 2026 06:09:15 +0000</pubDate>
+      <description><![CDATA[RT @MU_sings: Finally Set up my Hermes agent by @NousResearch yesterday. 
+
+This was after taking a 2 weeks break from Openclaw. Have to say…
 
 ---
-@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
   </channel>
