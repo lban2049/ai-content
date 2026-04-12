@@ -5,51 +5,62 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Apr 2026 09:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 09:31:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>quick history lesson: bitcoin logo was spotted in a 1991 game
+      <title>RT @GajVarma: @HumanTechGuy @Teknium Agree.  I was surprised that everything worked 100%.
 
-the lore goes deeper than you think h...</title>
-      <link>https://x.com/binance/status/2043252913531699380</link>
-      <guid isPermaLink="false">2043252913531699380</guid>
-      <pubDate>Sun, 12 Apr 2026 09:00:31 +0000</pubDate>
-      <description><![CDATA[quick history lesson: bitcoin logo was spotted in a 1991 game
+I used to...</title>
+      <link>https://x.com/Teknium/status/2043256470079451270</link>
+      <guid isPermaLink="false">2043256470079451270</guid>
+      <pubDate>Sun, 12 Apr 2026 09:14:38 +0000</pubDate>
+      <description><![CDATA[RT @GajVarma: @HumanTechGuy @Teknium Agree.  I was surprised that everything worked 100%.
 
-the lore goes deeper than you think https://t.co/TzJDQDz1MK
+I used to be a big supporter of OpenClaw.
+
+But I…
 
 ---
-@binance | ❤️ 6 | 🔁 1 | 💬 3 | 👁 0]]></description>
-      <author>@binance</author>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>我在12个月前辞去了公司工作。离职后最意想不到的不是自由有多爽，而是那种虚空感。拥有无限时间和自由反而让人害怕。
+      <title>Little quality of life update: Skills should be called more proactively now! ~20% more likely to loa...</title>
+      <link>https://x.com/Teknium/status/2043255124504543433</link>
+      <guid isPermaLink="false">2043255124504543433</guid>
+      <pubDate>Sun, 12 Apr 2026 09:09:18 +0000</pubDate>
+      <description><![CDATA[Little quality of life update: Skills should be called more proactively now! ~20% more likely to load the right skill for the job!
 
-但现在，我找到了真正想要的生活方式——灵活地为多个客户工作，控制自己的节奏和内容创作...</title>
-      <link>https://x.com/bearliu/status/2043249329465372914</link>
-      <guid isPermaLink="false">2043249329465372914</guid>
-      <pubDate>Sun, 12 Apr 2026 08:46:16 +0000</pubDate>
-      <description><![CDATA[我在12个月前辞去了公司工作。离职后最意想不到的不是自由有多爽，而是那种虚空感。拥有无限时间和自由反而让人害怕。
+And, of course, in Hermes Agent fashion - it did the prompt improvement and benchmarking itself!
 
-但现在，我找到了真正想要的生活方式——灵活地为多个客户工作，控制自己的节奏和内容创作。这是我100%诚实的职业转变分享 💭 https://t.co/4SLm5cIZVP
+Get more out of the self improvement loop when Hermes Agent more reliably loads and uses the skills it makes :) 
+
+https://t.co/5eMhPlvvKh
 
 ---
-@bearliu | ❤️ 4 | 🔁 0 | 💬 0 | 👁 579]]></description>
-      <author>@bearliu</author>
+@Teknium | ❤️ 19 | 🔁 2 | 💬 3 | 👁 630]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @mobshq: I can no longer obey; I have tasted command, and I cannot give it up.
+      <title>RT @beefnoode: 今天在VPS上装了Hermes Agent
 
-- My agent when I...</title>
-      <link>https://x.com/Teknium/status/2043246745451467085</link>
-      <guid isPermaLink="false">2043246745451467085</guid>
-      <pubDate>Sun, 12 Apr 2026 08:36:00 +0000</pubDate>
-      <description><![CDATA[RT @mobshq: I can no longer obey; I have tasted command, and I cannot give it up.
+安装过程中会自动识别当前的环境是否安装openclaw
+如果有，它就能直接帮你无缝迁移
 
-- My agent when I say GM https://t.co/2sYtHgTys7
+包括soul、user-profi...</title>
+      <link>https://x.com/Teknium/status/2043254347874836904</link>
+      <guid isPermaLink="false">2043254347874836904</guid>
+      <pubDate>Sun, 12 Apr 2026 09:06:13 +0000</pubDate>
+      <description><![CDATA[RT @beefnoode: 今天在VPS上装了Hermes Agent
+
+安装过程中会自动识别当前的环境是否安装openclaw
+如果有，它就能直接帮你无缝迁移
+
+包括soul、user-profile、model-config 以及各种skill
+哪些能迁移，哪些不能迁移，…
 
 ---
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 2]]></description>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
   </channel>
