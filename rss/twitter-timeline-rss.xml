@@ -5,74 +5,66 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:31:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @cb_doge: South Africa’s ANC government is pushing even more racist rules that help only black pe...</title>
-      <link>https://x.com/elonmusk/status/2043734917390184507</link>
-      <guid isPermaLink="false">2043734917390184507</guid>
-      <pubDate>Mon, 13 Apr 2026 16:55:49 +0000</pubDate>
-      <description><![CDATA[RT @cb_doge: South Africa’s ANC government is pushing even more racist rules that help only black people and shut out everyone else:
-
-• The…
+      <title>RT @airkatakana: gemini-cli has a headless mode option, which is obviously supposed to be used to ru...</title>
+      <link>https://x.com/steipete/status/2043742157773971634</link>
+      <guid isPermaLink="false">2043742157773971634</guid>
+      <pubDate>Mon, 13 Apr 2026 17:24:35 +0000</pubDate>
+      <description><![CDATA[RT @airkatakana: gemini-cli has a headless mode option, which is obviously supposed to be used to run it in automated scripts, but if you a…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 81 | 💬 0 | 👁 1]]></description>
-      <author>@elonmusk</author>
+@steipete | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>RT @SawyerMerritt: EVs ranked by total unit sold in the U.S. in Q1 2026.
-
-1) Tesla Model Y: 78,591
-2...</title>
-      <link>https://x.com/elonmusk/status/2043734774490247255</link>
-      <guid isPermaLink="false">2043734774490247255</guid>
-      <pubDate>Mon, 13 Apr 2026 16:55:15 +0000</pubDate>
-      <description><![CDATA[RT @SawyerMerritt: EVs ranked by total unit sold in the U.S. in Q1 2026.
-
-1) Tesla Model Y: 78,591
-2) Tesla Model 3: 31,672
-3) Toyota bZ: 1…
+      <title>How I'm using the Codex App today vs. just 2 weeks ago is night &amp;amp; day</title>
+      <link>https://x.com/nickbaumann_/status/2043738955057901584</link>
+      <guid isPermaLink="false">2043738955057901584</guid>
+      <pubDate>Mon, 13 Apr 2026 17:11:52 +0000</pubDate>
+      <description><![CDATA[How I'm using the Codex App today vs. just 2 weeks ago is night &amp;amp; day
 
 ---
-@elonmusk | ❤️ 0 | 🔁 132 | 💬 0 | 👁 2]]></description>
-      <author>@elonmusk</author>
+@nickbaumann_ | ❤️ 20 | 🔁 0 | 💬 6 | 👁 351]]></description>
+      <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>Awesome article!</title>
-      <link>https://x.com/Teknium/status/2043734621519785987</link>
-      <guid isPermaLink="false">2043734621519785987</guid>
-      <pubDate>Mon, 13 Apr 2026 16:54:39 +0000</pubDate>
-      <description><![CDATA[Awesome article!
+      <title>推荐配合阅读：
+https://t.co/zLsyQds36v</title>
+      <link>https://x.com/dotey/status/2043738054062404029</link>
+      <guid isPermaLink="false">2043738054062404029</guid>
+      <pubDate>Mon, 13 Apr 2026 17:08:17 +0000</pubDate>
+      <description><![CDATA[推荐配合阅读：
+https://t.co/zLsyQds36v
 
 ---
-@Teknium | ❤️ 4 | 🔁 0 | 💬 0 | 👁 349]]></description>
-      <author>@Teknium</author>
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 807]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>RT @gkisokay: Day 6 of Building AGI for my Hermes Agent: The Crew Arrives 🧠
+      <title>开发者 Can Vardar 发现，Claude Code 里如果关闭遥测（telemetry，即向 Anthropic 回传使用数据），提示缓存时间会从 1 小时骤降到 5 分钟，他算了笔账说这相当...</title>
+      <link>https://x.com/dotey/status/2043737757915209956</link>
+      <guid isPermaLink="false">2043737757915209956</guid>
+      <pubDate>Mon, 13 Apr 2026 17:07:06 +0000</pubDate>
+      <description><![CDATA[开发者 Can Vardar 发现，Claude Code 里如果关闭遥测（telemetry，即向 Anthropic 回传使用数据），提示缓存时间会从 1 小时骤降到 5 分钟，他算了笔账说这相当于隐私换 12 倍性能，给 Anthropic 扣了个邪恶公司的帽子。
 
-Today, the system stopp...</title>
-      <link>https://x.com/Teknium/status/2043734527466672395</link>
-      <guid isPermaLink="false">2043734527466672395</guid>
-      <pubDate>Mon, 13 Apr 2026 16:54:16 +0000</pubDate>
-      <description><![CDATA[RT @gkisokay: Day 6 of Building AGI for my Hermes Agent: The Crew Arrives 🧠
+这条推文传开后，Anthropic 工程师 Boris Cherny 出来做了详细回应。
 
-Today, the system stopped being a single experimental mind and…
+Claude Code 的缓存策略一直是个黑盒子，Boris 的这条推文把里面的细节讲的比较清楚了，推荐可以仔细看看。
+
+他先澄清了一个误解：1 小时缓存并不是无条件更好。缓存写入成本更高、读取成本更低，划不划算取决于你怎么用。如果你只是跑了一次查询就走了，1 小时缓存反而浪费钱，因为你付了写入的高价却没享受到反复读取的便宜价。
+
+实际上 Anthropic 一直在根据使用场景做精细化调整。比如子任务（subagent）很少被恢复，给它 1 小时缓存纯属白花钱，所以这类查询就保留 5 分钟。API 用户目前也没有默认开启 1 小时缓存，还在测试阶段。
+
+关掉遥测导致缓存变短，Boris 说这其实是个连带效应：遥测关闭后，客户端的实验开关也跟着失效了，系统读到的就是默认值 5 分钟。换句话说，这不是故意惩罚，是技术实现上的耦合问题。
+
+Boris 还透露了后续计划：很快会把部分查询的客户端默认值改成 1 小时，同时提供环境变量让用户自己强制切换 1 小时或 5 分钟。
+
+至于12 倍性能差距，Boris 说远没有那么夸张，实际节省的 Token 量并不大。
 
 ---
-@Teknium | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>澄清一下，这个选项默认确实是关闭的，所以我不认为作者是恶意启用这个功能，可能只是bug或者我自己修改配置导致的 https://t.co/gs5sInuO7X</title>
-      <link>https://x.com/dotey/status/2043732168967405787</link>
-      <guid isPermaLink="false">2043732168967405787</guid>
-      <pubDate>Mon, 13 Apr 2026 16:44:54 +0000</pubDate>
-      <description><![CDATA[澄清一下，这个选项默认确实是关闭的，所以我不认为作者是恶意启用这个功能，可能只是bug或者我自己修改配置导致的 https://t.co/gs5sInuO7X
-
----
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 590]]></description>
+@dotey | ❤️ 14 | 🔁 2 | 💬 1 | 👁 3489]]></description>
       <author>@dotey</author>
     </item>
   </channel>
