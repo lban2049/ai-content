@@ -5,6 +5,22 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:31:24 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RT @BinanceAcademy: Your AI trading co-pilot is here.
+
+Binance Ai Pro can help you analyze markets, ...</title>
+      <link>https://x.com/binance/status/2043647527468286044</link>
+      <guid isPermaLink="false">2043647527468286044</guid>
+      <pubDate>Mon, 13 Apr 2026 11:08:34 +0000</pubDate>
+      <description><![CDATA[RT @BinanceAcademy: Your AI trading co-pilot is here.
+
+Binance Ai Pro can help you analyze markets, execute trades, monitor your portfolio,…
+
+---
+@binance | ❤️ 0 | 🔁 28 | 💬 0 | 👁 2]]></description>
+      <author>@binance</author>
+    </item>
   </channel>
 </rss>
