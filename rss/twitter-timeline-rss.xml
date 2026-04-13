@@ -5,55 +5,33 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 20:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:01:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>We're coming claude code and codex 👀👀</title>
-      <link>https://x.com/Teknium/status/2043787291362234507</link>
-      <guid isPermaLink="false">2043787291362234507</guid>
-      <pubDate>Mon, 13 Apr 2026 20:23:56 +0000</pubDate>
-      <description><![CDATA[We're coming claude code and codex 👀👀
+      <title>Love to hear it!</title>
+      <link>https://x.com/Teknium/status/2043794497851797882</link>
+      <guid isPermaLink="false">2043794497851797882</guid>
+      <pubDate>Mon, 13 Apr 2026 20:52:34 +0000</pubDate>
+      <description><![CDATA[Love to hear it!
 
 ---
-@Teknium | ❤️ 18 | 🔁 0 | 💬 1 | 👁 640]]></description>
+@Teknium | ❤️ 3 | 🔁 0 | 💬 0 | 👁 453]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>Welcome to Hermes Gang!</title>
-      <link>https://x.com/Teknium/status/2043786952001106354</link>
-      <guid isPermaLink="false">2043786952001106354</guid>
-      <pubDate>Mon, 13 Apr 2026 20:22:35 +0000</pubDate>
-      <description><![CDATA[Welcome to Hermes Gang!
+      <title>The Hermes Agent dashboard is here!
+
+Run 'hermes dashboard' https://t.co/qu1Gwnz6BG</title>
+      <link>https://x.com/NousResearch/status/2043791876835156362</link>
+      <guid isPermaLink="false">2043791876835156362</guid>
+      <pubDate>Mon, 13 Apr 2026 20:42:09 +0000</pubDate>
+      <description><![CDATA[The Hermes Agent dashboard is here!
+
+Run 'hermes dashboard' https://t.co/qu1Gwnz6BG
 
 ---
-@Teknium | ❤️ 9 | 🔁 1 | 💬 0 | 👁 535]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @builtwithjon: @NousResearch @Teknium - Nice UI - very Writer of you.  First thing I did was deac...</title>
-      <link>https://x.com/Teknium/status/2043784241889341691</link>
-      <guid isPermaLink="false">2043784241889341691</guid>
-      <pubDate>Mon, 13 Apr 2026 20:11:49 +0000</pubDate>
-      <description><![CDATA[RT @builtwithjon: @NousResearch @Teknium - Nice UI - very Writer of you.  First thing I did was deactivate all the Skills I'm not using. ht…
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>Really exciting to see teams building with M2.7 at the YC robotics hackathon!
-
-Congrats to Team Wild...</title>
-      <link>https://x.com/MiniMax_AI/status/2043782304015790554</link>
-      <guid isPermaLink="false">2043782304015790554</guid>
-      <pubDate>Mon, 13 Apr 2026 20:04:07 +0000</pubDate>
-      <description><![CDATA[Really exciting to see teams building with M2.7 at the YC robotics hackathon!
-
-Congrats to Team Wild Robot on the innovative skill generation pipeline, and thanks to @VictorSuOrtiz for sharing this from the ground. Looking to see more of this!
-
----
-@MiniMax_AI | ❤️ 13 | 🔁 0 | 💬 1 | 👁 934]]></description>
-      <author>@MiniMax_AI</author>
+@NousResearch | ❤️ 106 | 🔁 5 | 💬 12 | 👁 2921]]></description>
+      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
