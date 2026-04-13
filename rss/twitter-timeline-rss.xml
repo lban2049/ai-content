@@ -5,29 +5,40 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 18:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 19:00:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @TheCaptainEli: It’s fascinating how everyone who has something negative to say about Elon Musk b...</title>
-      <link>https://x.com/elonmusk/status/2043752638337143191</link>
-      <guid isPermaLink="false">2043752638337143191</guid>
-      <pubDate>Mon, 13 Apr 2026 18:06:14 +0000</pubDate>
-      <description><![CDATA[RT @TheCaptainEli: It’s fascinating how everyone who has something negative to say about Elon Musk bases it entirely on politics or recycle…
+      <title>RT @_RyanBoyle_: @farzyness This has been my experience as well. GPT-5.4 just works in Hermes. It ca...</title>
+      <link>https://x.com/Teknium/status/2043760600829063356</link>
+      <guid isPermaLink="false">2043760600829063356</guid>
+      <pubDate>Mon, 13 Apr 2026 18:37:53 +0000</pubDate>
+      <description><![CDATA[RT @_RyanBoyle_: @farzyness This has been my experience as well. GPT-5.4 just works in Hermes. It can be frustrating at times in OC
 
 ---
-@elonmusk | ❤️ 0 | 🔁 293 | 💬 0 | 👁 23]]></description>
-      <author>@elonmusk</author>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>True currency is steadfast friendship</title>
-      <link>https://x.com/elonmusk/status/2043752073079161078</link>
-      <guid isPermaLink="false">2043752073079161078</guid>
-      <pubDate>Mon, 13 Apr 2026 18:03:59 +0000</pubDate>
-      <description><![CDATA[True currency is steadfast friendship
+      <title>RT @Rigario: @farzyness Hermes is the only harness that actually improves the LLM that is used with ...</title>
+      <link>https://x.com/Teknium/status/2043760288785375620</link>
+      <guid isPermaLink="false">2043760288785375620</guid>
+      <pubDate>Mon, 13 Apr 2026 18:36:38 +0000</pubDate>
+      <description><![CDATA[RT @Rigario: @farzyness Hermes is the only harness that actually improves the LLM that is used with it. At least of the ones I've tried.…
 
 ---
-@elonmusk | ❤️ 16492 | 🔁 1923 | 💬 3175 | 👁 1440166]]></description>
-      <author>@elonmusk</author>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Hermes actually self improved the prompting and steering for GPT-5.4 too! Glad to hear it's working ...</title>
+      <link>https://x.com/Teknium/status/2043760016147263982</link>
+      <guid isPermaLink="false">2043760016147263982</guid>
+      <pubDate>Mon, 13 Apr 2026 18:35:33 +0000</pubDate>
+      <description><![CDATA[Hermes actually self improved the prompting and steering for GPT-5.4 too! Glad to hear it's working well!
+
+---
+@Teknium | ❤️ 34 | 🔁 0 | 💬 6 | 👁 1514]]></description>
+      <author>@Teknium</author>
     </item>
   </channel>
 </rss>
