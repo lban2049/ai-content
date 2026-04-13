@@ -5,44 +5,58 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:00:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @ankushKun_: bro what @Teknium hermes agent is GOATed af! https://t.co/qbSHMjV2z3</title>
-      <link>https://x.com/Teknium/status/2043622818072629544</link>
-      <guid isPermaLink="false">2043622818072629544</guid>
-      <pubDate>Mon, 13 Apr 2026 09:30:23 +0000</pubDate>
-      <description><![CDATA[RT @ankushKun_: bro what @Teknium hermes agent is GOATed af! https://t.co/qbSHMjV2z3
+      <title>RT @0xAllen: Hermes Agent 最被低估的不是模型，是那个 .env 文件。今天把最近总结的 5 个技巧一次性交出来。
+
+文中不涉及过多操作教程，谨慎阅读！
+
+一、主模型 &amp...</title>
+      <link>https://x.com/Teknium/status/2043626252196798689</link>
+      <guid isPermaLink="false">2043626252196798689</guid>
+      <pubDate>Mon, 13 Apr 2026 09:44:01 +0000</pubDate>
+      <description><![CDATA[RT @0xAllen: Hermes Agent 最被低估的不是模型，是那个 .env 文件。今天把最近总结的 5 个技巧一次性交出来。
+
+文中不涉及过多操作教程，谨慎阅读！
+
+一、主模型 &amp;amp; 备模型
+
+Hermes 在 Token… https://t.co/2IBaoBT…
 
 ---
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>@Jason_Young1231 Hermes could definitely use it :)</title>
-      <link>https://x.com/Teknium/status/2043622557707100216</link>
-      <guid isPermaLink="false">2043622557707100216</guid>
-      <pubDate>Mon, 13 Apr 2026 09:29:21 +0000</pubDate>
-      <description><![CDATA[@Jason_Young1231 Hermes could definitely use it :)
+      <title>@oran_ge 维导的所有电影都非常有意境，《降临》、《银翼杀手 2049》以及《沙丘》系列。</title>
+      <link>https://x.com/bearliu/status/2043624348028903849</link>
+      <guid isPermaLink="false">2043624348028903849</guid>
+      <pubDate>Mon, 13 Apr 2026 09:36:27 +0000</pubDate>
+      <description><![CDATA[@oran_ge 维导的所有电影都非常有意境，《降临》、《银翼杀手 2049》以及《沙丘》系列。
 
 ---
-@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 4]]></description>
-      <author>@Teknium</author>
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 124]]></description>
+      <author>@bearliu</author>
     </item>
     <item>
-      <title>We are working through the night to continue to scale capacity for Ollama's cloud. 
+      <title>RT @Alvin0617: Hermes 的出現已經動了各大 AI 巨頭手上的餅了
+4 月開始出現爆量 📈
 
-Apologies if yo...</title>
-      <link>https://x.com/ollama/status/2043619568959341027</link>
-      <guid isPermaLink="false">2043619568959341027</guid>
-      <pubDate>Mon, 13 Apr 2026 09:17:28 +0000</pubDate>
-      <description><![CDATA[We are working through the night to continue to scale capacity for Ollama's cloud. 
+💡Hermes 在 OpenRouter tokens 每日消耗榜單排名第二
+💡Prod...</title>
+      <link>https://x.com/Teknium/status/2043623268327055432</link>
+      <guid isPermaLink="false">2043623268327055432</guid>
+      <pubDate>Mon, 13 Apr 2026 09:32:10 +0000</pubDate>
+      <description><![CDATA[RT @Alvin0617: Hermes 的出現已經動了各大 AI 巨頭手上的餅了
+4 月開始出現爆量 📈
 
-Apologies if you see any performance degradation. https://t.co/vjMVT7e98d
+💡Hermes 在 OpenRouter tokens 每日消耗榜單排名第二
+💡Productivity 與 Personal Agents 排名僅次於 OpenCl…
 
 ---
-@ollama | ❤️ 22 | 🔁 0 | 💬 2 | 👁 886]]></description>
-      <author>@ollama</author>
+@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
   </channel>
 </rss>
