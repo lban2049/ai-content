@@ -5,81 +5,75 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:01:26 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Appreciate the response, Peter! I completely understand the challenges of managing support at this s...</title>
-      <link>https://x.com/dotey/status/2043728090866618639</link>
-      <guid isPermaLink="false">2043728090866618639</guid>
-      <pubDate>Mon, 13 Apr 2026 16:28:42 +0000</pubDate>
-      <description><![CDATA[Appreciate the response, Peter! I completely understand the challenges of managing support at this scale.
+      <title>RT @cb_doge: South Africa’s ANC government is pushing even more racist rules that help only black pe...</title>
+      <link>https://x.com/elonmusk/status/2043734917390184507</link>
+      <guid isPermaLink="false">2043734917390184507</guid>
+      <pubDate>Mon, 13 Apr 2026 16:55:49 +0000</pubDate>
+      <description><![CDATA[RT @cb_doge: South Africa’s ANC government is pushing even more racist rules that help only black people and shut out everyone else:
 
-To clarify, these aren't cases of different people choosing the same name. All my skills use the &quot;baoyu-&quot; prefix—a personal identifier I've used for years. The sniped slugs are literal carbon copies of my repo's content, not original works.
-
-Here is the error I’m hitting:
-
-Uncaught ConvexError: Slug is already taken. Choose a different slug.
-
-Since the git history (https://t.co/PLT3pVFaDE) confirms the original source, I’d love to see these reclaimed:
-
-baoyu-xhs-images : /zhanghongbao22/baoyu-xhs-images
-baoyu-diagram : /hxr918/baoyu-diagram
-baoyu-post-to-x : /liuhedev/baoyu-post-to-x
-baoyu-danger-gemini-web : /wjctim/baoyu-danger-gemini-web
-
-Thanks for looking into this!
+• The…
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 18]]></description>
+@elonmusk | ❤️ 0 | 🔁 81 | 💬 0 | 👁 1]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @SawyerMerritt: EVs ranked by total unit sold in the U.S. in Q1 2026.
+
+1) Tesla Model Y: 78,591
+2...</title>
+      <link>https://x.com/elonmusk/status/2043734774490247255</link>
+      <guid isPermaLink="false">2043734774490247255</guid>
+      <pubDate>Mon, 13 Apr 2026 16:55:15 +0000</pubDate>
+      <description><![CDATA[RT @SawyerMerritt: EVs ranked by total unit sold in the U.S. in Q1 2026.
+
+1) Tesla Model Y: 78,591
+2) Tesla Model 3: 31,672
+3) Toyota bZ: 1…
+
+---
+@elonmusk | ❤️ 0 | 🔁 132 | 💬 0 | 👁 2]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Awesome article!</title>
+      <link>https://x.com/Teknium/status/2043734621519785987</link>
+      <guid isPermaLink="false">2043734621519785987</guid>
+      <pubDate>Mon, 13 Apr 2026 16:54:39 +0000</pubDate>
+      <description><![CDATA[Awesome article!
+
+---
+@Teknium | ❤️ 4 | 🔁 0 | 💬 0 | 👁 349]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @gkisokay: Day 6 of Building AGI for my Hermes Agent: The Crew Arrives 🧠
+
+Today, the system stopp...</title>
+      <link>https://x.com/Teknium/status/2043734527466672395</link>
+      <guid isPermaLink="false">2043734527466672395</guid>
+      <pubDate>Mon, 13 Apr 2026 16:54:16 +0000</pubDate>
+      <description><![CDATA[RT @gkisokay: Day 6 of Building AGI for my Hermes Agent: The Crew Arrives 🧠
+
+Today, the system stopped being a single experimental mind and…
+
+---
+@Teknium | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>澄清一下，这个选项默认确实是关闭的，所以我不认为作者是恶意启用这个功能，可能只是bug或者我自己修改配置导致的 https://t.co/gs5sInuO7X</title>
+      <link>https://x.com/dotey/status/2043732168967405787</link>
+      <guid isPermaLink="false">2043732168967405787</guid>
+      <pubDate>Mon, 13 Apr 2026 16:44:54 +0000</pubDate>
+      <description><![CDATA[澄清一下，这个选项默认确实是关闭的，所以我不认为作者是恶意启用这个功能，可能只是bug或者我自己修改配置导致的 https://t.co/gs5sInuO7X
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 590]]></description>
       <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @cherry_mx_reds: A few more OpenClaw 2026.4.12 changes that didn’t make the first tweet 🦞
-
-🏠 Bett...</title>
-      <link>https://x.com/steipete/status/2043726001750900770</link>
-      <guid isPermaLink="false">2043726001750900770</guid>
-      <pubDate>Mon, 13 Apr 2026 16:20:24 +0000</pubDate>
-      <description><![CDATA[RT @cherry_mx_reds: A few more OpenClaw 2026.4.12 changes that didn’t make the first tweet 🦞
-
-🏠 Better local models with bundled LM Studio…
-
----
-@steipete | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>哈哈哈哈哈哈，看到很多吐槽 Claude 降智的推文，这条最好笑。</title>
-      <link>https://x.com/tualatrix/status/2043723305245687968</link>
-      <guid isPermaLink="false">2043723305245687968</guid>
-      <pubDate>Mon, 13 Apr 2026 16:09:41 +0000</pubDate>
-      <description><![CDATA[哈哈哈哈哈哈，看到很多吐槽 Claude 降智的推文，这条最好笑。
-
----
-@tualatrix | ❤️ 1 | 🔁 0 | 💬 0 | 👁 779]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>.@NorthropGrumman's Cygnus XL cargo craft, packed with quantum physics gear, a new blood stem cell s...</title>
-      <link>https://x.com/Space_Station/status/2043721940842483956</link>
-      <guid isPermaLink="false">2043721940842483956</guid>
-      <pubDate>Mon, 13 Apr 2026 16:04:15 +0000</pubDate>
-      <description><![CDATA[.@NorthropGrumman's Cygnus XL cargo craft, packed with quantum physics gear, a new blood stem cell study, and more, is approaching the station now for a robotic capture at 12:50pm ET today live on @NASA+. https://t.co/gBRaJfHPP8 https://t.co/gBRaJfHPP8
-
----
-@Space_Station | ❤️ 73 | 🔁 20 | 💬 4 | 👁 8478]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>Nostalgia, updated. https://t.co/jkAJyOJvxF</title>
-      <link>https://x.com/binance/status/2043721593885425873</link>
-      <guid isPermaLink="false">2043721593885425873</guid>
-      <pubDate>Mon, 13 Apr 2026 16:02:53 +0000</pubDate>
-      <description><![CDATA[Nostalgia, updated. https://t.co/jkAJyOJvxF
-
----
-@binance | ❤️ 277 | 🔁 18 | 💬 124 | 👁 17701]]></description>
-      <author>@binance</author>
     </item>
   </channel>
 </rss>
