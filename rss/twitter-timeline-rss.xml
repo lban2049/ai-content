@@ -5,67 +5,74 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:01:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @airkatakana: gemini-cli has a headless mode option, which is obviously supposed to be used to ru...</title>
-      <link>https://x.com/steipete/status/2043742157773971634</link>
-      <guid isPermaLink="false">2043742157773971634</guid>
-      <pubDate>Mon, 13 Apr 2026 17:24:35 +0000</pubDate>
-      <description><![CDATA[RT @airkatakana: gemini-cli has a headless mode option, which is obviously supposed to be used to run it in automated scripts, but if you a…
+      <title>What happened to all the Tesla killers that legacy press and hedge fund short sellers predicted were...</title>
+      <link>https://x.com/elonmusk/status/2043751159773704483</link>
+      <guid isPermaLink="false">2043751159773704483</guid>
+      <pubDate>Mon, 13 Apr 2026 18:00:22 +0000</pubDate>
+      <description><![CDATA[What happened to all the Tesla killers that legacy press and hedge fund short sellers predicted were coming? 🤔
 
 ---
-@steipete | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@elonmusk | ❤️ 65 | 🔁 31 | 💬 31 | 👁 361]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>How I'm using the Codex App today vs. just 2 weeks ago is night &amp;amp; day</title>
-      <link>https://x.com/nickbaumann_/status/2043738955057901584</link>
-      <guid isPermaLink="false">2043738955057901584</guid>
-      <pubDate>Mon, 13 Apr 2026 17:11:52 +0000</pubDate>
-      <description><![CDATA[How I'm using the Codex App today vs. just 2 weeks ago is night &amp;amp; day
+      <title>turning on the lights &amp;lt; turning on Binance https://t.co/5Q4E8C53k9</title>
+      <link>https://x.com/binance/status/2043751141305966821</link>
+      <guid isPermaLink="false">2043751141305966821</guid>
+      <pubDate>Mon, 13 Apr 2026 18:00:17 +0000</pubDate>
+      <description><![CDATA[turning on the lights &amp;lt; turning on Binance https://t.co/5Q4E8C53k9
 
 ---
-@nickbaumann_ | ❤️ 20 | 🔁 0 | 💬 6 | 👁 351]]></description>
-      <author>@nickbaumann_</author>
+@binance | ❤️ 18 | 🔁 2 | 💬 11 | 👁 383]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>推荐配合阅读：
-https://t.co/zLsyQds36v</title>
-      <link>https://x.com/dotey/status/2043738054062404029</link>
-      <guid isPermaLink="false">2043738054062404029</guid>
-      <pubDate>Mon, 13 Apr 2026 17:08:17 +0000</pubDate>
-      <description><![CDATA[推荐配合阅读：
-https://t.co/zLsyQds36v
+      <title>What if your agent could write you a song, sing as your AI companion, and curate a playlist from you...</title>
+      <link>https://x.com/MiniMax_AI/status/2043750042113323308</link>
+      <guid isPermaLink="false">2043750042113323308</guid>
+      <pubDate>Mon, 13 Apr 2026 17:55:55 +0000</pubDate>
+      <description><![CDATA[What if your agent could write you a song, sing as your AI companion, and curate a playlist from your library natively? 
+
+🎶Today we're open-sourcing three Music Skills:
+
+minimax-music-gen: one-line prompt to full track. Agent auto-picks original, instrumental, or cover.
+
+buddy-sings: your Claude Code character reads its own persona and sings in first person.
+
+minimax-music-playlist: agent scans your local music, learns your taste, builds your playlist.
+
+All three are tuned to run natively in MMX-CLI alongside Music 2.6 and the rest of our multimodal models. Connect a MiniMax Token Plan, add MMX-CLI, and your agent picks up the Skills on its own.
+
+Start here👉https://t.co/UEmNvPwChs
 
 ---
-@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 807]]></description>
-      <author>@dotey</author>
+@MiniMax_AI | ❤️ 9 | 🔁 1 | 💬 0 | 👁 359]]></description>
+      <author>@MiniMax_AI</author>
     </item>
     <item>
-      <title>开发者 Can Vardar 发现，Claude Code 里如果关闭遥测（telemetry，即向 Anthropic 回传使用数据），提示缓存时间会从 1 小时骤降到 5 分钟，他算了笔账说这相当...</title>
-      <link>https://x.com/dotey/status/2043737757915209956</link>
-      <guid isPermaLink="false">2043737757915209956</guid>
-      <pubDate>Mon, 13 Apr 2026 17:07:06 +0000</pubDate>
-      <description><![CDATA[开发者 Can Vardar 发现，Claude Code 里如果关闭遥测（telemetry，即向 Anthropic 回传使用数据），提示缓存时间会从 1 小时骤降到 5 分钟，他算了笔账说这相当于隐私换 12 倍性能，给 Anthropic 扣了个邪恶公司的帽子。
-
-这条推文传开后，Anthropic 工程师 Boris Cherny 出来做了详细回应。
-
-Claude Code 的缓存策略一直是个黑盒子，Boris 的这条推文把里面的细节讲的比较清楚了，推荐可以仔细看看。
-
-他先澄清了一个误解：1 小时缓存并不是无条件更好。缓存写入成本更高、读取成本更低，划不划算取决于你怎么用。如果你只是跑了一次查询就走了，1 小时缓存反而浪费钱，因为你付了写入的高价却没享受到反复读取的便宜价。
-
-实际上 Anthropic 一直在根据使用场景做精细化调整。比如子任务（subagent）很少被恢复，给它 1 小时缓存纯属白花钱，所以这类查询就保留 5 分钟。API 用户目前也没有默认开启 1 小时缓存，还在测试阶段。
-
-关掉遥测导致缓存变短，Boris 说这其实是个连带效应：遥测关闭后，客户端的实验开关也跟着失效了，系统读到的就是默认值 5 分钟。换句话说，这不是故意惩罚，是技术实现上的耦合问题。
-
-Boris 还透露了后续计划：很快会把部分查询的客户端默认值改成 1 小时，同时提供环境变量让用户自己强制切换 1 小时或 5 分钟。
-
-至于12 倍性能差距，Boris 说远没有那么夸张，实际节省的 Token 量并不大。
+      <title>Photographed and sent down from space moments ago! Afterward, @Astro_ChrisW operated the Canadarm2 r...</title>
+      <link>https://x.com/Space_Station/status/2043747669793763362</link>
+      <guid isPermaLink="false">2043747669793763362</guid>
+      <pubDate>Mon, 13 Apr 2026 17:46:30 +0000</pubDate>
+      <description><![CDATA[Photographed and sent down from space moments ago! Afterward, @Astro_ChrisW operated the Canadarm2 robotic arm and captured @northropgrumman’s Cygnus XL cargo spacecraft at 1:20pm ET today.
 
 ---
-@dotey | ❤️ 14 | 🔁 2 | 💬 1 | 👁 3489]]></description>
-      <author>@dotey</author>
+@Space_Station | ❤️ 85 | 🔁 18 | 💬 4 | 👁 9993]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>The Canadarm2 robotic arm, operated by @Astro_ChrisW, captured @NorthropGrumman's Cygnus XL cargo cr...</title>
+      <link>https://x.com/Space_Station/status/2043745942004797599</link>
+      <guid isPermaLink="false">2043745942004797599</guid>
+      <pubDate>Mon, 13 Apr 2026 17:39:38 +0000</pubDate>
+      <description><![CDATA[The Canadarm2 robotic arm, operated by @Astro_ChrisW, captured @NorthropGrumman's Cygnus XL cargo craft at 1:20pm ET today. Cygnus XL will be installed to the Unity module for cargo transfers later today. https://t.co/tJncdhgYDZ
+
+---
+@Space_Station | ❤️ 71 | 🔁 18 | 💬 3 | 👁 8063]]></description>
+      <author>@Space_Station</author>
     </item>
   </channel>
 </rss>
