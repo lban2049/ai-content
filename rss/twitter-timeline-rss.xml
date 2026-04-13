@@ -5,30 +5,6 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 13:30:49 +0000</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>新一期中文通讯出来了，这期聊的话题有点多，但每个都戳到我了。
-
-先说 AI 播客这件事——现在用 AI 生成的播客音频已经逼真到让人起鸡皮疙瘩的程度。它不只是「听起来像真人」，而是在内容结构、语气节奏...</title>
-      <link>https://x.com/bearliu/status/2043678098256744711</link>
-      <guid isPermaLink="false">2043678098256744711</guid>
-      <pubDate>Mon, 13 Apr 2026 13:10:02 +0000</pubDate>
-      <description><![CDATA[新一期中文通讯出来了，这期聊的话题有点多，但每个都戳到我了。
-
-先说 AI 播客这件事——现在用 AI 生成的播客音频已经逼真到让人起鸡皮疙瘩的程度。它不只是「听起来像真人」，而是在内容结构、语气节奏上都在模仿真实对话。这对内容创作者来说是个信号：门槛在降，但也意味着「真实感」会变成越来越稀缺的东西。
-
-然后是一个我自己也一直在想的问题：设计师到底要不要学 AI 开发？我的答案不是「要」或「不要」，而是——取决于你想成为哪种设计师。如果你想离决策更近、想在早期团队有更大影响力，懂一点实现逻辑真的会让你说话更有分量。
-
-最后聊到内容创作的护城河。AI 时代，什么样的内容是真的难以被替代的？我觉得答案不是「更多内容」，而是更强的视角、更稳定的风格、以及——你这个人本身带来的信任感。
-
-这期还有一些零散但有意思的观察，感兴趣的话去读原文吧。
-
-https://t.co/WMy03hBPbE
-
----
-@bearliu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 319]]></description>
-      <author>@bearliu</author>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 14:00:33 +0000</lastBuildDate>
   </channel>
 </rss>
