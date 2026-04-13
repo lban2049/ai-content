@@ -5,79 +5,43 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:31:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>社交媒体上大部分信息只会让人更焦虑</title>
-      <link>https://x.com/LBan2050/status/2043614317963329536</link>
-      <guid isPermaLink="false">2043614317963329536</guid>
-      <pubDate>Mon, 13 Apr 2026 08:56:36 +0000</pubDate>
-      <description><![CDATA[社交媒体上大部分信息只会让人更焦虑
+      <title>RT @ankushKun_: bro what @Teknium hermes agent is GOATed af! https://t.co/qbSHMjV2z3</title>
+      <link>https://x.com/Teknium/status/2043622818072629544</link>
+      <guid isPermaLink="false">2043622818072629544</guid>
+      <pubDate>Mon, 13 Apr 2026 09:30:23 +0000</pubDate>
+      <description><![CDATA[RT @ankushKun_: bro what @Teknium hermes agent is GOATed af! https://t.co/qbSHMjV2z3
 
 ---
-@LBan2050 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@LBan2050</author>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>Wow, thank you so much!
-
-CC Switch is a desktop app that helps users configure and manage providers ...</title>
-      <link>https://x.com/Jason_Young1231/status/2043609601099305005</link>
-      <guid isPermaLink="false">2043609601099305005</guid>
-      <pubDate>Mon, 13 Apr 2026 08:37:51 +0000</pubDate>
-      <description><![CDATA[Wow, thank you so much!
-
-CC Switch is a desktop app that helps users configure and manage providers for AI tools like Claude Code and Codex. It makes importing and switching providers much easier with a one-time setup and a single click, instead of making users deal with a bunch of environment variables. It also supports MCP, Skills, session management, and more.
-
-I’m currently working on Hermes support. I’d be truly grateful if you could recommend it if it turns out useful.
-
-I really love the Hermes project, especially the community around it. I’ve already been recommending it to people around me. Really appreciate your work!
+      <title>@Jason_Young1231 Hermes could definitely use it :)</title>
+      <link>https://x.com/Teknium/status/2043622557707100216</link>
+      <guid isPermaLink="false">2043622557707100216</guid>
+      <pubDate>Mon, 13 Apr 2026 09:29:21 +0000</pubDate>
+      <description><![CDATA[@Jason_Young1231 Hermes could definitely use it :)
 
 ---
-@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 29]]></description>
-      <author>@Jason_Young1231</author>
+@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 4]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>Try it immediately on Ollama's cloud: 
+      <title>We are working through the night to continue to scale capacity for Ollama's cloud. 
 
-ollama run gemma4:31b-cloud 
+Apologies if yo...</title>
+      <link>https://x.com/ollama/status/2043619568959341027</link>
+      <guid isPermaLink="false">2043619568959341027</guid>
+      <pubDate>Mon, 13 Apr 2026 09:17:28 +0000</pubDate>
+      <description><![CDATA[We are working through the night to continue to scale capacity for Ollama's cloud. 
 
-Try it with OpenClaw: 
-ollama ...</title>
-      <link>https://x.com/ollama/status/2043609268931403939</link>
-      <guid isPermaLink="false">2043609268931403939</guid>
-      <pubDate>Mon, 13 Apr 2026 08:36:32 +0000</pubDate>
-      <description><![CDATA[Try it immediately on Ollama's cloud: 
-
-ollama run gemma4:31b-cloud 
-
-Try it with OpenClaw: 
-ollama launch openclaw --model gemma4:31b-cloud
-
-Try it with Claude Code: 
-ollama launch claude --model gemma4:31b-cloud
-
-Model page for all the Gemma 4 models to run locally: 
-
-https://t.co/kASqDIm1u3
+Apologies if you see any performance degradation. https://t.co/vjMVT7e98d
 
 ---
-@ollama | ❤️ 3 | 🔁 0 | 💬 1 | 👁 908]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>Ollama 0.20.6 is here with improved Gemma 4 tool calling! 
-
-more improvements to come for Gemma 4! h...</title>
-      <link>https://x.com/ollama/status/2043609267236913164</link>
-      <guid isPermaLink="false">2043609267236913164</guid>
-      <pubDate>Mon, 13 Apr 2026 08:36:32 +0000</pubDate>
-      <description><![CDATA[Ollama 0.20.6 is here with improved Gemma 4 tool calling! 
-
-more improvements to come for Gemma 4! https://t.co/pKun1uClm9
-
----
-@ollama | ❤️ 80 | 🔁 7 | 💬 5 | 👁 2469]]></description>
+@ollama | ❤️ 22 | 🔁 0 | 💬 2 | 👁 886]]></description>
       <author>@ollama</author>
     </item>
   </channel>
