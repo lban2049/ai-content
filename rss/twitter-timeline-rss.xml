@@ -5,63 +5,80 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:01:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oh I see now - it's the same skill, just someone was faster. That's something that should be fixable...</title>
-      <link>https://x.com/steipete/status/2043607294739611717</link>
-      <guid isPermaLink="false">2043607294739611717</guid>
-      <pubDate>Mon, 13 Apr 2026 08:28:42 +0000</pubDate>
-      <description><![CDATA[Oh I see now - it's the same skill, just someone was faster. That's something that should be fixable.
-
-Just so you know, I absolutely care. The bigger issue is that we simply don't have someone that has time to verify claims and is giving support for it - I'm working on adding process here. In the mean time, can you upload your skill or do you see an error? You should be able to upload it as well, the question is just who owns the non-user slug. And in your case I can see the git history.
-
-The trickier part if if it's (as I assumed before) it's different content witht he same slug name.
+      <title>社交媒体上大部分信息只会让人更焦虑</title>
+      <link>https://x.com/LBan2050/status/2043614317963329536</link>
+      <guid isPermaLink="false">2043614317963329536</guid>
+      <pubDate>Mon, 13 Apr 2026 08:56:36 +0000</pubDate>
+      <description><![CDATA[社交媒体上大部分信息只会让人更焦虑
 
 ---
-@steipete | ❤️ 0 | 🔁 0 | 💬 0 | 👁 25]]></description>
-      <author>@steipete</author>
+@LBan2050 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@LBan2050</author>
     </item>
     <item>
-      <title>@Jason_Young1231 Thanks! What's CC Switch? Something we can do with Hermes? ^_^</title>
-      <link>https://x.com/Teknium/status/2043606641661358518</link>
-      <guid isPermaLink="false">2043606641661358518</guid>
-      <pubDate>Mon, 13 Apr 2026 08:26:06 +0000</pubDate>
-      <description><![CDATA[@Jason_Young1231 Thanks! What's CC Switch? Something we can do with Hermes? ^_^
+      <title>Wow, thank you so much!
+
+CC Switch is a desktop app that helps users configure and manage providers ...</title>
+      <link>https://x.com/Jason_Young1231/status/2043609601099305005</link>
+      <guid isPermaLink="false">2043609601099305005</guid>
+      <pubDate>Mon, 13 Apr 2026 08:37:51 +0000</pubDate>
+      <description><![CDATA[Wow, thank you so much!
+
+CC Switch is a desktop app that helps users configure and manage providers for AI tools like Claude Code and Codex. It makes importing and switching providers much easier with a one-time setup and a single click, instead of making users deal with a bunch of environment variables. It also supports MCP, Skills, session management, and more.
+
+I’m currently working on Hermes support. I’d be truly grateful if you could recommend it if it turns out useful.
+
+I really love the Hermes project, especially the community around it. I’ve already been recommending it to people around me. Really appreciate your work!
 
 ---
-@Teknium | ❤️ 2 | 🔁 0 | 💬 0 | 👁 14]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>I really admire the Hermes maintainers’ attitude toward open source.</title>
-      <link>https://x.com/Jason_Young1231/status/2043606291030106299</link>
-      <guid isPermaLink="false">2043606291030106299</guid>
-      <pubDate>Mon, 13 Apr 2026 08:24:42 +0000</pubDate>
-      <description><![CDATA[I really admire the Hermes maintainers’ attitude toward open source.
-
----
-@Jason_Young1231 | ❤️ 4 | 🔁 0 | 💬 1 | 👁 87]]></description>
+@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 29]]></description>
       <author>@Jason_Young1231</author>
     </item>
     <item>
-      <title>the formula to a healthy life is...
+      <title>Try it immediately on Ollama's cloud: 
 
-1. 8 hours of charts 
-2. 8 hours of CT
-3. 8 hours of sleep</title>
-      <link>https://x.com/binance/status/2043602254926672225</link>
-      <guid isPermaLink="false">2043602254926672225</guid>
-      <pubDate>Mon, 13 Apr 2026 08:08:40 +0000</pubDate>
-      <description><![CDATA[the formula to a healthy life is...
+ollama run gemma4:31b-cloud 
 
-1. 8 hours of charts 
-2. 8 hours of CT
-3. 8 hours of sleep
+Try it with OpenClaw: 
+ollama ...</title>
+      <link>https://x.com/ollama/status/2043609268931403939</link>
+      <guid isPermaLink="false">2043609268931403939</guid>
+      <pubDate>Mon, 13 Apr 2026 08:36:32 +0000</pubDate>
+      <description><![CDATA[Try it immediately on Ollama's cloud: 
+
+ollama run gemma4:31b-cloud 
+
+Try it with OpenClaw: 
+ollama launch openclaw --model gemma4:31b-cloud
+
+Try it with Claude Code: 
+ollama launch claude --model gemma4:31b-cloud
+
+Model page for all the Gemma 4 models to run locally: 
+
+https://t.co/kASqDIm1u3
 
 ---
-@binance | ❤️ 183 | 🔁 20 | 💬 120 | 👁 14022]]></description>
-      <author>@binance</author>
+@ollama | ❤️ 3 | 🔁 0 | 💬 1 | 👁 908]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>Ollama 0.20.6 is here with improved Gemma 4 tool calling! 
+
+more improvements to come for Gemma 4! h...</title>
+      <link>https://x.com/ollama/status/2043609267236913164</link>
+      <guid isPermaLink="false">2043609267236913164</guid>
+      <pubDate>Mon, 13 Apr 2026 08:36:32 +0000</pubDate>
+      <description><![CDATA[Ollama 0.20.6 is here with improved Gemma 4 tool calling! 
+
+more improvements to come for Gemma 4! https://t.co/pKun1uClm9
+
+---
+@ollama | ❤️ 80 | 🔁 7 | 💬 5 | 👁 2469]]></description>
+      <author>@ollama</author>
     </item>
   </channel>
 </rss>
