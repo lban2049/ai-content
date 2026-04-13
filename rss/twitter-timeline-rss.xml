@@ -5,22 +5,89 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:01:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @BinanceAcademy: Your AI trading co-pilot is here.
-
-Binance Ai Pro can help you analyze markets, ...</title>
-      <link>https://x.com/binance/status/2043647527468286044</link>
-      <guid isPermaLink="false">2043647527468286044</guid>
-      <pubDate>Mon, 13 Apr 2026 11:08:34 +0000</pubDate>
-      <description><![CDATA[RT @BinanceAcademy: Your AI trading co-pilot is here.
-
-Binance Ai Pro can help you analyze markets, execute trades, monitor your portfolio,…
+      <title>Guys say 'time to lock in', and then just scroll X</title>
+      <link>https://x.com/coinbase/status/2043660714506608907</link>
+      <guid isPermaLink="false">2043660714506608907</guid>
+      <pubDate>Mon, 13 Apr 2026 12:00:58 +0000</pubDate>
+      <description><![CDATA[Guys say 'time to lock in', and then just scroll X
 
 ---
-@binance | ❤️ 0 | 🔁 28 | 💬 0 | 👁 2]]></description>
-      <author>@binance</author>
+@coinbase | ❤️ 7 | 🔁 0 | 💬 1 | 👁 42]]></description>
+      <author>@coinbase</author>
+    </item>
+    <item>
+      <title>原来 html in canvas 是这么玩😂</title>
+      <link>https://x.com/turingou/status/2043660564094992431</link>
+      <guid isPermaLink="false">2043660564094992431</guid>
+      <pubDate>Mon, 13 Apr 2026 12:00:22 +0000</pubDate>
+      <description><![CDATA[原来 html in canvas 是这么玩😂
+
+---
+@turingou | ❤️ 0 | 🔁 0 | 💬 0 | 👁 91]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>拥有前沿模型的公司也许将吞噬一切应用软件的机会。</title>
+      <link>https://x.com/turingou/status/2043657572075614516</link>
+      <guid isPermaLink="false">2043657572075614516</guid>
+      <pubDate>Mon, 13 Apr 2026 11:48:29 +0000</pubDate>
+      <description><![CDATA[拥有前沿模型的公司也许将吞噬一切应用软件的机会。
+
+---
+@turingou | ❤️ 7 | 🔁 1 | 💬 0 | 👁 1395]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>创业团队最大的挑战
+是让每个人都在创业状态
+
+如果只有 CEO 在创业
+必败</title>
+      <link>https://x.com/lifesinger/status/2043657209024807082</link>
+      <guid isPermaLink="false">2043657209024807082</guid>
+      <pubDate>Mon, 13 Apr 2026 11:47:02 +0000</pubDate>
+      <description><![CDATA[创业团队最大的挑战
+是让每个人都在创业状态
+
+如果只有 CEO 在创业
+必败
+
+---
+@lifesinger | ❤️ 6 | 🔁 0 | 💬 4 | 👁 254]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>如果你经常和 AI 聊天，或者养虾，可以试试这个测评：https://t.co/bdhJdAgp8j
+
+我测出来是哲学家
+毒舌点评让我有点惶恐
+如下图 https://t.co/gGzPTRSurp</title>
+      <link>https://x.com/lifesinger/status/2043656072259379204</link>
+      <guid isPermaLink="false">2043656072259379204</guid>
+      <pubDate>Mon, 13 Apr 2026 11:42:31 +0000</pubDate>
+      <description><![CDATA[如果你经常和 AI 聊天，或者养虾，可以试试这个测评：https://t.co/bdhJdAgp8j
+
+我测出来是哲学家
+毒舌点评让我有点惶恐
+如下图 https://t.co/gGzPTRSurp
+
+---
+@lifesinger | ❤️ 1 | 🔁 0 | 💬 2 | 👁 218]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>这些数据在硅谷可以卖钱，doordash 都给自己送快递的员工派单了</title>
+      <link>https://x.com/turingou/status/2043655052741779543</link>
+      <guid isPermaLink="false">2043655052741779543</guid>
+      <pubDate>Mon, 13 Apr 2026 11:38:28 +0000</pubDate>
+      <description><![CDATA[这些数据在硅谷可以卖钱，doordash 都给自己送快递的员工派单了
+
+---
+@turingou | ❤️ 5 | 🔁 0 | 💬 0 | 👁 3931]]></description>
+      <author>@turingou</author>
     </item>
   </channel>
 </rss>
