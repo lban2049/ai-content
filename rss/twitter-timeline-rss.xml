@@ -5,74 +5,29 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 18:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:30:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>What happened to all the Tesla killers that legacy press and hedge fund short sellers predicted were...</title>
-      <link>https://x.com/elonmusk/status/2043751159773704483</link>
-      <guid isPermaLink="false">2043751159773704483</guid>
-      <pubDate>Mon, 13 Apr 2026 18:00:22 +0000</pubDate>
-      <description><![CDATA[What happened to all the Tesla killers that legacy press and hedge fund short sellers predicted were coming? 🤔
+      <title>RT @TheCaptainEli: It’s fascinating how everyone who has something negative to say about Elon Musk b...</title>
+      <link>https://x.com/elonmusk/status/2043752638337143191</link>
+      <guid isPermaLink="false">2043752638337143191</guid>
+      <pubDate>Mon, 13 Apr 2026 18:06:14 +0000</pubDate>
+      <description><![CDATA[RT @TheCaptainEli: It’s fascinating how everyone who has something negative to say about Elon Musk bases it entirely on politics or recycle…
 
 ---
-@elonmusk | ❤️ 65 | 🔁 31 | 💬 31 | 👁 361]]></description>
+@elonmusk | ❤️ 0 | 🔁 293 | 💬 0 | 👁 23]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>turning on the lights &amp;lt; turning on Binance https://t.co/5Q4E8C53k9</title>
-      <link>https://x.com/binance/status/2043751141305966821</link>
-      <guid isPermaLink="false">2043751141305966821</guid>
-      <pubDate>Mon, 13 Apr 2026 18:00:17 +0000</pubDate>
-      <description><![CDATA[turning on the lights &amp;lt; turning on Binance https://t.co/5Q4E8C53k9
+      <title>True currency is steadfast friendship</title>
+      <link>https://x.com/elonmusk/status/2043752073079161078</link>
+      <guid isPermaLink="false">2043752073079161078</guid>
+      <pubDate>Mon, 13 Apr 2026 18:03:59 +0000</pubDate>
+      <description><![CDATA[True currency is steadfast friendship
 
 ---
-@binance | ❤️ 18 | 🔁 2 | 💬 11 | 👁 383]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>What if your agent could write you a song, sing as your AI companion, and curate a playlist from you...</title>
-      <link>https://x.com/MiniMax_AI/status/2043750042113323308</link>
-      <guid isPermaLink="false">2043750042113323308</guid>
-      <pubDate>Mon, 13 Apr 2026 17:55:55 +0000</pubDate>
-      <description><![CDATA[What if your agent could write you a song, sing as your AI companion, and curate a playlist from your library natively? 
-
-🎶Today we're open-sourcing three Music Skills:
-
-minimax-music-gen: one-line prompt to full track. Agent auto-picks original, instrumental, or cover.
-
-buddy-sings: your Claude Code character reads its own persona and sings in first person.
-
-minimax-music-playlist: agent scans your local music, learns your taste, builds your playlist.
-
-All three are tuned to run natively in MMX-CLI alongside Music 2.6 and the rest of our multimodal models. Connect a MiniMax Token Plan, add MMX-CLI, and your agent picks up the Skills on its own.
-
-Start here👉https://t.co/UEmNvPwChs
-
----
-@MiniMax_AI | ❤️ 9 | 🔁 1 | 💬 0 | 👁 359]]></description>
-      <author>@MiniMax_AI</author>
-    </item>
-    <item>
-      <title>Photographed and sent down from space moments ago! Afterward, @Astro_ChrisW operated the Canadarm2 r...</title>
-      <link>https://x.com/Space_Station/status/2043747669793763362</link>
-      <guid isPermaLink="false">2043747669793763362</guid>
-      <pubDate>Mon, 13 Apr 2026 17:46:30 +0000</pubDate>
-      <description><![CDATA[Photographed and sent down from space moments ago! Afterward, @Astro_ChrisW operated the Canadarm2 robotic arm and captured @northropgrumman’s Cygnus XL cargo spacecraft at 1:20pm ET today.
-
----
-@Space_Station | ❤️ 85 | 🔁 18 | 💬 4 | 👁 9993]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>The Canadarm2 robotic arm, operated by @Astro_ChrisW, captured @NorthropGrumman's Cygnus XL cargo cr...</title>
-      <link>https://x.com/Space_Station/status/2043745942004797599</link>
-      <guid isPermaLink="false">2043745942004797599</guid>
-      <pubDate>Mon, 13 Apr 2026 17:39:38 +0000</pubDate>
-      <description><![CDATA[The Canadarm2 robotic arm, operated by @Astro_ChrisW, captured @NorthropGrumman's Cygnus XL cargo craft at 1:20pm ET today. Cygnus XL will be installed to the Unity module for cargo transfers later today. https://t.co/tJncdhgYDZ
-
----
-@Space_Station | ❤️ 71 | 🔁 18 | 💬 3 | 👁 8063]]></description>
-      <author>@Space_Station</author>
+@elonmusk | ❤️ 16492 | 🔁 1923 | 💬 3175 | 👁 1440166]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
