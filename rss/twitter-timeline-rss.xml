@@ -5,102 +5,40 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Apr 2026 19:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 20:01:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Grok</title>
-      <link>https://x.com/elonmusk/status/2043773334983455121</link>
-      <guid isPermaLink="false">2043773334983455121</guid>
-      <pubDate>Mon, 13 Apr 2026 19:28:29 +0000</pubDate>
-      <description><![CDATA[Grok
+      <title>Starlink provides global high-speed, low-latency Internet</title>
+      <link>https://x.com/elonmusk/status/2043777708430414218</link>
+      <guid isPermaLink="false">2043777708430414218</guid>
+      <pubDate>Mon, 13 Apr 2026 19:45:51 +0000</pubDate>
+      <description><![CDATA[Starlink provides global high-speed, low-latency Internet
 
 ---
-@elonmusk | ❤️ 586 | 🔁 91 | 💬 303 | 👁 60739]]></description>
+@elonmusk | ❤️ 4242 | 🔁 561 | 💬 923 | 👁 382914]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>Check out the homepage! https://t.co/2oCrE6hUML</title>
-      <link>https://x.com/Teknium/status/2043771621190885429</link>
-      <guid isPermaLink="false">2043771621190885429</guid>
-      <pubDate>Mon, 13 Apr 2026 19:21:40 +0000</pubDate>
-      <description><![CDATA[Check out the homepage! https://t.co/2oCrE6hUML
+      <title>RT @FaraiMazhindu: It is telling that those who oppose Elon Musk's investment in South Africa can of...</title>
+      <link>https://x.com/elonmusk/status/2043776304525521115</link>
+      <guid isPermaLink="false">2043776304525521115</guid>
+      <pubDate>Mon, 13 Apr 2026 19:40:17 +0000</pubDate>
+      <description><![CDATA[RT @FaraiMazhindu: It is telling that those who oppose Elon Musk's investment in South Africa can offer nothing but hollow insults and chea…
 
 ---
-@Teknium | ❤️ 16 | 🔁 0 | 💬 2 | 👁 435]]></description>
-      <author>@Teknium</author>
+@elonmusk | ❤️ 0 | 🔁 224 | 💬 0 | 👁 12]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>So much in this release but the one many have been waiting for above the rest, the GUI dashboard!
-
-M...</title>
-      <link>https://x.com/Teknium/status/2043771509123232230</link>
-      <guid isPermaLink="false">2043771509123232230</guid>
-      <pubDate>Mon, 13 Apr 2026 19:21:13 +0000</pubDate>
-      <description><![CDATA[So much in this release but the one many have been waiting for above the rest, the GUI dashboard!
-
-Manage and monitor your Hermes Agent with a GUI Local Web Dashboard with `hermes dashboard` command to start it!
+      <title>California legislators are trying to make investigating fraud illegal</title>
+      <link>https://x.com/elonmusk/status/2043775334471111061</link>
+      <guid isPermaLink="false">2043775334471111061</guid>
+      <pubDate>Mon, 13 Apr 2026 19:36:25 +0000</pubDate>
+      <description><![CDATA[California legislators are trying to make investigating fraud illegal
 
 ---
-@Teknium | ❤️ 27 | 🔁 1 | 💬 3 | 👁 994]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>@NousResearch DASHBOARD TIME! https://t.co/FToB2qnGkh</title>
-      <link>https://x.com/Teknium/status/2043770547658788954</link>
-      <guid isPermaLink="false">2043770547658788954</guid>
-      <pubDate>Mon, 13 Apr 2026 19:17:24 +0000</pubDate>
-      <description><![CDATA[@NousResearch DASHBOARD TIME! https://t.co/FToB2qnGkh
-
----
-@Teknium | ❤️ 41 | 🔁 0 | 💬 9 | 👁 670]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>Hermes Agent v0.9.0 - “The Everywhere Release”
-
-Full changelog below ↓ https://t.co/aG5M6owBNS</title>
-      <link>https://x.com/NousResearch/status/2043770365369876979</link>
-      <guid isPermaLink="false">2043770365369876979</guid>
-      <pubDate>Mon, 13 Apr 2026 19:16:41 +0000</pubDate>
-      <description><![CDATA[Hermes Agent v0.9.0 - “The Everywhere Release”
-
-Full changelog below ↓ https://t.co/aG5M6owBNS
-
----
-@NousResearch | ❤️ 167 | 🔁 26 | 💬 24 | 👁 4614]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>RT @pavelhegler: Absolutely love the new monitoring feature of claude.
-
-Thank you @noahzweben https:...</title>
-      <link>https://x.com/noahzweben/status/2043768230045724725</link>
-      <guid isPermaLink="false">2043768230045724725</guid>
-      <pubDate>Mon, 13 Apr 2026 19:08:12 +0000</pubDate>
-      <description><![CDATA[RT @pavelhegler: Absolutely love the new monitoring feature of claude.
-
-Thank you @noahzweben https://t.co/cboO7erkDu
-
----
-@noahzweben | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@noahzweben</author>
-    </item>
-    <item>
-      <title>RT @michael_chomsky: Anthropic managed agents is a work of art.
-
-It's solving a lot of problems nobo...</title>
-      <link>https://x.com/mc_anthropic/status/2043768230469099995</link>
-      <guid isPermaLink="false">2043768230469099995</guid>
-      <pubDate>Mon, 13 Apr 2026 19:08:12 +0000</pubDate>
-      <description><![CDATA[RT @michael_chomsky: Anthropic managed agents is a work of art.
-
-It's solving a lot of problems nobody has even come close to solving.
-
-It'…
-
----
-@mc_anthropic | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@mc_anthropic</author>
+@elonmusk | ❤️ 13959 | 🔁 3092 | 💬 1161 | 👁 1063295]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
