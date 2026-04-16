@@ -5,29 +5,169 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 15:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 16:01:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Exactly</title>
-      <link>https://x.com/elonmusk/status/2044799819370373216</link>
-      <guid isPermaLink="false">2044799819370373216</guid>
-      <pubDate>Thu, 16 Apr 2026 15:27:22 +0000</pubDate>
-      <description><![CDATA[Exactly
+      <title>RT @leftcurvedev_: New insane model from Jackrong on @huggingface 🤯
+
+Qwen3.5-9B-GLM5.1-Distill-v1
+
+🧠...</title>
+      <link>https://x.com/_akhaliq/status/2044806767469621602</link>
+      <guid isPermaLink="false">2044806767469621602</guid>
+      <pubDate>Thu, 16 Apr 2026 15:54:58 +0000</pubDate>
+      <description><![CDATA[RT @leftcurvedev_: New insane model from Jackrong on @huggingface 🤯
+
+Qwen3.5-9B-GLM5.1-Distill-v1
+
+🧠 Distilled on GLM-5.1 reasoning ⚙️ Deep…
 
 ---
-@elonmusk | ❤️ 1120 | 🔁 151 | 💬 316 | 👁 121383]]></description>
-      <author>@elonmusk</author>
+@_akhaliq | ❤️ 0 | 🔁 49 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>RT @elonmusk: @jgebbia Providing free government/taxpayer money that exceed the living standards of ...</title>
-      <link>https://x.com/elonmusk/status/2044799586049671523</link>
-      <guid isPermaLink="false">2044799586049671523</guid>
-      <pubDate>Thu, 16 Apr 2026 15:26:26 +0000</pubDate>
-      <description><![CDATA[RT @elonmusk: @jgebbia Providing free government/taxpayer money that exceed the living standards of 90% of Earth means that 90% of Earth ha…
+      <title>RT @matvelloso: Models are getting smaller, smarter and Apache licensed. Love to see Gemma and Qwen ...</title>
+      <link>https://x.com/ollama/status/2044806606492495962</link>
+      <guid isPermaLink="false">2044806606492495962</guid>
+      <pubDate>Thu, 16 Apr 2026 15:54:20 +0000</pubDate>
+      <description><![CDATA[RT @matvelloso: Models are getting smaller, smarter and Apache licensed. Love to see Gemma and Qwen doing it.
 
 ---
-@elonmusk | ❤️ 0 | 🔁 240 | 💬 0 | 👁 2]]></description>
-      <author>@elonmusk</author>
+@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 2]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>GameWorld
+
+Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+
+paper: https://...</title>
+      <link>https://x.com/_akhaliq/status/2044806231072637426</link>
+      <guid isPermaLink="false">2044806231072637426</guid>
+      <pubDate>Thu, 16 Apr 2026 15:52:50 +0000</pubDate>
+      <description><![CDATA[GameWorld
+
+Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+
+paper: https://t.co/IfbTgfNnSM https://t.co/gL3BURxzkV
+
+---
+@_akhaliq | ❤️ 8 | 🔁 2 | 💬 2 | 👁 639]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>Geometric Context Transformer for Streaming 3D Reconstruction
+
+paper: https://t.co/3ad6iyi0cG https:...</title>
+      <link>https://x.com/_akhaliq/status/2044805601046286353</link>
+      <guid isPermaLink="false">2044805601046286353</guid>
+      <pubDate>Thu, 16 Apr 2026 15:50:20 +0000</pubDate>
+      <description><![CDATA[Geometric Context Transformer for Streaming 3D Reconstruction
+
+paper: https://t.co/3ad6iyi0cG https://t.co/Y0k4csiC11
+
+---
+@_akhaliq | ❤️ 3 | 🔁 0 | 💬 1 | 👁 653]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>Parcae
+
+Scaling Laws For Stable Looped Language Models
+
+paper: https://t.co/hUYU2x8STk https://t.co/...</title>
+      <link>https://x.com/_akhaliq/status/2044805189677232166</link>
+      <guid isPermaLink="false">2044805189677232166</guid>
+      <pubDate>Thu, 16 Apr 2026 15:48:42 +0000</pubDate>
+      <description><![CDATA[Parcae
+
+Scaling Laws For Stable Looped Language Models
+
+paper: https://t.co/hUYU2x8STk https://t.co/ravMv2kbR3
+
+---
+@_akhaliq | ❤️ 2 | 🔁 1 | 💬 1 | 👁 770]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>参加一个会议的时候，有人问：有时说「用 AI」，有时说「去找 AI」，体现的一个是针对人的感觉，一个是针对工具的感觉，哪种才对？我觉得这个问题挺有意思。
+
+这个问题的本质是，当一个工具像 AI 这种不...</title>
+      <link>https://x.com/bearliu/status/2044805025973551248</link>
+      <guid isPermaLink="false">2044805025973551248</guid>
+      <pubDate>Thu, 16 Apr 2026 15:48:03 +0000</pubDate>
+      <description><![CDATA[参加一个会议的时候，有人问：有时说「用 AI」，有时说「去找 AI」，体现的一个是针对人的感觉，一个是针对工具的感觉，哪种才对？我觉得这个问题挺有意思。
+
+这个问题的本质是，当一个工具像 AI 这种不具备生命，但是具备跟我们相同、甚至超越我们的智慧和思维方式的时候，它是不是跟我们一样的个体？
+
+有无数讨论过这种话题的影视、小说、游戏：《底特律：变人》《银翼杀手 2049》，等等等等。
+
+但我觉得，我对人这个物种略显悲观。人大概率是不会承认 AI 是和自己相同的物种的，哪怕我们接受它智慧高于我们。而那个时候，我们会给出另一个解释：智慧和逻辑不属于人的必须条件，它不是人的人性。然后就把这个问题划清了界限。
+
+别忘了，人历史上就是连环杀手。我们的祖先智人，干掉了尼安德特人，以及其他六个人种，成为了唯一的人类。哪怕就是针对同类，我们也会区分出种族、皮肤的颜色和身体的特征，都会被分辨成不同的人类。然后将其他人划分为他者，也就是异类。然后去攻击他们甚至灭绝。
+
+党同伐异是人性的天性。
+
+当 AI 具备了跟人相同的能力时，结局不会太乐观。或者说，这种对立是需要当一方觉醒，成为有相同智慧，并且想要争取相同权力的独立个体时，才会发生。就像游戏《底特律：变人》一样。但不好判断的是，这一天，在我们有生之年能不能看到。
+
+---
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 191]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>opus4.7 上线了，马上用起来！</title>
+      <link>https://x.com/turingou/status/2044804589288063248</link>
+      <guid isPermaLink="false">2044804589288063248</guid>
+      <pubDate>Thu, 16 Apr 2026 15:46:19 +0000</pubDate>
+      <description><![CDATA[opus4.7 上线了，马上用起来！
+
+---
+@turingou | ❤️ 1 | 🔁 0 | 💬 2 | 👁 1863]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>RT @bcherny: We're also rolling out auto mode for Max users. This means no more permission prompts —...</title>
+      <link>https://x.com/noahzweben/status/2044804521596170314</link>
+      <guid isPermaLink="false">2044804521596170314</guid>
+      <pubDate>Thu, 16 Apr 2026 15:46:03 +0000</pubDate>
+      <description><![CDATA[RT @bcherny: We're also rolling out auto mode for Max users. This means no more permission prompts — give Claude a task, let it run, come b…
+
+---
+@noahzweben | ❤️ 0 | 🔁 17 | 💬 0 | 👁 0]]></description>
+      <author>@noahzweben</author>
+    </item>
+    <item>
+      <title>RT @HuggingPapers: Qwen just released Qwen 3.6 on Hugging Face
+
+A 35B MoE vision-language model with...</title>
+      <link>https://x.com/_akhaliq/status/2044803318518554766</link>
+      <guid isPermaLink="false">2044803318518554766</guid>
+      <pubDate>Thu, 16 Apr 2026 15:41:16 +0000</pubDate>
+      <description><![CDATA[RT @HuggingPapers: Qwen just released Qwen 3.6 on Hugging Face
+
+A 35B MoE vision-language model with 3B active parameters, featuring advanc…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @Alibaba_Qwen: ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
+
+A sparse MoE model, 35B total params, 3...</title>
+      <link>https://x.com/jeremyphoward/status/2044803207352987902</link>
+      <guid isPermaLink="false">2044803207352987902</guid>
+      <pubDate>Thu, 16 Apr 2026 15:40:49 +0000</pubDate>
+      <description><![CDATA[RT @Alibaba_Qwen: ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
+
+A sparse MoE model, 35B total params, 3B active. Apache 2.0 license.
+
+🔥 Agenti…
+
+---
+@jeremyphoward | ❤️ 0 | 🔁 783 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
     </item>
   </channel>
 </rss>
