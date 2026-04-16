@@ -5,137 +5,95 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 22:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:31:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @firecrawl: Have your Hermes agent turn any URL into clean markdown with Firecrawl 🔥
+      <title>Data analysis, inside Codex
 
-No separate...</title>
-      <link>https://x.com/Teknium/status/2044898710279405853</link>
-      <guid isPermaLink="false">2044898710279405853</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:19 +0000</pubDate>
-      <description><![CDATA[RT @firecrawl: Have your Hermes agent turn any URL into clean markdown with Firecrawl 🔥
+upload a CSV, use a plugin where your data lives, or paste a link to a ...</title>
+      <link>https://x.com/nickbaumann_/status/2044905029019254893</link>
+      <guid isPermaLink="false">2044905029019254893</guid>
+      <pubDate>Thu, 16 Apr 2026 22:25:26 +0000</pubDate>
+      <description><![CDATA[Data analysis, inside Codex
 
-No separate API key required. Your Nous Portal sub…
+upload a CSV, use a plugin where your data lives, or paste a link to a Google Sheet https://t.co/xTxsMjGYFv
 
 ---
-@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@nickbaumann_ | ❤️ 12 | 🔁 0 | 💬 0 | 👁 199]]></description>
+      <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>RT @fal: Nous Research🤝fal
+      <title>RT @KSimback: I put 2 separate instances of Hermes agents into a chat, holy sh!t this is fun
 
-Congratulations to @NousResearch on the Tool Gateway launch. Developer-f...</title>
-      <link>https://x.com/Teknium/status/2044898023315243478</link>
-      <guid isPermaLink="false">2044898023315243478</guid>
-      <pubDate>Thu, 16 Apr 2026 21:57:35 +0000</pubDate>
-      <description><![CDATA[RT @fal: Nous Research🤝fal
+&amp;g...</title>
+      <link>https://x.com/Teknium/status/2044903993038839828</link>
+      <guid isPermaLink="false">2044903993038839828</guid>
+      <pubDate>Thu, 16 Apr 2026 22:21:19 +0000</pubDate>
+      <description><![CDATA[RT @KSimback: I put 2 separate instances of Hermes agents into a chat, holy sh!t this is fun
 
-Congratulations to @NousResearch on the Tool Gateway launch. Developer-first infrastructure is what will define…
+&amp;gt;1 agent is builder, 1 is strategist
+&amp;gt;each on…
 
 ---
 @Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>We’re agentifying migrations. Just tell Claude to get it done.</title>
-      <link>https://x.com/angjiang/status/2044895908421337577</link>
-      <guid isPermaLink="false">2044895908421337577</guid>
-      <pubDate>Thu, 16 Apr 2026 21:49:11 +0000</pubDate>
-      <description><![CDATA[We’re agentifying migrations. Just tell Claude to get it done.
+      <title>Lets keep going!</title>
+      <link>https://x.com/Teknium/status/2044903919198097854</link>
+      <guid isPermaLink="false">2044903919198097854</guid>
+      <pubDate>Thu, 16 Apr 2026 22:21:01 +0000</pubDate>
+      <description><![CDATA[Lets keep going!
 
 ---
-@angjiang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 150]]></description>
-      <author>@angjiang</author>
-    </item>
-    <item>
-      <title>Livestream of Hermes Agent's commits and PRs being merged (literally)</title>
-      <link>https://x.com/Teknium/status/2044895009527431425</link>
-      <guid isPermaLink="false">2044895009527431425</guid>
-      <pubDate>Thu, 16 Apr 2026 21:45:37 +0000</pubDate>
-      <description><![CDATA[Livestream of Hermes Agent's commits and PRs being merged (literally)
-
----
-@Teknium | ❤️ 37 | 🔁 2 | 💬 2 | 👁 990]]></description>
+@Teknium | ❤️ 5 | 🔁 0 | 💬 1 | 👁 384]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>Finally, we’ve been talking to lots of users about helping them make the most of Claude Code.
+      <title>Coding agents learn from experience, but that knowledge stays locked in silos.
 
-We’ll...</title>
-      <link>https://x.com/trq212/status/2044893587691958320</link>
-      <guid isPermaLink="false">2044893587691958320</guid>
-      <pubDate>Thu, 16 Apr 2026 21:39:58 +0000</pubDate>
-      <description><![CDATA[Finally, we’ve been talking to lots of users about helping them make the most of Claude Code.
+Solve a thousand SWE...</title>
+      <link>https://x.com/dair_ai/status/2044900659921895729</link>
+      <guid isPermaLink="false">2044900659921895729</guid>
+      <pubDate>Thu, 16 Apr 2026 22:08:04 +0000</pubDate>
+      <description><![CDATA[Coding agents learn from experience, but that knowledge stays locked in silos.
 
-We’ll be sharing more this week on that work, starting with our updates to /usage.
+Solve a thousand SWE tasks, and none of that wisdom helps with competitive coding.
+
+What if memories could transfer across domains?
+
+The work introduces Memory Transfer Learning, a framework where coding agents share a unified memory pool across 6 heterogeneous benchmarks. They test four memory formats ranging from raw execution traces to high-level insights, and find that cross-domain memory improves average performance by 3.7%.
+
+Why does it matter?
+
+The transferable value isn't task-specific code. It's meta-knowledge: validation routines, structured action workflows, safe interaction patterns with execution environments. Algorithmic strategy transfer accounts for only 5.5% of the gains. The real benefit comes from procedural guidance on how to act, not what to code. Abstraction dictates transferability: high-level insights generalize well, while low-level execution traces often cause negative transfer by anchoring agents to incompatible implementation details.
+
+Paper: https://t.co/XPD5kczsoZ
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
 
 ---
-@trq212 | ❤️ 30 | 🔁 1 | 💬 3 | 👁 1464]]></description>
-      <author>@trq212</author>
+@dair_ai | ❤️ 12 | 🔁 4 | 💬 0 | 👁 620]]></description>
+      <author>@dair_ai</author>
     </item>
     <item>
-      <title>We’re running monthly ‘what we shipped’ webinars. 
+      <title>RT @sharbel: I was wrong about Hermes Agent:
 
-You can sign up for that and our other our webin...</title>
-      <link>https://x.com/trq212/status/2044893586333032627</link>
-      <guid isPermaLink="false">2044893586333032627</guid>
-      <pubDate>Thu, 16 Apr 2026 21:39:57 +0000</pubDate>
-      <description><![CDATA[We’re running monthly ‘what we shipped’ webinars. 
+0:00 - intro
+0:25 - openclaw vs hermes
+1:26 - hermes a...</title>
+      <link>https://x.com/Teknium/status/2044899128384340353</link>
+      <guid isPermaLink="false">2044899128384340353</guid>
+      <pubDate>Thu, 16 Apr 2026 22:01:59 +0000</pubDate>
+      <description><![CDATA[RT @sharbel: I was wrong about Hermes Agent:
 
-You can sign up for that and our other our webinars here: https://t.co/lPeN5zkKvm
-
----
-@trq212 | ❤️ 45 | 🔁 4 | 💬 2 | 👁 2143]]></description>
-      <author>@trq212</author>
-    </item>
-    <item>
-      <title>We’ve heard your feedback and we’re working on making it easier to follow everything that’s happenin...</title>
-      <link>https://x.com/trq212/status/2044893583308918787</link>
-      <guid isPermaLink="false">2044893583308918787</guid>
-      <pubDate>Thu, 16 Apr 2026 21:39:57 +0000</pubDate>
-      <description><![CDATA[We’ve heard your feedback and we’re working on making it easier to follow everything that’s happening with Claude Code.
-
-First, we’re introducing @ClaudeDevs, the official channel to follow for all updates on Claude Code and the Claude platform.
+0:00 - intro
+0:25 - openclaw vs hermes
+1:26 - hermes agent
+2:16 - the self-improving skill lo…
 
 ---
-@trq212 | ❤️ 266 | 🔁 10 | 💬 31 | 👁 14567]]></description>
-      <author>@trq212</author>
-    </item>
-    <item>
-      <title>Announcing GPT-Rosalind, our frontier model for life science research.
-
-This model is a step towards...</title>
-      <link>https://x.com/gdb/status/2044891908213027032</link>
-      <guid isPermaLink="false">2044891908213027032</guid>
-      <pubDate>Thu, 16 Apr 2026 21:33:17 +0000</pubDate>
-      <description><![CDATA[Announcing GPT-Rosalind, our frontier model for life science research.
-
-This model is a step towards one of our most important goals — accelerating science and improving human outcomes.
-
-Excited to work with many amazing partners on deploying and improving this model. https://t.co/JCKLTkOCJn
-
----
-@gdb | ❤️ 208 | 🔁 19 | 💬 21 | 👁 10748]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>RT @VinceZcrikl: 这是Hermes也下场玩中转站了吗？还集成到了自家产品
-
-不一样的是，一次订阅能除了300+模型还有第三方付费tool，各家抓网页、生图、语音月费从10到100刀
-
-...</title>
-      <link>https://x.com/Teknium/status/2044891749651554784</link>
-      <guid isPermaLink="false">2044891749651554784</guid>
-      <pubDate>Thu, 16 Apr 2026 21:32:40 +0000</pubDate>
-      <description><![CDATA[RT @VinceZcrikl: 这是Hermes也下场玩中转站了吗？还集成到了自家产品
-
-不一样的是，一次订阅能除了300+模型还有第三方付费tool，各家抓网页、生图、语音月费从10到100刀
-
-@Teknium @NousResearch this is definite…
-
----
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
   </channel>
