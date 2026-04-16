@@ -5,167 +5,128 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 20:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:31:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The edge that used to belong to hedge funds? 
-It's in your pocket now.
-Your AI edge with smarter too...</title>
-      <link>https://x.com/binance/status/2044868611727134980</link>
-      <guid isPermaLink="false">2044868611727134980</guid>
-      <pubDate>Thu, 16 Apr 2026 20:00:43 +0000</pubDate>
-      <description><![CDATA[The edge that used to belong to hedge funds? 
-It's in your pocket now.
-Your AI edge with smarter tools for every trader. #BinanceAI https://t.co/avKeg8aaVQ
+      <title>You think &quot;ah that must be some fringe part of society&quot; right?
+
+But it's even my relativel...</title>
+      <link>https://x.com/levelsio/status/2044874478421729371</link>
+      <guid isPermaLink="false">2044874478421729371</guid>
+      <pubDate>Thu, 16 Apr 2026 20:24:02 +0000</pubDate>
+      <description><![CDATA[You think &quot;ah that must be some fringe part of society&quot; right?
+
+But it's even my relatively more right leaning friends from Netherlands
+
+So many people around the age of 25-45 in Europe think like this now!
+
+10 year delay effect of United States stuff but evolved even worse!
 
 ---
-@binance | ❤️ 4 | 🔁 1 | 💬 0 | 👁 105]]></description>
-      <author>@binance</author>
+@levelsio | ❤️ 31 | 🔁 0 | 💬 3 | 👁 1551]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>Boris Cherny 根据自己最近几周深度使用 Claude Opus 4.7 的经验，分享了几个实用技巧，让你也能高效发挥这款新模型的威力。
+      <title>you have to think more carefully about session management with one million context, not less
 
-首先是新上线的“自动模式”(Auto mode)。...</title>
-      <link>https://x.com/dotey/status/2044868344256381254</link>
-      <guid isPermaLink="false">2044868344256381254</guid>
-      <pubDate>Thu, 16 Apr 2026 19:59:39 +0000</pubDate>
-      <description><![CDATA[Boris Cherny 根据自己最近几周深度使用 Claude Opus 4.7 的经验，分享了几个实用技巧，让你也能高效发挥这款新模型的威力。
+https:...</title>
+      <link>https://x.com/trq212/status/2044873898572001376</link>
+      <guid isPermaLink="false">2044873898572001376</guid>
+      <pubDate>Thu, 16 Apr 2026 20:21:43 +0000</pubDate>
+      <description><![CDATA[you have to think more carefully about session management with one million context, not less
 
-首先是新上线的“自动模式”(Auto mode)。
-
-Opus 4.7 很适合复杂且长期运行的任务，比如深度调研、代码重构或功能迭代。
-
-以前，你要么得不断地确认权限请求，要么不得已使用危险的“跳过权限”模式。
-
-现在，新推出的自动模式让 Claude 自己判断命令的安全性，自动批准执行。这意味着你不用再频繁确认，也能同时运行更多任务，效率大幅提升。
-
-如果你不喜欢用自动模式，官方还推出了一个叫做 /fewer-permission-prompts (减少权限提示) 的技能。它会自动检查历史操作，找到那些安全但经常触发权限提示的命令，并建议你加入权限白名单。这样，你就能更专注工作，不用老被权限提示打断。
-
-另一个贴心功能叫做“回顾”(Recaps)。
-
-它会为你自动总结 Claude 已经完成了哪些任务，以及下一步要做什么。这对处理长期、复杂的任务特别有帮助，哪怕你中间中断几个小时再回来，也能迅速回到节奏里。
-
-CLI 用户还能试试“专注模式”(Focus mode)。
-
-这个模式会隐藏所有中间步骤，只呈现最终结果。如果你对 Claude 已经足够信任，不想再浪费时间看中间细节，专注模式能让你一眼看清重点，快速推进任务。
-
-Claude 4.7 还改变了以往固定的“思考预算”机制，现在用的是一种叫“努力程度”(Configure your effort level)的设定。
-
-你可以灵活调整 Claude 花费的计算资源和时间，“低努力”意味着响应快、更省 token；“高努力”则能输出最聪明、最强大的结果。一般建议普通任务用 xhigh，特别难的用 max。这种模式能自由切换，更贴合实际需求。
-
-最后，别忘了让 Claude 验证自己的工作成果。这其实一直是提升 Claude 效果的关键，现在更重要了。
-
-比如：
-- 对于后端工作，确保 Claude 知道如何启动你的服务器/服务，从而进行端到端测试；
-- 对于前端工作，使用 Claude Chromium 浏览器扩展程序，赋予 Claude 控制你浏览器的能力；
-- 对于桌面应用，使用计算机使用 (computer use) 功能。
-
-就 Boris 自己而言，最近最常使用的提示词通常是这样的：“Claude 去做某某事，然后 /go”。 
-
-/go 是一个自定义技能，它会让 Claude 自动执行以下三步：
-1. 使用 bash、浏览器或计算机使用功能进行端到端的自我测试。
-2. 运行 /simplify (精简代码) 技能。
-3. 提交一个 PR 。
-
-对于耗时较长的工作，自我验证非常重要。因为这样一来，当你回来检查任务时，你就确切地知道这些代码是真实可用的。
-
-总体来说，Opus 4.7 本身的提升已经很明显了，但如果你愿意稍微调整一下工作流程，更好地适应 Claude 的“主动性”和“智能程度”，一定会有更加明显的效率提升。希望这些技巧能帮你真正玩转 Opus 4.7！
+https://t.co/xHn1oSwH1c
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 69]]></description>
+@trq212 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 911]]></description>
+      <author>@trq212</author>
+    </item>
+    <item>
+      <title>opus4.7 确实好用，熟悉的 cc 又回来了。另外我发现新版本的 codex app 我觉得比在终端上使用 codex cli 还好用一些。</title>
+      <link>https://x.com/turingou/status/2044871834722824580</link>
+      <guid isPermaLink="false">2044871834722824580</guid>
+      <pubDate>Thu, 16 Apr 2026 20:13:31 +0000</pubDate>
+      <description><![CDATA[opus4.7 确实好用，熟悉的 cc 又回来了。另外我发现新版本的 codex app 我觉得比在终端上使用 codex cli 还好用一些。
+
+---
+@turingou | ❤️ 4 | 🔁 0 | 💬 1 | 👁 509]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>Oh yes oh yes 😍</title>
+      <link>https://x.com/levelsio/status/2044870326597595488</link>
+      <guid isPermaLink="false">2044870326597595488</guid>
+      <pubDate>Thu, 16 Apr 2026 20:07:32 +0000</pubDate>
+      <description><![CDATA[Oh yes oh yes 😍
+
+---
+@levelsio | ❤️ 51 | 🔁 2 | 💬 3 | 👁 7601]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>When I meet most Europeans these days I wanna shake them and shout WAKE UPPPPPPP
+
+They're all captiv...</title>
+      <link>https://x.com/levelsio/status/2044870009047106001</link>
+      <guid isPermaLink="false">2044870009047106001</guid>
+      <pubDate>Thu, 16 Apr 2026 20:06:16 +0000</pubDate>
+      <description><![CDATA[When I meet most Europeans these days I wanna shake them and shout WAKE UPPPPPPP
+
+They're all captivated by the mind virus
+
+My Dutch friend said he's doing great because he has no kids so he's not a &quot;big burden on society&quot; eco wise
+
+My French friend said she avoids flying at all cost to save the environment
+
+WAKE UP!!!!!
+
+---
+@levelsio | ❤️ 258 | 🔁 7 | 💬 44 | 👁 11207]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>额度果然重置了 https://t.co/yk053zcqXW</title>
+      <link>https://x.com/dotey/status/2044869569303441451</link>
+      <guid isPermaLink="false">2044869569303441451</guid>
+      <pubDate>Thu, 16 Apr 2026 20:04:31 +0000</pubDate>
+      <description><![CDATA[额度果然重置了 https://t.co/yk053zcqXW
+
+---
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 258]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>RT @DrTechlash: Daniel Moreno-Gama, in an interview before he arrived in SF with a gun and a hit lis...</title>
-      <link>https://x.com/ylecun/status/2044866240812875926</link>
-      <guid isPermaLink="false">2044866240812875926</guid>
-      <pubDate>Thu, 16 Apr 2026 19:51:18 +0000</pubDate>
-      <description><![CDATA[RT @DrTechlash: Daniel Moreno-Gama, in an interview before he arrived in SF with a gun and a hit list: https://t.co/0LFx3QREfq
+      <title>a quick fix if you saw higher rate limit usage in Opus 4.7 today- hope you enjoy trying it out</title>
+      <link>https://x.com/trq212/status/2044869569555411383</link>
+      <guid isPermaLink="false">2044869569555411383</guid>
+      <pubDate>Thu, 16 Apr 2026 20:04:31 +0000</pubDate>
+      <description><![CDATA[a quick fix if you saw higher rate limit usage in Opus 4.7 today- hope you enjoy trying it out
 
 ---
-@ylecun | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@trq212 | ❤️ 203 | 🔁 5 | 💬 45 | 👁 10471]]></description>
+      <author>@trq212</author>
     </item>
     <item>
-      <title>RT @internetarchive: Publishers have real questions about AI, but let’s be clear: @waybackmachine is...</title>
-      <link>https://x.com/ylecun/status/2044866028459401450</link>
-      <guid isPermaLink="false">2044866028459401450</guid>
-      <pubDate>Thu, 16 Apr 2026 19:50:27 +0000</pubDate>
-      <description><![CDATA[RT @internetarchive: Publishers have real questions about AI, but let’s be clear: @waybackmachine isn’t a backdoor for AI scraping.
-
-For 30…
+      <title>要想编程效果好，就得学会“黑话”😂</title>
+      <link>https://x.com/dotey/status/2044869059808727427</link>
+      <guid isPermaLink="false">2044869059808727427</guid>
+      <pubDate>Thu, 16 Apr 2026 20:02:30 +0000</pubDate>
+      <description><![CDATA[要想编程效果好，就得学会“黑话”😂
 
 ---
-@ylecun | ❤️ 0 | 🔁 516 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 854]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>RT @bruce_arthur: JD Vance is lecturing the Pope on Catholicism and Pierre Poilievre is lecturing Ma...</title>
-      <link>https://x.com/ylecun/status/2044865821541839024</link>
-      <guid isPermaLink="false">2044865821541839024</guid>
-      <pubDate>Thu, 16 Apr 2026 19:49:38 +0000</pubDate>
-      <description><![CDATA[RT @bruce_arthur: JD Vance is lecturing the Pope on Catholicism and Pierre Poilievre is lecturing Mark Carney on economics and RFK Jr is le…
+      <title>RT @ClaudeDevs: We fixed a bug where rate limits on Claude subscriptions weren't properly adjusted f...</title>
+      <link>https://x.com/trq212/status/2044869038455894151</link>
+      <guid isPermaLink="false">2044869038455894151</guid>
+      <pubDate>Thu, 16 Apr 2026 20:02:25 +0000</pubDate>
+      <description><![CDATA[RT @ClaudeDevs: We fixed a bug where rate limits on Claude subscriptions weren't properly adjusted for long context requests in Opus 4.7.…
 
 ---
-@ylecun | ❤️ 0 | 🔁 10033 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>RT @jbhuang0604: Great to have @_akhaliq in the house! https://t.co/ZBEACJcSxW</title>
-      <link>https://x.com/_akhaliq/status/2044865244464292136</link>
-      <guid isPermaLink="false">2044865244464292136</guid>
-      <pubDate>Thu, 16 Apr 2026 19:47:20 +0000</pubDate>
-      <description><![CDATA[RT @jbhuang0604: Great to have @_akhaliq in the house! https://t.co/ZBEACJcSxW
-
----
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>RT @Soph_astro: Jour 062, orbite 0963 – Savez-vous que nous voyons chaque jour 16 levers et couchers...</title>
-      <link>https://x.com/Space_Station/status/2044863205428625499</link>
-      <guid isPermaLink="false">2044863205428625499</guid>
-      <pubDate>Thu, 16 Apr 2026 19:39:14 +0000</pubDate>
-      <description><![CDATA[RT @Soph_astro: Jour 062, orbite 0963 – Savez-vous que nous voyons chaque jour 16 levers et couchers de Soleil depuis la Station? Ils ne du…
-
----
-@Space_Station | ❤️ 0 | 🔁 281 | 💬 0 | 👁 6]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>Our Life Sciences model series is available as a research preview starting today for qualified custo...</title>
-      <link>https://x.com/OpenAI/status/2044861695911477643</link>
-      <guid isPermaLink="false">2044861695911477643</guid>
-      <pubDate>Thu, 16 Apr 2026 19:33:14 +0000</pubDate>
-      <description><![CDATA[Our Life Sciences model series is available as a research preview starting today for qualified customers including @Amgen, @moderna_tx, the @AllenInstitute, and @thermofisher Scientific through ChatGPT, Codex, and the API. 
-
-https://t.co/lbUYihzr8f
-
----
-@OpenAI | ❤️ 160 | 🔁 8 | 💬 4 | 👁 19580]]></description>
-      <author>@OpenAI</author>
-    </item>
-    <item>
-      <title>GPT-Rosalind, our Life Sciences model series, is optimized for scientific workflows, with stronger p...</title>
-      <link>https://x.com/OpenAI/status/2044861694216900901</link>
-      <guid isPermaLink="false">2044861694216900901</guid>
-      <pubDate>Thu, 16 Apr 2026 19:33:14 +0000</pubDate>
-      <description><![CDATA[GPT-Rosalind, our Life Sciences model series, is optimized for scientific workflows, with stronger performance in protein and chemical reasoning, genomics analysis, biochemistry knowledge, and scientific tool use. https://t.co/PTdbHMgR50
-
----
-@OpenAI | ❤️ 256 | 🔁 16 | 💬 4 | 👁 25567]]></description>
-      <author>@OpenAI</author>
-    </item>
-    <item>
-      <title>Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, dru...</title>
-      <link>https://x.com/OpenAI/status/2044861690911850863</link>
-      <guid isPermaLink="false">2044861690911850863</guid>
-      <pubDate>Thu, 16 Apr 2026 19:33:13 +0000</pubDate>
-      <description><![CDATA[Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine. https://t.co/PubLU0FkSv
-
----
-@OpenAI | ❤️ 2167 | 🔁 227 | 💬 122 | 👁 85015]]></description>
-      <author>@OpenAI</author>
+@trq212 | ❤️ 0 | 🔁 121 | 💬 0 | 👁 0]]></description>
+      <author>@trq212</author>
     </item>
   </channel>
 </rss>
