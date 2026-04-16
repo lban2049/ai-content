@@ -5,88 +5,234 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:31:27 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @peterfenton: I've only felt this a handful of times in a first meeting — TheFacebook (2005), Twi...</title>
-      <link>https://x.com/lennysan/status/2044821425622811118</link>
-      <guid isPermaLink="false">2044821425622811118</guid>
-      <pubDate>Thu, 16 Apr 2026 16:53:13 +0000</pubDate>
-      <description><![CDATA[RT @peterfenton: I've only felt this a handful of times in a first meeting — TheFacebook (2005), Twitter (2007), Instagram (2010), SnapChat…
+      <title>Codex 大更新：从写代码工具变成能操作你电脑的助手
+
+OpenAI 给 Codex 推了一次重大升级，把这个每周被 300 多万开发者使用的编程助手，从写代码的扩展成了能操作整台电脑的工作伙伴。
+...</title>
+      <link>https://x.com/dotey/status/2044830688587706710</link>
+      <guid isPermaLink="false">2044830688587706710</guid>
+      <pubDate>Thu, 16 Apr 2026 17:30:01 +0000</pubDate>
+      <description><![CDATA[Codex 大更新：从写代码工具变成能操作你电脑的助手
+
+OpenAI 给 Codex 推了一次重大升级，把这个每周被 300 多万开发者使用的编程助手，从写代码的扩展成了能操作整台电脑的工作伙伴。
+
+最核心的变化是后台电脑操作。Codex 现在能自己看屏幕、自己点鼠标、自己敲键盘，在 Mac 上跑多个 agent 并行干活，而且不会抢占你正在用的其他窗口。这对于那些没开放 API 的软件特别有用——以前 agent 碰到这类应用就歇菜，现在直接像人一样手动操作。
+
+桌面 App 内置了浏览器，你可以直接在网页上圈点批注来给 agent 下指令，目前主要用于前端开发和游戏调试。图像生成也接进来了，用的是 OpenAI 新的 gpt-image-1.5 模型，做产品概念图、UI mock、游戏素材可以和写代码在同一个流程里完成。
+
+另外新增 90 多个插件，把 JIRA、GitLab、CircleCI、微软全家桶、Databricks 旗下的 Neon 等工具都接了进来。桌面 App 本身也加了处理 GitHub review 评论、多终端标签、通过 SSH 连远程 devbox（开发沙箱）等功能，PDF、表格、幻灯片可以直接在侧边栏预览。
+
+还有两个值得注意的功能。一个是记忆：Codex 会记住你的偏好、过往的纠正、花时间收集来的上下文，以后做类似任务不用每次都从头教。另一个是“自我排程”：它可以给自己安排未来的任务，自动在几天甚至几周后醒过来继续推进一件长期工作，团队已经在用它来追踪 Slack、Gmail、Notion 里没收尾的事情。
+
+可用性方面，更新从今天开始推送给用 ChatGPT 账号登录桌面 App 的用户。电脑操作功能先上 macOS，欧盟和英国稍后开放；记忆和上下文感知推荐功能，企业版、教育版以及欧盟英国用户要再等等。
+
+这一波更新的方向很清楚：Claude Code、Cursor 这些竞品都在往通用Agent 的方向走，OpenAI 要把 Codex 从编辑器里的编程助手，变成一个能跨应用、跨时间、跨工具链持续干活的数字同事。
 
 ---
-@lennysan | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>browser-use 团队开源了一个叫 video-use 的 Claude Code 技能，让你对着摄像头录完素材，跟 Claude Code 聊两句，就能拿到剪好的成品视频。
-
-听起来像个噱头，...</title>
-      <link>https://x.com/dotey/status/2044821366961057861</link>
-      <guid isPermaLink="false">2044821366961057861</guid>
-      <pubDate>Thu, 16 Apr 2026 16:52:59 +0000</pubDate>
-      <description><![CDATA[browser-use 团队开源了一个叫 video-use 的 Claude Code 技能，让你对着摄像头录完素材，跟 Claude Code 聊两句，就能拿到剪好的成品视频。
-
-听起来像个噱头，但它解决的问题很实际：你录了一堆素材，里面全是“嗯”“呃”和重录的片段，传统流程是打开剪辑软件一刀一刀切。video-use 的做法是你把素材丢进文件夹，告诉 Claude：“把这些剪成一个发布视频”，它会自动裁掉口头语和空白段、调色、加字幕、甚至用 Manim 或 Remotion 生成动画叠加层，最后输出 final.mp4。
-
-技术上有个巧妙的地方：大模型从头到尾不“看”视频。它读的是 ElevenLabs 转写出来的逐词时间戳文本，整个素材压缩成大约 12KB 的文本文件。只有在需要做判断的节点，比如不确定某个停顿该不该切，才会调用一张时间轴合成图来辅助决策。按项目作者的算法，直接把帧喂给模型要烧掉 4500 万 token，而这套方案只需要一份文本加几张图。思路跟 browser-use 做网页代理一样，给模型结构化的 DOM 而不是截图。
-
-渲染完还有一轮自检：在每个剪切点上重新生成时间轴视图，检查画面跳变、音频爆音、字幕遮挡，通过了才给你看预览。最多自动修三轮。
-
-项目完全开源免费，装好 ffmpeg 和 Python 依赖后把仓库软链接到 Claude Code 的技能目录就能用，不过转写部分依赖 ElevenLabs API，需要自己配 key。对于经常录屏、录教程、拍 vlog 但又嫌剪辑软件太重的人来说，可以尝试下。
-
-项目地址：https://t.co/xbF8Ay1OqY
-
----
-@dotey | ❤️ 13 | 🔁 0 | 💬 1 | 👁 1076]]></description>
+@dotey | ❤️ 1 | 🔁 1 | 💬 0 | 👁 77]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>RT @mayemusk: I have always said that the Cybertruck has a smooth ride because of the suspension. No...</title>
-      <link>https://x.com/elonmusk/status/2044818640793694557</link>
-      <guid isPermaLink="false">2044818640793694557</guid>
-      <pubDate>Thu, 16 Apr 2026 16:42:09 +0000</pubDate>
-      <description><![CDATA[RT @mayemusk: I have always said that the Cybertruck has a smooth ride because of the suspension. Now I prefer your description. “It feels…
+      <title>More on my blog, including results from the previously secret &quot;flamingo on a unicycle&quot; tes...</title>
+      <link>https://x.com/simonw/status/2044830305723515327</link>
+      <guid isPermaLink="false">2044830305723515327</guid>
+      <pubDate>Thu, 16 Apr 2026 17:28:30 +0000</pubDate>
+      <description><![CDATA[More on my blog, including results from the previously secret &quot;flamingo on a unicycle&quot; test https://t.co/bUBjyOsBuo
 
 ---
-@elonmusk | ❤️ 0 | 🔁 593 | 💬 0 | 👁 22]]></description>
+@simonw | ❤️ 4 | 🔁 0 | 💬 0 | 👁 309]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>Shocking result on my pelican benchmark this morning, I got a better pelican from a 21GB local Qwen3...</title>
+      <link>https://x.com/simonw/status/2044830134885306701</link>
+      <guid isPermaLink="false">2044830134885306701</guid>
+      <pubDate>Thu, 16 Apr 2026 17:27:49 +0000</pubDate>
+      <description><![CDATA[Shocking result on my pelican benchmark this morning, I got a better pelican from a 21GB local Qwen3.6-35B-A3B running on my laptop than I did from the new Opus 4.7!
+
+Qwen on the left, Opus on the right https://t.co/kDlbnJv6YI
+
+---
+@simonw | ❤️ 16 | 🔁 0 | 💬 5 | 👁 525]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>RT @developedbyed: Claude Opus 4.7 vs GPT 5.4 (1/9)
+
+Really impressed with opus 4.7 from these initi...</title>
+      <link>https://x.com/noahzweben/status/2044829721779904546</link>
+      <guid isPermaLink="false">2044829721779904546</guid>
+      <pubDate>Thu, 16 Apr 2026 17:26:11 +0000</pubDate>
+      <description><![CDATA[RT @developedbyed: Claude Opus 4.7 vs GPT 5.4 (1/9)
+
+Really impressed with opus 4.7 from these initial tests! 
+
+Like how opus uses gradient…
+
+---
+@noahzweben | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@noahzweben</author>
+    </item>
+    <item>
+      <title>请问有没有好用的 Ralph Loop for Codex？
+类似于 Claude Code 的 Ralph Wiggum Plugin https://t.co/hBJFsEv8il
+
+用过 oh ...</title>
+      <link>https://x.com/dotey/status/2044829447732261063</link>
+      <guid isPermaLink="false">2044829447732261063</guid>
+      <pubDate>Thu, 16 Apr 2026 17:25:06 +0000</pubDate>
+      <description><![CDATA[请问有没有好用的 Ralph Loop for Codex？
+类似于 Claude Code 的 Ralph Wiggum Plugin https://t.co/hBJFsEv8il
+
+用过 oh my codex，给我装了一坨 MCP，魔改了我的 codex Custom instructions，我个人很不喜欢这种。
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 280]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>These updates are rolling out on the Codex desktop app starting today.
+
+https://t.co/CRwG2p8tFv</title>
+      <link>https://x.com/OpenAI/status/2044828389929062874</link>
+      <guid isPermaLink="false">2044828389929062874</guid>
+      <pubDate>Thu, 16 Apr 2026 17:20:53 +0000</pubDate>
+      <description><![CDATA[These updates are rolling out on the Codex desktop app starting today.
+
+https://t.co/CRwG2p8tFv
+
+---
+@OpenAI | ❤️ 98 | 🔁 4 | 💬 3 | 👁 9643]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>We’ve also added support for 90+ plugins in Codex, giving it more ways to gather context and take ac...</title>
+      <link>https://x.com/OpenAI/status/2044828378147311990</link>
+      <guid isPermaLink="false">2044828378147311990</guid>
+      <pubDate>Thu, 16 Apr 2026 17:20:51 +0000</pubDate>
+      <description><![CDATA[We’ve also added support for 90+ plugins in Codex, giving it more ways to gather context and take action across the tools you already use for docs, project management, code review, creative work, deployments, and more. https://t.co/IkmpDJwrLq
+
+---
+@OpenAI | ❤️ 94 | 🔁 4 | 💬 7 | 👁 10168]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>RT @mweinbach: 2 prompts deep into Opus 4.7 and benchmarks don’t do it justice. Way better behavior ...</title>
+      <link>https://x.com/noahzweben/status/2044828302070968361</link>
+      <guid isPermaLink="false">2044828302070968361</guid>
+      <pubDate>Thu, 16 Apr 2026 17:20:32 +0000</pubDate>
+      <description><![CDATA[RT @mweinbach: 2 prompts deep into Opus 4.7 and benchmarks don’t do it justice. Way better behavior and instruction following. Pretty massi…
+
+---
+@noahzweben | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
+      <author>@noahzweben</author>
+    </item>
+    <item>
+      <title>Codex for (almost) everything.
+
+It can now use apps on your Mac, connect to more of your tools, crea...</title>
+      <link>https://x.com/OpenAI/status/2044827705406062670</link>
+      <guid isPermaLink="false">2044827705406062670</guid>
+      <pubDate>Thu, 16 Apr 2026 17:18:10 +0000</pubDate>
+      <description><![CDATA[Codex for (almost) everything.
+
+It can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks. https://t.co/UEEsYBDYfo
+
+---
+@OpenAI | ❤️ 1517 | 🔁 156 | 💬 199 | 👁 53396]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>通过音频波形图来裁剪视频是很聪明的做法 https://t.co/P3zVwdHp1v</title>
+      <link>https://x.com/dotey/status/2044827350668378564</link>
+      <guid isPermaLink="false">2044827350668378564</guid>
+      <pubDate>Thu, 16 Apr 2026 17:16:46 +0000</pubDate>
+      <description><![CDATA[通过音频波形图来裁剪视频是很聪明的做法 https://t.co/P3zVwdHp1v
+
+---
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 294]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>RT @bcherny: Opus 4.7 feels more intelligent, agentic, and precise than 4.6. It took a few days for ...</title>
+      <link>https://x.com/noahzweben/status/2044826946950013432</link>
+      <guid isPermaLink="false">2044826946950013432</guid>
+      <pubDate>Thu, 16 Apr 2026 17:15:09 +0000</pubDate>
+      <description><![CDATA[RT @bcherny: Opus 4.7 feels more intelligent, agentic, and precise than 4.6. It took a few days for me to learn how to work with it effecti…
+
+---
+@noahzweben | ❤️ 0 | 🔁 58 | 💬 0 | 👁 0]]></description>
+      <author>@noahzweben</author>
+    </item>
+    <item>
+      <title>If South Africa doesn’t change its super racist Apartheid 2.0 laws, the country must be sanctioned</title>
+      <link>https://x.com/elonmusk/status/2044826400792912021</link>
+      <guid isPermaLink="false">2044826400792912021</guid>
+      <pubDate>Thu, 16 Apr 2026 17:12:59 +0000</pubDate>
+      <description><![CDATA[If South Africa doesn’t change its super racist Apartheid 2.0 laws, the country must be sanctioned
+
+---
+@elonmusk | ❤️ 10390 | 🔁 1296 | 💬 1502 | 👁 1197453]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>马斯克的 xAI 正在把自己变成 GPU 出租商，第一个客户是估值 500 亿美元的编程工具 Cursor。
+      <title>RT @fi56622380: 今天芯片圈最大的新闻，莫过于Gerard在创立Nuvia CPU被高通收购五年之后，重新出发，新创立了ARM CPU公司，名字也跟之前非常像，叫Nuvacore
 
-据 Business Insider 报道，Cursor 计划用 xAI 数万块 GPU...</title>
-      <link>https://x.com/dotey/status/2044818533440205116</link>
-      <guid isPermaLink="false">2044818533440205116</guid>
-      <pubDate>Thu, 16 Apr 2026 16:41:43 +0000</pubDate>
-      <description><![CDATA[马斯克的 xAI 正在把自己变成 GPU 出租商，第一个客户是估值 500 亿美元的编程工具 Cursor。
+现在...</title>
+      <link>https://x.com/dotey/status/2044826258240934168</link>
+      <guid isPermaLink="false">2044826258240934168</guid>
+      <pubDate>Thu, 16 Apr 2026 17:12:25 +0000</pubDate>
+      <description><![CDATA[RT @fi56622380: 今天芯片圈最大的新闻，莫过于Gerard在创立Nuvia CPU被高通收购五年之后，重新出发，新创立了ARM CPU公司，名字也跟之前非常像，叫Nuvacore
 
-据 Business Insider 报道，Cursor 计划用 xAI 数万块 GPU 来训练其最新编程模型 Composer 2.5。这笔交易让 xAI 从纯粹的模型开发公司，变成了某种程度上的云计算服务商，和亚马逊、微软、Google 以及近年崛起的 CoreWeave 站到了同一条赛道上。
+现在这个时间点做数据中心CPU，确实是赶上了CPU十年来最好的时代:
 
-为什么 xAI 突然想出租 GPU？
-
-一个关键细节透露了答案：xAI 总裁 Michael Nicolls 上周在内部备忘录中承认，公司 GPU 的模型算力利用率（MFU，衡量训练时 GPU 被有效使用的比例）低得令人尴尬，只有大约 11%。行业正常水平是 35% 到 45%。也就是说，xAI 坐拥 20 万块 Nvidia GPU、号称要扩展到 100 万块，但大部分算力其实在空转。与其闲着，不如租出去回点血。
-
-这两家公司的关系不只是买卖。今年 3 月，xAI 刚从 Cursor 挖走了两位产品工程负责人 Andrew Milich 和 Jason Ginsburg，两人现在直接向马斯克汇报。现在 xAI 又把算力卖给 Cursor，一边挖人一边做生意，关系颇为微妙。
-
-Cursor 这边也面临不小的压力。上个月 Bloomberg 报道其正在以约 500 亿美元估值进行融资谈判，但 Anthropic 和 OpenAI 都在猛推自家的编程助手。Cursor 3 月发布的 Composer 2 是基于中国初创公司月之暗面（Moonshot AI）的开源模型微调而来，这次 Composer 2.5 选择在 xAI 的基础设施上训练，算是在算力来源上又多了一条路。
-
-xAI 的基础设施团队最近也不太平，上周刚失去了基础设施负责人 Heinrich Küttler，SpaceX 的 Daniel Dueri 被调来接管计算基础设施。马斯克去年底在全员会上放话说 xAI 会靠更多算力打败 OpenAI 和 Anthropic，但目前看来，比起用好算力，xAI 更擅长囤算力。
+AI ag…
 
 ---
-@dotey | ❤️ 10 | 🔁 1 | 💬 2 | 👁 2734]]></description>
+@dotey | ❤️ 0 | 🔁 36 | 💬 0 | 👁 0]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Phew. https://t.co/VjJEocKIqr</title>
-      <link>https://x.com/coinbase/status/2044817621170655466</link>
-      <guid isPermaLink="false">2044817621170655466</guid>
-      <pubDate>Thu, 16 Apr 2026 16:38:06 +0000</pubDate>
-      <description><![CDATA[Phew. https://t.co/VjJEocKIqr
+      <title>RT @OverlyTrev: NHTSA autonomous vehicle crash data has been updated through March 15, 2026, for AVs...</title>
+      <link>https://x.com/elonmusk/status/2044826150904738077</link>
+      <guid isPermaLink="false">2044826150904738077</guid>
+      <pubDate>Thu, 16 Apr 2026 17:12:00 +0000</pubDate>
+      <description><![CDATA[RT @OverlyTrev: NHTSA autonomous vehicle crash data has been updated through March 15, 2026, for AVs including Tesla Robotaxi.
+
+This includ…
 
 ---
-@coinbase | ❤️ 104 | 🔁 2 | 💬 34 | 👁 9700]]></description>
-      <author>@coinbase</author>
+@elonmusk | ❤️ 0 | 🔁 132 | 💬 0 | 👁 16]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @ClaudeDevs: ✻ Flibbertigibetting…</title>
+      <link>https://x.com/trq212/status/2044826041181675905</link>
+      <guid isPermaLink="false">2044826041181675905</guid>
+      <pubDate>Thu, 16 Apr 2026 17:11:33 +0000</pubDate>
+      <description><![CDATA[RT @ClaudeDevs: ✻ Flibbertigibetting…
+
+---
+@trq212 | ❤️ 0 | 🔁 120 | 💬 0 | 👁 0]]></description>
+      <author>@trq212</author>
+    </item>
+    <item>
+      <title>RT @vikingmute: Impeccable 升级到 2.0 了，这应该是目前我觉得最好的 design skills 了，anti AI slop
+https://t.co/r1KA87Y6...</title>
+      <link>https://x.com/dotey/status/2044824214306263264</link>
+      <guid isPermaLink="false">2044824214306263264</guid>
+      <pubDate>Thu, 16 Apr 2026 17:04:18 +0000</pubDate>
+      <description><![CDATA[RT @vikingmute: Impeccable 升级到 2.0 了，这应该是目前我觉得最好的 design skills 了，anti AI slop
+https://t.co/r1KA87Y6FY 
+
+推出了CLI 工具，无需 LLM 即可扫描代码，检测 25 种 AI…
+
+---
+@dotey | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
+      <author>@dotey</author>
     </item>
   </channel>
 </rss>
