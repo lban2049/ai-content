@@ -5,133 +5,192 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 13:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:01:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Qwen 27B seems to be Twitter's choice for better local model than Gemma-4</title>
-      <link>https://x.com/Teknium/status/2044769694943752679</link>
-      <guid isPermaLink="false">2044769694943752679</guid>
-      <pubDate>Thu, 16 Apr 2026 13:27:39 +0000</pubDate>
-      <description><![CDATA[Qwen 27B seems to be Twitter's choice for better local model than Gemma-4
+      <title>The shift has begun... 
+
+Binance is empowering everyone with access, opportunity and knowledge. #Bin...</title>
+      <link>https://x.com/binance/status/2044777841519411243</link>
+      <guid isPermaLink="false">2044777841519411243</guid>
+      <pubDate>Thu, 16 Apr 2026 14:00:02 +0000</pubDate>
+      <description><![CDATA[The shift has begun... 
+
+Binance is empowering everyone with access, opportunity and knowledge. #BinanceAI https://t.co/dAlHh78ppx
 
 ---
-@Teknium | ❤️ 6 | 🔁 0 | 💬 3 | 👁 237]]></description>
+@binance | ❤️ 20 | 🔁 4 | 💬 13 | 👁 1011]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>Agent evals are drifting away from production reality.
+
+Most benchmarks use clean tasks, well-specif...</title>
+      <link>https://x.com/dair_ai/status/2044773323914322393</link>
+      <guid isPermaLink="false">2044773323914322393</guid>
+      <pubDate>Thu, 16 Apr 2026 13:42:05 +0000</pubDate>
+      <description><![CDATA[Agent evals are drifting away from production reality.
+
+Most benchmarks use clean tasks, well-specified requirements, deterministic metrics, and retrospective curation. Production work is messier, with implicit constraints, fragmented multimodal inputs, undeclared domain knowledge, long-horizon deliverables, and expert judgment that evolves over time.
+
+This paper introduces AlphaEval, a production-grounded benchmark for evaluating agents as complete products.
+
+AlphaEval contains 94 tasks sourced from seven companies deploying AI agents in core business workflows, spanning six O*NET domains. It evaluates systems like Claude Code and Codex as commercial agent products, not just model APIs.
+
+The benchmark combines multiple evaluation paradigms: LLM-as-a-Judge, reference-driven metrics, formal verification, rubric-based assessment, automated UI testing, and domain-specific checks.
+
+Why it matters: organizations need benchmarks that start from real production requirements, then become executable evals with minimal friction.
+
+Paper: https://t.co/cbTGgTWoNl
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+
+---
+@dair_ai | ❤️ 10 | 🔁 3 | 💬 0 | 👁 620]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>最近收到过的最贴心的广告短信提醒… https://t.co/8OISOT0gca</title>
+      <link>https://x.com/tualatrix/status/2044773044112261244</link>
+      <guid isPermaLink="false">2044773044112261244</guid>
+      <pubDate>Thu, 16 Apr 2026 13:40:58 +0000</pubDate>
+      <description><![CDATA[最近收到过的最贴心的广告短信提醒… https://t.co/8OISOT0gca
+
+---
+@tualatrix | ❤️ 7 | 🔁 0 | 💬 1 | 👁 932]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>今天跟一朋友聊天，提到 SaaS 已死的媒体情绪时，开心的笑了。笑的原因是：他就是做 SaaS 创业的，刚签了一个百万大单。
+
+大部分看衰 SaaS 的，都没有真正用过 SaaS 产品。是隔靴搔痒式的...</title>
+      <link>https://x.com/lifesinger/status/2044773037351051590</link>
+      <guid isPermaLink="false">2044773037351051590</guid>
+      <pubDate>Thu, 16 Apr 2026 13:40:56 +0000</pubDate>
+      <description><![CDATA[今天跟一朋友聊天，提到 SaaS 已死的媒体情绪时，开心的笑了。笑的原因是：他就是做 SaaS 创业的，刚签了一个百万大单。
+
+大部分看衰 SaaS 的，都没有真正用过 SaaS 产品。是隔靴搔痒式的在臆想 SaaS 只是 CRUD + UI，以为用 AI 就可以 Vibe Coding 出来。
+
+但确实很多传统 SaaS 有市值泡沫。在 AI 叙事开启后，大量 SaaS 的市值泡沫转向了 AI 公司的估值泡沫。市场需要新叙事。SaaS 的实际价值更理性回归了到真实值。这是好事。
+
+真的智者，现阶段会认真识别有价值的 SaaS 股票。在别人恐惧时，贪婪购入。
+
+注：不构成投资建议。慎入。
+
+---
+@lifesinger | ❤️ 6 | 🔁 0 | 💬 1 | 👁 893]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>RT @MayukhBagchi4: @Teknium @MiniMax_AI Just shipped a Hermes Agent skill with HuskyLens V2 on a Pi ...</title>
+      <link>https://x.com/Teknium/status/2044772947605467320</link>
+      <guid isPermaLink="false">2044772947605467320</guid>
+      <pubDate>Thu, 16 Apr 2026 13:40:35 +0000</pubDate>
+      <description><![CDATA[RT @MayukhBagchi4: @Teknium @MiniMax_AI Just shipped a Hermes Agent skill with HuskyLens V2 on a Pi 5  gesture control, face recognition, e…
+
+---
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 2]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @aijoey: Hermes Agent Upgrade Kit.
-
-Skins: https://t.co/hJuER0Db6f
-Web UI: https://t.co/b5SxuuRX7...</title>
-      <link>https://x.com/Teknium/status/2044769276842958936</link>
-      <guid isPermaLink="false">2044769276842958936</guid>
-      <pubDate>Thu, 16 Apr 2026 13:26:00 +0000</pubDate>
-      <description><![CDATA[RT @aijoey: Hermes Agent Upgrade Kit.
-
-Skins: https://t.co/hJuER0Db6f
-Web UI: https://t.co/b5SxuuRX72
-TUI: https://t.co/wT8L7X8BPu
-
-Daily Q…
+      <title>RT @T0xXxFoX: @MrSpock79 @Teknium @NousResearch Same question but louder https://t.co/Lx2LsJDi13</title>
+      <link>https://x.com/Teknium/status/2044772501465833561</link>
+      <guid isPermaLink="false">2044772501465833561</guid>
+      <pubDate>Thu, 16 Apr 2026 13:38:49 +0000</pubDate>
+      <description><![CDATA[RT @T0xXxFoX: @MrSpock79 @Teknium @NousResearch Same question but louder https://t.co/Lx2LsJDi13
 
 ---
-@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @coinbase: @fwdaniels Satoshi Nakamoto</title>
-      <link>https://x.com/coinbase/status/2044768898856235215</link>
-      <guid isPermaLink="false">2044768898856235215</guid>
-      <pubDate>Thu, 16 Apr 2026 13:24:30 +0000</pubDate>
-      <description><![CDATA[RT @coinbase: @fwdaniels Satoshi Nakamoto
+      <title>RT @GitTrend0x: 今天 GitHub 被个人到指挥 Agent 军团彻底屠榜了🚀
+
+5 个星标暴增最狠的项目，专业拆解下！
+
+1.  NousResearch/hermes-agent
+...</title>
+      <link>https://x.com/Teknium/status/2044772295751897444</link>
+      <guid isPermaLink="false">2044772295751897444</guid>
+      <pubDate>Thu, 16 Apr 2026 13:37:59 +0000</pubDate>
+      <description><![CDATA[RT @GitTrend0x: 今天 GitHub 被个人到指挥 Agent 军团彻底屠榜了🚀
+
+5 个星标暴增最狠的项目，专业拆解下！
+
+1.  NousResearch/hermes-agent
+ 今天还是榜一，自进化 AI agent、通过与用户交互自主创建技能、跨会话记…
 
 ---
-@coinbase | ❤️ 0 | 🔁 7 | 💬 0 | 👁 3]]></description>
-      <author>@coinbase</author>
-    </item>
-    <item>
-      <title>RT @eranshir: Most Physical AI models recognize patterns.
-They don’t understand the world.
-
-That’s w...</title>
-      <link>https://x.com/ylecun/status/2044766900379406557</link>
-      <guid isPermaLink="false">2044766900379406557</guid>
-      <pubDate>Thu, 16 Apr 2026 13:16:33 +0000</pubDate>
-      <description><![CDATA[RT @eranshir: Most Physical AI models recognize patterns.
-They don’t understand the world.
-
-That’s why they fail on edge cases.
-
-BADAS 2.0…
-
----
-@ylecun | ❤️ 0 | 🔁 5 | 💬 0 | 👁 4]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>服务客户跨时区跨半球，头疼就在于：晚上六点半一个会（印度），七点半一个会（湾区），八点到九点另一个会（欧洲）。
-
-也还好，一周也最多就一天。</title>
-      <link>https://x.com/bearliu/status/2044765263719960975</link>
-      <guid isPermaLink="false">2044765263719960975</guid>
-      <pubDate>Thu, 16 Apr 2026 13:10:03 +0000</pubDate>
-      <description><![CDATA[服务客户跨时区跨半球，头疼就在于：晚上六点半一个会（印度），七点半一个会（湾区），八点到九点另一个会（欧洲）。
-
-也还好，一周也最多就一天。
-
----
-@bearliu | ❤️ 1 | 🔁 0 | 💬 1 | 👁 278]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>Excited to see where our partnerhsip leads us @MiniMax_AI !</title>
-      <link>https://x.com/Teknium/status/2044765173513404706</link>
-      <guid isPermaLink="false">2044765173513404706</guid>
-      <pubDate>Thu, 16 Apr 2026 13:09:41 +0000</pubDate>
-      <description><![CDATA[Excited to see where our partnerhsip leads us @MiniMax_AI !
-
----
-@Teknium | ❤️ 51 | 🔁 4 | 💬 6 | 👁 1101]]></description>
+@Teknium | ❤️ 0 | 🔁 19 | 💬 0 | 👁 1]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>Awesome to hear!</title>
-      <link>https://x.com/Teknium/status/2044765001999917307</link>
-      <guid isPermaLink="false">2044765001999917307</guid>
-      <pubDate>Thu, 16 Apr 2026 13:09:01 +0000</pubDate>
-      <description><![CDATA[Awesome to hear!
+      <title>Nice tips here!</title>
+      <link>https://x.com/Teknium/status/2044771938468565323</link>
+      <guid isPermaLink="false">2044771938468565323</guid>
+      <pubDate>Thu, 16 Apr 2026 13:36:34 +0000</pubDate>
+      <description><![CDATA[Nice tips here!
 
 ---
-@Teknium | ❤️ 5 | 🔁 0 | 💬 0 | 👁 976]]></description>
+@Teknium | ❤️ 5 | 🔁 0 | 💬 0 | 👁 958]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @MrSpock79: @NousResearch guys how to install this? https://t.co/t8Kug0ShaK</title>
-      <link>https://x.com/Teknium/status/2044764863013261428</link>
-      <guid isPermaLink="false">2044764863013261428</guid>
-      <pubDate>Thu, 16 Apr 2026 13:08:27 +0000</pubDate>
-      <description><![CDATA[RT @MrSpock79: @NousResearch guys how to install this? https://t.co/t8Kug0ShaK
+      <title>RT @0xme66: 云服务器能不能跑 Hermes 浏览器自动化？
+
+昨天我录了个小视频，用 Hermes 的 /browser connect 直接连上我本地的 Chrome，然后让它自己去点赞...</title>
+      <link>https://x.com/Teknium/status/2044771850077741188</link>
+      <guid isPermaLink="false">2044771850077741188</guid>
+      <pubDate>Thu, 16 Apr 2026 13:36:13 +0000</pubDate>
+      <description><![CDATA[RT @0xme66: 云服务器能不能跑 Hermes 浏览器自动化？
+
+昨天我录了个小视频，用 Hermes 的 /browser connect 直接连上我本地的 Chrome，然后让它自己去点赞推文。
+本来就是试试看效果的，结果浏览量还挺高的，可能这个视频让很多人对ai能…
 
 ---
 @Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @mirra: Introducing Mirra Workspaces
-
-Workspaces give your local agents access to a shared multi-...</title>
-      <link>https://x.com/Teknium/status/2044764689427783931</link>
-      <guid isPermaLink="false">2044764689427783931</guid>
-      <pubDate>Thu, 16 Apr 2026 13:07:46 +0000</pubDate>
-      <description><![CDATA[RT @mirra: Introducing Mirra Workspaces
-
-Workspaces give your local agents access to a shared multi-tenant environment.
-
-Our customers are…
+      <title>晚上和许知远老师和单向街的朋友们吃饭，聊完感觉我明天就要入职单向街了😂今年每个月我在銀座单向街都有分享活动，欢迎大家常来！ https://t.co/NsEj7bPFNN</title>
+      <link>https://x.com/turingou/status/2044771721023311973</link>
+      <guid isPermaLink="false">2044771721023311973</guid>
+      <pubDate>Thu, 16 Apr 2026 13:35:42 +0000</pubDate>
+      <description><![CDATA[晚上和许知远老师和单向街的朋友们吃饭，聊完感觉我明天就要入职单向街了😂今年每个月我在銀座单向街都有分享活动，欢迎大家常来！ https://t.co/NsEj7bPFNN
 
 ---
-@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+@turingou | ❤️ 51 | 🔁 0 | 💬 0 | 👁 3919]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>RT @friesmakesfries: hermes agent @NousResearch is fucking insane
+
+i know literally NOTHING about co...</title>
+      <link>https://x.com/Teknium/status/2044771555096633481</link>
+      <guid isPermaLink="false">2044771555096633481</guid>
+      <pubDate>Thu, 16 Apr 2026 13:35:03 +0000</pubDate>
+      <description><![CDATA[RT @friesmakesfries: hermes agent @NousResearch is fucking insane
+
+i know literally NOTHING about coding. ZERO. and i just built a fully fu…
+
+---
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @omarsar0: NEW Research from Google.
+
+Integration test failures are painful because the signal is...</title>
+      <link>https://x.com/dair_ai/status/2044770884724887987</link>
+      <guid isPermaLink="false">2044770884724887987</guid>
+      <pubDate>Thu, 16 Apr 2026 13:32:23 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: NEW Research from Google.
+
+Integration test failures are painful because the signal is buried in messy logs. Massive output,…
+
+---
+@dair_ai | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
     </item>
   </channel>
 </rss>
