@@ -5,29 +5,33 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:31:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lowkey perfect day start. https://t.co/GSgABgQgEr</title>
-      <link>https://x.com/binance/status/2044611872385560957</link>
-      <guid isPermaLink="false">2044611872385560957</guid>
-      <pubDate>Thu, 16 Apr 2026 03:00:32 +0000</pubDate>
-      <description><![CDATA[Lowkey perfect day start. https://t.co/GSgABgQgEr
+      <title>RT @theCTO: hermes is so much better than openclaw 
+
+hype is crazy</title>
+      <link>https://x.com/Teknium/status/2044615598169321709</link>
+      <guid isPermaLink="false">2044615598169321709</guid>
+      <pubDate>Thu, 16 Apr 2026 03:15:20 +0000</pubDate>
+      <description><![CDATA[RT @theCTO: hermes is so much better than openclaw 
+
+hype is crazy
 
 ---
-@binance | ❤️ 15 | 🔁 1 | 💬 5 | 👁 625]]></description>
-      <author>@binance</author>
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>and here's the prompt guide: https://t.co/ay2lqPgQ0y</title>
-      <link>https://x.com/demishassabis/status/2044609360299426263</link>
-      <guid isPermaLink="false">2044609360299426263</guid>
-      <pubDate>Thu, 16 Apr 2026 02:50:33 +0000</pubDate>
-      <description><![CDATA[and here's the prompt guide: https://t.co/ay2lqPgQ0y
+      <title>🫡</title>
+      <link>https://x.com/Teknium/status/2044615563927056713</link>
+      <guid isPermaLink="false">2044615563927056713</guid>
+      <pubDate>Thu, 16 Apr 2026 03:15:12 +0000</pubDate>
+      <description><![CDATA[🫡
 
 ---
-@demishassabis | ❤️ 23 | 🔁 3 | 💬 3 | 👁 2057]]></description>
-      <author>@demishassabis</author>
+@Teknium | ❤️ 6 | 🔁 0 | 💬 1 | 👁 331]]></description>
+      <author>@Teknium</author>
     </item>
   </channel>
 </rss>
