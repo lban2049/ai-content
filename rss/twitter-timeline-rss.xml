@@ -5,32 +5,47 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 04:01:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @theCTO: hermes is so much better than openclaw 
+      <title>RT @OrdinaryGamers: Been having fun with local AI stuff. I don't really like the big models and now ...</title>
+      <link>https://x.com/NousResearch/status/2044624767026663518</link>
+      <guid isPermaLink="false">2044624767026663518</guid>
+      <pubDate>Thu, 16 Apr 2026 03:51:46 +0000</pubDate>
+      <description><![CDATA[RT @OrdinaryGamers: Been having fun with local AI stuff. I don't really like the big models and now that some of them want your ID I'm not…
 
-hype is crazy</title>
-      <link>https://x.com/Teknium/status/2044615598169321709</link>
-      <guid isPermaLink="false">2044615598169321709</guid>
-      <pubDate>Thu, 16 Apr 2026 03:15:20 +0000</pubDate>
-      <description><![CDATA[RT @theCTO: hermes is so much better than openclaw 
+---
+@NousResearch | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>RT @VinceZcrikl: @0xme66 @Teknium 开启这种模式实际走CDP会复用账号登录状态，建议小号尝试
 
-hype is crazy
+https://t.co/nIWAZ26wX4</title>
+      <link>https://x.com/Teknium/status/2044622473527022037</link>
+      <guid isPermaLink="false">2044622473527022037</guid>
+      <pubDate>Thu, 16 Apr 2026 03:42:39 +0000</pubDate>
+      <description><![CDATA[RT @VinceZcrikl: @0xme66 @Teknium 开启这种模式实际走CDP会复用账号登录状态，建议小号尝试
+
+https://t.co/nIWAZ26wX4
 
 ---
 @Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Teknium</author>
     </item>
     <item>
-      <title>🫡</title>
-      <link>https://x.com/Teknium/status/2044615563927056713</link>
-      <guid isPermaLink="false">2044615563927056713</guid>
-      <pubDate>Thu, 16 Apr 2026 03:15:12 +0000</pubDate>
-      <description><![CDATA[🫡
+      <title>Awesome and honored to have Mutahar choosing Hermes Agent! 
+
+Feel free to reach out to me if you nee...</title>
+      <link>https://x.com/Teknium/status/2044621204397683093</link>
+      <guid isPermaLink="false">2044621204397683093</guid>
+      <pubDate>Thu, 16 Apr 2026 03:37:37 +0000</pubDate>
+      <description><![CDATA[Awesome and honored to have Mutahar choosing Hermes Agent! 
+
+Feel free to reach out to me if you need any help or have suggestions 🫡🫡
 
 ---
-@Teknium | ❤️ 6 | 🔁 0 | 💬 1 | 👁 331]]></description>
+@Teknium | ❤️ 27 | 🔁 2 | 💬 2 | 👁 1327]]></description>
       <author>@Teknium</author>
     </item>
   </channel>
