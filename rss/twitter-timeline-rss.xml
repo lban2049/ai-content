@@ -5,96 +5,55 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 22:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:02:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Data analysis, inside Codex
-
-upload a CSV, use a plugin where your data lives, or paste a link to a ...</title>
-      <link>https://x.com/nickbaumann_/status/2044905029019254893</link>
-      <guid isPermaLink="false">2044905029019254893</guid>
-      <pubDate>Thu, 16 Apr 2026 22:25:26 +0000</pubDate>
-      <description><![CDATA[Data analysis, inside Codex
-
-upload a CSV, use a plugin where your data lives, or paste a link to a Google Sheet https://t.co/xTxsMjGYFv
+      <title>https://t.co/HmxPPdkXkg</title>
+      <link>https://x.com/lennysan/status/2044912360499126462</link>
+      <guid isPermaLink="false">2044912360499126462</guid>
+      <pubDate>Thu, 16 Apr 2026 22:54:34 +0000</pubDate>
+      <description><![CDATA[https://t.co/HmxPPdkXkg
 
 ---
-@nickbaumann_ | ❤️ 12 | 🔁 0 | 💬 0 | 👁 199]]></description>
-      <author>@nickbaumann_</author>
+@lennysan | ❤️ 0 | 🔁 0 | 💬 0 | 👁 307]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>RT @KSimback: I put 2 separate instances of Hermes agents into a chat, holy sh!t this is fun
+      <title>RT @BinanceResearch: The boundaries between TradFi, CeFi, and DeFi are rapidly dissolving.
 
-&amp;g...</title>
-      <link>https://x.com/Teknium/status/2044903993038839828</link>
-      <guid isPermaLink="false">2044903993038839828</guid>
-      <pubDate>Thu, 16 Apr 2026 22:21:19 +0000</pubDate>
-      <description><![CDATA[RT @KSimback: I put 2 separate instances of Hermes agents into a chat, holy sh!t this is fun
+• Crypto...</title>
+      <link>https://x.com/binance/status/2044909269724622958</link>
+      <guid isPermaLink="false">2044909269724622958</guid>
+      <pubDate>Thu, 16 Apr 2026 22:42:17 +0000</pubDate>
+      <description><![CDATA[RT @BinanceResearch: The boundaries between TradFi, CeFi, and DeFi are rapidly dissolving.
 
-&amp;gt;1 agent is builder, 1 is strategist
-&amp;gt;each on…
+• Crypto cards: +223% YoY
+• Branded stablecoins…
 
 ---
-@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@binance | ❤️ 0 | 🔁 8 | 💬 0 | 👁 5]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>Lets keep going!</title>
-      <link>https://x.com/Teknium/status/2044903919198097854</link>
-      <guid isPermaLink="false">2044903919198097854</guid>
-      <pubDate>Thu, 16 Apr 2026 22:21:01 +0000</pubDate>
-      <description><![CDATA[Lets keep going!
+      <title>Opus 4.7 蒸馏了 Mythos 
+网络攻击能力一流
+但官方下毒都把这部分能力干没了
+同时估计也干没了一些其他的东西
+比如，连说人话都不会了
+有点难受</title>
+      <link>https://x.com/oran_ge/status/2044907340927992203</link>
+      <guid isPermaLink="false">2044907340927992203</guid>
+      <pubDate>Thu, 16 Apr 2026 22:34:37 +0000</pubDate>
+      <description><![CDATA[Opus 4.7 蒸馏了 Mythos 
+网络攻击能力一流
+但官方下毒都把这部分能力干没了
+同时估计也干没了一些其他的东西
+比如，连说人话都不会了
+有点难受
 
 ---
-@Teknium | ❤️ 5 | 🔁 0 | 💬 1 | 👁 384]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>Coding agents learn from experience, but that knowledge stays locked in silos.
-
-Solve a thousand SWE...</title>
-      <link>https://x.com/dair_ai/status/2044900659921895729</link>
-      <guid isPermaLink="false">2044900659921895729</guid>
-      <pubDate>Thu, 16 Apr 2026 22:08:04 +0000</pubDate>
-      <description><![CDATA[Coding agents learn from experience, but that knowledge stays locked in silos.
-
-Solve a thousand SWE tasks, and none of that wisdom helps with competitive coding.
-
-What if memories could transfer across domains?
-
-The work introduces Memory Transfer Learning, a framework where coding agents share a unified memory pool across 6 heterogeneous benchmarks. They test four memory formats ranging from raw execution traces to high-level insights, and find that cross-domain memory improves average performance by 3.7%.
-
-Why does it matter?
-
-The transferable value isn't task-specific code. It's meta-knowledge: validation routines, structured action workflows, safe interaction patterns with execution environments. Algorithmic strategy transfer accounts for only 5.5% of the gains. The real benefit comes from procedural guidance on how to act, not what to code. Abstraction dictates transferability: high-level insights generalize well, while low-level execution traces often cause negative transfer by anchoring agents to incompatible implementation details.
-
-Paper: https://t.co/XPD5kczsoZ
-
-Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
-
----
-@dair_ai | ❤️ 12 | 🔁 4 | 💬 0 | 👁 620]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>RT @sharbel: I was wrong about Hermes Agent:
-
-0:00 - intro
-0:25 - openclaw vs hermes
-1:26 - hermes a...</title>
-      <link>https://x.com/Teknium/status/2044899128384340353</link>
-      <guid isPermaLink="false">2044899128384340353</guid>
-      <pubDate>Thu, 16 Apr 2026 22:01:59 +0000</pubDate>
-      <description><![CDATA[RT @sharbel: I was wrong about Hermes Agent:
-
-0:00 - intro
-0:25 - openclaw vs hermes
-1:26 - hermes agent
-2:16 - the self-improving skill lo…
-
----
-@Teknium | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@oran_ge | ❤️ 3 | 🔁 1 | 💬 1 | 👁 897]]></description>
+      <author>@oran_ge</author>
     </item>
   </channel>
 </rss>
