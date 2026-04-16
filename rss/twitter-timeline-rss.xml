@@ -5,234 +5,173 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:01:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Codex 大更新：从写代码工具变成能操作你电脑的助手
+      <title>官方发布的 Claude Opus 4.7 与 Claude Code 搭配使用时的最佳实践，尤其是在高效使用和优化表现上的建议。
 
-OpenAI 给 Codex 推了一次重大升级，把这个每周被 300 多万开发者使用的编程助手，从写代码的扩展成了能操作整台电脑的工作伙伴。
-...</title>
-      <link>https://x.com/dotey/status/2044830688587706710</link>
-      <guid isPermaLink="false">2044830688587706710</guid>
-      <pubDate>Thu, 16 Apr 2026 17:30:01 +0000</pubDate>
-      <description><![CDATA[Codex 大更新：从写代码工具变成能操作你电脑的助手
+Claude Opus 4.7 模型正式发布，它在代码开发、企业流...</title>
+      <link>https://x.com/dotey/status/2044838342508838938</link>
+      <guid isPermaLink="false">2044838342508838938</guid>
+      <pubDate>Thu, 16 Apr 2026 18:00:26 +0000</pubDate>
+      <description><![CDATA[官方发布的 Claude Opus 4.7 与 Claude Code 搭配使用时的最佳实践，尤其是在高效使用和优化表现上的建议。
 
-OpenAI 给 Codex 推了一次重大升级，把这个每周被 300 多万开发者使用的编程助手，从写代码的扩展成了能操作整台电脑的工作伙伴。
+Claude Opus 4.7 模型正式发布，它在代码开发、企业流程处理和长时任务方面的能力明显升级。尤其在处理模糊需求时表现更聪明，找 bug 和代码审查能力提升不少，还更善于跨会话维持上下文。
 
-最核心的变化是后台电脑操作。Codex 现在能自己看屏幕、自己点鼠标、自己敲键盘，在 Mac 上跑多个 agent 并行干活，而且不会抢占你正在用的其他窗口。这对于那些没开放 API 的软件特别有用——以前 agent 碰到这类应用就歇菜，现在直接像人一样手动操作。
+不过，升级版模型并非直接替换旧版就能立刻发挥最佳效果，需要做一些微调才能最大化发挥它的优势。这里简单讲几个关键的用法调整，让你用得更顺手：
 
-桌面 App 内置了浏览器，你可以直接在网页上圈点批注来给 agent 下指令，目前主要用于前端开发和游戏调试。图像生成也接进来了，用的是 OpenAI 新的 gpt-image-1.5 模型，做产品概念图、UI mock、游戏素材可以和写代码在同一个流程里完成。
+首先，要用好 Opus 4.7，一个原则是“别把它当作初级程序员，而当作资深工程师”：
 
-另外新增 90 多个插件，把 JIRA、GitLab、CircleCI、微软全家桶、Databricks 旗下的 Neon 等工具都接了进来。桌面 App 本身也加了处理 GitHub review 评论、多终端标签、通过 SSH 连远程 devbox（开发沙箱）等功能，PDF、表格、幻灯片可以直接在侧边栏预览。
+明确的任务描述：任务一开始就把目标、约束、验收标准讲清楚。避免逐渐提供模糊的需求，这样容易浪费 token，效果反而下降。
 
-还有两个值得注意的功能。一个是记忆：Codex 会记住你的偏好、过往的纠正、花时间收集来的上下文，以后做类似任务不用每次都从头教。另一个是“自我排程”：它可以给自己安排未来的任务，自动在几天甚至几周后醒过来继续推进一件长期工作，团队已经在用它来追踪 Slack、Gmail、Notion 里没收尾的事情。
+减少中途交互：每次交互都会增加模型的“思考负担”，尽量一次性批量给足上下文，让它能够自助完成任务。
 
-可用性方面，更新从今天开始推送给用 ChatGPT 账号登录桌面 App 的用户。电脑操作功能先上 macOS，欧盟和英国稍后开放；记忆和上下文感知推荐功能，企业版、教育版以及欧盟英国用户要再等等。
+善用 Auto 模式：对一些你信任模型可以安全独立完成的任务，直接使用“自动模式”，极大减少了人为交互次数，特别适合提前明确完整上下文的长期任务。
 
-这一波更新的方向很清楚：Claude Code、Cursor 这些竞品都在往通用Agent 的方向走，OpenAI 要把 Codex 从编辑器里的编程助手，变成一个能跨应用、跨时间、跨工具链持续干活的数字同事。
+接下来是 Effort（努力等级）的调整建议：
+
+新版默认的 Effort 等级是 xhigh，介于 high 和 max 之间，推荐用这个等级进行大部分代码开发、API 设计、代码迁移和代码审查工作。
+
+其他等级的用法：
+- medium 和 low：预算敏感或对实时性要求高的简单任务。
+- high：智能与成本间的平衡，适合并发任务较多的场景。
+- xhigh（默认推荐）：适合绝大部分智能敏感任务，高效且智能。
+- max：真正难的任务或极致智能需求时使用，但会带来边际收益递减问题，容易过度“思考”。
+
+另外，Claude Opus 4.7 还采用了自适应思考机制（adaptive thinking）：
+
+模型会自己决定什么时候花更多时间深度推理，什么时候快速响应，避免了之前固定思考量带来的低效问题。你还可以通过提示词告诉模型“多想一点”或“快速回答”，来主动调控它的表现。
+
+最后，还有几个值得注意的行为变化：
+
+- 回答长度会自动适应任务复杂程度，简单任务的答案变得更短，复杂任务则更详细。如果你希望特定风格，最好直接用正面例子说明。
+
+- 模型更倾向于深度推理，而不是频繁调用工具。如果你希望模型更多用工具（例如读取文件或搜索），需明确指出。
+
+- 默认不会频繁生成子智能体（SubAgent）。如任务适合并发分支执行，请直接指出具体什么时候需要生成子智能体。
+
+整体来看，Opus 4.7 让长期任务、复杂多文件任务和模糊需求处理都变得更高效、更智能，升级后的默认 xhigh 等级是最适合的配置，建议优先尝试。
 
 ---
-@dotey | ❤️ 1 | 🔁 1 | 💬 0 | 👁 77]]></description>
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 39]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>More on my blog, including results from the previously secret &quot;flamingo on a unicycle&quot; tes...</title>
-      <link>https://x.com/simonw/status/2044830305723515327</link>
-      <guid isPermaLink="false">2044830305723515327</guid>
-      <pubDate>Thu, 16 Apr 2026 17:28:30 +0000</pubDate>
-      <description><![CDATA[More on my blog, including results from the previously secret &quot;flamingo on a unicycle&quot; test https://t.co/bUBjyOsBuo
+      <title>RT @BinanceAcademy: Heard about AI agents but not sure where or how to get started?
+
+Our new course,...</title>
+      <link>https://x.com/binance/status/2044838265094635591</link>
+      <guid isPermaLink="false">2044838265094635591</guid>
+      <pubDate>Thu, 16 Apr 2026 18:00:08 +0000</pubDate>
+      <description><![CDATA[RT @BinanceAcademy: Heard about AI agents but not sure where or how to get started?
+
+Our new course, AI Unlocked: Agents and Skills, is her…
 
 ---
-@simonw | ❤️ 4 | 🔁 0 | 💬 0 | 👁 309]]></description>
+@binance | ❤️ 0 | 🔁 32 | 💬 0 | 👁 0]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>为什么第二阶段不需要联网搜索的补充回复
+https://t.co/0BbP3BRHEo</title>
+      <link>https://x.com/dotey/status/2044837148956713124</link>
+      <guid isPermaLink="false">2044837148956713124</guid>
+      <pubDate>Thu, 16 Apr 2026 17:55:42 +0000</pubDate>
+      <description><![CDATA[为什么第二阶段不需要联网搜索的补充回复
+https://t.co/0BbP3BRHEo
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 166]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>RT @rmstein: Today we shipped a new Search experience in @googlechrome to help you explore the web w...</title>
+      <link>https://x.com/Google/status/2044835790878843279</link>
+      <guid isPermaLink="false">2044835790878843279</guid>
+      <pubDate>Thu, 16 Apr 2026 17:50:18 +0000</pubDate>
+      <description><![CDATA[RT @rmstein: Today we shipped a new Search experience in @googlechrome to help you explore the web without constant back and forth between…
+
+---
+@Google | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>Here's Qwen 3.6-35B-A3B v.s. Claude Opus 4.7 for &quot;Generate an SVG of a flamingo riding a unicyc...</title>
+      <link>https://x.com/simonw/status/2044833929547727282</link>
+      <guid isPermaLink="false">2044833929547727282</guid>
+      <pubDate>Thu, 16 Apr 2026 17:42:54 +0000</pubDate>
+      <description><![CDATA[Here's Qwen 3.6-35B-A3B v.s. Claude Opus 4.7 for &quot;Generate an SVG of a flamingo riding a unicycle&quot;, in case you thought Qwen might be cheating at the pelican benchmark https://t.co/OnwhXg3Q2N
+
+---
+@simonw | ❤️ 21 | 🔁 2 | 💬 1 | 👁 2413]]></description>
       <author>@simonw</author>
     </item>
     <item>
-      <title>Shocking result on my pelican benchmark this morning, I got a better pelican from a 21GB local Qwen3...</title>
-      <link>https://x.com/simonw/status/2044830134885306701</link>
-      <guid isPermaLink="false">2044830134885306701</guid>
-      <pubDate>Thu, 16 Apr 2026 17:27:49 +0000</pubDate>
-      <description><![CDATA[Shocking result on my pelican benchmark this morning, I got a better pelican from a 21GB local Qwen3.6-35B-A3B running on my laptop than I did from the new Opus 4.7!
+      <title>I've got a lot to say here! I'll post a guide on how to prompt with Opus 4.7 as well as talk about a...</title>
+      <link>https://x.com/trq212/status/2044833569261092989</link>
+      <guid isPermaLink="false">2044833569261092989</guid>
+      <pubDate>Thu, 16 Apr 2026 17:41:28 +0000</pubDate>
+      <description><![CDATA[I've got a lot to say here! I'll post a guide on how to prompt with Opus 4.7 as well as talk about a personal project I've been working on using it.
 
-Qwen on the left, Opus on the right https://t.co/kDlbnJv6YI
-
----
-@simonw | ❤️ 16 | 🔁 0 | 💬 5 | 👁 525]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>RT @developedbyed: Claude Opus 4.7 vs GPT 5.4 (1/9)
-
-Really impressed with opus 4.7 from these initi...</title>
-      <link>https://x.com/noahzweben/status/2044829721779904546</link>
-      <guid isPermaLink="false">2044829721779904546</guid>
-      <pubDate>Thu, 16 Apr 2026 17:26:11 +0000</pubDate>
-      <description><![CDATA[RT @developedbyed: Claude Opus 4.7 vs GPT 5.4 (1/9)
-
-Really impressed with opus 4.7 from these initial tests! 
-
-Like how opus uses gradient…
+I hope you enjoy working with Opus 4.7 and getting a feel for it.
 
 ---
-@noahzweben | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@noahzweben</author>
-    </item>
-    <item>
-      <title>请问有没有好用的 Ralph Loop for Codex？
-类似于 Claude Code 的 Ralph Wiggum Plugin https://t.co/hBJFsEv8il
-
-用过 oh ...</title>
-      <link>https://x.com/dotey/status/2044829447732261063</link>
-      <guid isPermaLink="false">2044829447732261063</guid>
-      <pubDate>Thu, 16 Apr 2026 17:25:06 +0000</pubDate>
-      <description><![CDATA[请问有没有好用的 Ralph Loop for Codex？
-类似于 Claude Code 的 Ralph Wiggum Plugin https://t.co/hBJFsEv8il
-
-用过 oh my codex，给我装了一坨 MCP，魔改了我的 codex Custom instructions，我个人很不喜欢这种。
-
----
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 280]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>These updates are rolling out on the Codex desktop app starting today.
-
-https://t.co/CRwG2p8tFv</title>
-      <link>https://x.com/OpenAI/status/2044828389929062874</link>
-      <guid isPermaLink="false">2044828389929062874</guid>
-      <pubDate>Thu, 16 Apr 2026 17:20:53 +0000</pubDate>
-      <description><![CDATA[These updates are rolling out on the Codex desktop app starting today.
-
-https://t.co/CRwG2p8tFv
-
----
-@OpenAI | ❤️ 98 | 🔁 4 | 💬 3 | 👁 9643]]></description>
-      <author>@OpenAI</author>
-    </item>
-    <item>
-      <title>We’ve also added support for 90+ plugins in Codex, giving it more ways to gather context and take ac...</title>
-      <link>https://x.com/OpenAI/status/2044828378147311990</link>
-      <guid isPermaLink="false">2044828378147311990</guid>
-      <pubDate>Thu, 16 Apr 2026 17:20:51 +0000</pubDate>
-      <description><![CDATA[We’ve also added support for 90+ plugins in Codex, giving it more ways to gather context and take action across the tools you already use for docs, project management, code review, creative work, deployments, and more. https://t.co/IkmpDJwrLq
-
----
-@OpenAI | ❤️ 94 | 🔁 4 | 💬 7 | 👁 10168]]></description>
-      <author>@OpenAI</author>
-    </item>
-    <item>
-      <title>RT @mweinbach: 2 prompts deep into Opus 4.7 and benchmarks don’t do it justice. Way better behavior ...</title>
-      <link>https://x.com/noahzweben/status/2044828302070968361</link>
-      <guid isPermaLink="false">2044828302070968361</guid>
-      <pubDate>Thu, 16 Apr 2026 17:20:32 +0000</pubDate>
-      <description><![CDATA[RT @mweinbach: 2 prompts deep into Opus 4.7 and benchmarks don’t do it justice. Way better behavior and instruction following. Pretty massi…
-
----
-@noahzweben | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
-      <author>@noahzweben</author>
-    </item>
-    <item>
-      <title>Codex for (almost) everything.
-
-It can now use apps on your Mac, connect to more of your tools, crea...</title>
-      <link>https://x.com/OpenAI/status/2044827705406062670</link>
-      <guid isPermaLink="false">2044827705406062670</guid>
-      <pubDate>Thu, 16 Apr 2026 17:18:10 +0000</pubDate>
-      <description><![CDATA[Codex for (almost) everything.
-
-It can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks. https://t.co/UEEsYBDYfo
-
----
-@OpenAI | ❤️ 1517 | 🔁 156 | 💬 199 | 👁 53396]]></description>
-      <author>@OpenAI</author>
-    </item>
-    <item>
-      <title>通过音频波形图来裁剪视频是很聪明的做法 https://t.co/P3zVwdHp1v</title>
-      <link>https://x.com/dotey/status/2044827350668378564</link>
-      <guid isPermaLink="false">2044827350668378564</guid>
-      <pubDate>Thu, 16 Apr 2026 17:16:46 +0000</pubDate>
-      <description><![CDATA[通过音频波形图来裁剪视频是很聪明的做法 https://t.co/P3zVwdHp1v
-
----
-@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 294]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @bcherny: Opus 4.7 feels more intelligent, agentic, and precise than 4.6. It took a few days for ...</title>
-      <link>https://x.com/noahzweben/status/2044826946950013432</link>
-      <guid isPermaLink="false">2044826946950013432</guid>
-      <pubDate>Thu, 16 Apr 2026 17:15:09 +0000</pubDate>
-      <description><![CDATA[RT @bcherny: Opus 4.7 feels more intelligent, agentic, and precise than 4.6. It took a few days for me to learn how to work with it effecti…
-
----
-@noahzweben | ❤️ 0 | 🔁 58 | 💬 0 | 👁 0]]></description>
-      <author>@noahzweben</author>
-    </item>
-    <item>
-      <title>If South Africa doesn’t change its super racist Apartheid 2.0 laws, the country must be sanctioned</title>
-      <link>https://x.com/elonmusk/status/2044826400792912021</link>
-      <guid isPermaLink="false">2044826400792912021</guid>
-      <pubDate>Thu, 16 Apr 2026 17:12:59 +0000</pubDate>
-      <description><![CDATA[If South Africa doesn’t change its super racist Apartheid 2.0 laws, the country must be sanctioned
-
----
-@elonmusk | ❤️ 10390 | 🔁 1296 | 💬 1502 | 👁 1197453]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @fi56622380: 今天芯片圈最大的新闻，莫过于Gerard在创立Nuvia CPU被高通收购五年之后，重新出发，新创立了ARM CPU公司，名字也跟之前非常像，叫Nuvacore
-
-现在...</title>
-      <link>https://x.com/dotey/status/2044826258240934168</link>
-      <guid isPermaLink="false">2044826258240934168</guid>
-      <pubDate>Thu, 16 Apr 2026 17:12:25 +0000</pubDate>
-      <description><![CDATA[RT @fi56622380: 今天芯片圈最大的新闻，莫过于Gerard在创立Nuvia CPU被高通收购五年之后，重新出发，新创立了ARM CPU公司，名字也跟之前非常像，叫Nuvacore
-
-现在这个时间点做数据中心CPU，确实是赶上了CPU十年来最好的时代:
-
-AI ag…
-
----
-@dotey | ❤️ 0 | 🔁 36 | 💬 0 | 👁 0]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @OverlyTrev: NHTSA autonomous vehicle crash data has been updated through March 15, 2026, for AVs...</title>
-      <link>https://x.com/elonmusk/status/2044826150904738077</link>
-      <guid isPermaLink="false">2044826150904738077</guid>
-      <pubDate>Thu, 16 Apr 2026 17:12:00 +0000</pubDate>
-      <description><![CDATA[RT @OverlyTrev: NHTSA autonomous vehicle crash data has been updated through March 15, 2026, for AVs including Tesla Robotaxi.
-
-This includ…
-
----
-@elonmusk | ❤️ 0 | 🔁 132 | 💬 0 | 👁 16]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @ClaudeDevs: ✻ Flibbertigibetting…</title>
-      <link>https://x.com/trq212/status/2044826041181675905</link>
-      <guid isPermaLink="false">2044826041181675905</guid>
-      <pubDate>Thu, 16 Apr 2026 17:11:33 +0000</pubDate>
-      <description><![CDATA[RT @ClaudeDevs: ✻ Flibbertigibetting…
-
----
-@trq212 | ❤️ 0 | 🔁 120 | 💬 0 | 👁 0]]></description>
+@trq212 | ❤️ 120 | 🔁 1 | 💬 10 | 👁 3178]]></description>
       <author>@trq212</author>
     </item>
     <item>
-      <title>RT @vikingmute: Impeccable 升级到 2.0 了，这应该是目前我觉得最好的 design skills 了，anti AI slop
-https://t.co/r1KA87Y6...</title>
-      <link>https://x.com/dotey/status/2044824214306263264</link>
-      <guid isPermaLink="false">2044824214306263264</guid>
-      <pubDate>Thu, 16 Apr 2026 17:04:18 +0000</pubDate>
-      <description><![CDATA[RT @vikingmute: Impeccable 升级到 2.0 了，这应该是目前我觉得最好的 design skills 了，anti AI slop
-https://t.co/r1KA87Y6FY 
+      <title>I love to explore solutions with it so I often ask it to brainstorm with me, then choose an option a...</title>
+      <link>https://x.com/trq212/status/2044833567998705865</link>
+      <guid isPermaLink="false">2044833567998705865</guid>
+      <pubDate>Thu, 16 Apr 2026 17:41:28 +0000</pubDate>
+      <description><![CDATA[I love to explore solutions with it so I often ask it to brainstorm with me, then choose an option and rewind to implement it.
 
-推出了CLI 工具，无需 LLM 即可扫描代码，检测 25 种 AI…
+When I'm ready, I ask it to interview me to figure out what’s in my head and then write a spec.
+
+When implementing, auto mode lets it run.
 
 ---
-@dotey | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
-      <author>@dotey</author>
+@trq212 | ❤️ 101 | 🔁 5 | 💬 11 | 👁 4436]]></description>
+      <author>@trq212</author>
+    </item>
+    <item>
+      <title>Opus 4.7 is a model I’ve loved working with in Claude Code.
+
+It’s more agentic and instruction follo...</title>
+      <link>https://x.com/trq212/status/2044833566471970926</link>
+      <guid isPermaLink="false">2044833566471970926</guid>
+      <pubDate>Thu, 16 Apr 2026 17:41:28 +0000</pubDate>
+      <description><![CDATA[Opus 4.7 is a model I’ve loved working with in Claude Code.
+
+It’s more agentic and instruction following but also incredibly smart and creative. I think it takes a slight adjustment to get used to, but it's so good with auto mode.
+
+---
+@trq212 | ❤️ 170 | 🔁 4 | 💬 31 | 👁 9743]]></description>
+      <author>@trq212</author>
+    </item>
+    <item>
+      <title>These updates to AI Mode in Chrome are now available in the U.S., and we’ll expand soon to more plac...</title>
+      <link>https://x.com/Google/status/2044832733810041285</link>
+      <guid isPermaLink="false">2044832733810041285</guid>
+      <pubDate>Thu, 16 Apr 2026 17:38:09 +0000</pubDate>
+      <description><![CDATA[These updates to AI Mode in Chrome are now available in the U.S., and we’ll expand soon to more places around the world.  Learn more ↓ https://t.co/JEkKMGKeqF
+
+---
+@Google | ❤️ 17 | 🔁 3 | 💬 1 | 👁 6979]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>We’re introducing a new Search experience in @GoogleChrome that lets you open webpages side-by-side ...</title>
+      <link>https://x.com/Google/status/2044832732274901489</link>
+      <guid isPermaLink="false">2044832732274901489</guid>
+      <pubDate>Thu, 16 Apr 2026 17:38:09 +0000</pubDate>
+      <description><![CDATA[We’re introducing a new Search experience in @GoogleChrome that lets you open webpages side-by-side with AI Mode – no tab switching required.
+
+Now, you’ll be able to compare details and ask follow-up questions while still maintaining the context of your search, whether you’re shopping for a new coffee maker or studying for a statistics midterm.
+
+---
+@Google | ❤️ 118 | 🔁 19 | 💬 14 | 👁 9640]]></description>
+      <author>@Google</author>
     </item>
   </channel>
 </rss>
