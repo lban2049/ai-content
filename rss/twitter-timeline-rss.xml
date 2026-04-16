@@ -5,22 +5,29 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 02:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:31:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The best tools just disappear into the workflow! 
-
-Set up your NeMoClaw with MiniMax🦞🐙</title>
-      <link>https://x.com/MiniMax_AI/status/2044594907009134943</link>
-      <guid isPermaLink="false">2044594907009134943</guid>
-      <pubDate>Thu, 16 Apr 2026 01:53:07 +0000</pubDate>
-      <description><![CDATA[The best tools just disappear into the workflow! 
-
-Set up your NeMoClaw with MiniMax🦞🐙
+      <title>more info here: https://t.co/SBnNE69zux</title>
+      <link>https://x.com/demishassabis/status/2044599228438028671</link>
+      <guid isPermaLink="false">2044599228438028671</guid>
+      <pubDate>Thu, 16 Apr 2026 02:10:17 +0000</pubDate>
+      <description><![CDATA[more info here: https://t.co/SBnNE69zux
 
 ---
-@MiniMax_AI | ❤️ 7 | 🔁 1 | 💬 0 | 👁 610]]></description>
-      <author>@MiniMax_AI</author>
+@demishassabis | ❤️ 16 | 🔁 1 | 💬 1 | 👁 2806]]></description>
+      <author>@demishassabis</author>
+    </item>
+    <item>
+      <title>Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-...</title>
+      <link>https://x.com/demishassabis/status/2044599020690010217</link>
+      <guid isPermaLink="false">2044599020690010217</guid>
+      <pubDate>Thu, 16 Apr 2026 02:09:28 +0000</pubDate>
+      <description><![CDATA[Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-generated speech, Gemini 3.1 Flash TTS is really fun to play with! Available in preview today - for devs via the Gemini API &amp;amp; @GoogleAIStudio + for enterprises on Vertex AI
+
+---
+@demishassabis | ❤️ 108 | 🔁 9 | 💬 20 | 👁 6944]]></description>
+      <author>@demishassabis</author>
     </item>
   </channel>
 </rss>
