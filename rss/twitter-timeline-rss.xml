@@ -5,169 +5,178 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 16:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 16:31:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @leftcurvedev_: New insane model from Jackrong on @huggingface 🤯
+      <title>This new personalized image creation experience in the @GeminiApp is rolling out over the next few d...</title>
+      <link>https://x.com/Google/status/2044815812717088880</link>
+      <guid isPermaLink="false">2044815812717088880</guid>
+      <pubDate>Thu, 16 Apr 2026 16:30:55 +0000</pubDate>
+      <description><![CDATA[This new personalized image creation experience in the @GeminiApp is rolling out over the next few days to eligible Google AI Plus, Pro and Ultra subscribers in the U.S.
 
-Qwen3.5-9B-GLM5.1-Distill-v1
+We plan to bring this to Gemini in @GoogleChrome desktop and more users soon.
 
-🧠...</title>
-      <link>https://x.com/_akhaliq/status/2044806767469621602</link>
-      <guid isPermaLink="false">2044806767469621602</guid>
-      <pubDate>Thu, 16 Apr 2026 15:54:58 +0000</pubDate>
-      <description><![CDATA[RT @leftcurvedev_: New insane model from Jackrong on @huggingface 🤯
-
-Qwen3.5-9B-GLM5.1-Distill-v1
-
-🧠 Distilled on GLM-5.1 reasoning ⚙️ Deep…
+Learn more ↓ https://t.co/ENWzf7E6ee
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 49 | 💬 0 | 👁 0]]></description>
+@Google | ❤️ 1 | 🔁 0 | 💬 0 | 👁 82]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>You’re always in the driver’s seat.
+
+Connecting your Google apps to Gemini remains an opt-in experie...</title>
+      <link>https://x.com/Google/status/2044815810007593218</link>
+      <guid isPermaLink="false">2044815810007593218</guid>
+      <pubDate>Thu, 16 Apr 2026 16:30:54 +0000</pubDate>
+      <description><![CDATA[You’re always in the driver’s seat.
+
+Connecting your Google apps to Gemini remains an opt-in experience that you can adjust in your settings at any time.
+
+If an image isn't quite right, just tell Gemini what to adjust. You can also check the &quot;Sources&quot; button to see what guided a creation, or tap &quot;+&quot; to choose your own reference photo.
+
+---
+@Google | ❤️ 1 | 🔁 0 | 💬 1 | 👁 11]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>Personalizing images in the @GeminiApp just got easier — and you’re in total control. ✨
+
+We’re intro...</title>
+      <link>https://x.com/Google/status/2044815802218545348</link>
+      <guid isPermaLink="false">2044815802218545348</guid>
+      <pubDate>Thu, 16 Apr 2026 16:30:52 +0000</pubDate>
+      <description><![CDATA[Personalizing images in the @GeminiApp just got easier — and you’re in total control. ✨
+
+We’re introducing new ways for Personal Intelligence and Nano Banana 2 to generate images that can reflect your life, interests, and the things you care about most.
+
+Here’s how it works 🧵
+
+---
+@Google | ❤️ 8 | 🔁 2 | 💬 1 | 👁 155]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>💯</title>
+      <link>https://x.com/elonmusk/status/2044815724745781599</link>
+      <guid isPermaLink="false">2044815724745781599</guid>
+      <pubDate>Thu, 16 Apr 2026 16:30:34 +0000</pubDate>
+      <description><![CDATA[💯
+
+---
+@elonmusk | ❤️ 114 | 🔁 19 | 💬 82 | 👁 2351]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>这个思路可以借鉴，将传统 deep research agent 分成两个阶段，先尽可能的搜索可能的信息，保存成本地文件，然后基于本地文件去生成报告。
+
+原推翻译：
+
+在2025年，深度研究的套路非常...</title>
+      <link>https://x.com/dotey/status/2044814877051486210</link>
+      <guid isPermaLink="false">2044814877051486210</guid>
+      <pubDate>Thu, 16 Apr 2026 16:27:12 +0000</pubDate>
+      <description><![CDATA[这个思路可以借鉴，将传统 deep research agent 分成两个阶段，先尽可能的搜索可能的信息，保存成本地文件，然后基于本地文件去生成报告。
+
+原推翻译：
+
+在2025年，深度研究的套路非常直线：上网搜索 → 阅读内容 → 逻辑推理 → 不断重复，直到得出结果。在这个过程中，哪怕是执行最小的循环步骤，AI 都会去互联网上重新抓取一遍数据。
+
+但到了2026年，处理长周期任务被明确划分成了两个截然不同的阶段：
+
+阶段一：通过网络读写进行调研与规划。 这一阶段仍然是搜索、阅读和推理，但请注意，目标不再是直接给出最终答案。它的唯一任务是把互联网上的零散知识“具象化”，全部沉淀并保存成我们本地硬盘里的文件（比如 .md、.json 或 .csv 格式的文件）。
+
+阶段二：智能体“挂载”本地文件，开启内循环。 这时，AI 智能体像插入硬盘一样挂载这些整理好的本地文件，然后只对着这些文件进行阅读、执行代码和写入操作。从此以后，它再也不需要通过联网来做信息对齐（grounding）了。
+
+为什么要在第二阶段毫不留情地砍掉联网获取信息的环节呢？原因有四点：
+
+1. 确定性（Determinism）： 本地文件就像是时间静止的快照，里面的内容绝不会变。而网上的内容太不稳定了，随时可能被修改、变成 404 无法访问，或者突然弹出一个付费墙拦住你的去路。
+
+2. 速度（Speed）： 读取本地硬盘的数据只需要几毫秒，而去网上抓取一个网页动辄要花上好几秒。AI 智能体在执行循环任务时，需要的是飞快、紧凑的迭代速度，网络延迟是绝对等不起的。
+
+3. 一致性（Consistency）： 当你需要交叉核对多项信息时，前提是你得在同一个资料库里比对，而不是每次上网搜回来的都是不同版本的说辞。
+
+4. 成本（Cost）： 每次联网读取网页，大语言模型（LLM）都要浪费大量 Token 去解析网页里乱七八糟的 HTML 代码噪音（比如广告、各种导航栏）。而本地文件早就是清洗得干干净净的纯文本了。
+
+这种两阶段的方法，实现了“探索与利用的解耦”（exploration-exploitation decoupling）。
+
+阶段一就是纯粹的探索：广撒网，多捕鱼，收集有用的信号，搭建起一个专属于当前任务的本地知识库。阶段二则是进入纯粹的利用状态：在一堆干净、稳定的数据上进行高效、高频的迭代运算。
+
+而且，因为第二阶段花费的时间往往比第一阶段要长得多，这就导致在2026年的当下，传统意义上的“搜索”所扮演的角色被大大淡化了。在第二阶段里所谓的“搜索”，其实更像是在翻找记忆，纯粹是为了给大语言模型做上下文填充（context filling）而已。
+
+---
+@dotey | ❤️ 5 | 🔁 0 | 💬 1 | 👁 462]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Realizing that we innately want to evolve--and that the other stuff we are going after, while nice, ...</title>
+      <link>https://x.com/RayDalio/status/2044813993848565995</link>
+      <guid isPermaLink="false">2044813993848565995</guid>
+      <pubDate>Thu, 16 Apr 2026 16:23:41 +0000</pubDate>
+      <description><![CDATA[Realizing that we innately want to evolve--and that the other stuff we are going after, while nice, won't sustain our happiness--has helped me focus on my goals of evolving and contributing to evolution in my own infinitely small way. While we don't like pain, everything that nature made has a purpose, so nature gave us pain for a purpose. So what is its purpose? It alerts us and helps direct us. #principleoftheday
+
+---
+@RayDalio | ❤️ 47 | 🔁 13 | 💬 7 | 👁 4851]]></description>
+      <author>@RayDalio</author>
+    </item>
+    <item>
+      <title>Seedance 2.0
+
+Advancing Video Generation for World Complexity
+
+paper: https://t.co/v0TZmavCUr https:...</title>
+      <link>https://x.com/_akhaliq/status/2044812535044452435</link>
+      <guid isPermaLink="false">2044812535044452435</guid>
+      <pubDate>Thu, 16 Apr 2026 16:17:53 +0000</pubDate>
+      <description><![CDATA[Seedance 2.0
+
+Advancing Video Generation for World Complexity
+
+paper: https://t.co/v0TZmavCUr https://t.co/pWuFZOiX7g
+
+---
+@_akhaliq | ❤️ 15 | 🔁 4 | 💬 1 | 👁 834]]></description>
       <author>@_akhaliq</author>
     </item>
     <item>
-      <title>RT @matvelloso: Models are getting smaller, smarter and Apache licensed. Love to see Gemma and Qwen ...</title>
-      <link>https://x.com/ollama/status/2044806606492495962</link>
-      <guid isPermaLink="false">2044806606492495962</guid>
-      <pubDate>Thu, 16 Apr 2026 15:54:20 +0000</pubDate>
-      <description><![CDATA[RT @matvelloso: Models are getting smaller, smarter and Apache licensed. Love to see Gemma and Qwen doing it.
+      <title>We just launched Routines. We just launched Claude Opus 4.7. 
+
+The real unlock is using them togethe...</title>
+      <link>https://x.com/noahzweben/status/2044812118063747341</link>
+      <guid isPermaLink="false">2044812118063747341</guid>
+      <pubDate>Thu, 16 Apr 2026 16:16:14 +0000</pubDate>
+      <description><![CDATA[We just launched Routines. We just launched Claude Opus 4.7. 
+
+The real unlock is using them together. 
+
+4.7 was built for full-throttle agentic work, judgment under ambiguity, and self-verifying outputs. Perfect for routines that work in the background. 
+https://t.co/QIDgEAJrRG https://t.co/EDj5kkn48X
 
 ---
-@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 2]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>GameWorld
-
-Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
-
-paper: https://...</title>
-      <link>https://x.com/_akhaliq/status/2044806231072637426</link>
-      <guid isPermaLink="false">2044806231072637426</guid>
-      <pubDate>Thu, 16 Apr 2026 15:52:50 +0000</pubDate>
-      <description><![CDATA[GameWorld
-
-Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
-
-paper: https://t.co/IfbTgfNnSM https://t.co/gL3BURxzkV
-
----
-@_akhaliq | ❤️ 8 | 🔁 2 | 💬 2 | 👁 639]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Geometric Context Transformer for Streaming 3D Reconstruction
-
-paper: https://t.co/3ad6iyi0cG https:...</title>
-      <link>https://x.com/_akhaliq/status/2044805601046286353</link>
-      <guid isPermaLink="false">2044805601046286353</guid>
-      <pubDate>Thu, 16 Apr 2026 15:50:20 +0000</pubDate>
-      <description><![CDATA[Geometric Context Transformer for Streaming 3D Reconstruction
-
-paper: https://t.co/3ad6iyi0cG https://t.co/Y0k4csiC11
-
----
-@_akhaliq | ❤️ 3 | 🔁 0 | 💬 1 | 👁 653]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Parcae
-
-Scaling Laws For Stable Looped Language Models
-
-paper: https://t.co/hUYU2x8STk https://t.co/...</title>
-      <link>https://x.com/_akhaliq/status/2044805189677232166</link>
-      <guid isPermaLink="false">2044805189677232166</guid>
-      <pubDate>Thu, 16 Apr 2026 15:48:42 +0000</pubDate>
-      <description><![CDATA[Parcae
-
-Scaling Laws For Stable Looped Language Models
-
-paper: https://t.co/hUYU2x8STk https://t.co/ravMv2kbR3
-
----
-@_akhaliq | ❤️ 2 | 🔁 1 | 💬 1 | 👁 770]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>参加一个会议的时候，有人问：有时说「用 AI」，有时说「去找 AI」，体现的一个是针对人的感觉，一个是针对工具的感觉，哪种才对？我觉得这个问题挺有意思。
-
-这个问题的本质是，当一个工具像 AI 这种不...</title>
-      <link>https://x.com/bearliu/status/2044805025973551248</link>
-      <guid isPermaLink="false">2044805025973551248</guid>
-      <pubDate>Thu, 16 Apr 2026 15:48:03 +0000</pubDate>
-      <description><![CDATA[参加一个会议的时候，有人问：有时说「用 AI」，有时说「去找 AI」，体现的一个是针对人的感觉，一个是针对工具的感觉，哪种才对？我觉得这个问题挺有意思。
-
-这个问题的本质是，当一个工具像 AI 这种不具备生命，但是具备跟我们相同、甚至超越我们的智慧和思维方式的时候，它是不是跟我们一样的个体？
-
-有无数讨论过这种话题的影视、小说、游戏：《底特律：变人》《银翼杀手 2049》，等等等等。
-
-但我觉得，我对人这个物种略显悲观。人大概率是不会承认 AI 是和自己相同的物种的，哪怕我们接受它智慧高于我们。而那个时候，我们会给出另一个解释：智慧和逻辑不属于人的必须条件，它不是人的人性。然后就把这个问题划清了界限。
-
-别忘了，人历史上就是连环杀手。我们的祖先智人，干掉了尼安德特人，以及其他六个人种，成为了唯一的人类。哪怕就是针对同类，我们也会区分出种族、皮肤的颜色和身体的特征，都会被分辨成不同的人类。然后将其他人划分为他者，也就是异类。然后去攻击他们甚至灭绝。
-
-党同伐异是人性的天性。
-
-当 AI 具备了跟人相同的能力时，结局不会太乐观。或者说，这种对立是需要当一方觉醒，成为有相同智慧，并且想要争取相同权力的独立个体时，才会发生。就像游戏《底特律：变人》一样。但不好判断的是，这一天，在我们有生之年能不能看到。
-
----
-@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 191]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>opus4.7 上线了，马上用起来！</title>
-      <link>https://x.com/turingou/status/2044804589288063248</link>
-      <guid isPermaLink="false">2044804589288063248</guid>
-      <pubDate>Thu, 16 Apr 2026 15:46:19 +0000</pubDate>
-      <description><![CDATA[opus4.7 上线了，马上用起来！
-
----
-@turingou | ❤️ 1 | 🔁 0 | 💬 2 | 👁 1863]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>RT @bcherny: We're also rolling out auto mode for Max users. This means no more permission prompts —...</title>
-      <link>https://x.com/noahzweben/status/2044804521596170314</link>
-      <guid isPermaLink="false">2044804521596170314</guid>
-      <pubDate>Thu, 16 Apr 2026 15:46:03 +0000</pubDate>
-      <description><![CDATA[RT @bcherny: We're also rolling out auto mode for Max users. This means no more permission prompts — give Claude a task, let it run, come b…
-
----
-@noahzweben | ❤️ 0 | 🔁 17 | 💬 0 | 👁 0]]></description>
+@noahzweben | ❤️ 46 | 🔁 4 | 💬 3 | 👁 1143]]></description>
       <author>@noahzweben</author>
     </item>
     <item>
-      <title>RT @HuggingPapers: Qwen just released Qwen 3.6 on Hugging Face
-
-A 35B MoE vision-language model with...</title>
-      <link>https://x.com/_akhaliq/status/2044803318518554766</link>
-      <guid isPermaLink="false">2044803318518554766</guid>
-      <pubDate>Thu, 16 Apr 2026 15:41:16 +0000</pubDate>
-      <description><![CDATA[RT @HuggingPapers: Qwen just released Qwen 3.6 on Hugging Face
-
-A 35B MoE vision-language model with 3B active parameters, featuring advanc…
+      <title>The station is orbiting higher today to receive an upcoming cargo mission. Meanwhile, the Exp 74 cre...</title>
+      <link>https://x.com/Space_Station/status/2044808997845307618</link>
+      <guid isPermaLink="false">2044808997845307618</guid>
+      <pubDate>Thu, 16 Apr 2026 16:03:50 +0000</pubDate>
+      <description><![CDATA[The station is orbiting higher today to receive an upcoming cargo mission. Meanwhile, the Exp 74 crew is studying infectious diseases, blood disorders, space botany and more. https://t.co/w2KtY1tlzA
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
+@Space_Station | ❤️ 112 | 🔁 22 | 💬 8 | 👁 7811]]></description>
+      <author>@Space_Station</author>
     </item>
     <item>
-      <title>RT @Alibaba_Qwen: ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
-
-A sparse MoE model, 35B total params, 3...</title>
-      <link>https://x.com/jeremyphoward/status/2044803207352987902</link>
-      <guid isPermaLink="false">2044803207352987902</guid>
-      <pubDate>Thu, 16 Apr 2026 15:40:49 +0000</pubDate>
-      <description><![CDATA[RT @Alibaba_Qwen: ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
-
-A sparse MoE model, 35B total params, 3B active. Apache 2.0 license.
-
-🔥 Agenti…
+      <title>...unbothered, checking charts. https://t.co/jLbCeUUsUR</title>
+      <link>https://x.com/binance/status/2044808688452370570</link>
+      <guid isPermaLink="false">2044808688452370570</guid>
+      <pubDate>Thu, 16 Apr 2026 16:02:36 +0000</pubDate>
+      <description><![CDATA[...unbothered, checking charts. https://t.co/jLbCeUUsUR
 
 ---
-@jeremyphoward | ❤️ 0 | 🔁 783 | 💬 0 | 👁 0]]></description>
-      <author>@jeremyphoward</author>
+@binance | ❤️ 239 | 🔁 23 | 💬 126 | 👁 17126]]></description>
+      <author>@binance</author>
     </item>
   </channel>
 </rss>
