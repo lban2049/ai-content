@@ -5,52 +5,133 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 13:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:31:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>There is a concerning lack of this post being stolen</title>
-      <link>https://x.com/coinbase/status/2044759259351584999</link>
-      <guid isPermaLink="false">2044759259351584999</guid>
-      <pubDate>Thu, 16 Apr 2026 12:46:11 +0000</pubDate>
-      <description><![CDATA[There is a concerning lack of this post being stolen
+      <title>Qwen 27B seems to be Twitter's choice for better local model than Gemma-4</title>
+      <link>https://x.com/Teknium/status/2044769694943752679</link>
+      <guid isPermaLink="false">2044769694943752679</guid>
+      <pubDate>Thu, 16 Apr 2026 13:27:39 +0000</pubDate>
+      <description><![CDATA[Qwen 27B seems to be Twitter's choice for better local model than Gemma-4
 
 ---
-@coinbase | ❤️ 18 | 🔁 0 | 💬 5 | 👁 5132]]></description>
+@Teknium | ❤️ 6 | 🔁 0 | 💬 3 | 👁 237]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @aijoey: Hermes Agent Upgrade Kit.
+
+Skins: https://t.co/hJuER0Db6f
+Web UI: https://t.co/b5SxuuRX7...</title>
+      <link>https://x.com/Teknium/status/2044769276842958936</link>
+      <guid isPermaLink="false">2044769276842958936</guid>
+      <pubDate>Thu, 16 Apr 2026 13:26:00 +0000</pubDate>
+      <description><![CDATA[RT @aijoey: Hermes Agent Upgrade Kit.
+
+Skins: https://t.co/hJuER0Db6f
+Web UI: https://t.co/b5SxuuRX72
+TUI: https://t.co/wT8L7X8BPu
+
+Daily Q…
+
+---
+@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @coinbase: @fwdaniels Satoshi Nakamoto</title>
+      <link>https://x.com/coinbase/status/2044768898856235215</link>
+      <guid isPermaLink="false">2044768898856235215</guid>
+      <pubDate>Thu, 16 Apr 2026 13:24:30 +0000</pubDate>
+      <description><![CDATA[RT @coinbase: @fwdaniels Satoshi Nakamoto
+
+---
+@coinbase | ❤️ 0 | 🔁 7 | 💬 0 | 👁 3]]></description>
       <author>@coinbase</author>
     </item>
     <item>
-      <title>$74,050.95
+      <title>RT @eranshir: Most Physical AI models recognize patterns.
+They don’t understand the world.
 
-#Bitcoin https://t.co/DGBC0J17LZ</title>
-      <link>https://x.com/Bitcoin/status/2044759142368268367</link>
-      <guid isPermaLink="false">2044759142368268367</guid>
-      <pubDate>Thu, 16 Apr 2026 12:45:43 +0000</pubDate>
-      <description><![CDATA[$74,050.95
+That’s w...</title>
+      <link>https://x.com/ylecun/status/2044766900379406557</link>
+      <guid isPermaLink="false">2044766900379406557</guid>
+      <pubDate>Thu, 16 Apr 2026 13:16:33 +0000</pubDate>
+      <description><![CDATA[RT @eranshir: Most Physical AI models recognize patterns.
+They don’t understand the world.
 
-#Bitcoin https://t.co/DGBC0J17LZ
+That’s why they fail on edge cases.
+
+BADAS 2.0…
 
 ---
-@Bitcoin | ❤️ 110 | 🔁 12 | 💬 35 | 👁 5726]]></description>
-      <author>@Bitcoin</author>
+@ylecun | ❤️ 0 | 🔁 5 | 💬 0 | 👁 4]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @fffiloni: Gradio just unleashed the horses.
+      <title>服务客户跨时区跨半球，头疼就在于：晚上六点半一个会（印度），七点半一个会（湾区），八点到九点另一个会（欧洲）。
 
-The gap between demos and real apps
-is finally clos...</title>
-      <link>https://x.com/_akhaliq/status/2044755926989615314</link>
-      <guid isPermaLink="false">2044755926989615314</guid>
-      <pubDate>Thu, 16 Apr 2026 12:32:57 +0000</pubDate>
-      <description><![CDATA[RT @fffiloni: Gradio just unleashed the horses.
+也还好，一周也最多就一天。</title>
+      <link>https://x.com/bearliu/status/2044765263719960975</link>
+      <guid isPermaLink="false">2044765263719960975</guid>
+      <pubDate>Thu, 16 Apr 2026 13:10:03 +0000</pubDate>
+      <description><![CDATA[服务客户跨时区跨半球，头疼就在于：晚上六点半一个会（印度），七点半一个会（湾区），八点到九点另一个会（欧洲）。
 
-The gap between demos and real apps
-is finally closing.
-
-https://t.co/1aJDUsn1VT 👀
+也还好，一周也最多就一天。
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
+@bearliu | ❤️ 1 | 🔁 0 | 💬 1 | 👁 278]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>Excited to see where our partnerhsip leads us @MiniMax_AI !</title>
+      <link>https://x.com/Teknium/status/2044765173513404706</link>
+      <guid isPermaLink="false">2044765173513404706</guid>
+      <pubDate>Thu, 16 Apr 2026 13:09:41 +0000</pubDate>
+      <description><![CDATA[Excited to see where our partnerhsip leads us @MiniMax_AI !
+
+---
+@Teknium | ❤️ 51 | 🔁 4 | 💬 6 | 👁 1101]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Awesome to hear!</title>
+      <link>https://x.com/Teknium/status/2044765001999917307</link>
+      <guid isPermaLink="false">2044765001999917307</guid>
+      <pubDate>Thu, 16 Apr 2026 13:09:01 +0000</pubDate>
+      <description><![CDATA[Awesome to hear!
+
+---
+@Teknium | ❤️ 5 | 🔁 0 | 💬 0 | 👁 976]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @MrSpock79: @NousResearch guys how to install this? https://t.co/t8Kug0ShaK</title>
+      <link>https://x.com/Teknium/status/2044764863013261428</link>
+      <guid isPermaLink="false">2044764863013261428</guid>
+      <pubDate>Thu, 16 Apr 2026 13:08:27 +0000</pubDate>
+      <description><![CDATA[RT @MrSpock79: @NousResearch guys how to install this? https://t.co/t8Kug0ShaK
+
+---
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @mirra: Introducing Mirra Workspaces
+
+Workspaces give your local agents access to a shared multi-...</title>
+      <link>https://x.com/Teknium/status/2044764689427783931</link>
+      <guid isPermaLink="false">2044764689427783931</guid>
+      <pubDate>Thu, 16 Apr 2026 13:07:46 +0000</pubDate>
+      <description><![CDATA[RT @mirra: Introducing Mirra Workspaces
+
+Workspaces give your local agents access to a shared multi-tenant environment.
+
+Our customers are…
+
+---
+@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
   </channel>
 </rss>
