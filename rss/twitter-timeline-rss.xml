@@ -5,122 +5,87 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:02:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @lumao_2026: 持续为hermes生态做建设，我们今天将会上线多profile切换，模型和频道配置全部在web端完成，无需执行任何命令。
-@NousResearch
-@Teknium
-...</title>
-      <link>https://x.com/Teknium/status/2044649642642858211</link>
-      <guid isPermaLink="false">2044649642642858211</guid>
-      <pubDate>Thu, 16 Apr 2026 05:30:37 +0000</pubDate>
-      <description><![CDATA[RT @lumao_2026: 持续为hermes生态做建设，我们今天将会上线多profile切换，模型和频道配置全部在web端完成，无需执行任何命令。
-@NousResearch
-@Teknium
-#hermes #agent
-大家如果喜欢请多多支持下。我会持续输出。
-htt…
+      <title>NEVER REMOVE YOUR 2FA 
+NEVER REMOVE YOUR 2FA
+NEVER REMOVE YOUR 2FA
+NEVER REMOVE YOUR 2FA
+NEVER REMOV...</title>
+      <link>https://x.com/binance/status/2044657328310407276</link>
+      <guid isPermaLink="false">2044657328310407276</guid>
+      <pubDate>Thu, 16 Apr 2026 06:01:09 +0000</pubDate>
+      <description><![CDATA[NEVER REMOVE YOUR 2FA 
+NEVER REMOVE YOUR 2FA
+NEVER REMOVE YOUR 2FA
+NEVER REMOVE YOUR 2FA
+NEVER REMOVE YOUR 2FA
+
+I repeat:
+never ever make that mistake
+
+you’ll regret it sooner than you think
 
 ---
-@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 1]]></description>
-      <author>@Teknium</author>
+@binance | ❤️ 28 | 🔁 0 | 💬 9 | 👁 704]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>RT @MayukhBagchi4: I built a Hermes Agent skill that gives it an eye and emotion layer @NousResearch...</title>
-      <link>https://x.com/Teknium/status/2044649197304213684</link>
-      <guid isPermaLink="false">2044649197304213684</guid>
-      <pubDate>Thu, 16 Apr 2026 05:28:51 +0000</pubDate>
-      <description><![CDATA[RT @MayukhBagchi4: I built a Hermes Agent skill that gives it an eye and emotion layer @NousResearch
-🖐It sees my gestures and controls my l…
+      <title>also available on the Claude Blog: https://t.co/cS9RhvOPKp</title>
+      <link>https://x.com/trq212/status/2044654705780179011</link>
+      <guid isPermaLink="false">2044654705780179011</guid>
+      <pubDate>Thu, 16 Apr 2026 05:50:44 +0000</pubDate>
+      <description><![CDATA[also available on the Claude Blog: https://t.co/cS9RhvOPKp
 
 ---
-@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@trq212 | ❤️ 3 | 🔁 1 | 💬 3 | 👁 934]]></description>
+      <author>@trq212</author>
     </item>
     <item>
-      <title>RT @ShopifyEng: Since we open-sourced pi-autoresearch, @Shopify teams have been running it on everyt...</title>
-      <link>https://x.com/steipete/status/2044648978109874244</link>
-      <guid isPermaLink="false">2044648978109874244</guid>
-      <pubDate>Thu, 16 Apr 2026 05:27:58 +0000</pubDate>
-      <description><![CDATA[RT @ShopifyEng: Since we open-sourced pi-autoresearch, @Shopify teams have been running it on everything.
+      <title>You can also set your autocompact threshold yourself and effectively lower your context window if yo...</title>
+      <link>https://x.com/trq212/status/2044653085415604473</link>
+      <guid isPermaLink="false">2044653085415604473</guid>
+      <pubDate>Thu, 16 Apr 2026 05:44:18 +0000</pubDate>
+      <description><![CDATA[You can also set your autocompact threshold yourself and effectively lower your context window if you'd prefer.  
 
-Results so far:
-Unit tests: 300x…
+For example, 400k context is a good compromise:
+
+CLAUDE_CODE_AUTO_COMPACT_WINDOW=400000 claude
+
+see docs here: https://t.co/NuhBuTSSDt
 
 ---
-@steipete | ❤️ 0 | 🔁 88 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@trq212 | ❤️ 41 | 🔁 4 | 💬 5 | 👁 2666]]></description>
+      <author>@trq212</author>
     </item>
     <item>
-      <title>展开讲讲的话就是性能相关的还是用 UIKit 来构建，SwiftUI 在合适的地方比如高度自定义的 UI 组件，继续发挥。</title>
-      <link>https://x.com/tualatrix/status/2044648524630126701</link>
-      <guid isPermaLink="false">2044648524630126701</guid>
-      <pubDate>Thu, 16 Apr 2026 05:26:10 +0000</pubDate>
-      <description><![CDATA[展开讲讲的话就是性能相关的还是用 UIKit 来构建，SwiftUI 在合适的地方比如高度自定义的 UI 组件，继续发挥。
+      <title>I edited the intro because I realized I buried the lede originally-
+
+The 1M context window is a doub...</title>
+      <link>https://x.com/trq212/status/2044653083817660431</link>
+      <guid isPermaLink="false">2044653083817660431</guid>
+      <pubDate>Thu, 16 Apr 2026 05:44:17 +0000</pubDate>
+      <description><![CDATA[I edited the intro because I realized I buried the lede originally-
+
+The 1M context window is a double-edged sword. It allows Claude to do more complex tasks but it can also leads to more context pollution if you don't manage your session well. 
+
+This is how you do that:
 
 ---
-@tualatrix | ❤️ 0 | 🔁 0 | 💬 0 | 👁 79]]></description>
-      <author>@tualatrix</author>
+@trq212 | ❤️ 119 | 🔁 9 | 💬 18 | 👁 8525]]></description>
+      <author>@trq212</author>
     </item>
     <item>
-      <title>Excited to power Astra Voice 2.0 with @Wati_io 🎙️✨
-
-Bringing MiniMax voice technology to businesses ...</title>
-      <link>https://x.com/MiniMax_AI/status/2044646995416260875</link>
-      <guid isPermaLink="false">2044646995416260875</guid>
-      <pubDate>Thu, 16 Apr 2026 05:20:06 +0000</pubDate>
-      <description><![CDATA[Excited to power Astra Voice 2.0 with @Wati_io 🎙️✨
-
-Bringing MiniMax voice technology to businesses on WhatsApp worldwide, with voice that actually sounds like nature conversation, in whatever language your customer speaks.
+      <title>RT @op7418: https://t.co/WvKgovXdrO</title>
+      <link>https://x.com/dotey/status/2044650483634098394</link>
+      <guid isPermaLink="false">2044650483634098394</guid>
+      <pubDate>Thu, 16 Apr 2026 05:33:57 +0000</pubDate>
+      <description><![CDATA[RT @op7418: https://t.co/WvKgovXdrO
 
 ---
-@MiniMax_AI | ❤️ 7 | 🔁 0 | 💬 0 | 👁 703]]></description>
-      <author>@MiniMax_AI</author>
-    </item>
-    <item>
-      <title>RT @JuanPa: A fun project that we’ve been working on the past few weeks with the @OpenAIDevs team. P...</title>
-      <link>https://x.com/nickbaumann_/status/2044646288688620000</link>
-      <guid isPermaLink="false">2044646288688620000</guid>
-      <pubDate>Thu, 16 Apr 2026 05:17:17 +0000</pubDate>
-      <description><![CDATA[RT @JuanPa: A fun project that we’ve been working on the past few weeks with the @OpenAIDevs team. Plugins are genuinely fun to build and g…
-
----
-@nickbaumann_ | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@nickbaumann_</author>
-    </item>
-    <item>
-      <title>哎，我接受合作的乌克兰程序员的坏脾气了。生活在这种战乱环境下，脾气好不太可能。 https://t.co/VfXTE5a8a2</title>
-      <link>https://x.com/bearliu/status/2044645118549061750</link>
-      <guid isPermaLink="false">2044645118549061750</guid>
-      <pubDate>Thu, 16 Apr 2026 05:12:38 +0000</pubDate>
-      <description><![CDATA[哎，我接受合作的乌克兰程序员的坏脾气了。生活在这种战乱环境下，脾气好不太可能。 https://t.co/VfXTE5a8a2
-
----
-@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 465]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>看了篇《Is SwiftUI finally as fast as UIKit in iOS 26?》，结论是：2026 年继续用 UIKit。 https://t.co/AhaZc5igzQ</title>
-      <link>https://x.com/tualatrix/status/2044644780291051964</link>
-      <guid isPermaLink="false">2044644780291051964</guid>
-      <pubDate>Thu, 16 Apr 2026 05:11:17 +0000</pubDate>
-      <description><![CDATA[看了篇《Is SwiftUI finally as fast as UIKit in iOS 26?》，结论是：2026 年继续用 UIKit。 https://t.co/AhaZc5igzQ
-
----
-@tualatrix | ❤️ 6 | 🔁 0 | 💬 2 | 👁 878]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>always a real feeling of magic to ask codex to perform a task that requires finding information scat...</title>
-      <link>https://x.com/gdb/status/2044643518891909289</link>
-      <guid isPermaLink="false">2044643518891909289</guid>
-      <pubDate>Thu, 16 Apr 2026 05:06:17 +0000</pubDate>
-      <description><![CDATA[always a real feeling of magic to ask codex to perform a task that requires finding information scattered across slack, google docs, notion, and various internal tools, and it just figures it out
-
----
-@gdb | ❤️ 216 | 🔁 9 | 💬 40 | 👁 7740]]></description>
-      <author>@gdb</author>
+@dotey | ❤️ 0 | 🔁 28 | 💬 0 | 👁 0]]></description>
+      <author>@dotey</author>
     </item>
   </channel>
 </rss>
