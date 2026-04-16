@@ -5,35 +5,72 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:31:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 是你的放大器
-人还是要提升内核
-你牛逼他也牛逼
-你垃圾他也垃圾</title>
-      <link>https://x.com/oran_ge/status/2044729263354712072</link>
-      <guid isPermaLink="false">2044729263354712072</guid>
-      <pubDate>Thu, 16 Apr 2026 10:47:00 +0000</pubDate>
-      <description><![CDATA[AI 是你的放大器
-人还是要提升内核
-你牛逼他也牛逼
-你垃圾他也垃圾
-
----
-@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 553]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
       <title>RT @liu10102525: https://t.co/sxRwdNqPh9</title>
-      <link>https://x.com/lifesinger/status/2044728768590450844</link>
-      <guid isPermaLink="false">2044728768590450844</guid>
-      <pubDate>Thu, 16 Apr 2026 10:45:02 +0000</pubDate>
+      <link>https://x.com/stark_nico99/status/2044739365671407977</link>
+      <guid isPermaLink="false">2044739365671407977</guid>
+      <pubDate>Thu, 16 Apr 2026 11:27:08 +0000</pubDate>
       <description><![CDATA[RT @liu10102525: https://t.co/sxRwdNqPh9
 
 ---
-@lifesinger | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@lifesinger</author>
+@stark_nico99 | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@stark_nico99</author>
+    </item>
+    <item>
+      <title>Welcome to the Binance AI Community 🙌
+
+We’d like to see how Binance AI has elevated your trading exp...</title>
+      <link>https://x.com/binance/status/2044734986306400615</link>
+      <guid isPermaLink="false">2044734986306400615</guid>
+      <pubDate>Thu, 16 Apr 2026 11:09:44 +0000</pubDate>
+      <description><![CDATA[Welcome to the Binance AI Community 🙌
+
+We’d like to see how Binance AI has elevated your trading experience, be it AI trading bots, agents or market sentiment analysis!
+
+3 simple steps:
+🔸 Follow @binance + RT this post
+🔸 Share one screenshot of your prompt/usage and Binance AI’s output with #BinanceAI
+🔸 Complete the survey → https://t.co/pkNkdwGQQC    
+
+10 users win 100 USDC each. 
+
+Ends 20 April 23:59 UTC.
+
+---
+@binance | ❤️ 183 | 🔁 59 | 💬 59 | 👁 12043]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>群里看到这张图，gpt image 2 太离谱了
+连身份证号码规则都是对的
+照片的真实性不存在了
+需要愈加小心的世界
+（不过这个身份证虽然前几位是对的，但最后校验位是错的） https://t.co/...</title>
+      <link>https://x.com/oran_ge/status/2044734306434842696</link>
+      <guid isPermaLink="false">2044734306434842696</guid>
+      <pubDate>Thu, 16 Apr 2026 11:07:02 +0000</pubDate>
+      <description><![CDATA[群里看到这张图，gpt image 2 太离谱了
+连身份证号码规则都是对的
+照片的真实性不存在了
+需要愈加小心的世界
+（不过这个身份证虽然前几位是对的，但最后校验位是错的） https://t.co/qIKyLMwbL6
+
+---
+@oran_ge | ❤️ 19 | 🔁 0 | 💬 9 | 👁 2349]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>Destroying a library brings the dark ages.</title>
+      <link>https://x.com/ylecun/status/2044733681198043187</link>
+      <guid isPermaLink="false">2044733681198043187</guid>
+      <pubDate>Thu, 16 Apr 2026 11:04:33 +0000</pubDate>
+      <description><![CDATA[Destroying a library brings the dark ages.
+
+---
+@ylecun | ❤️ 165 | 🔁 33 | 💬 11 | 👁 9371]]></description>
+      <author>@ylecun</author>
     </item>
   </channel>
 </rss>
