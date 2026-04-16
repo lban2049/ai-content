@@ -5,154 +5,167 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 19:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:01:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The agentic economy could be larger than the human economy. 
-
-We're building the infrastructure for ...</title>
-      <link>https://x.com/coinbase/status/2044859638668013762</link>
-      <guid isPermaLink="false">2044859638668013762</guid>
-      <pubDate>Thu, 16 Apr 2026 19:25:04 +0000</pubDate>
-      <description><![CDATA[The agentic economy could be larger than the human economy. 
-
-We're building the infrastructure for both at Coinbase. https://t.co/UsJ80MEMUI
+      <title>The edge that used to belong to hedge funds? 
+It's in your pocket now.
+Your AI edge with smarter too...</title>
+      <link>https://x.com/binance/status/2044868611727134980</link>
+      <guid isPermaLink="false">2044868611727134980</guid>
+      <pubDate>Thu, 16 Apr 2026 20:00:43 +0000</pubDate>
+      <description><![CDATA[The edge that used to belong to hedge funds? 
+It's in your pocket now.
+Your AI edge with smarter tools for every trader. #BinanceAI https://t.co/avKeg8aaVQ
 
 ---
-@coinbase | ❤️ 42 | 🔁 6 | 💬 13 | 👁 5147]]></description>
-      <author>@coinbase</author>
+@binance | ❤️ 4 | 🔁 1 | 💬 0 | 👁 105]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>Get a free year of @FactoryAI with your Lenny's Newsletter subscription</title>
-      <link>https://x.com/lennysan/status/2044859265857507402</link>
-      <guid isPermaLink="false">2044859265857507402</guid>
-      <pubDate>Thu, 16 Apr 2026 19:23:35 +0000</pubDate>
-      <description><![CDATA[Get a free year of @FactoryAI with your Lenny's Newsletter subscription
+      <title>Boris Cherny 根据自己最近几周深度使用 Claude Opus 4.7 的经验，分享了几个实用技巧，让你也能高效发挥这款新模型的威力。
+
+首先是新上线的“自动模式”(Auto mode)。...</title>
+      <link>https://x.com/dotey/status/2044868344256381254</link>
+      <guid isPermaLink="false">2044868344256381254</guid>
+      <pubDate>Thu, 16 Apr 2026 19:59:39 +0000</pubDate>
+      <description><![CDATA[Boris Cherny 根据自己最近几周深度使用 Claude Opus 4.7 的经验，分享了几个实用技巧，让你也能高效发挥这款新模型的威力。
+
+首先是新上线的“自动模式”(Auto mode)。
+
+Opus 4.7 很适合复杂且长期运行的任务，比如深度调研、代码重构或功能迭代。
+
+以前，你要么得不断地确认权限请求，要么不得已使用危险的“跳过权限”模式。
+
+现在，新推出的自动模式让 Claude 自己判断命令的安全性，自动批准执行。这意味着你不用再频繁确认，也能同时运行更多任务，效率大幅提升。
+
+如果你不喜欢用自动模式，官方还推出了一个叫做 /fewer-permission-prompts (减少权限提示) 的技能。它会自动检查历史操作，找到那些安全但经常触发权限提示的命令，并建议你加入权限白名单。这样，你就能更专注工作，不用老被权限提示打断。
+
+另一个贴心功能叫做“回顾”(Recaps)。
+
+它会为你自动总结 Claude 已经完成了哪些任务，以及下一步要做什么。这对处理长期、复杂的任务特别有帮助，哪怕你中间中断几个小时再回来，也能迅速回到节奏里。
+
+CLI 用户还能试试“专注模式”(Focus mode)。
+
+这个模式会隐藏所有中间步骤，只呈现最终结果。如果你对 Claude 已经足够信任，不想再浪费时间看中间细节，专注模式能让你一眼看清重点，快速推进任务。
+
+Claude 4.7 还改变了以往固定的“思考预算”机制，现在用的是一种叫“努力程度”(Configure your effort level)的设定。
+
+你可以灵活调整 Claude 花费的计算资源和时间，“低努力”意味着响应快、更省 token；“高努力”则能输出最聪明、最强大的结果。一般建议普通任务用 xhigh，特别难的用 max。这种模式能自由切换，更贴合实际需求。
+
+最后，别忘了让 Claude 验证自己的工作成果。这其实一直是提升 Claude 效果的关键，现在更重要了。
+
+比如：
+- 对于后端工作，确保 Claude 知道如何启动你的服务器/服务，从而进行端到端测试；
+- 对于前端工作，使用 Claude Chromium 浏览器扩展程序，赋予 Claude 控制你浏览器的能力；
+- 对于桌面应用，使用计算机使用 (computer use) 功能。
+
+就 Boris 自己而言，最近最常使用的提示词通常是这样的：“Claude 去做某某事，然后 /go”。 
+
+/go 是一个自定义技能，它会让 Claude 自动执行以下三步：
+1. 使用 bash、浏览器或计算机使用功能进行端到端的自我测试。
+2. 运行 /simplify (精简代码) 技能。
+3. 提交一个 PR 。
+
+对于耗时较长的工作，自我验证非常重要。因为这样一来，当你回来检查任务时，你就确切地知道这些代码是真实可用的。
+
+总体来说，Opus 4.7 本身的提升已经很明显了，但如果你愿意稍微调整一下工作流程，更好地适应 Claude 的“主动性”和“智能程度”，一定会有更加明显的效率提升。希望这些技巧能帮你真正玩转 Opus 4.7！
 
 ---
-@lennysan | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1047]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>RT @AriX: This is the first time I've ever seen an LLM operate a GUI as fast as a person, and it's s...</title>
-      <link>https://x.com/sama/status/2044858929491202435</link>
-      <guid isPermaLink="false">2044858929491202435</guid>
-      <pubDate>Thu, 16 Apr 2026 19:22:15 +0000</pubDate>
-      <description><![CDATA[RT @AriX: This is the first time I've ever seen an LLM operate a GUI as fast as a person, and it's surreal. https://t.co/5kjwGMDpvd
-
----
-@sama | ❤️ 0 | 🔁 37 | 💬 0 | 👁 5]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>Codex can learn from experience and proactively suggest things it can do for you.
-
-It now has an in-...</title>
-      <link>https://x.com/sama/status/2044858863246323811</link>
-      <guid isPermaLink="false">2044858863246323811</guid>
-      <pubDate>Thu, 16 Apr 2026 19:21:59 +0000</pubDate>
-      <description><![CDATA[Codex can learn from experience and proactively suggest things it can do for you.
-
-It now has an in-app browser, many new plugins, and so much more.
-
----
-@sama | ❤️ 145 | 🔁 3 | 💬 20 | 👁 9365]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>Lots of major improvements to Codex!
-
-Computer use is a real update for me; it feels even more usefu...</title>
-      <link>https://x.com/sama/status/2044858862042591378</link>
-      <guid isPermaLink="false">2044858862042591378</guid>
-      <pubDate>Thu, 16 Apr 2026 19:21:59 +0000</pubDate>
-      <description><![CDATA[Lots of major improvements to Codex!
-
-Computer use is a real update for me; it feels even more useful than I expected. It can use all of the apps on your Mac, in parallel and without interfering with your direct work.
-
----
-@sama | ❤️ 634 | 🔁 28 | 💬 153 | 👁 17261]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>RT @romainhuet: Big day for Codex!
-
-Codex can now work across more of your computer and more of your...</title>
-      <link>https://x.com/nickbaumann_/status/2044857430233039163</link>
-      <guid isPermaLink="false">2044857430233039163</guid>
-      <pubDate>Thu, 16 Apr 2026 19:16:17 +0000</pubDate>
-      <description><![CDATA[RT @romainhuet: Big day for Codex!
-
-Codex can now work across more of your computer and more of your tools.
-
-Features many of you have been…
-
----
-@nickbaumann_ | ❤️ 0 | 🔁 17 | 💬 0 | 👁 0]]></description>
-      <author>@nickbaumann_</author>
-    </item>
-    <item>
-      <title>这封面不错😂</title>
-      <link>https://x.com/dotey/status/2044856258230886601</link>
-      <guid isPermaLink="false">2044856258230886601</guid>
-      <pubDate>Thu, 16 Apr 2026 19:11:38 +0000</pubDate>
-      <description><![CDATA[这封面不错😂
-
----
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 660]]></description>
+@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 69]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>RT @GeminiApp: Personal Intelligence 🤝 Nano Banana 2
-
-Personal Intelligence now gives Gemini an unde...</title>
-      <link>https://x.com/Google/status/2044855857767235683</link>
-      <guid isPermaLink="false">2044855857767235683</guid>
-      <pubDate>Thu, 16 Apr 2026 19:10:02 +0000</pubDate>
-      <description><![CDATA[RT @GeminiApp: Personal Intelligence 🤝 Nano Banana 2
-
-Personal Intelligence now gives Gemini an understanding of your preferences and inter…
+      <title>RT @DrTechlash: Daniel Moreno-Gama, in an interview before he arrived in SF with a gun and a hit lis...</title>
+      <link>https://x.com/ylecun/status/2044866240812875926</link>
+      <guid isPermaLink="false">2044866240812875926</guid>
+      <pubDate>Thu, 16 Apr 2026 19:51:18 +0000</pubDate>
+      <description><![CDATA[RT @DrTechlash: Daniel Moreno-Gama, in an interview before he arrived in SF with a gun and a hit list: https://t.co/0LFx3QREfq
 
 ---
-@Google | ❤️ 0 | 🔁 49 | 💬 0 | 👁 2]]></description>
-      <author>@Google</author>
+@ylecun | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>Codex is becoming a turbocharged partner for everything you want your computer to do for you:</title>
-      <link>https://x.com/gdb/status/2044855706273391084</link>
-      <guid isPermaLink="false">2044855706273391084</guid>
-      <pubDate>Thu, 16 Apr 2026 19:09:26 +0000</pubDate>
-      <description><![CDATA[Codex is becoming a turbocharged partner for everything you want your computer to do for you:
+      <title>RT @internetarchive: Publishers have real questions about AI, but let’s be clear: @waybackmachine is...</title>
+      <link>https://x.com/ylecun/status/2044866028459401450</link>
+      <guid isPermaLink="false">2044866028459401450</guid>
+      <pubDate>Thu, 16 Apr 2026 19:50:27 +0000</pubDate>
+      <description><![CDATA[RT @internetarchive: Publishers have real questions about AI, but let’s be clear: @waybackmachine isn’t a backdoor for AI scraping.
+
+For 30…
 
 ---
-@gdb | ❤️ 144 | 🔁 9 | 💬 24 | 👁 7772]]></description>
-      <author>@gdb</author>
+@ylecun | ❤️ 0 | 🔁 516 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @keysmashbandit: Please, I'm begging you, try to critically examine the differences between these...</title>
-      <link>https://x.com/jeremyphoward/status/2044855679626981744</link>
-      <guid isPermaLink="false">2044855679626981744</guid>
-      <pubDate>Thu, 16 Apr 2026 19:09:20 +0000</pubDate>
-      <description><![CDATA[RT @keysmashbandit: Please, I'm begging you, try to critically examine the differences between these two pieces of writing.
-
-ChatGPT editin…
+      <title>RT @bruce_arthur: JD Vance is lecturing the Pope on Catholicism and Pierre Poilievre is lecturing Ma...</title>
+      <link>https://x.com/ylecun/status/2044865821541839024</link>
+      <guid isPermaLink="false">2044865821541839024</guid>
+      <pubDate>Thu, 16 Apr 2026 19:49:38 +0000</pubDate>
+      <description><![CDATA[RT @bruce_arthur: JD Vance is lecturing the Pope on Catholicism and Pierre Poilievre is lecturing Mark Carney on economics and RFK Jr is le…
 
 ---
-@jeremyphoward | ❤️ 0 | 🔁 23 | 💬 0 | 👁 0]]></description>
-      <author>@jeremyphoward</author>
+@ylecun | ❤️ 0 | 🔁 10033 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>Had a great time at PyCon &amp;amp; PyData DE. Highly recommend it. Great open-source, community-foc...</title>
-      <link>https://x.com/rasbt/status/2044855319180808484</link>
-      <guid isPermaLink="false">2044855319180808484</guid>
-      <pubDate>Thu, 16 Apr 2026 19:07:54 +0000</pubDate>
-      <description><![CDATA[Had a great time at PyCon &amp;amp; PyData DE. Highly recommend it. Great open-source, community-focused conference with lots of builders in the Python AI, LLM and agent space.
-
-Taking a short family break, my first &quot;vacation&quot; in years (hopefully, I won't miss the DeepSeek V4 drop 🤞😆) https://t.co/kbKtRZK9aa
+      <title>RT @jbhuang0604: Great to have @_akhaliq in the house! https://t.co/ZBEACJcSxW</title>
+      <link>https://x.com/_akhaliq/status/2044865244464292136</link>
+      <guid isPermaLink="false">2044865244464292136</guid>
+      <pubDate>Thu, 16 Apr 2026 19:47:20 +0000</pubDate>
+      <description><![CDATA[RT @jbhuang0604: Great to have @_akhaliq in the house! https://t.co/ZBEACJcSxW
 
 ---
-@rasbt | ❤️ 25 | 🔁 4 | 💬 4 | 👁 1167]]></description>
-      <author>@rasbt</author>
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @Soph_astro: Jour 062, orbite 0963 – Savez-vous que nous voyons chaque jour 16 levers et couchers...</title>
+      <link>https://x.com/Space_Station/status/2044863205428625499</link>
+      <guid isPermaLink="false">2044863205428625499</guid>
+      <pubDate>Thu, 16 Apr 2026 19:39:14 +0000</pubDate>
+      <description><![CDATA[RT @Soph_astro: Jour 062, orbite 0963 – Savez-vous que nous voyons chaque jour 16 levers et couchers de Soleil depuis la Station? Ils ne du…
+
+---
+@Space_Station | ❤️ 0 | 🔁 281 | 💬 0 | 👁 6]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>Our Life Sciences model series is available as a research preview starting today for qualified custo...</title>
+      <link>https://x.com/OpenAI/status/2044861695911477643</link>
+      <guid isPermaLink="false">2044861695911477643</guid>
+      <pubDate>Thu, 16 Apr 2026 19:33:14 +0000</pubDate>
+      <description><![CDATA[Our Life Sciences model series is available as a research preview starting today for qualified customers including @Amgen, @moderna_tx, the @AllenInstitute, and @thermofisher Scientific through ChatGPT, Codex, and the API. 
+
+https://t.co/lbUYihzr8f
+
+---
+@OpenAI | ❤️ 160 | 🔁 8 | 💬 4 | 👁 19580]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>GPT-Rosalind, our Life Sciences model series, is optimized for scientific workflows, with stronger p...</title>
+      <link>https://x.com/OpenAI/status/2044861694216900901</link>
+      <guid isPermaLink="false">2044861694216900901</guid>
+      <pubDate>Thu, 16 Apr 2026 19:33:14 +0000</pubDate>
+      <description><![CDATA[GPT-Rosalind, our Life Sciences model series, is optimized for scientific workflows, with stronger performance in protein and chemical reasoning, genomics analysis, biochemistry knowledge, and scientific tool use. https://t.co/PTdbHMgR50
+
+---
+@OpenAI | ❤️ 256 | 🔁 16 | 💬 4 | 👁 25567]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, dru...</title>
+      <link>https://x.com/OpenAI/status/2044861690911850863</link>
+      <guid isPermaLink="false">2044861690911850863</guid>
+      <pubDate>Thu, 16 Apr 2026 19:33:13 +0000</pubDate>
+      <description><![CDATA[Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine. https://t.co/PubLU0FkSv
+
+---
+@OpenAI | ❤️ 2167 | 🔁 227 | 💬 122 | 👁 85015]]></description>
+      <author>@OpenAI</author>
     </item>
   </channel>
 </rss>
