@@ -5,128 +5,124 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 20:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:01:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>You think &quot;ah that must be some fringe part of society&quot; right?
+      <title>RT @thsottiaux: Codex just got a lot more powerful.
 
-But it's even my relativel...</title>
-      <link>https://x.com/levelsio/status/2044874478421729371</link>
-      <guid isPermaLink="false">2044874478421729371</guid>
-      <pubDate>Thu, 16 Apr 2026 20:24:02 +0000</pubDate>
-      <description><![CDATA[You think &quot;ah that must be some fringe part of society&quot; right?
+Computer use, in-app browser, image generation ...</title>
+      <link>https://x.com/steipete/status/2044882457955377186</link>
+      <guid isPermaLink="false">2044882457955377186</guid>
+      <pubDate>Thu, 16 Apr 2026 20:55:44 +0000</pubDate>
+      <description><![CDATA[RT @thsottiaux: Codex just got a lot more powerful.
 
-But it's even my relatively more right leaning friends from Netherlands
-
-So many people around the age of 25-45 in Europe think like this now!
-
-10 year delay effect of United States stuff but evolved even worse!
+Computer use, in-app browser, image generation and editing, 90+ new plugins to connect…
 
 ---
-@levelsio | ❤️ 31 | 🔁 0 | 💬 3 | 👁 1551]]></description>
+@steipete | ❤️ 0 | 🔁 256 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @bhalligan: Really good CEO advice from @rabois packaged nicely by @lennysan.</title>
+      <link>https://x.com/lennysan/status/2044880322295411005</link>
+      <guid isPermaLink="false">2044880322295411005</guid>
+      <pubDate>Thu, 16 Apr 2026 20:47:15 +0000</pubDate>
+      <description><![CDATA[RT @bhalligan: Really good CEO advice from @rabois packaged nicely by @lennysan.
+
+---
+@lennysan | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@lennysan</author>
+    </item>
+    <item>
+      <title>https://t.co/ogvqyWXsIc</title>
+      <link>https://x.com/levelsio/status/2044880216187711521</link>
+      <guid isPermaLink="false">2044880216187711521</guid>
+      <pubDate>Thu, 16 Apr 2026 20:46:50 +0000</pubDate>
+      <description><![CDATA[https://t.co/ogvqyWXsIc
+
+---
+@levelsio | ❤️ 9 | 🔁 0 | 💬 0 | 👁 2879]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>you have to think more carefully about session management with one million context, not less
-
-https:...</title>
-      <link>https://x.com/trq212/status/2044873898572001376</link>
-      <guid isPermaLink="false">2044873898572001376</guid>
-      <pubDate>Thu, 16 Apr 2026 20:21:43 +0000</pubDate>
-      <description><![CDATA[you have to think more carefully about session management with one million context, not less
-
-https://t.co/xHn1oSwH1c
+      <title>RT @victormustar: who made this 🇫🇷 banger lol (identify yourself) https://t.co/gkfTtdR1w2</title>
+      <link>https://x.com/_akhaliq/status/2044880140405019056</link>
+      <guid isPermaLink="false">2044880140405019056</guid>
+      <pubDate>Thu, 16 Apr 2026 20:46:32 +0000</pubDate>
+      <description><![CDATA[RT @victormustar: who made this 🇫🇷 banger lol (identify yourself) https://t.co/gkfTtdR1w2
 
 ---
-@trq212 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 911]]></description>
-      <author>@trq212</author>
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>opus4.7 确实好用，熟悉的 cc 又回来了。另外我发现新版本的 codex app 我觉得比在终端上使用 codex cli 还好用一些。</title>
-      <link>https://x.com/turingou/status/2044871834722824580</link>
-      <guid isPermaLink="false">2044871834722824580</guid>
-      <pubDate>Thu, 16 Apr 2026 20:13:31 +0000</pubDate>
-      <description><![CDATA[opus4.7 确实好用，熟悉的 cc 又回来了。另外我发现新版本的 codex app 我觉得比在终端上使用 codex cli 还好用一些。
+      <title>Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器
+
+现在，你可以直接在代码编辑器里浏览任何网页。只需简单点点鼠标，就能快速和你的 AI Agent 进行迭代。
+
+Codex 会自...</title>
+      <link>https://x.com/dotey/status/2044879703698526617</link>
+      <guid isPermaLink="false">2044879703698526617</guid>
+      <pubDate>Thu, 16 Apr 2026 20:44:48 +0000</pubDate>
+      <description><![CDATA[Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器
+
+现在，你可以直接在代码编辑器里浏览任何网页。只需简单点点鼠标，就能快速和你的 AI Agent 进行迭代。
+
+Codex 会自动帮你搞定所有繁琐的步骤：它能瞬间截取网页屏幕，精准抓取 DOM 元素（DOM element），然后把这些信息作为最精准的上下文，直接无缝投喂到你接下来的对话窗口中。
+
+这功能我印象中最早是 v0 上有的，没想到 codex 现在也支持了。
 
 ---
-@turingou | ❤️ 4 | 🔁 0 | 💬 1 | 👁 509]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>Oh yes oh yes 😍</title>
-      <link>https://x.com/levelsio/status/2044870326597595488</link>
-      <guid isPermaLink="false">2044870326597595488</guid>
-      <pubDate>Thu, 16 Apr 2026 20:07:32 +0000</pubDate>
-      <description><![CDATA[Oh yes oh yes 😍
-
----
-@levelsio | ❤️ 51 | 🔁 2 | 💬 3 | 👁 7601]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>When I meet most Europeans these days I wanna shake them and shout WAKE UPPPPPPP
-
-They're all captiv...</title>
-      <link>https://x.com/levelsio/status/2044870009047106001</link>
-      <guid isPermaLink="false">2044870009047106001</guid>
-      <pubDate>Thu, 16 Apr 2026 20:06:16 +0000</pubDate>
-      <description><![CDATA[When I meet most Europeans these days I wanna shake them and shout WAKE UPPPPPPP
-
-They're all captivated by the mind virus
-
-My Dutch friend said he's doing great because he has no kids so he's not a &quot;big burden on society&quot; eco wise
-
-My French friend said she avoids flying at all cost to save the environment
-
-WAKE UP!!!!!
-
----
-@levelsio | ❤️ 258 | 🔁 7 | 💬 44 | 👁 11207]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>额度果然重置了 https://t.co/yk053zcqXW</title>
-      <link>https://x.com/dotey/status/2044869569303441451</link>
-      <guid isPermaLink="false">2044869569303441451</guid>
-      <pubDate>Thu, 16 Apr 2026 20:04:31 +0000</pubDate>
-      <description><![CDATA[额度果然重置了 https://t.co/yk053zcqXW
-
----
-@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 258]]></description>
+@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 450]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>a quick fix if you saw higher rate limit usage in Opus 4.7 today- hope you enjoy trying it out</title>
-      <link>https://x.com/trq212/status/2044869569555411383</link>
-      <guid isPermaLink="false">2044869569555411383</guid>
-      <pubDate>Thu, 16 Apr 2026 20:04:31 +0000</pubDate>
-      <description><![CDATA[a quick fix if you saw higher rate limit usage in Opus 4.7 today- hope you enjoy trying it out
+      <title>Introducing the Nous Portal Tool Gateway, one login to access over 400 LLMs and power all core tools...</title>
+      <link>https://x.com/Teknium/status/2044879261564375326</link>
+      <guid isPermaLink="false">2044879261564375326</guid>
+      <pubDate>Thu, 16 Apr 2026 20:43:02 +0000</pubDate>
+      <description><![CDATA[Introducing the Nous Portal Tool Gateway, one login to access over 400 LLMs and power all core tools in Hermes Agent.
+
+Check it out below!
 
 ---
-@trq212 | ❤️ 203 | 🔁 5 | 💬 45 | 👁 10471]]></description>
-      <author>@trq212</author>
+@Teknium | ❤️ 26 | 🔁 0 | 💬 7 | 👁 1250]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>要想编程效果好，就得学会“黑话”😂</title>
-      <link>https://x.com/dotey/status/2044869059808727427</link>
-      <guid isPermaLink="false">2044869059808727427</guid>
-      <pubDate>Thu, 16 Apr 2026 20:02:30 +0000</pubDate>
-      <description><![CDATA[要想编程效果好，就得学会“黑话”😂
+      <title>@NousResearch EZ setup mode: activated!</title>
+      <link>https://x.com/Teknium/status/2044878510972620961</link>
+      <guid isPermaLink="false">2044878510972620961</guid>
+      <pubDate>Thu, 16 Apr 2026 20:40:03 +0000</pubDate>
+      <description><![CDATA[@NousResearch EZ setup mode: activated!
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 854]]></description>
-      <author>@dotey</author>
+@Teknium | ❤️ 13 | 🔁 0 | 💬 0 | 👁 494]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @ClaudeDevs: We fixed a bug where rate limits on Claude subscriptions weren't properly adjusted f...</title>
-      <link>https://x.com/trq212/status/2044869038455894151</link>
-      <guid isPermaLink="false">2044869038455894151</guid>
-      <pubDate>Thu, 16 Apr 2026 20:02:25 +0000</pubDate>
-      <description><![CDATA[RT @ClaudeDevs: We fixed a bug where rate limits on Claude subscriptions weren't properly adjusted for long context requests in Opus 4.7.…
+      <title>Tool Gateway is now live in Nous Portal.
+
+No separate accounts, no API key juggling. All you need is...</title>
+      <link>https://x.com/NousResearch/status/2044878344592699744</link>
+      <guid isPermaLink="false">2044878344592699744</guid>
+      <pubDate>Thu, 16 Apr 2026 20:39:24 +0000</pubDate>
+      <description><![CDATA[Tool Gateway is now live in Nous Portal.
+
+No separate accounts, no API key juggling. All you need is one subscription, and everything works.
+
+A paid Nous Portal subscription now includes access to 300+ models and a growing set of third-party tools.
+
+Launching with:
+→ Web scraping
+→ Browser automation
+→ Image generation
+→ Cloud terminal backend
+→ Text-to-speech
 
 ---
-@trq212 | ❤️ 0 | 🔁 121 | 💬 0 | 👁 0]]></description>
-      <author>@trq212</author>
+@NousResearch | ❤️ 173 | 🔁 23 | 💬 30 | 👁 6899]]></description>
+      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
