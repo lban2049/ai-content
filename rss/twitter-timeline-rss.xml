@@ -5,70 +5,122 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 05:31:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>科斯定律：一人公司为何兴起
-
-从前有个小镇，镇上有家面包店，老板叫老王。
-
-老王的面包店生意越来越好，他一个人忙不过来了。于是他想：我是不是该雇几个人。
-
-他先雇了一个揉面的，又雇了一个烤面包的，再雇...</title>
-      <link>https://x.com/lifesinger/status/2044636654892425274</link>
-      <guid isPermaLink="false">2044636654892425274</guid>
-      <pubDate>Thu, 16 Apr 2026 04:39:00 +0000</pubDate>
-      <description><![CDATA[科斯定律：一人公司为何兴起
-
-从前有个小镇，镇上有家面包店，老板叫老王。
-
-老王的面包店生意越来越好，他一个人忙不过来了。于是他想：我是不是该雇几个人。
-
-他先雇了一个揉面的，又雇了一个烤面包的，再雇了一个收银的。后来又雇了一个管他们三个的经理。再后来，经理说需要一个助理。
-
-很快，面包店变成了一家“面包集团”，有 50 个员工。
-
-但老王发现一个奇怪的事：面包还是那几种面包，但每个月光发工资、开会、处理员工吵架，就花掉了大部分钱。他把这些叫做“管理成本”。管理成本就是让一群人好好干活，所付出的代价。
-
-有一天，老王的女儿小王放学回家，跟他说：“爸，你知道隔壁镇的老李吗。他一个人开面包店，用机器人揉面，用小程序自动收银，用外卖平台送货。他一个人干的活，比你 50 个人还多。”
-
-老王惊呆了：“那他不需要雇人吗。”
-
-小王说：“他也雇了呀，只不过雇的不是员工，而是各种服务。揉面机器人是租的，小程序是买的，外卖是平台的。他每次用这些服务，付一点点钱就行。”
-
-这笔钱，就叫“交易成本”。是去外面找人帮忙，需要花费的各种代价。
-
-这就是大经济学家科斯在将近 90 年前发现的秘密：
-
-一家公司要不要变大，取决于两笔账：自己管人的管理成本贵，还是去外面找人的交易成本贵。
-
-如果管理成本低于交易成本，那就多雇人，公司变大。如果交易成本低于管理成本，那就少雇人，去外面买服务。
-
-这就是科斯定律。
-
-现在你大概能猜到，这个世界正在发生什么了。
-
-大公司为什么在裁员。因为雇佣真人的管理成本，远大于构建数字员工的交易成本了。时代正在一个拐点上。
-
-一人公司 OPC 为什么越来越多。因为一个人 + 各种 AI 工具，就能干以前一个团队才能干的事。管理成本大幅降低，你不再需要管大量人，只需要管好自己和合作的小伙伴。
-
-科斯定律告诉我们的结论就是：
-
-当交易成本趋近于零的时候，公司会变得越来越小，甚至小到只剩一个人。
-
-老王听完女儿的话，沉默了很久。
-
-第二天，他把 50 个人的面包集团关了，买了三个 AI 机器人，注册了一个小程序，重新变成了一个人的面包店。
-
-生意比以前还好。
-
-他终于又能安安静静做面包了。
-
-本文审美：玉伯    本文编辑：YouMind
+      <title>RT @lumao_2026: 持续为hermes生态做建设，我们今天将会上线多profile切换，模型和频道配置全部在web端完成，无需执行任何命令。
+@NousResearch
+@Teknium
+...</title>
+      <link>https://x.com/Teknium/status/2044649642642858211</link>
+      <guid isPermaLink="false">2044649642642858211</guid>
+      <pubDate>Thu, 16 Apr 2026 05:30:37 +0000</pubDate>
+      <description><![CDATA[RT @lumao_2026: 持续为hermes生态做建设，我们今天将会上线多profile切换，模型和频道配置全部在web端完成，无需执行任何命令。
+@NousResearch
+@Teknium
+#hermes #agent
+大家如果喜欢请多多支持下。我会持续输出。
+htt…
 
 ---
-@lifesinger | ❤️ 7 | 🔁 0 | 💬 1 | 👁 431]]></description>
-      <author>@lifesinger</author>
+@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 1]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @MayukhBagchi4: I built a Hermes Agent skill that gives it an eye and emotion layer @NousResearch...</title>
+      <link>https://x.com/Teknium/status/2044649197304213684</link>
+      <guid isPermaLink="false">2044649197304213684</guid>
+      <pubDate>Thu, 16 Apr 2026 05:28:51 +0000</pubDate>
+      <description><![CDATA[RT @MayukhBagchi4: I built a Hermes Agent skill that gives it an eye and emotion layer @NousResearch
+🖐It sees my gestures and controls my l…
+
+---
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @ShopifyEng: Since we open-sourced pi-autoresearch, @Shopify teams have been running it on everyt...</title>
+      <link>https://x.com/steipete/status/2044648978109874244</link>
+      <guid isPermaLink="false">2044648978109874244</guid>
+      <pubDate>Thu, 16 Apr 2026 05:27:58 +0000</pubDate>
+      <description><![CDATA[RT @ShopifyEng: Since we open-sourced pi-autoresearch, @Shopify teams have been running it on everything.
+
+Results so far:
+Unit tests: 300x…
+
+---
+@steipete | ❤️ 0 | 🔁 88 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>展开讲讲的话就是性能相关的还是用 UIKit 来构建，SwiftUI 在合适的地方比如高度自定义的 UI 组件，继续发挥。</title>
+      <link>https://x.com/tualatrix/status/2044648524630126701</link>
+      <guid isPermaLink="false">2044648524630126701</guid>
+      <pubDate>Thu, 16 Apr 2026 05:26:10 +0000</pubDate>
+      <description><![CDATA[展开讲讲的话就是性能相关的还是用 UIKit 来构建，SwiftUI 在合适的地方比如高度自定义的 UI 组件，继续发挥。
+
+---
+@tualatrix | ❤️ 0 | 🔁 0 | 💬 0 | 👁 79]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>Excited to power Astra Voice 2.0 with @Wati_io 🎙️✨
+
+Bringing MiniMax voice technology to businesses ...</title>
+      <link>https://x.com/MiniMax_AI/status/2044646995416260875</link>
+      <guid isPermaLink="false">2044646995416260875</guid>
+      <pubDate>Thu, 16 Apr 2026 05:20:06 +0000</pubDate>
+      <description><![CDATA[Excited to power Astra Voice 2.0 with @Wati_io 🎙️✨
+
+Bringing MiniMax voice technology to businesses on WhatsApp worldwide, with voice that actually sounds like nature conversation, in whatever language your customer speaks.
+
+---
+@MiniMax_AI | ❤️ 7 | 🔁 0 | 💬 0 | 👁 703]]></description>
+      <author>@MiniMax_AI</author>
+    </item>
+    <item>
+      <title>RT @JuanPa: A fun project that we’ve been working on the past few weeks with the @OpenAIDevs team. P...</title>
+      <link>https://x.com/nickbaumann_/status/2044646288688620000</link>
+      <guid isPermaLink="false">2044646288688620000</guid>
+      <pubDate>Thu, 16 Apr 2026 05:17:17 +0000</pubDate>
+      <description><![CDATA[RT @JuanPa: A fun project that we’ve been working on the past few weeks with the @OpenAIDevs team. Plugins are genuinely fun to build and g…
+
+---
+@nickbaumann_ | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>哎，我接受合作的乌克兰程序员的坏脾气了。生活在这种战乱环境下，脾气好不太可能。 https://t.co/VfXTE5a8a2</title>
+      <link>https://x.com/bearliu/status/2044645118549061750</link>
+      <guid isPermaLink="false">2044645118549061750</guid>
+      <pubDate>Thu, 16 Apr 2026 05:12:38 +0000</pubDate>
+      <description><![CDATA[哎，我接受合作的乌克兰程序员的坏脾气了。生活在这种战乱环境下，脾气好不太可能。 https://t.co/VfXTE5a8a2
+
+---
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 465]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>看了篇《Is SwiftUI finally as fast as UIKit in iOS 26?》，结论是：2026 年继续用 UIKit。 https://t.co/AhaZc5igzQ</title>
+      <link>https://x.com/tualatrix/status/2044644780291051964</link>
+      <guid isPermaLink="false">2044644780291051964</guid>
+      <pubDate>Thu, 16 Apr 2026 05:11:17 +0000</pubDate>
+      <description><![CDATA[看了篇《Is SwiftUI finally as fast as UIKit in iOS 26?》，结论是：2026 年继续用 UIKit。 https://t.co/AhaZc5igzQ
+
+---
+@tualatrix | ❤️ 6 | 🔁 0 | 💬 2 | 👁 878]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>always a real feeling of magic to ask codex to perform a task that requires finding information scat...</title>
+      <link>https://x.com/gdb/status/2044643518891909289</link>
+      <guid isPermaLink="false">2044643518891909289</guid>
+      <pubDate>Thu, 16 Apr 2026 05:06:17 +0000</pubDate>
+      <description><![CDATA[always a real feeling of magic to ask codex to perform a task that requires finding information scattered across slack, google docs, notion, and various internal tools, and it just figures it out
+
+---
+@gdb | ❤️ 216 | 🔁 9 | 💬 40 | 👁 7740]]></description>
+      <author>@gdb</author>
     </item>
   </channel>
 </rss>
