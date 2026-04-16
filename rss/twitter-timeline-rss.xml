@@ -5,124 +5,105 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 21:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:31:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @thsottiaux: Codex just got a lot more powerful.
-
-Computer use, in-app browser, image generation ...</title>
-      <link>https://x.com/steipete/status/2044882457955377186</link>
-      <guid isPermaLink="false">2044882457955377186</guid>
-      <pubDate>Thu, 16 Apr 2026 20:55:44 +0000</pubDate>
-      <description><![CDATA[RT @thsottiaux: Codex just got a lot more powerful.
-
-Computer use, in-app browser, image generation and editing, 90+ new plugins to connect…
+      <title>RT @AriX: This is the first time I've ever seen an LLM operate a GUI as fast as a person, and it's s...</title>
+      <link>https://x.com/steipete/status/2044888650174042569</link>
+      <guid isPermaLink="false">2044888650174042569</guid>
+      <pubDate>Thu, 16 Apr 2026 21:20:21 +0000</pubDate>
+      <description><![CDATA[RT @AriX: This is the first time I've ever seen an LLM operate a GUI as fast as a person, and it's surreal. https://t.co/5kjwGMDpvd
 
 ---
-@steipete | ❤️ 0 | 🔁 256 | 💬 0 | 👁 0]]></description>
+@steipete | ❤️ 0 | 🔁 100 | 💬 0 | 👁 1]]></description>
       <author>@steipete</author>
     </item>
     <item>
-      <title>RT @bhalligan: Really good CEO advice from @rabois packaged nicely by @lennysan.</title>
-      <link>https://x.com/lennysan/status/2044880322295411005</link>
-      <guid isPermaLink="false">2044880322295411005</guid>
-      <pubDate>Thu, 16 Apr 2026 20:47:15 +0000</pubDate>
-      <description><![CDATA[RT @bhalligan: Really good CEO advice from @rabois packaged nicely by @lennysan.
+      <title>RT @lmsysorg: 🎬 Ollama Gemma Day Recap: SGLang at the Ollama Gemma 4 Party in Palo Alto  
+
+🍾 Last ni...</title>
+      <link>https://x.com/ollama/status/2044888202809606588</link>
+      <guid isPermaLink="false">2044888202809606588</guid>
+      <pubDate>Thu, 16 Apr 2026 21:18:34 +0000</pubDate>
+      <description><![CDATA[RT @lmsysorg: 🎬 Ollama Gemma Day Recap: SGLang at the Ollama Gemma 4 Party in Palo Alto  
+
+🍾 Last night, @ollama hosted a packed Gemma Day…
 
 ---
-@lennysan | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@lennysan</author>
+@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@ollama</author>
     </item>
     <item>
-      <title>https://t.co/ogvqyWXsIc</title>
-      <link>https://x.com/levelsio/status/2044880216187711521</link>
-      <guid isPermaLink="false">2044880216187711521</guid>
-      <pubDate>Thu, 16 Apr 2026 20:46:50 +0000</pubDate>
-      <description><![CDATA[https://t.co/ogvqyWXsIc
+      <title>they: OpenClaw is so insecure look at all these GHSAs!
+reality: we are just an indicator of the comi...</title>
+      <link>https://x.com/steipete/status/2044888081141223442</link>
+      <guid isPermaLink="false">2044888081141223442</guid>
+      <pubDate>Thu, 16 Apr 2026 21:18:05 +0000</pubDate>
+      <description><![CDATA[they: OpenClaw is so insecure look at all these GHSAs!
+reality: we are just an indicator of the coming storm
 
 ---
-@levelsio | ❤️ 9 | 🔁 0 | 💬 0 | 👁 2879]]></description>
-      <author>@levelsio</author>
+@steipete | ❤️ 35 | 🔁 1 | 💬 4 | 👁 5196]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>RT @victormustar: who made this 🇫🇷 banger lol (identify yourself) https://t.co/gkfTtdR1w2</title>
-      <link>https://x.com/_akhaliq/status/2044880140405019056</link>
-      <guid isPermaLink="false">2044880140405019056</guid>
-      <pubDate>Thu, 16 Apr 2026 20:46:32 +0000</pubDate>
-      <description><![CDATA[RT @victormustar: who made this 🇫🇷 banger lol (identify yourself) https://t.co/gkfTtdR1w2
+      <title>Codex 现在能做类似 Cowork 的事，还不像 Cowork 那样被沙盒限制，能做的事很多，能力挺强
+https://t.co/E39rwyU2vj</title>
+      <link>https://x.com/dotey/status/2044886304597344672</link>
+      <guid isPermaLink="false">2044886304597344672</guid>
+      <pubDate>Thu, 16 Apr 2026 21:11:01 +0000</pubDate>
+      <description><![CDATA[Codex 现在能做类似 Cowork 的事，还不像 Cowork 那样被沙盒限制，能做的事很多，能力挺强
+https://t.co/E39rwyU2vj
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器
-
-现在，你可以直接在代码编辑器里浏览任何网页。只需简单点点鼠标，就能快速和你的 AI Agent 进行迭代。
-
-Codex 会自...</title>
-      <link>https://x.com/dotey/status/2044879703698526617</link>
-      <guid isPermaLink="false">2044879703698526617</guid>
-      <pubDate>Thu, 16 Apr 2026 20:44:48 +0000</pubDate>
-      <description><![CDATA[Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器
-
-现在，你可以直接在代码编辑器里浏览任何网页。只需简单点点鼠标，就能快速和你的 AI Agent 进行迭代。
-
-Codex 会自动帮你搞定所有繁琐的步骤：它能瞬间截取网页屏幕，精准抓取 DOM 元素（DOM element），然后把这些信息作为最精准的上下文，直接无缝投喂到你接下来的对话窗口中。
-
-这功能我印象中最早是 v0 上有的，没想到 codex 现在也支持了。
-
----
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 450]]></description>
+@dotey | ❤️ 1 | 🔁 0 | 💬 2 | 👁 655]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Introducing the Nous Portal Tool Gateway, one login to access over 400 LLMs and power all core tools...</title>
-      <link>https://x.com/Teknium/status/2044879261564375326</link>
-      <guid isPermaLink="false">2044879261564375326</guid>
-      <pubDate>Thu, 16 Apr 2026 20:43:02 +0000</pubDate>
-      <description><![CDATA[Introducing the Nous Portal Tool Gateway, one login to access over 400 LLMs and power all core tools in Hermes Agent.
+      <title>🧑‍🚀 Day 14 of the @cursor_ai #vibejam
 
-Check it out below!
+Proudly sponsored by @cursor_ai + @boltdotnew + @heyglif + @t...</title>
+      <link>https://x.com/levelsio/status/2044886250289598965</link>
+      <guid isPermaLink="false">2044886250289598965</guid>
+      <pubDate>Thu, 16 Apr 2026 21:10:48 +0000</pubDate>
+      <description><![CDATA[🧑‍🚀 Day 14 of the @cursor_ai #vibejam
+
+Proudly sponsored by @cursor_ai + @boltdotnew + @heyglif + @tripoai
+
+Prizes to win (submit your vibe coded game before May 1!)
+🏆 $25,000
+🥈 $10,000
+🥉 $5,000
+
+Damn I'm not saying to pump but today I felt the games are finally getting good and starting to feel like real games! I guess you need 2 weeks to really get going:
+
+🛵 Capybara Delivery Driver by @leocooout (this one is insane, and there's more videos of this one his profile where the Capybara enters the mini mart, it's crazy!)
+🤺 Floppy Brawler by @itsmattcollison 
+🏂 Snowboard Sim @alex2481kobe 
+🚗 Rocket Bumpers by @itsolodavid 
+
+YOU HAVE 15 DAYS LEFT!
+
+Reply in this thread with updates on your current games to share your progress, and add tag #vibejam so I see and can include you in the daily tweet
+
+There's now $40,000 in prizes for you to win, see threads below for more info. The Gold prize is $25,000, bronze is $10,000 and silver is $5,000!
+
+Wanna to participate? You can still start now and submit your game any time before May 1!
 
 ---
-@Teknium | ❤️ 26 | 🔁 0 | 💬 7 | 👁 1250]]></description>
-      <author>@Teknium</author>
+@levelsio | ❤️ 17 | 🔁 3 | 💬 8 | 👁 4176]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>@NousResearch EZ setup mode: activated!</title>
-      <link>https://x.com/Teknium/status/2044878510972620961</link>
-      <guid isPermaLink="false">2044878510972620961</guid>
-      <pubDate>Thu, 16 Apr 2026 20:40:03 +0000</pubDate>
-      <description><![CDATA[@NousResearch EZ setup mode: activated!
+      <title>🫶🪽</title>
+      <link>https://x.com/Teknium/status/2044885800534548607</link>
+      <guid isPermaLink="false">2044885800534548607</guid>
+      <pubDate>Thu, 16 Apr 2026 21:09:01 +0000</pubDate>
+      <description><![CDATA[🫶🪽
 
 ---
-@Teknium | ❤️ 13 | 🔁 0 | 💬 0 | 👁 494]]></description>
+@Teknium | ❤️ 8 | 🔁 0 | 💬 0 | 👁 711]]></description>
       <author>@Teknium</author>
-    </item>
-    <item>
-      <title>Tool Gateway is now live in Nous Portal.
-
-No separate accounts, no API key juggling. All you need is...</title>
-      <link>https://x.com/NousResearch/status/2044878344592699744</link>
-      <guid isPermaLink="false">2044878344592699744</guid>
-      <pubDate>Thu, 16 Apr 2026 20:39:24 +0000</pubDate>
-      <description><![CDATA[Tool Gateway is now live in Nous Portal.
-
-No separate accounts, no API key juggling. All you need is one subscription, and everything works.
-
-A paid Nous Portal subscription now includes access to 300+ models and a growing set of third-party tools.
-
-Launching with:
-→ Web scraping
-→ Browser automation
-→ Image generation
-→ Cloud terminal backend
-→ Text-to-speech
-
----
-@NousResearch | ❤️ 173 | 🔁 23 | 💬 30 | 👁 6899]]></description>
-      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
