@@ -5,173 +5,113 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:31:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>官方发布的 Claude Opus 4.7 与 Claude Code 搭配使用时的最佳实践，尤其是在高效使用和优化表现上的建议。
+      <title>There are now more anti-White and anti-Asian laws in South Africa than anti-Black laws under Aparthe...</title>
+      <link>https://x.com/elonmusk/status/2044845530363428927</link>
+      <guid isPermaLink="false">2044845530363428927</guid>
+      <pubDate>Thu, 16 Apr 2026 18:29:00 +0000</pubDate>
+      <description><![CDATA[There are now more anti-White and anti-Asian laws in South Africa than anti-Black laws under Apartheid.
 
-Claude Opus 4.7 模型正式发布，它在代码开发、企业流...</title>
-      <link>https://x.com/dotey/status/2044838342508838938</link>
-      <guid isPermaLink="false">2044838342508838938</guid>
-      <pubDate>Thu, 16 Apr 2026 18:00:26 +0000</pubDate>
-      <description><![CDATA[官方发布的 Claude Opus 4.7 与 Claude Code 搭配使用时的最佳实践，尤其是在高效使用和优化表现上的建议。
-
-Claude Opus 4.7 模型正式发布，它在代码开发、企业流程处理和长时任务方面的能力明显升级。尤其在处理模糊需求时表现更聪明，找 bug 和代码审查能力提升不少，还更善于跨会话维持上下文。
-
-不过，升级版模型并非直接替换旧版就能立刻发挥最佳效果，需要做一些微调才能最大化发挥它的优势。这里简单讲几个关键的用法调整，让你用得更顺手：
-
-首先，要用好 Opus 4.7，一个原则是“别把它当作初级程序员，而当作资深工程师”：
-
-明确的任务描述：任务一开始就把目标、约束、验收标准讲清楚。避免逐渐提供模糊的需求，这样容易浪费 token，效果反而下降。
-
-减少中途交互：每次交互都会增加模型的“思考负担”，尽量一次性批量给足上下文，让它能够自助完成任务。
-
-善用 Auto 模式：对一些你信任模型可以安全独立完成的任务，直接使用“自动模式”，极大减少了人为交互次数，特别适合提前明确完整上下文的长期任务。
-
-接下来是 Effort（努力等级）的调整建议：
-
-新版默认的 Effort 等级是 xhigh，介于 high 和 max 之间，推荐用这个等级进行大部分代码开发、API 设计、代码迁移和代码审查工作。
-
-其他等级的用法：
-- medium 和 low：预算敏感或对实时性要求高的简单任务。
-- high：智能与成本间的平衡，适合并发任务较多的场景。
-- xhigh（默认推荐）：适合绝大部分智能敏感任务，高效且智能。
-- max：真正难的任务或极致智能需求时使用，但会带来边际收益递减问题，容易过度“思考”。
-
-另外，Claude Opus 4.7 还采用了自适应思考机制（adaptive thinking）：
-
-模型会自己决定什么时候花更多时间深度推理，什么时候快速响应，避免了之前固定思考量带来的低效问题。你还可以通过提示词告诉模型“多想一点”或“快速回答”，来主动调控它的表现。
-
-最后，还有几个值得注意的行为变化：
-
-- 回答长度会自动适应任务复杂程度，简单任务的答案变得更短，复杂任务则更详细。如果你希望特定风格，最好直接用正面例子说明。
-
-- 模型更倾向于深度推理，而不是频繁调用工具。如果你希望模型更多用工具（例如读取文件或搜索），需明确指出。
-
-- 默认不会频繁生成子智能体（SubAgent）。如任务适合并发分支执行，请直接指出具体什么时候需要生成子智能体。
-
-整体来看，Opus 4.7 让长期任务、复杂多文件任务和模糊需求处理都变得更高效、更智能，升级后的默认 xhigh 等级是最适合的配置，建议优先尝试。
+Racism is wrong no matter who it is against.
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 39]]></description>
-      <author>@dotey</author>
+@elonmusk | ❤️ 568 | 🔁 122 | 💬 165 | 👁 33208]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @BinanceAcademy: Heard about AI agents but not sure where or how to get started?
-
-Our new course,...</title>
-      <link>https://x.com/binance/status/2044838265094635591</link>
-      <guid isPermaLink="false">2044838265094635591</guid>
-      <pubDate>Thu, 16 Apr 2026 18:00:08 +0000</pubDate>
-      <description><![CDATA[RT @BinanceAcademy: Heard about AI agents but not sure where or how to get started?
-
-Our new course, AI Unlocked: Agents and Skills, is her…
+      <title>RT @cb_doge: 81% of Grade 4 children in South Africa (that’s 914,000 kids out of 1.1 million) cannot...</title>
+      <link>https://x.com/elonmusk/status/2044845028984721601</link>
+      <guid isPermaLink="false">2044845028984721601</guid>
+      <pubDate>Thu, 16 Apr 2026 18:27:00 +0000</pubDate>
+      <description><![CDATA[RT @cb_doge: 81% of Grade 4 children in South Africa (that’s 914,000 kids out of 1.1 million) cannot read for MEANING in ANY of South Afric…
 
 ---
-@binance | ❤️ 0 | 🔁 32 | 💬 0 | 👁 0]]></description>
-      <author>@binance</author>
+@elonmusk | ❤️ 0 | 🔁 158 | 💬 0 | 👁 4]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>为什么第二阶段不需要联网搜索的补充回复
-https://t.co/0BbP3BRHEo</title>
-      <link>https://x.com/dotey/status/2044837148956713124</link>
-      <guid isPermaLink="false">2044837148956713124</guid>
-      <pubDate>Thu, 16 Apr 2026 17:55:42 +0000</pubDate>
-      <description><![CDATA[为什么第二阶段不需要联网搜索的补充回复
-https://t.co/0BbP3BRHEo
+      <title>Support Marty, he’s a cool dude</title>
+      <link>https://x.com/elonmusk/status/2044844799115825350</link>
+      <guid isPermaLink="false">2044844799115825350</guid>
+      <pubDate>Thu, 16 Apr 2026 18:26:06 +0000</pubDate>
+      <description><![CDATA[Support Marty, he’s a cool dude
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 166]]></description>
-      <author>@dotey</author>
+@elonmusk | ❤️ 2024 | 🔁 351 | 💬 356 | 👁 109619]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @rmstein: Today we shipped a new Search experience in @googlechrome to help you explore the web w...</title>
-      <link>https://x.com/Google/status/2044835790878843279</link>
-      <guid isPermaLink="false">2044835790878843279</guid>
-      <pubDate>Thu, 16 Apr 2026 17:50:18 +0000</pubDate>
-      <description><![CDATA[RT @rmstein: Today we shipped a new Search experience in @googlechrome to help you explore the web without constant back and forth between…
+      <title>MERRIN
+
+A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments
+
+paper...</title>
+      <link>https://x.com/_akhaliq/status/2044843984661483568</link>
+      <guid isPermaLink="false">2044843984661483568</guid>
+      <pubDate>Thu, 16 Apr 2026 18:22:51 +0000</pubDate>
+      <description><![CDATA[MERRIN
+
+A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments
+
+paper: https://t.co/UZpJdGxIxY https://t.co/ZmRa2TcuAu
 
 ---
-@Google | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
+@_akhaliq | ❤️ 6 | 🔁 0 | 💬 2 | 👁 492]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>Here's Qwen 3.6-35B-A3B v.s. Claude Opus 4.7 for &quot;Generate an SVG of a flamingo riding a unicyc...</title>
-      <link>https://x.com/simonw/status/2044833929547727282</link>
-      <guid isPermaLink="false">2044833929547727282</guid>
-      <pubDate>Thu, 16 Apr 2026 17:42:54 +0000</pubDate>
-      <description><![CDATA[Here's Qwen 3.6-35B-A3B v.s. Claude Opus 4.7 for &quot;Generate an SVG of a flamingo riding a unicycle&quot;, in case you thought Qwen might be cheating at the pelican benchmark https://t.co/OnwhXg3Q2N
+      <title>就喜欢 OpenAI 这种被追着屁股打不断更新产品的节奏！</title>
+      <link>https://x.com/turingou/status/2044843110367428881</link>
+      <guid isPermaLink="false">2044843110367428881</guid>
+      <pubDate>Thu, 16 Apr 2026 18:19:23 +0000</pubDate>
+      <description><![CDATA[就喜欢 OpenAI 这种被追着屁股打不断更新产品的节奏！
 
 ---
-@simonw | ❤️ 21 | 🔁 2 | 💬 1 | 👁 2413]]></description>
-      <author>@simonw</author>
+@turingou | ❤️ 3 | 🔁 0 | 💬 0 | 👁 723]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>I've got a lot to say here! I'll post a guide on how to prompt with Opus 4.7 as well as talk about a...</title>
-      <link>https://x.com/trq212/status/2044833569261092989</link>
-      <guid isPermaLink="false">2044833569261092989</guid>
-      <pubDate>Thu, 16 Apr 2026 17:41:28 +0000</pubDate>
-      <description><![CDATA[I've got a lot to say here! I'll post a guide on how to prompt with Opus 4.7 as well as talk about a personal project I've been working on using it.
-
-I hope you enjoy working with Opus 4.7 and getting a feel for it.
+      <title>Starship V3 booster &amp;amp; ship will be ready for their first test flight in a few weeks</title>
+      <link>https://x.com/elonmusk/status/2044841722556063843</link>
+      <guid isPermaLink="false">2044841722556063843</guid>
+      <pubDate>Thu, 16 Apr 2026 18:13:52 +0000</pubDate>
+      <description><![CDATA[Starship V3 booster &amp;amp; ship will be ready for their first test flight in a few weeks
 
 ---
-@trq212 | ❤️ 120 | 🔁 1 | 💬 10 | 👁 3178]]></description>
-      <author>@trq212</author>
+@elonmusk | ❤️ 7394 | 🔁 879 | 💬 988 | 👁 431448]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>I love to explore solutions with it so I often ask it to brainstorm with me, then choose an option a...</title>
-      <link>https://x.com/trq212/status/2044833567998705865</link>
-      <guid isPermaLink="false">2044833567998705865</guid>
-      <pubDate>Thu, 16 Apr 2026 17:41:28 +0000</pubDate>
-      <description><![CDATA[I love to explore solutions with it so I often ask it to brainstorm with me, then choose an option and rewind to implement it.
+      <title>So I built this situation monitor dashboard of all my projects and it has this AI insights robot tha...</title>
+      <link>https://x.com/levelsio/status/2044841237820088559</link>
+      <guid isPermaLink="false">2044841237820088559</guid>
+      <pubDate>Thu, 16 Apr 2026 18:11:57 +0000</pubDate>
+      <description><![CDATA[So I built this situation monitor dashboard of all my projects and it has this AI insights robot that analyzes my business and told me this:
 
-When I'm ready, I ask it to interview me to figure out what’s in my head and then write a spec.
+&quot;Cloudflare ($2,653/mo) has not been reviewed in &gt;1 year despite powering stable 2.9M remoteok pageviews — negotiate volume discount or move static assets to cheaper CDN.&quot;
 
-When implementing, auto mode lets it run.
+Didn't make complete sense but did tell me the bill got too high to be accurate! for just R2 storage that I use Cloudflare for a lot!
 
 ---
-@trq212 | ❤️ 101 | 🔁 5 | 💬 11 | 👁 4436]]></description>
-      <author>@trq212</author>
+@levelsio | ❤️ 23 | 🔁 0 | 💬 5 | 👁 5308]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>Opus 4.7 is a model I’ve loved working with in Claude Code.
+      <title>Cloudflare refunded everything!
 
-It’s more agentic and instruction follo...</title>
-      <link>https://x.com/trq212/status/2044833566471970926</link>
-      <guid isPermaLink="false">2044833566471970926</guid>
-      <pubDate>Thu, 16 Apr 2026 17:41:28 +0000</pubDate>
-      <description><![CDATA[Opus 4.7 is a model I’ve loved working with in Claude Code.
+Amazing company and fast service ❤️</title>
+      <link>https://x.com/levelsio/status/2044839622358794438</link>
+      <guid isPermaLink="false">2044839622358794438</guid>
+      <pubDate>Thu, 16 Apr 2026 18:05:31 +0000</pubDate>
+      <description><![CDATA[Cloudflare refunded everything!
 
-It’s more agentic and instruction following but also incredibly smart and creative. I think it takes a slight adjustment to get used to, but it's so good with auto mode.
-
----
-@trq212 | ❤️ 170 | 🔁 4 | 💬 31 | 👁 9743]]></description>
-      <author>@trq212</author>
-    </item>
-    <item>
-      <title>These updates to AI Mode in Chrome are now available in the U.S., and we’ll expand soon to more plac...</title>
-      <link>https://x.com/Google/status/2044832733810041285</link>
-      <guid isPermaLink="false">2044832733810041285</guid>
-      <pubDate>Thu, 16 Apr 2026 17:38:09 +0000</pubDate>
-      <description><![CDATA[These updates to AI Mode in Chrome are now available in the U.S., and we’ll expand soon to more places around the world.  Learn more ↓ https://t.co/JEkKMGKeqF
+Amazing company and fast service ❤️
 
 ---
-@Google | ❤️ 17 | 🔁 3 | 💬 1 | 👁 6979]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>We’re introducing a new Search experience in @GoogleChrome that lets you open webpages side-by-side ...</title>
-      <link>https://x.com/Google/status/2044832732274901489</link>
-      <guid isPermaLink="false">2044832732274901489</guid>
-      <pubDate>Thu, 16 Apr 2026 17:38:09 +0000</pubDate>
-      <description><![CDATA[We’re introducing a new Search experience in @GoogleChrome that lets you open webpages side-by-side with AI Mode – no tab switching required.
-
-Now, you’ll be able to compare details and ask follow-up questions while still maintaining the context of your search, whether you’re shopping for a new coffee maker or studying for a statistics midterm.
-
----
-@Google | ❤️ 118 | 🔁 19 | 💬 14 | 👁 9640]]></description>
-      <author>@Google</author>
+@levelsio | ❤️ 156 | 🔁 2 | 💬 20 | 👁 11624]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
