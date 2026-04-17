@@ -5,293 +5,155 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 21:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:01:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @BinanceResearch: Capital flowing into AI is unprecedented: in Q1 2026, AI drew US$242B, or ~80% ...</title>
-      <link>https://x.com/binance/status/2045253550536573053</link>
-      <guid isPermaLink="false">2045253550536573053</guid>
-      <pubDate>Fri, 17 Apr 2026 21:30:20 +0000</pubDate>
-      <description><![CDATA[RT @BinanceResearch: Capital flowing into AI is unprecedented: in Q1 2026, AI drew US$242B, or ~80% of global VC funding. Crypto is moving…
+      <title>发现身边第二位朋友把自己的一切决策都交给了 Agent
+他说他自从开始让他的 Agent 荐股，不到三个月已经获得了 50% 的收益率
+这正反馈太强了</title>
+      <link>https://x.com/oran_ge/status/2045260146180506017</link>
+      <guid isPermaLink="false">2045260146180506017</guid>
+      <pubDate>Fri, 17 Apr 2026 21:56:32 +0000</pubDate>
+      <description><![CDATA[发现身边第二位朋友把自己的一切决策都交给了 Agent
+他说他自从开始让他的 Agent 荐股，不到三个月已经获得了 50% 的收益率
+这正反馈太强了
 
 ---
-@binance | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@binance</author>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 73]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>@alexalbert__ @claudeai Great to chat sir!</title>
-      <link>https://x.com/danshipper/status/2045253286161154397</link>
-      <guid isPermaLink="false">2045253286161154397</guid>
-      <pubDate>Fri, 17 Apr 2026 21:29:17 +0000</pubDate>
-      <description><![CDATA[@alexalbert__ @claudeai Great to chat sir!
+      <title>大模型的本质就是炼化一切数据
+一切能产生数据的东西，都在模型的主航道上
+区别只是时间，你还有多久会被吃掉
+
+但模型需要触点去接触数据
+你其实只有两个选择
+要么成为螳螂，要么成为触点</title>
+      <link>https://x.com/oran_ge/status/2045259070207390128</link>
+      <guid isPermaLink="false">2045259070207390128</guid>
+      <pubDate>Fri, 17 Apr 2026 21:52:16 +0000</pubDate>
+      <description><![CDATA[大模型的本质就是炼化一切数据
+一切能产生数据的东西，都在模型的主航道上
+区别只是时间，你还有多久会被吃掉
+
+但模型需要触点去接触数据
+你其实只有两个选择
+要么成为螳螂，要么成为触点
 
 ---
-@danshipper | ❤️ 0 | 🔁 0 | 💬 0 | 👁 22]]></description>
-      <author>@danshipper</author>
+@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 115]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>New: Lennybot now lives natively within my Substack.
-
-Trained on all of my ~350 newsletter posts and...</title>
-      <link>https://x.com/lennysan/status/2045252994179252612</link>
-      <guid isPermaLink="false">2045252994179252612</guid>
-      <pubDate>Fri, 17 Apr 2026 21:28:07 +0000</pubDate>
-      <description><![CDATA[New: Lennybot now lives natively within my Substack.
-
-Trained on all of my ~350 newsletter posts and ~300 podcast interviews.
-
-Check it out, ask it a question: https://t.co/3DzeiuQpl6
-
-You can also text or call him anytime: +1 (877) 537-9455 https://t.co/DT4mtt7gtH
-
----
-@lennysan | ❤️ 3 | 🔁 0 | 💬 2 | 👁 139]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>Spotted in NYC. 
-
-I need 10 of these shirts. https://t.co/5etFYlRoTV</title>
-      <link>https://x.com/alliekmiller/status/2045252492967965078</link>
-      <guid isPermaLink="false">2045252492967965078</guid>
-      <pubDate>Fri, 17 Apr 2026 21:26:07 +0000</pubDate>
-      <description><![CDATA[Spotted in NYC. 
-
-I need 10 of these shirts. https://t.co/5etFYlRoTV
-
----
-@alliekmiller | ❤️ 2 | 🔁 0 | 💬 0 | 👁 133]]></description>
-      <author>@alliekmiller</author>
-    </item>
-    <item>
-      <title>@danshipper @claudeai thanks for having me on!</title>
-      <link>https://x.com/alexalbert__/status/2045251454202777693</link>
-      <guid isPermaLink="false">2045251454202777693</guid>
-      <pubDate>Fri, 17 Apr 2026 21:22:00 +0000</pubDate>
-      <description><![CDATA[@danshipper @claudeai thanks for having me on!
-
----
-@alexalbert__ | ❤️ 1 | 🔁 0 | 💬 1 | 👁 312]]></description>
-      <author>@alexalbert__</author>
-    </item>
-    <item>
-      <title>Here's a fun small one. Box now supports markdown file creation and editing on the web. Create markd...</title>
-      <link>https://x.com/levie/status/2045251442353885194</link>
-      <guid isPermaLink="false">2045251442353885194</guid>
-      <pubDate>Fri, 17 Apr 2026 21:21:57 +0000</pubDate>
-      <description><![CDATA[Here's a fun small one. Box now supports markdown file creation and editing on the web. Create markdown files in your browser, give an agent access to Box via MCP or CLI and boom. Available to all users, free or paid. https://t.co/6gglSH9fsU
-
----
-@levie | ❤️ 3 | 🔁 0 | 💬 0 | 👁 1300]]></description>
-      <author>@levie</author>
-    </item>
-    <item>
-      <title>RT @jasonlk: It's time to learn to Build it.  Ship it.  Vibe it.  Get it into production.  For real....</title>
-      <link>https://x.com/amasad/status/2045251110076846585</link>
-      <guid isPermaLink="false">2045251110076846585</guid>
-      <pubDate>Fri, 17 Apr 2026 21:20:38 +0000</pubDate>
-      <description><![CDATA[RT @jasonlk: It's time to learn to Build it.  Ship it.  Vibe it.  Get it into production.  For real.  We'll make you an agentic expert.
-
-To…
-
----
-@amasad | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>Reconfigurable Variable Topology Truss #Robot Walks and Rolls in Pyramid Formation
-by @IntEngineerin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045250983832285340</link>
-      <guid isPermaLink="false">2045250983832285340</guid>
-      <pubDate>Fri, 17 Apr 2026 21:20:08 +0000</pubDate>
-      <description><![CDATA[Reconfigurable Variable Topology Truss #Robot Walks and Rolls in Pyramid Formation
-by @IntEngineering
+      <title>Revolutionizing #Robotics: Four-Manipulator Wheeled Humanoid for Complex Tasks
+via @ZappyZappy7
   
-#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/SkRXa7EucX
+#...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045258540030304680</link>
+      <guid isPermaLink="false">2045258540030304680</guid>
+      <pubDate>Fri, 17 Apr 2026 21:50:09 +0000</pubDate>
+      <description><![CDATA[Revolutionizing #Robotics: Four-Manipulator Wheeled Humanoid for Complex Tasks
+via @ZappyZappy7
+  
+#AI #Robots #EmergingTech #Innovation #Technology https://t.co/UwutpmmTFE
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 74]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 85]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @JeanHatchet: Hormuz might have been opened by Iran today but they still plan to execute the firs...</title>
-      <link>https://x.com/DeepLearn007/status/2045250860561682661</link>
-      <guid isPermaLink="false">2045250860561682661</guid>
-      <pubDate>Fri, 17 Apr 2026 21:19:38 +0000</pubDate>
-      <description><![CDATA[RT @JeanHatchet: Hormuz might have been opened by Iran today but they still plan to execute the first woman as part of the anti-regime prot…
+      <title>Claude Design 发布了
+我们进入了设计的新时代
+Figma 看起来如此落伍，没有未来了
+Canva 却说他们很开心和 Claude 合作 🤔
+https://t.co/1Nsnl89OW2</title>
+      <link>https://x.com/oran_ge/status/2045257623021490379</link>
+      <guid isPermaLink="false">2045257623021490379</guid>
+      <pubDate>Fri, 17 Apr 2026 21:46:31 +0000</pubDate>
+      <description><![CDATA[Claude Design 发布了
+我们进入了设计的新时代
+Figma 看起来如此落伍，没有未来了
+Canva 却说他们很开心和 Claude 合作 🤔
+https://t.co/1Nsnl89OW2
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 119 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@oran_ge | ❤️ 1 | 🔁 1 | 💬 1 | 👁 281]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>RT @TheIranWatcher: 🚨 An 18-year-old Iranian girl has been sentenced to death and may be raped befor...</title>
-      <link>https://x.com/DeepLearn007/status/2045250805293260940</link>
-      <guid isPermaLink="false">2045250805293260940</guid>
-      <pubDate>Fri, 17 Apr 2026 21:19:25 +0000</pubDate>
-      <description><![CDATA[RT @TheIranWatcher: 🚨 An 18-year-old Iranian girl has been sentenced to death and may be raped before execution.
+      <title>RT @GitTrend0x: Hermes 一丢 Agent，全网程序员集体进化了！
 
-The revolutionary court h…
+Nous Research 扔出 hermes-agent（90k+ stars），核心就一个词：自我进化。它...</title>
+      <link>https://x.com/Teknium/status/2045255769864765595</link>
+      <guid isPermaLink="false">2045255769864765595</guid>
+      <pubDate>Fri, 17 Apr 2026 21:39:09 +0000</pubDate>
+      <description><![CDATA[RT @GitTrend0x: Hermes 一丢 Agent，全网程序员集体进化了！
+
+Nous Research 扔出 hermes-agent（90k+ stars），核心就一个词：自我进化。它不是玩具，而是带持久记忆、自动提炼技能、跨会话成长的底层骨架。
+
+结果？社区直…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 317 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@Teknium | ❤️ 0 | 🔁 47 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @DavidJHarrisJr: 🚨RAPED BEFORE EXECUTION: That's the destiny reserved for Niloufar Esfahani.
-
-She...</title>
-      <link>https://x.com/DeepLearn007/status/2045250771508142219</link>
-      <guid isPermaLink="false">2045250771508142219</guid>
-      <pubDate>Fri, 17 Apr 2026 21:19:17 +0000</pubDate>
-      <description><![CDATA[RT @DavidJHarrisJr: 🚨RAPED BEFORE EXECUTION: That's the destiny reserved for Niloufar Esfahani.
-
-She is only 18 years old and comes from Qa…
+      <title>Very interesting!</title>
+      <link>https://x.com/Teknium/status/2045255739112128931</link>
+      <guid isPermaLink="false">2045255739112128931</guid>
+      <pubDate>Fri, 17 Apr 2026 21:39:01 +0000</pubDate>
+      <description><![CDATA[Very interesting!
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 259 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@Teknium | ❤️ 17 | 🔁 0 | 💬 0 | 👁 1150]]></description>
+      <author>@Teknium</author>
     </item>
     <item>
-      <title>RT @gghamari: Where's the outrage from the left?
+      <title>RT @sarahli: just dropped my first video in a 5 part series where we build a full travel planner app...</title>
+      <link>https://x.com/amasad/status/2045254904466575361</link>
+      <guid isPermaLink="false">2045254904466575361</guid>
+      <pubDate>Fri, 17 Apr 2026 21:35:42 +0000</pubDate>
+      <description><![CDATA[RT @sarahli: just dropped my first video in a 5 part series where we build a full travel planner app on Replit and i am so excited 🌍✈️
 
-Where's the outrage from the &quot;No war with Ira...</title>
-      <link>https://x.com/DeepLearn007/status/2045250744136171850</link>
-      <guid isPermaLink="false">2045250744136171850</guid>
-      <pubDate>Fri, 17 Apr 2026 21:19:10 +0000</pubDate>
-      <description><![CDATA[RT @gghamari: Where's the outrage from the left?
-
-Where's the outrage from the &quot;No war with Iran&quot; people?
-
-Shame on everyone who has been u…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 1257 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Thrilled to have backed @nicbstme and the @fintoolx team as an angel. 
-
-Fintool was a magical produc...</title>
-      <link>https://x.com/nikunj/status/2045250489189908534</link>
-      <guid isPermaLink="false">2045250489189908534</guid>
-      <pubDate>Fri, 17 Apr 2026 21:18:10 +0000</pubDate>
-      <description><![CDATA[Thrilled to have backed @nicbstme and the @fintoolx team as an angel. 
-
-Fintool was a magical product that was able to do a lot of the heavy reasoning tasks before the models even existed. 
-
-Microsoft is getting an absolutely phenomenal product team 🎊
-
----
-@nikunj | ❤️ 3 | 🔁 0 | 💬 0 | 👁 437]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>RT @balajis: If you’re in the Singapore/Malaysia area, we have a Replit Agent 4 hackathon tomorrow a...</title>
-      <link>https://x.com/amasad/status/2045250266753368367</link>
-      <guid isPermaLink="false">2045250266753368367</guid>
-      <pubDate>Fri, 17 Apr 2026 21:17:17 +0000</pubDate>
-      <description><![CDATA[RT @balajis: If you’re in the Singapore/Malaysia area, we have a Replit Agent 4 hackathon tomorrow at Network School.
-
-There will be a tuto…
+as…
 
 ---
 @amasad | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
       <author>@amasad</author>
     </item>
     <item>
-      <title>RT @satyanadella: Our Fairwater datacenter in Wisconsin is going live, ahead of schedule.
-
-As the wo...</title>
-      <link>https://x.com/nvidia/status/2045249846643429571</link>
-      <guid isPermaLink="false">2045249846643429571</guid>
-      <pubDate>Fri, 17 Apr 2026 21:15:37 +0000</pubDate>
-      <description><![CDATA[RT @satyanadella: Our Fairwater datacenter in Wisconsin is going live, ahead of schedule.
-
-As the world’s most powerful AI datacenter, it w…
+      <title>RT @krassenstein: Trump is reportedly negotiating a deal which would stop Iran from producing a nucl...</title>
+      <link>https://x.com/ylecun/status/2045254641156276384</link>
+      <guid isPermaLink="false">2045254641156276384</guid>
+      <pubDate>Fri, 17 Apr 2026 21:34:40 +0000</pubDate>
+      <description><![CDATA[RT @krassenstein: Trump is reportedly negotiating a deal which would stop Iran from producing a nuclear weapon in exchange for $20 Billion…
 
 ---
-@nvidia | ❤️ 0 | 🔁 394 | 💬 0 | 👁 2]]></description>
-      <author>@nvidia</author>
+@ylecun | ❤️ 0 | 🔁 8614 | 💬 0 | 👁 1]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>The Claude Code hackathon is back for Opus 4.7.
-
-Join builders from around the world for a week with...</title>
-      <link>https://x.com/claudeai/status/2045248224659644654</link>
-      <guid isPermaLink="false">2045248224659644654</guid>
-      <pubDate>Fri, 17 Apr 2026 21:09:10 +0000</pubDate>
-      <description><![CDATA[The Claude Code hackathon is back for Opus 4.7.
-
-Join builders from around the world for a week with the Claude Code team in the room, with a prize pool of $100K in API credits.
-
-Apply by Sunday: https://t.co/5MCkMtP5ti https://t.co/xmVhEQGtaL
+      <title>nice work @daraladje</title>
+      <link>https://x.com/lennysan/status/2045254232199356596</link>
+      <guid isPermaLink="false">2045254232199356596</guid>
+      <pubDate>Fri, 17 Apr 2026 21:33:02 +0000</pubDate>
+      <description><![CDATA[nice work @daraladje
 
 ---
-@claudeai | ❤️ 1119 | 🔁 86 | 💬 84 | 👁 58070]]></description>
-      <author>@claudeai</author>
+@lennysan | ❤️ 2 | 🔁 0 | 💬 0 | 👁 683]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: #Autonomous UV-C Disinfection #Robot for Safer, Cleaner Hospitals
-via @ZappyZapp...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045246430197973467</link>
-      <guid isPermaLink="false">2045246430197973467</guid>
-      <pubDate>Fri, 17 Apr 2026 21:02:02 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #Autonomous UV-C Disinfection #Robot for Safer, Cleaner Hospitals
-via @ZappyZappy7
-
-#HealthTech #Tech #Technology #Emer…
+      <title>cool new paper on self-improving agents</title>
+      <link>https://x.com/dair_ai/status/2045253872650789322</link>
+      <guid isPermaLink="false">2045253872650789322</guid>
+      <pubDate>Fri, 17 Apr 2026 21:31:36 +0000</pubDate>
+      <description><![CDATA[cool new paper on self-improving agents
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>🔗 https://t.co/kBLdypdce3</title>
-      <link>https://x.com/nvidia/status/2045246303144182202</link>
-      <guid isPermaLink="false">2045246303144182202</guid>
-      <pubDate>Fri, 17 Apr 2026 21:01:32 +0000</pubDate>
-      <description><![CDATA[🔗 https://t.co/kBLdypdce3
-
----
-@nvidia | ❤️ 6 | 🔁 2 | 💬 0 | 👁 5080]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>🎙️ Want a full breakdown on why cost per token is a key metric for AI infrastructure TCO?
-
-We’re ope...</title>
-      <link>https://x.com/nvidia/status/2045246300724113652</link>
-      <guid isPermaLink="false">2045246300724113652</guid>
-      <pubDate>Fri, 17 Apr 2026 21:01:31 +0000</pubDate>
-      <description><![CDATA[🎙️ Want a full breakdown on why cost per token is a key metric for AI infrastructure TCO?
-
-We’re operating in a power-constrained world. Demand for intelligence is scaling faster than infrastructure can keep up—so metrics like cost per GPU hour or FLOPs per dollar don’t tell the full story. 
-
-When it comes to TCO, Cost per Token is the metric that captures end-to-end performance across GPUs, CPUs, networking, software, and ecosystem making it the key driver of real profitability and scalability in AI.
-
-If you’re not measuring efficiency at the token level, you’re missing what actually drives cost.
-
-Watch the deep-dive conversation with Dr. Gerro Prinsloo , Nader Khalil and Carter Abdallah, live on the NVIDIA YouTube channel.
-
----
-@nvidia | ❤️ 14 | 🔁 6 | 💬 2 | 👁 3841]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>Every @claudeai model has a different idea of how much to help.
-
-@alexalbert__ from Anthropic explai...</title>
-      <link>https://x.com/danshipper/status/2045246160202580192</link>
-      <guid isPermaLink="false">2045246160202580192</guid>
-      <pubDate>Fri, 17 Apr 2026 21:00:58 +0000</pubDate>
-      <description><![CDATA[Every @claudeai model has a different idea of how much to help.
-
-@alexalbert__ from Anthropic explains why—and what to expect from Opus 4.7. https://t.co/ByiHOdJZf1
-
----
-@danshipper | ❤️ 10 | 🔁 0 | 💬 2 | 👁 1209]]></description>
-      <author>@danshipper</author>
+@dair_ai | ❤️ 6 | 🔁 0 | 💬 0 | 👁 685]]></description>
+      <author>@dair_ai</author>
     </item>
   </channel>
 </rss>
