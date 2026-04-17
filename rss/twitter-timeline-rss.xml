@@ -5,6 +5,118 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:00:47 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>sh*tpoast on X, the everything app, all day</title>
+      <link>https://x.com/tunguz/status/2045139689363984756</link>
+      <guid isPermaLink="false">2045139689363984756</guid>
+      <pubDate>Fri, 17 Apr 2026 13:57:53 +0000</pubDate>
+      <description><![CDATA[sh*tpoast on X, the everything app, all day
+
+---
+@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 166]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>// Skill Learning for Autonomous Web Agents //
+
+Web agents can navigate a page, but ask them to repe...</title>
+      <link>https://x.com/dair_ai/status/2045139481892880892</link>
+      <guid isPermaLink="false">2045139481892880892</guid>
+      <pubDate>Fri, 17 Apr 2026 13:57:03 +0000</pubDate>
+      <description><![CDATA[// Skill Learning for Autonomous Web Agents //
+
+Web agents can navigate a page, but ask them to repeat a checkout flow they already completed, and they start from scratch every time.
+
+This work introduces WebXSkill, a skill learning framework where web agents extract reusable skills from synthetic trajectories.
+
+Each skill pairs a parameterized action program with step-level natural language guidance, making it both executable by the runtime and interpretable by the agent.
+
+Two deployment modes let the agent either auto-execute skills as atomic tool calls (grounded mode) or follow them as step-by-step instructions while retaining autonomy to adapt (guided mode).
+
+Results:
+
+- On WebArena, WebXSkill improves task success rate by up to 9.8 points over baselines (69.5% vs 59.7%).
+
+- On WebVoyager, grounded mode reaches 86.1%, a 14.2-point gain over vanilla agents. Skills even transfer across environments: guided mode using only WebArena-extracted skills scores 85.1% on WebVoyager.
+
+Stronger models benefit more from grounded execution, while weaker models gain more from guided mode, suggesting the deployment strategy should match model capability.
+
+Paper: https://t.co/KAMYMLXywg
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+
+---
+@dair_ai | ❤️ 2 | 🔁 0 | 💬 0 | 👁 117]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>Agents are going to use software 100X more than people will in the future. As a result, enterprise p...</title>
+      <link>https://x.com/levie/status/2045137708620906573</link>
+      <guid isPermaLink="false">2045137708620906573</guid>
+      <pubDate>Fri, 17 Apr 2026 13:50:01 +0000</pubDate>
+      <description><![CDATA[Agents are going to use software 100X more than people will in the future. As a result, enterprise platforms will become headless and be able to work with any agent on or off platform. If you don’t do that you’re DOA.
+
+What some have missed is that this creates vastly more use-cases for these platforms than even existed pre-AI. This isn’t zero sum. Software value props have traditionally been capped at the number of users you have in a company. Agents have no upper limit. 
+
+We’re going to run agents to process data at a scale humans never could, they’re going to be running 24/7 in parallel doing work for us, and they can integrate workflows across systems to generate all new value propositions.
+
+Once you embrace this approach, it becomes obvious how much more upside there is.
+
+---
+@levie | ❤️ 25 | 🔁 4 | 💬 4 | 👁 2550]]></description>
+      <author>@levie</author>
+    </item>
+    <item>
+      <title>What 2026 is about to demand from every organization
+by @Khulood_Almani
+
+#AI #Robotics #EmergingTech...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045136480704639117</link>
+      <guid isPermaLink="false">2045136480704639117</guid>
+      <pubDate>Fri, 17 Apr 2026 13:45:08 +0000</pubDate>
+      <description><![CDATA[What 2026 is about to demand from every organization
+by @Khulood_Almani
+
+#AI #Robotics #EmergingTech #Innovation #Technology https://t.co/cXTfea2Mpa
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 113]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Read my full observations in my latest article, “The Big Thing: We Are In A World War That Isn’t Goi...</title>
+      <link>https://x.com/RayDalio/status/2045135342970323146</link>
+      <guid isPermaLink="false">2045135342970323146</guid>
+      <pubDate>Fri, 17 Apr 2026 13:40:37 +0000</pubDate>
+      <description><![CDATA[Read my full observations in my latest article, “The Big Thing: We Are In A World War That Isn’t Going To End Anytime Soon,” here: https://t.co/wql78c2J8j
+
+---
+@RayDalio | ❤️ 19 | 🔁 5 | 💬 1 | 👁 12815]]></description>
+      <author>@RayDalio</author>
+    </item>
+    <item>
+      <title>As we look at the current landscape, we must ask: Who has the capacity to endure? https://t.co/mQgSu...</title>
+      <link>https://x.com/RayDalio/status/2045135340688535925</link>
+      <guid isPermaLink="false">2045135340688535925</guid>
+      <pubDate>Fri, 17 Apr 2026 13:40:36 +0000</pubDate>
+      <description><![CDATA[As we look at the current landscape, we must ask: Who has the capacity to endure? https://t.co/mQgSuaMzYc
+
+---
+@RayDalio | ❤️ 16 | 🔁 2 | 💬 1 | 👁 8344]]></description>
+      <author>@RayDalio</author>
+    </item>
+    <item>
+      <title>I will start off by wishing you well in these challenging times and by saying that the picture I pai...</title>
+      <link>https://x.com/RayDalio/status/2045135330227929141</link>
+      <guid isPermaLink="false">2045135330227929141</guid>
+      <pubDate>Fri, 17 Apr 2026 13:40:34 +0000</pubDate>
+      <description><![CDATA[I will start off by wishing you well in these challenging times and by saying that the picture I paint in the following observations is not the picture I wish to be true; it is the picture that I believe to be true based on what I have learned and what the indicators I use to objectively see things now suggest is true.
+
+---
+@RayDalio | ❤️ 100 | 🔁 20 | 💬 6 | 👁 13343]]></description>
+      <author>@RayDalio</author>
+    </item>
   </channel>
 </rss>
