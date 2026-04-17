@@ -5,358 +5,90 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 15:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 15:31:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @jeremyphoward: Wow I can already say after just 5 hours using @AnthropicAI Opus 4.7 that this is...</title>
-      <link>https://x.com/alexalbert__/status/2045158544740360205</link>
-      <guid isPermaLink="false">2045158544740360205</guid>
-      <pubDate>Fri, 17 Apr 2026 15:12:48 +0000</pubDate>
-      <description><![CDATA[RT @jeremyphoward: Wow I can already say after just 5 hours using @AnthropicAI Opus 4.7 that this is the first model that &quot;gets&quot; what I'm d…
+      <title>XGBoost</title>
+      <link>https://x.com/tunguz/status/2045162018508812781</link>
+      <guid isPermaLink="false">2045162018508812781</guid>
+      <pubDate>Fri, 17 Apr 2026 15:26:37 +0000</pubDate>
+      <description><![CDATA[XGBoost
 
 ---
-@alexalbert__ | ❤️ 0 | 🔁 41 | 💬 0 | 👁 0]]></description>
-      <author>@alexalbert__</author>
+@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 259]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>帮转 Kimi 招人信息</title>
-      <link>https://x.com/dotey/status/2045157266932822308</link>
-      <guid isPermaLink="false">2045157266932822308</guid>
-      <pubDate>Fri, 17 Apr 2026 15:07:44 +0000</pubDate>
-      <description><![CDATA[帮转 Kimi 招人信息
+      <title>ship shippety ship</title>
+      <link>https://x.com/tunguz/status/2045161252352090596</link>
+      <guid isPermaLink="false">2045161252352090596</guid>
+      <pubDate>Fri, 17 Apr 2026 15:23:34 +0000</pubDate>
+      <description><![CDATA[ship shippety ship
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 595]]></description>
-      <author>@dotey</author>
+@tunguz | ❤️ 2 | 🔁 0 | 💬 0 | 👁 448]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @RedHat_AI: Qwen3.6-35B-A3B just dropped. Red Hat AI has an NVFP4 quantized checkpoint ready.
-
-35...</title>
-      <link>https://x.com/_akhaliq/status/2045156301571871199</link>
-      <guid isPermaLink="false">2045156301571871199</guid>
-      <pubDate>Fri, 17 Apr 2026 15:03:54 +0000</pubDate>
-      <description><![CDATA[RT @RedHat_AI: Qwen3.6-35B-A3B just dropped. Red Hat AI has an NVFP4 quantized checkpoint ready.
-
-35B params, 3B active, quantized with LLM…
+      <title>claude 正式推出设计工具 claude design</title>
+      <link>https://x.com/turingou/status/2045161159263961113</link>
+      <guid isPermaLink="false">2045161159263961113</guid>
+      <pubDate>Fri, 17 Apr 2026 15:23:12 +0000</pubDate>
+      <description><![CDATA[claude 正式推出设计工具 claude design
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 4 | 💬 0 | 👁 2]]></description>
-      <author>@_akhaliq</author>
+@turingou | ❤️ 1 | 🔁 0 | 💬 2 | 👁 1034]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>Claude reads your codebase and design files to build your team's design system, then applies it auto...</title>
-      <link>https://x.com/claudeai/status/2045156271251218897</link>
-      <guid isPermaLink="false">2045156271251218897</guid>
-      <pubDate>Fri, 17 Apr 2026 15:03:46 +0000</pubDate>
-      <description><![CDATA[Claude reads your codebase and design files to build your team's design system, then applies it automatically, keeping every project on-brand.
-
-Give it a try: https://t.co/C9iewmyMQs
-Read more: https://t.co/FHQUP6aejg
-
----
-@claudeai | ❤️ 91 | 🔁 4 | 💬 3 | 👁 9649]]></description>
-      <author>@claudeai</author>
-    </item>
-    <item>
-      <title>Describe what you want, and Claude builds the first version. Refine through conversation, inline com...</title>
-      <link>https://x.com/claudeai/status/2045156269271429451</link>
-      <guid isPermaLink="false">2045156269271429451</guid>
-      <pubDate>Fri, 17 Apr 2026 15:03:46 +0000</pubDate>
-      <description><![CDATA[Describe what you want, and Claude builds the first version. Refine through conversation, inline comments, direct edits, or custom sliders.
-
-Export to @canva, as PDF or PPTX, or hand off to Claude Code when the design feels right. https://t.co/EGZ2UmIm6m
+      <title>8 Types of #LLMs for Next Generation #AIAgents
+by @PythonPr
+  
+#GenAI #AI #ArtificialIntelligence #M...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045161118507643127</link>
+      <guid isPermaLink="false">2045161118507643127</guid>
+      <pubDate>Fri, 17 Apr 2026 15:23:02 +0000</pubDate>
+      <description><![CDATA[8 Types of #LLMs for Next Generation #AIAgents
+by @PythonPr
+  
+#GenAI #AI #ArtificialIntelligence #MachineLearning #ML https://t.co/80HBKOEqw7
 
 ---
-@claudeai | ❤️ 265 | 🔁 9 | 💬 5 | 👁 19471]]></description>
-      <author>@claudeai</author>
-    </item>
-    <item>
-      <title>Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to C...</title>
-      <link>https://x.com/claudeai/status/2045156267690213649</link>
-      <guid isPermaLink="false">2045156267690213649</guid>
-      <pubDate>Fri, 17 Apr 2026 15:03:46 +0000</pubDate>
-      <description><![CDATA[Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to Claude.
-
-Powered by Claude Opus 4.7, our most capable vision model. Available in research preview on the Pro, Max, Team, and Enterprise plans, rolling out throughout the day. https://t.co/2BgBGtgYGX
-
----
-@claudeai | ❤️ 1435 | 🔁 151 | 💬 193 | 👁 31563]]></description>
-      <author>@claudeai</author>
-    </item>
-    <item>
-      <title>“The sharpest drop came from people who used the model for direct answers, not from those who used i...</title>
-      <link>https://x.com/GaryMarcus/status/2045156208424968371</link>
-      <guid isPermaLink="false">2045156208424968371</guid>
-      <pubDate>Fri, 17 Apr 2026 15:03:31 +0000</pubDate>
-      <description><![CDATA[“The sharpest drop came from people who used the model for direct answers, not from those who used it more like a hint system, which suggests the real issue is not AI exposure itself but replacing effort with completion.
-
-The result is not that AI makes people less capable by default, but that answer outsourcing can shrink the mental effort that normally trains skill.”
-
-Even more results on the dangers of outsourcing your thinking to AI.
-
----
-@GaryMarcus | ❤️ 9 | 🔁 1 | 💬 2 | 👁 983]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>GPT Image 2 效果也不错👍
-https://t.co/5w1yCkRZcH</title>
-      <link>https://x.com/dotey/status/2045155642491458009</link>
-      <guid isPermaLink="false">2045155642491458009</guid>
-      <pubDate>Fri, 17 Apr 2026 15:01:16 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 效果也不错👍
-https://t.co/5w1yCkRZcH
-
----
-@dotey | ❤️ 1 | 🔁 2 | 💬 0 | 👁 715]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>Dive deeper into this investigation at https://t.co/tuJVqTcMgM</title>
-      <link>https://x.com/Space_Station/status/2045155355370328211</link>
-      <guid isPermaLink="false">2045155355370328211</guid>
-      <pubDate>Fri, 17 Apr 2026 15:00:08 +0000</pubDate>
-      <description><![CDATA[Dive deeper into this investigation at https://t.co/tuJVqTcMgM
-
----
-@Space_Station | ❤️ 8 | 🔁 1 | 💬 5 | 👁 3707]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>The study also explores how lowering lignin affects plants. Lignin is used to keep plants upright on...</title>
-      <link>https://x.com/Space_Station/status/2045155351213879562</link>
-      <guid isPermaLink="false">2045155351213879562</guid>
-      <pubDate>Fri, 17 Apr 2026 15:00:07 +0000</pubDate>
-      <description><![CDATA[The study also explores how lowering lignin affects plants. Lignin is used to keep plants upright on Earth but may not be necessary in space. Less lignin could enable non-edible portions of the plants be recycled to boost future plant generations and cut fertilizer needs. 🌿♻️ https://t.co/OpZzD2wNuM
-
----
-@Space_Station | ❤️ 24 | 🔁 4 | 💬 2 | 👁 4110]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>Researchers are refining ways to grow food for future missions! 🌱🫛
-
-Veg-06 recently arrived to the s...</title>
-      <link>https://x.com/Space_Station/status/2045155324160536773</link>
-      <guid isPermaLink="false">2045155324160536773</guid>
-      <pubDate>Fri, 17 Apr 2026 15:00:01 +0000</pubDate>
-      <description><![CDATA[Researchers are refining ways to grow food for future missions! 🌱🫛
-
-Veg-06 recently arrived to the space station to study how spaceflight impacts plant-microbe interactions. A process that may provide the necessary nitrogen these plants need to grow. https://t.co/2K5uTeaM31
-
----
-@Space_Station | ❤️ 76 | 🔁 19 | 💬 6 | 👁 5223]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>RT @omarsar0: LLM agents loop, drift, and get stuck on hard reasoning tasks up to 30% of the time.
-
-...</title>
-      <link>https://x.com/dair_ai/status/2045155170049306780</link>
-      <guid isPermaLink="false">2045155170049306780</guid>
-      <pubDate>Fri, 17 Apr 2026 14:59:24 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: LLM agents loop, drift, and get stuck on hard reasoning tasks up to 30% of the time.
-
-Current fixes are either too blunt (har…
-
----
-@dair_ai | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>A Parkinson’s patient has been treated using neurons created from their own skin cells — this could ...</title>
-      <link>https://x.com/DeepLearn007/status/2045155018416804342</link>
-      <guid isPermaLink="false">2045155018416804342</guid>
-      <pubDate>Fri, 17 Apr 2026 14:58:48 +0000</pubDate>
-      <description><![CDATA[A Parkinson’s patient has been treated using neurons created from their own skin cells — this could mark a major step toward personalized regenerative therapies.
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 61]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @DailyDoseOfDS_: LLM inference speed with vs. without KV caching:
-
-(learn how and why it works be...</title>
-      <link>https://x.com/DeepLearn007/status/2045154712941461777</link>
-      <guid isPermaLink="false">2045154712941461777</guid>
-      <pubDate>Fri, 17 Apr 2026 14:57:35 +0000</pubDate>
-      <description><![CDATA[RT @DailyDoseOfDS_: LLM inference speed with vs. without KV caching:
-
-(learn how and why it works below) https://t.co/rRO1aT7fHQ
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 62 | 💬 0 | 👁 1]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Sidelined?</title>
-      <link>https://x.com/coinbase/status/2045154686206947434</link>
-      <guid isPermaLink="false">2045154686206947434</guid>
-      <pubDate>Fri, 17 Apr 2026 14:57:28 +0000</pubDate>
-      <description><![CDATA[Sidelined?
-
----
-@coinbase | ❤️ 183 | 🔁 24 | 💬 90 | 👁 10953]]></description>
-      <author>@coinbase</author>
-    </item>
-    <item>
-      <title>RT @Farhadgol60: Saghar Gholami, a 19-year-old from Gonbad-e Kavus, was arrested by security forces ...</title>
-      <link>https://x.com/DeepLearn007/status/2045154444392681789</link>
-      <guid isPermaLink="false">2045154444392681789</guid>
-      <pubDate>Fri, 17 Apr 2026 14:56:31 +0000</pubDate>
-      <description><![CDATA[RT @Farhadgol60: Saghar Gholami, a 19-year-old from Gonbad-e Kavus, was arrested by security forces during the January 2026 nationwide prot…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 113 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @CyberRobooo: Robot Model might need 1 billion real-world experiences 🤖
-
-Humanoid robots have lon...</title>
-      <link>https://x.com/DeepLearn007/status/2045154403464749401</link>
-      <guid isPermaLink="false">2045154403464749401</guid>
-      <pubDate>Fri, 17 Apr 2026 14:56:21 +0000</pubDate>
-      <description><![CDATA[RT @CyberRobooo: Robot Model might need 1 billion real-world experiences 🤖
-
-Humanoid robots have long struggled with complex, real-world ta…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 18 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Full essay by @traestephens &amp;amp; @markiewagner here: https://t.co/ryoMXIy7CG
-
-The best part is ...</title>
-      <link>https://x.com/nikunj/status/2045153654861431177</link>
-      <guid isPermaLink="false">2045153654861431177</guid>
-      <pubDate>Fri, 17 Apr 2026 14:53:23 +0000</pubDate>
-      <description><![CDATA[Full essay by @traestephens &amp;amp; @markiewagner here: https://t.co/ryoMXIy7CG
-
-The best part is the immediate next paragraph completely roasts me and my job 😆
-
----
-@nikunj | ❤️ 0 | 🔁 0 | 💬 0 | 👁 113]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: No Driver, No Breaks: China’s #Autonomous Bus Runs 24/7
-by @jacksonhinklle
-
-#Sel...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045153562158678191</link>
-      <guid isPermaLink="false">2045153562158678191</guid>
-      <pubDate>Fri, 17 Apr 2026 14:53:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: No Driver, No Breaks: China’s #Autonomous Bus Runs 24/7
-by @jacksonhinklle
-
-#SelfDrivingCars #AutonomousVehicles #Artif…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 30 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 3 | 🔁 0 | 💬 0 | 👁 73]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Good day to re-read this timeless essay https://t.co/z8YVWkhVec</title>
-      <link>https://x.com/nikunj/status/2045152977200320546</link>
-      <guid isPermaLink="false">2045152977200320546</guid>
-      <pubDate>Fri, 17 Apr 2026 14:50:41 +0000</pubDate>
-      <description><![CDATA[Good day to re-read this timeless essay https://t.co/z8YVWkhVec
+      <title>Competition is for people who are confident enough in what they have to offer, always strive to get ...</title>
+      <link>https://x.com/tunguz/status/2045160784670429302</link>
+      <guid isPermaLink="false">2045160784670429302</guid>
+      <pubDate>Fri, 17 Apr 2026 15:21:42 +0000</pubDate>
+      <description><![CDATA[Competition is for people who are confident enough in what they have to offer, always strive to get better, and realize that competitions is the single best way of validating your own products and insights. Monopoly is for mid people who don't want to improve.
 
 ---
-@nikunj | ❤️ 2 | 🔁 0 | 💬 1 | 👁 451]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>Free for next two days</title>
-      <link>https://x.com/elonmusk/status/2045151482169745627</link>
-      <guid isPermaLink="false">2045151482169745627</guid>
-      <pubDate>Fri, 17 Apr 2026 14:44:45 +0000</pubDate>
-      <description><![CDATA[Free for next two days
-
----
-@elonmusk | ❤️ 5934 | 🔁 1185 | 💬 1132 | 👁 1509380]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Marxists were always big on false consciousness.</title>
-      <link>https://x.com/tunguz/status/2045151413143998721</link>
-      <guid isPermaLink="false">2045151413143998721</guid>
-      <pubDate>Fri, 17 Apr 2026 14:44:28 +0000</pubDate>
-      <description><![CDATA[Marxists were always big on false consciousness.
-
----
-@tunguz | ❤️ 8 | 🔁 0 | 💬 0 | 👁 968]]></description>
+@tunguz | ❤️ 5 | 🔁 0 | 💬 2 | 👁 483]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>String theory is retardmaxxing on a hard mode.</title>
-      <link>https://x.com/tunguz/status/2045150829284384827</link>
-      <guid isPermaLink="false">2045150829284384827</guid>
-      <pubDate>Fri, 17 Apr 2026 14:42:09 +0000</pubDate>
-      <description><![CDATA[String theory is retardmaxxing on a hard mode.
+      <title>Loved this @tylercowen episode on the economic lives of Rome's 90%</title>
+      <link>https://x.com/lennysan/status/2045159268744331444</link>
+      <guid isPermaLink="false">2045159268744331444</guid>
+      <pubDate>Fri, 17 Apr 2026 15:15:41 +0000</pubDate>
+      <description><![CDATA[Loved this @tylercowen episode on the economic lives of Rome's 90%
 
 ---
-@tunguz | ❤️ 9 | 🔁 0 | 💬 1 | 👁 804]]></description>
-      <author>@tunguz</author>
+@lennysan | ❤️ 2 | 🔁 0 | 💬 0 | 👁 1148]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>What does a CIO need to know about architecting the agentic enterprise? #sponsored
-
-4 architecture l...</title>
-      <link>https://x.com/YuHelenYu/status/2045150380104069340</link>
-      <guid isPermaLink="false">2045150380104069340</guid>
-      <pubDate>Fri, 17 Apr 2026 14:40:22 +0000</pubDate>
-      <description><![CDATA[What does a CIO need to know about architecting the agentic enterprise? #sponsored
-
-4 architecture layers every agentic enterprise needs:
-→ Context: harmonized data
-→ Work: composable business logic
-→ Agency: reasoning + execution
-→ Engagement: humans + agents, side by side
-
-The model is not your moat. Architecture is.
-
-Full CXO Spice conversation with @salesforce's Shibani Ahuja, SVP of Enterprise IT Strategy at Salesforce: https://t.co/7aEJ0QjMDF
-
-#AgenticAI #CIO #AgenticEnterprise #SalesforcePartner #TDX26
+      <title>A lot of bugs that folks may have hit yesterday when first trying Opus 4.7 are now fixed. Thanks for...</title>
+      <link>https://x.com/alexalbert__/status/2045159041283064095</link>
+      <guid isPermaLink="false">2045159041283064095</guid>
+      <pubDate>Fri, 17 Apr 2026 15:14:47 +0000</pubDate>
+      <description><![CDATA[A lot of bugs that folks may have hit yesterday when first trying Opus 4.7 are now fixed. Thanks for bearing with us🙏
 
 ---
-@YuHelenYu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 33]]></description>
-      <author>@YuHelenYu</author>
-    </item>
-    <item>
-      <title>我有一个模糊的思考：我不适合做企业级的创业者，去创造开创性的业务。不是因为能力或经验，我觉得是因为牺牲。
-
-和很多创始人打交道后发现，他们必须做出一定程度的牺牲。牺牲家庭时间，牺牲亲友时间，最基础也需...</title>
-      <link>https://x.com/bearliu/status/2045149791500243374</link>
-      <guid isPermaLink="false">2045149791500243374</guid>
-      <pubDate>Fri, 17 Apr 2026 14:38:01 +0000</pubDate>
-      <description><![CDATA[我有一个模糊的思考：我不适合做企业级的创业者，去创造开创性的业务。不是因为能力或经验，我觉得是因为牺牲。
-
-和很多创始人打交道后发现，他们必须做出一定程度的牺牲。牺牲家庭时间，牺牲亲友时间，最基础也需要牺牲自己的娱乐个人爱好。但大多数真正的创业者心理是明白这种牺牲，而且也能够接受。因为他们的愿景更大，他们明白自己的付出会带来更大的回报。
-
-但我还没有想好，也可能我还没有碰到那种值得自己牺牲的愿景出现。
-
-其实任何事情都有牺牲和付出，不只是创业。高更也是 40 多岁忽然想清楚自己要去画画，就抛弃了所有东西。
-
----
-@bearliu | ❤️ 6 | 🔁 0 | 💬 1 | 👁 577]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>china discount is real, damn https://t.co/tyQpMtEzPS</title>
-      <link>https://x.com/swyx/status/2045149601175568646</link>
-      <guid isPermaLink="false">2045149601175568646</guid>
-      <pubDate>Fri, 17 Apr 2026 14:37:16 +0000</pubDate>
-      <description><![CDATA[china discount is real, damn https://t.co/tyQpMtEzPS
-
----
-@swyx | ❤️ 15 | 🔁 0 | 💬 6 | 👁 1261]]></description>
-      <author>@swyx</author>
+@alexalbert__ | ❤️ 78 | 🔁 4 | 💬 14 | 👁 2430]]></description>
+      <author>@alexalbert__</author>
     </item>
   </channel>
 </rss>
