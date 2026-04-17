@@ -5,107 +5,110 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 19:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 19:31:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>@AnthropicAI Pro tip: You can make better looking slide decks by making a video first in Claude Desi...</title>
-      <link>https://x.com/petergyang/status/2045215758834368975</link>
-      <guid isPermaLink="false">2045215758834368975</guid>
-      <pubDate>Fri, 17 Apr 2026 19:00:09 +0000</pubDate>
-      <description><![CDATA[@AnthropicAI Pro tip: You can make better looking slide decks by making a video first in Claude Design and then asking it to convert to slides
+      <title>经过试用，Claude Design 将会是跟 Claude Code 一样重要的产品，千万别低估它的潜力。
+
+个人和小团队用它可以让产品设计和交互水平高出一大截，Opus 4.7 它真的懂设计，设计...</title>
+      <link>https://x.com/dotey/status/2045223484578783382</link>
+      <guid isPermaLink="false">2045223484578783382</guid>
+      <pubDate>Fri, 17 Apr 2026 19:30:51 +0000</pubDate>
+      <description><![CDATA[经过试用，Claude Design 将会是跟 Claude Code 一样重要的产品，千万别低估它的潜力。
+
+个人和小团队用它可以让产品设计和交互水平高出一大截，Opus 4.7 它真的懂设计，设计外包和设计工具要大幅缩水了。
+
+如果有条件，一定要去试试！附件是我简单交互后设计的一个结果，交付的是可以交互的高保真原型
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 41]]></description>
-      <author>@petergyang</author>
+@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 12]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>FWIW i have just updated chrome and do not see this.
+      <title>RT @Dan_Jeffries1: I don't understand why we automatically give people credit for &quot;sincere view...</title>
+      <link>https://x.com/ylecun/status/2045223232584683860</link>
+      <guid isPermaLink="false">2045223232584683860</guid>
+      <pubDate>Fri, 17 Apr 2026 19:29:51 +0000</pubDate>
+      <description><![CDATA[RT @Dan_Jeffries1: I don't understand why we automatically give people credit for &quot;sincere views.&quot; 
 
-google has this big issue of ultra slow increm...</title>
-      <link>https://x.com/swyx/status/2045215094850949315</link>
-      <guid isPermaLink="false">2045215094850949315</guid>
-      <pubDate>Fri, 17 Apr 2026 18:57:31 +0000</pubDate>
-      <description><![CDATA[FWIW i have just updated chrome and do not see this.
+Like who gives a fuck? 
 
-google has this big issue of ultra slow incremental rollouts. it really kills the vibe - i see stuff they launch, i am excited to try out, &quot;oh its still rolling out&quot;. 10 days later its still rolling out.
-
-i'm going back to my @kagihq Orion.
+If I have a s…
 
 ---
-@swyx | ❤️ 2 | 🔁 0 | 💬 1 | 👁 199]]></description>
-      <author>@swyx</author>
+@ylecun | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>From Flat to #3D in a Single Pull: MIT’s String-Driven Transformable Structures
-by @MIT
-  
-#Emerging...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045214759876694376</link>
-      <guid isPermaLink="false">2045214759876694376</guid>
-      <pubDate>Fri, 17 Apr 2026 18:56:11 +0000</pubDate>
-      <description><![CDATA[From Flat to #3D in a Single Pull: MIT’s String-Driven Transformable Structures
-by @MIT
-  
-#EmergingTech #Engineering #Tech #Technology https://t.co/mCJsZZJULR
+      <title>Claude for Word is now available on Pro and Max plans to use alongside Opus 4.7: https://t.co/MJ89c4...</title>
+      <link>https://x.com/claudeai/status/2045222254699511855</link>
+      <guid isPermaLink="false">2045222254699511855</guid>
+      <pubDate>Fri, 17 Apr 2026 19:25:58 +0000</pubDate>
+      <description><![CDATA[Claude for Word is now available on Pro and Max plans to use alongside Opus 4.7: https://t.co/MJ89c4IuTt https://t.co/Yb3ZZQTsXb
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 34]]></description>
+@claudeai | ❤️ 507 | 🔁 31 | 💬 94 | 👁 13512]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>#AI Strategy Is Quietly Making The Best People Worse At Their Jobs
+by Sarah Choudhary @Forbes
+
+Learn...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045221512798466404</link>
+      <guid isPermaLink="false">2045221512798466404</guid>
+      <pubDate>Fri, 17 Apr 2026 19:23:01 +0000</pubDate>
+      <description><![CDATA[#AI Strategy Is Quietly Making The Best People Worse At Their Jobs
+by Sarah Choudhary @Forbes
+
+Learn more: https://t.co/Jt3TNejz8e
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/Z5EVNajbPS
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 61]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Czechs out. https://t.co/yzKZOtmLvt</title>
-      <link>https://x.com/tunguz/status/2045214502052921780</link>
-      <guid isPermaLink="false">2045214502052921780</guid>
-      <pubDate>Fri, 17 Apr 2026 18:55:10 +0000</pubDate>
-      <description><![CDATA[Czechs out. https://t.co/yzKZOtmLvt
+      <title>@every we have a ton of open roles, see and apply here: https://t.co/UVzy1MRevu</title>
+      <link>https://x.com/danshipper/status/2045219657703944220</link>
+      <guid isPermaLink="false">2045219657703944220</guid>
+      <pubDate>Fri, 17 Apr 2026 19:15:39 +0000</pubDate>
+      <description><![CDATA[@every we have a ton of open roles, see and apply here: https://t.co/UVzy1MRevu
 
 ---
-@tunguz | ❤️ 7 | 🔁 0 | 💬 1 | 👁 233]]></description>
+@danshipper | ❤️ 1 | 🔁 0 | 💬 0 | 👁 333]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Why #AIAgents Can't Fix Bad Processes
+by @gmartinsribeiro @Forbes
+
+Learn more: h...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045216982895579638</link>
+      <guid isPermaLink="false">2045216982895579638</guid>
+      <pubDate>Fri, 17 Apr 2026 19:05:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Why #AIAgents Can't Fix Bad Processes
+by @gmartinsribeiro @Forbes
+
+Learn more: https://t.co/UsnG2QZ7yB
+
+#GenerativeAI #…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Intel is so back.</title>
+      <link>https://x.com/tunguz/status/2045216258384367833</link>
+      <guid isPermaLink="false">2045216258384367833</guid>
+      <pubDate>Fri, 17 Apr 2026 19:02:08 +0000</pubDate>
+      <description><![CDATA[Intel is so back.
+
+---
+@tunguz | ❤️ 37 | 🔁 3 | 💬 1 | 👁 1848]]></description>
       <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Codex is open source, enabling anyone to build awesome applications on top of it:</title>
-      <link>https://x.com/gdb/status/2045214436689072136</link>
-      <guid isPermaLink="false">2045214436689072136</guid>
-      <pubDate>Fri, 17 Apr 2026 18:54:54 +0000</pubDate>
-      <description><![CDATA[Codex is open source, enabling anyone to build awesome applications on top of it:
-
----
-@gdb | ❤️ 55 | 🔁 5 | 💬 3 | 👁 3951]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>Another good reason why I’m glad I don’t have a day-job any more. At this point in time I’d rather u...</title>
-      <link>https://x.com/tunguz/status/2045213207673946598</link>
-      <guid isPermaLink="false">2045213207673946598</guid>
-      <pubDate>Fri, 17 Apr 2026 18:50:01 +0000</pubDate>
-      <description><![CDATA[Another good reason why I’m glad I don’t have a day-job any more. At this point in time I’d rather use most of my time keeping up with the most advanced AI tools and practices.
-
----
-@tunguz | ❤️ 6 | 🔁 1 | 💬 0 | 👁 529]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Anthropic Labs on a generational run: Claude Code, Skills, Claude Cowork, Claude Design</title>
-      <link>https://x.com/mattturck/status/2045211226272129274</link>
-      <guid isPermaLink="false">2045211226272129274</guid>
-      <pubDate>Fri, 17 Apr 2026 18:42:09 +0000</pubDate>
-      <description><![CDATA[Anthropic Labs on a generational run: Claude Code, Skills, Claude Cowork, Claude Design
-
----
-@mattturck | ❤️ 5 | 🔁 1 | 💬 1 | 👁 395]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>RT @elonmusk: @ImKingGinger Your statement is true if goods &amp;amp; services output doesn’t rise d...</title>
-      <link>https://x.com/elonmusk/status/2045211162732593525</link>
-      <guid isPermaLink="false">2045211162732593525</guid>
-      <pubDate>Fri, 17 Apr 2026 18:41:54 +0000</pubDate>
-      <description><![CDATA[RT @elonmusk: @ImKingGinger Your statement is true if goods &amp;amp; services output doesn’t rise dramatically due to AI/robots, but false if it d…
-
----
-@elonmusk | ❤️ 0 | 🔁 262 | 💬 0 | 👁 13]]></description>
-      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
