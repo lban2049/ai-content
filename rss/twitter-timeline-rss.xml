@@ -5,155 +5,234 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 22:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:30:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>发现身边第二位朋友把自己的一切决策都交给了 Agent
-他说他自从开始让他的 Agent 荐股，不到三个月已经获得了 50% 的收益率
-这正反馈太强了</title>
-      <link>https://x.com/oran_ge/status/2045260146180506017</link>
-      <guid isPermaLink="false">2045260146180506017</guid>
-      <pubDate>Fri, 17 Apr 2026 21:56:32 +0000</pubDate>
-      <description><![CDATA[发现身边第二位朋友把自己的一切决策都交给了 Agent
-他说他自从开始让他的 Agent 荐股，不到三个月已经获得了 50% 的收益率
-这正反馈太强了
+      <title>RT @tetsuoai: SpaceX completed two Starlink launches about 19 hours apart, pushing the number of Sta...</title>
+      <link>https://x.com/elonmusk/status/2045266277472649630</link>
+      <guid isPermaLink="false">2045266277472649630</guid>
+      <pubDate>Fri, 17 Apr 2026 22:20:54 +0000</pubDate>
+      <description><![CDATA[RT @tetsuoai: SpaceX completed two Starlink launches about 19 hours apart, pushing the number of Starlink satellites launched in 2026 past…
 
 ---
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 73]]></description>
-      <author>@oran_ge</author>
+@elonmusk | ❤️ 0 | 🔁 87 | 💬 0 | 👁 20]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>大模型的本质就是炼化一切数据
-一切能产生数据的东西，都在模型的主航道上
-区别只是时间，你还有多久会被吃掉
-
-但模型需要触点去接触数据
-你其实只有两个选择
-要么成为螳螂，要么成为触点</title>
-      <link>https://x.com/oran_ge/status/2045259070207390128</link>
-      <guid isPermaLink="false">2045259070207390128</guid>
-      <pubDate>Fri, 17 Apr 2026 21:52:16 +0000</pubDate>
-      <description><![CDATA[大模型的本质就是炼化一切数据
-一切能产生数据的东西，都在模型的主航道上
-区别只是时间，你还有多久会被吃掉
-
-但模型需要触点去接触数据
-你其实只有两个选择
-要么成为螳螂，要么成为触点
+      <title>@kevinweil it was a pleasure to have you on to kickstart our AI for Science podcast as well and hope...</title>
+      <link>https://x.com/swyx/status/2045266220468109431</link>
+      <guid isPermaLink="false">2045266220468109431</guid>
+      <pubDate>Fri, 17 Apr 2026 22:20:40 +0000</pubDate>
+      <description><![CDATA[@kevinweil it was a pleasure to have you on to kickstart our AI for Science podcast as well and hope you will keep doing great work in the space wherever you land!
 
 ---
-@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 115]]></description>
-      <author>@oran_ge</author>
+@swyx | ❤️ 2 | 🔁 0 | 💬 0 | 👁 116]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>Revolutionizing #Robotics: Four-Manipulator Wheeled Humanoid for Complex Tasks
-via @ZappyZappy7
-  
-#...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045258540030304680</link>
-      <guid isPermaLink="false">2045258540030304680</guid>
-      <pubDate>Fri, 17 Apr 2026 21:50:09 +0000</pubDate>
-      <description><![CDATA[Revolutionizing #Robotics: Four-Manipulator Wheeled Humanoid for Complex Tasks
-via @ZappyZappy7
-  
-#AI #Robots #EmergingTech #Innovation #Technology https://t.co/UwutpmmTFE
+      <title>RT @kplikethebird: Anthropic models seem to be a pendulum that's swinging back and forth between cre...</title>
+      <link>https://x.com/danshipper/status/2045265317417390261</link>
+      <guid isPermaLink="false">2045265317417390261</guid>
+      <pubDate>Fri, 17 Apr 2026 22:17:05 +0000</pubDate>
+      <description><![CDATA[RT @kplikethebird: Anthropic models seem to be a pendulum that's swinging back and forth between creativity and literalness. Opus 4.7 is a…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 85]]></description>
+@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>RT @Tesla: Over 5 years, Tesla police vehicles cost 4x less to run vs gas counterparts</title>
+      <link>https://x.com/elonmusk/status/2045265095895208089</link>
+      <guid isPermaLink="false">2045265095895208089</guid>
+      <pubDate>Fri, 17 Apr 2026 22:16:12 +0000</pubDate>
+      <description><![CDATA[RT @Tesla: Over 5 years, Tesla police vehicles cost 4x less to run vs gas counterparts
+
+---
+@elonmusk | ❤️ 0 | 🔁 264 | 💬 0 | 👁 19]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Droidup #Robotics Unveils Moya, a Next-Gen Lifelike Humanoid
+by @CyberRobooo
+  
+#AI #Robots #Machine...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045265064790229029</link>
+      <guid isPermaLink="false">2045265064790229029</guid>
+      <pubDate>Fri, 17 Apr 2026 22:16:05 +0000</pubDate>
+      <description><![CDATA[Droidup #Robotics Unveils Moya, a Next-Gen Lifelike Humanoid
+by @CyberRobooo
+  
+#AI #Robots #MachineLearning #ArtificialIntelligence #ML https://t.co/HWfTBCLvlC
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 68]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Claude Design 发布了
-我们进入了设计的新时代
-Figma 看起来如此落伍，没有未来了
-Canva 却说他们很开心和 Claude 合作 🤔
-https://t.co/1Nsnl89OW2</title>
-      <link>https://x.com/oran_ge/status/2045257623021490379</link>
-      <guid isPermaLink="false">2045257623021490379</guid>
-      <pubDate>Fri, 17 Apr 2026 21:46:31 +0000</pubDate>
-      <description><![CDATA[Claude Design 发布了
-我们进入了设计的新时代
-Figma 看起来如此落伍，没有未来了
-Canva 却说他们很开心和 Claude 合作 🤔
-https://t.co/1Nsnl89OW2
+      <title>You gotta pump those numbers up.
+Those are rookie numbers in this racket. https://t.co/f2TaEy8NIo</title>
+      <link>https://x.com/jeremyphoward/status/2045264860326642006</link>
+      <guid isPermaLink="false">2045264860326642006</guid>
+      <pubDate>Fri, 17 Apr 2026 22:15:16 +0000</pubDate>
+      <description><![CDATA[You gotta pump those numbers up.
+Those are rookie numbers in this racket. https://t.co/f2TaEy8NIo
 
 ---
-@oran_ge | ❤️ 1 | 🔁 1 | 💬 1 | 👁 281]]></description>
+@jeremyphoward | ❤️ 11 | 🔁 0 | 💬 0 | 👁 1115]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>RT @WesRoth: Nous Research rolled out the &quot;Tool Gateway&quot; within the Nous Portal, offering ...</title>
+      <link>https://x.com/Teknium/status/2045264797688877140</link>
+      <guid isPermaLink="false">2045264797688877140</guid>
+      <pubDate>Fri, 17 Apr 2026 22:15:01 +0000</pubDate>
+      <description><![CDATA[RT @WesRoth: Nous Research rolled out the &quot;Tool Gateway&quot; within the Nous Portal, offering a unified ecosystem for AI agent development and…
+
+---
+@Teknium | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Join the discord to turn in your hackathon submissions!
+
+https://t.co/SxWoPjZTVD</title>
+      <link>https://x.com/Teknium/status/2045264229700427897</link>
+      <guid isPermaLink="false">2045264229700427897</guid>
+      <pubDate>Fri, 17 Apr 2026 22:12:46 +0000</pubDate>
+      <description><![CDATA[Join the discord to turn in your hackathon submissions!
+
+https://t.co/SxWoPjZTVD
+
+---
+@Teknium | ❤️ 15 | 🔁 0 | 💬 3 | 👁 739]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @blueprintcartel: Building sick new personality/memory traits for my agent ED on my @NousResearch...</title>
+      <link>https://x.com/Teknium/status/2045264051278844098</link>
+      <guid isPermaLink="false">2045264051278844098</guid>
+      <pubDate>Fri, 17 Apr 2026 22:12:03 +0000</pubDate>
+      <description><![CDATA[RT @blueprintcartel: Building sick new personality/memory traits for my agent ED on my @NousResearch Macbook Pro Hermes...  He's starting t…
+
+---
+@Teknium | ❤️ 0 | 🔁 1 | 💬 0 | 👁 3]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Next-Gen Smart Padlock with App-Based Control
+by @CrazedDeals
+  
+#EmergingTech #...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045264039694004265</link>
+      <guid isPermaLink="false">2045264039694004265</guid>
+      <pubDate>Fri, 17 Apr 2026 22:12:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Next-Gen Smart Padlock with App-Based Control
+by @CrazedDeals
+  
+#EmergingTech #Innovation #TechForGood #Technology #Te…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @VinceZcrikl: Hermes Agent @nousresearch
+Creative Hackathon 正式开启！🎉 
+总奖金 $25k 🔥
+
+用Hermes Agent 创作视...</title>
+      <link>https://x.com/Teknium/status/2045263977559822645</link>
+      <guid isPermaLink="false">2045263977559822645</guid>
+      <pubDate>Fri, 17 Apr 2026 22:11:46 +0000</pubDate>
+      <description><![CDATA[RT @VinceZcrikl: Hermes Agent @nousresearch
+Creative Hackathon 正式开启！🎉 
+总奖金 $25k 🔥
+
+用Hermes Agent 创作视频、图像、音频、3D，创新软件、交互等创意作品
+主赛道 $15k + Kimi…
+
+---
+@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @doganuraldesign: Just built this in 5 min with Grok 4.3 (beta)
+
+Not bad, huh? https://t.co/tebfZ...</title>
+      <link>https://x.com/elonmusk/status/2045263825339846884</link>
+      <guid isPermaLink="false">2045263825339846884</guid>
+      <pubDate>Fri, 17 Apr 2026 22:11:09 +0000</pubDate>
+      <description><![CDATA[RT @doganuraldesign: Just built this in 5 min with Grok 4.3 (beta)
+
+Not bad, huh? https://t.co/tebfZAiLt3
+
+---
+@elonmusk | ❤️ 0 | 🔁 82 | 💬 0 | 👁 39]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>资本主义时代，钱是最重要的
+后资本主义时代，钱已经不再重要了
+钱都不重要了，投资还重要吗？
+现在这些一级市场二级市场的东西，都会变得像游戏里的交易所和赌场
+这么看 polymarket 很未来</title>
+      <link>https://x.com/oran_ge/status/2045263508548534538</link>
+      <guid isPermaLink="false">2045263508548534538</guid>
+      <pubDate>Fri, 17 Apr 2026 22:09:54 +0000</pubDate>
+      <description><![CDATA[资本主义时代，钱是最重要的
+后资本主义时代，钱已经不再重要了
+钱都不重要了，投资还重要吗？
+现在这些一级市场二级市场的东西，都会变得像游戏里的交易所和赌场
+这么看 polymarket 很未来
+
+---
+@oran_ge | ❤️ 4 | 🔁 0 | 💬 1 | 👁 295]]></description>
       <author>@oran_ge</author>
     </item>
     <item>
-      <title>RT @GitTrend0x: Hermes 一丢 Agent，全网程序员集体进化了！
+      <title>wow and a Colossus profile from Camille!!
 
-Nous Research 扔出 hermes-agent（90k+ stars），核心就一个词：自我进化。它...</title>
-      <link>https://x.com/Teknium/status/2045255769864765595</link>
-      <guid isPermaLink="false">2045255769864765595</guid>
-      <pubDate>Fri, 17 Apr 2026 21:39:09 +0000</pubDate>
-      <description><![CDATA[RT @GitTrend0x: Hermes 一丢 Agent，全网程序员集体进化了！
+https://t.co/ibt7g82IjC</title>
+      <link>https://x.com/swyx/status/2045263229329580420</link>
+      <guid isPermaLink="false">2045263229329580420</guid>
+      <pubDate>Fri, 17 Apr 2026 22:08:47 +0000</pubDate>
+      <description><![CDATA[wow and a Colossus profile from Camille!!
 
-Nous Research 扔出 hermes-agent（90k+ stars），核心就一个词：自我进化。它不是玩具，而是带持久记忆、自动提炼技能、跨会话成长的底层骨架。
-
-结果？社区直…
+https://t.co/ibt7g82IjC
 
 ---
-@Teknium | ❤️ 0 | 🔁 47 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@swyx | ❤️ 0 | 🔁 0 | 💬 0 | 👁 591]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>Very interesting!</title>
-      <link>https://x.com/Teknium/status/2045255739112128931</link>
-      <guid isPermaLink="false">2045255739112128931</guid>
-      <pubDate>Fri, 17 Apr 2026 21:39:01 +0000</pubDate>
-      <description><![CDATA[Very interesting!
+      <title>We’re entering a new era of engineering. 👏
+
+Together with @Cadence, NVIDIA is advancing agentic AI, ...</title>
+      <link>https://x.com/nvidia/status/2045262619653943299</link>
+      <guid isPermaLink="false">2045262619653943299</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:22 +0000</pubDate>
+      <description><![CDATA[We’re entering a new era of engineering. 👏
+
+Together with @Cadence, NVIDIA is advancing agentic AI, physics-based simulation, and digital twins to help engineers design, test, and optimize systems at unprecedented speed and scale.
 
 ---
-@Teknium | ❤️ 17 | 🔁 0 | 💬 0 | 👁 1150]]></description>
-      <author>@Teknium</author>
+@nvidia | ❤️ 34 | 🔁 7 | 💬 8 | 👁 5720]]></description>
+      <author>@nvidia</author>
     </item>
     <item>
-      <title>RT @sarahli: just dropped my first video in a 5 part series where we build a full travel planner app...</title>
-      <link>https://x.com/amasad/status/2045254904466575361</link>
-      <guid isPermaLink="false">2045254904466575361</guid>
-      <pubDate>Fri, 17 Apr 2026 21:35:42 +0000</pubDate>
-      <description><![CDATA[RT @sarahli: just dropped my first video in a 5 part series where we build a full travel planner app on Replit and i am so excited 🌍✈️
+      <title>RT @modal: One portal, unlimited possibilities. 
 
-as…
+You can now access Modal via Tool Gateway by @Nous...</title>
+      <link>https://x.com/NousResearch/status/2045261621061439617</link>
+      <guid isPermaLink="false">2045261621061439617</guid>
+      <pubDate>Fri, 17 Apr 2026 22:02:24 +0000</pubDate>
+      <description><![CDATA[RT @modal: One portal, unlimited possibilities. 
 
----
-@amasad | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>RT @krassenstein: Trump is reportedly negotiating a deal which would stop Iran from producing a nucl...</title>
-      <link>https://x.com/ylecun/status/2045254641156276384</link>
-      <guid isPermaLink="false">2045254641156276384</guid>
-      <pubDate>Fri, 17 Apr 2026 21:34:40 +0000</pubDate>
-      <description><![CDATA[RT @krassenstein: Trump is reportedly negotiating a deal which would stop Iran from producing a nuclear weapon in exchange for $20 Billion…
+You can now access Modal via Tool Gateway by @NousResearch, makers of Hermes Agent. Check…
 
 ---
-@ylecun | ❤️ 0 | 🔁 8614 | 💬 0 | 👁 1]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>nice work @daraladje</title>
-      <link>https://x.com/lennysan/status/2045254232199356596</link>
-      <guid isPermaLink="false">2045254232199356596</guid>
-      <pubDate>Fri, 17 Apr 2026 21:33:02 +0000</pubDate>
-      <description><![CDATA[nice work @daraladje
-
----
-@lennysan | ❤️ 2 | 🔁 0 | 💬 0 | 👁 683]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>cool new paper on self-improving agents</title>
-      <link>https://x.com/dair_ai/status/2045253872650789322</link>
-      <guid isPermaLink="false">2045253872650789322</guid>
-      <pubDate>Fri, 17 Apr 2026 21:31:36 +0000</pubDate>
-      <description><![CDATA[cool new paper on self-improving agents
-
----
-@dair_ai | ❤️ 6 | 🔁 0 | 💬 0 | 👁 685]]></description>
-      <author>@dair_ai</author>
+@NousResearch | ❤️ 0 | 🔁 5 | 💬 0 | 👁 2]]></description>
+      <author>@NousResearch</author>
     </item>
   </channel>
 </rss>
