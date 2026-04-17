@@ -5,118 +5,176 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:31:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>sh*tpoast on X, the everything app, all day</title>
-      <link>https://x.com/tunguz/status/2045139689363984756</link>
-      <guid isPermaLink="false">2045139689363984756</guid>
-      <pubDate>Fri, 17 Apr 2026 13:57:53 +0000</pubDate>
-      <description><![CDATA[sh*tpoast on X, the everything app, all day
+      <title>&quot;If you're a PM and you think your job is to make documents and slide decks for upwards review ...</title>
+      <link>https://x.com/petergyang/status/2045147880932167717</link>
+      <guid isPermaLink="false">2045147880932167717</guid>
+      <pubDate>Fri, 17 Apr 2026 14:30:26 +0000</pubDate>
+      <description><![CDATA[&quot;If you're a PM and you think your job is to make documents and slide decks for upwards review and alignment, you're going to love this new world because you get to make things too.
+
+People need to see that leaders in their company are making things. That's what actually inspires and creates the inflection.&quot;
+
+- @zoink
+
+📌 Watch our full interview here: https://t.co/gaYK2S2cRW
 
 ---
-@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 166]]></description>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 83]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>*laughs in a16z* https://t.co/3ZjuPQpRHY</title>
+      <link>https://x.com/tunguz/status/2045146237221871826</link>
+      <guid isPermaLink="false">2045146237221871826</guid>
+      <pubDate>Fri, 17 Apr 2026 14:23:54 +0000</pubDate>
+      <description><![CDATA[*laughs in a16z* https://t.co/3ZjuPQpRHY
+
+---
+@tunguz | ❤️ 5 | 🔁 0 | 💬 2 | 👁 393]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>// Skill Learning for Autonomous Web Agents //
+      <title>#Robots Take Over the Kitchen: #Automation Meets Cooking
+by @lukas_m_ziegler
 
-Web agents can navigate a page, but ask them to repe...</title>
-      <link>https://x.com/dair_ai/status/2045139481892880892</link>
-      <guid isPermaLink="false">2045139481892880892</guid>
-      <pubDate>Fri, 17 Apr 2026 13:57:03 +0000</pubDate>
-      <description><![CDATA[// Skill Learning for Autonomous Web Agents //
+#Robotics #EmergingTec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045146051909148673</link>
+      <guid isPermaLink="false">2045146051909148673</guid>
+      <pubDate>Fri, 17 Apr 2026 14:23:10 +0000</pubDate>
+      <description><![CDATA[#Robots Take Over the Kitchen: #Automation Meets Cooking
+by @lukas_m_ziegler
 
-Web agents can navigate a page, but ask them to repeat a checkout flow they already completed, and they start from scratch every time.
-
-This work introduces WebXSkill, a skill learning framework where web agents extract reusable skills from synthetic trajectories.
-
-Each skill pairs a parameterized action program with step-level natural language guidance, making it both executable by the runtime and interpretable by the agent.
-
-Two deployment modes let the agent either auto-execute skills as atomic tool calls (grounded mode) or follow them as step-by-step instructions while retaining autonomy to adapt (guided mode).
-
-Results:
-
-- On WebArena, WebXSkill improves task success rate by up to 9.8 points over baselines (69.5% vs 59.7%).
-
-- On WebVoyager, grounded mode reaches 86.1%, a 14.2-point gain over vanilla agents. Skills even transfer across environments: guided mode using only WebArena-extracted skills scores 85.1% on WebVoyager.
-
-Stronger models benefit more from grounded execution, while weaker models gain more from guided mode, suggesting the deployment strategy should match model capability.
-
-Paper: https://t.co/KAMYMLXywg
-
-Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+#Robotics #EmergingTech #Technology #Innovation #TechForGood https://t.co/ZdaMrkWr7Y
 
 ---
-@dair_ai | ❤️ 2 | 🔁 0 | 💬 0 | 👁 117]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>Agents are going to use software 100X more than people will in the future. As a result, enterprise p...</title>
-      <link>https://x.com/levie/status/2045137708620906573</link>
-      <guid isPermaLink="false">2045137708620906573</guid>
-      <pubDate>Fri, 17 Apr 2026 13:50:01 +0000</pubDate>
-      <description><![CDATA[Agents are going to use software 100X more than people will in the future. As a result, enterprise platforms will become headless and be able to work with any agent on or off platform. If you don’t do that you’re DOA.
-
-What some have missed is that this creates vastly more use-cases for these platforms than even existed pre-AI. This isn’t zero sum. Software value props have traditionally been capped at the number of users you have in a company. Agents have no upper limit. 
-
-We’re going to run agents to process data at a scale humans never could, they’re going to be running 24/7 in parallel doing work for us, and they can integrate workflows across systems to generate all new value propositions.
-
-Once you embrace this approach, it becomes obvious how much more upside there is.
-
----
-@levie | ❤️ 25 | 🔁 4 | 💬 4 | 👁 2550]]></description>
-      <author>@levie</author>
-    </item>
-    <item>
-      <title>What 2026 is about to demand from every organization
-by @Khulood_Almani
-
-#AI #Robotics #EmergingTech...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045136480704639117</link>
-      <guid isPermaLink="false">2045136480704639117</guid>
-      <pubDate>Fri, 17 Apr 2026 13:45:08 +0000</pubDate>
-      <description><![CDATA[What 2026 is about to demand from every organization
-by @Khulood_Almani
-
-#AI #Robotics #EmergingTech #Innovation #Technology https://t.co/cXTfea2Mpa
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 113]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 80]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Read my full observations in my latest article, “The Big Thing: We Are In A World War That Isn’t Goi...</title>
-      <link>https://x.com/RayDalio/status/2045135342970323146</link>
-      <guid isPermaLink="false">2045135342970323146</guid>
-      <pubDate>Fri, 17 Apr 2026 13:40:37 +0000</pubDate>
-      <description><![CDATA[Read my full observations in my latest article, “The Big Thing: We Are In A World War That Isn’t Going To End Anytime Soon,” here: https://t.co/wql78c2J8j
+      <title>a pure mathematician starves to death</title>
+      <link>https://x.com/tunguz/status/2045143913325834700</link>
+      <guid isPermaLink="false">2045143913325834700</guid>
+      <pubDate>Fri, 17 Apr 2026 14:14:40 +0000</pubDate>
+      <description><![CDATA[a pure mathematician starves to death
 
 ---
-@RayDalio | ❤️ 19 | 🔁 5 | 💬 1 | 👁 12815]]></description>
-      <author>@RayDalio</author>
+@tunguz | ❤️ 10 | 🔁 0 | 💬 2 | 👁 765]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>As we look at the current landscape, we must ask: Who has the capacity to endure? https://t.co/mQgSu...</title>
-      <link>https://x.com/RayDalio/status/2045135340688535925</link>
-      <guid isPermaLink="false">2045135340688535925</guid>
-      <pubDate>Fri, 17 Apr 2026 13:40:36 +0000</pubDate>
-      <description><![CDATA[As we look at the current landscape, we must ask: Who has the capacity to endure? https://t.co/mQgSuaMzYc
+      <title>The future is Kazakh.</title>
+      <link>https://x.com/tunguz/status/2045143763153027199</link>
+      <guid isPermaLink="false">2045143763153027199</guid>
+      <pubDate>Fri, 17 Apr 2026 14:14:04 +0000</pubDate>
+      <description><![CDATA[The future is Kazakh.
 
 ---
-@RayDalio | ❤️ 16 | 🔁 2 | 💬 1 | 👁 8344]]></description>
-      <author>@RayDalio</author>
+@tunguz | ❤️ 2 | 🔁 0 | 💬 0 | 👁 655]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>I will start off by wishing you well in these challenging times and by saying that the picture I pai...</title>
-      <link>https://x.com/RayDalio/status/2045135330227929141</link>
-      <guid isPermaLink="false">2045135330227929141</guid>
-      <pubDate>Fri, 17 Apr 2026 13:40:34 +0000</pubDate>
-      <description><![CDATA[I will start off by wishing you well in these challenging times and by saying that the picture I paint in the following observations is not the picture I wish to be true; it is the picture that I believe to be true based on what I have learned and what the indicators I use to objectively see things now suggest is true.
+      <title>RT @Arxonic: 1/
+Old Nvidia chips are getting MORE valuable with age, not less.
+
+That has never happe...</title>
+      <link>https://x.com/swyx/status/2045142323433243133</link>
+      <guid isPermaLink="false">2045142323433243133</guid>
+      <pubDate>Fri, 17 Apr 2026 14:08:21 +0000</pubDate>
+      <description><![CDATA[RT @Arxonic: 1/
+Old Nvidia chips are getting MORE valuable with age, not less.
+
+That has never happened in computing history.
+
+Marc Andrees…
 
 ---
-@RayDalio | ❤️ 100 | 🔁 20 | 💬 6 | 👁 13343]]></description>
-      <author>@RayDalio</author>
+@swyx | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>关于品味的几个误解
+
+误解一：品味要花很多钱
+
+搞反了。品味的核心动作是省，是减法，是知道什么该扔。一个农民对土壤的判断力，比一个只会买奢侈品的人有品味得多。消费是花钱就能做的事，品味不是。布迪厄在《...</title>
+      <link>https://x.com/lifesinger/status/2045141248311517459</link>
+      <guid isPermaLink="false">2045141248311517459</guid>
+      <pubDate>Fri, 17 Apr 2026 14:04:05 +0000</pubDate>
+      <description><![CDATA[关于品味的几个误解
+
+误解一：品味要花很多钱
+
+搞反了。品味的核心动作是省，是减法，是知道什么该扔。一个农民对土壤的判断力，比一个只会买奢侈品的人有品味得多。消费是花钱就能做的事，品味不是。布迪厄在《区分》里说得很毒：用消费来展示品味，恰恰暴露了你需要外部符号来证明自己。是没品位的体现。
+
+误解二：品味是天生的
+
+休谟在 1757 年说：品味是练出来的。他讲过一个故事，两个品酒师能尝出酒桶底部藏着一把挂了皮带的铁钥匙，一个说有铁味，一个说有皮革味。旁人觉得他们矫情，清理酒桶后发现他们都对了。这不是天赋异禀，是喝了足够多的酒之后，舌头上「长出了新器官」。伽达默尔把这个过程叫 Bildung（教化），品味是你在一个传统里浸泡、参与、反复练习之后，慢慢长出来的实践智慧。没有捷径，但有方法：大量、深度、精细地跟好东西打交道。
+
+误解三：品味可以用规则教会
+
+「配色不超过三种」「行距用 1.5 倍」，这些是规则，不是品味。规则是显性的，品味是隐性的。波兰尼提出过一个重要概念叫隐性知识（tacit knowledge）：我们知道的永远比我们能说出来的多。你能一眼认出朋友的脸，但你写不出你用了哪条规则。品味的运作方式一模一样。杜威管这种整体性的直觉叫弥漫性质感（pervasive quality），你走进一个房间，还没看清任何细节，已经「感觉到」了什么。它先于分析，而且往往比分析更准。能写成清单的东西，都不是品味。
+
+误解四：有品味的人是感受更深的人
+
+维特根斯坦不同意。他在美学讲座里说，审美判断不是描述内心体验，而是表现为精细的区分能力。有品味的人不是对着夕阳哭得比你厉害，是能指出「这个词刚好对」、「那个节奏差了半拍」。品味在你做什么里面显现，不在你感受什么里面。它是手艺，不是多愁善感。
+
+误解五：有品味就能说清楚为什么好
+
+恰恰相反。康德在《判断力批判》里指出，品味判断有一个很奇特的性质：它是主观的，但你会觉得它应该被普遍接受。你说「这朵花是美的」，不只是在表达偏好，你暗暗觉得别人也应该同意。这种自信从哪来，你自己也说不清。波兰尼的隐性知识解释了这一点：品味的核心恰恰是那些你知道但无法言说的部分。你先觉得「不对」，然后才去找原因，有时候根本找不到。能说清楚的叫分析，说不清但判断准的才叫品味。如果什么都能解释，那就不需要品味了，写个规则手册就行。
+
+误解六：品味是一种竞争优势
+
+硅谷现在最爱说「品味就是护城河」。这话听起来在抬高品味，实际上是在矮化品味。把品味变成可以优化的参数，变成融资 BP 上的一行字，恰恰是最没品味的事。《纽约客》的 Kyle Chayka 管这叫 taste-washing：用品味给技术贴人文标签，就像 green-washing 用环保概念给污染企业洗白一样。品味不是你拥有的资产，是你这个人本身。资产可以交易，你不能。
+
+误解七：品味只需要眼光好
+
+眼光只是起点。品味真正稀缺的东西是勇气。很多人其实感觉到了「这里不对」，但因为拿不出证据、说不出逻辑，就把直觉吞回去了，选了那个「安全」的方案。乔布斯的父亲教他：柜子背面没人看得到，也要用好木头。理由很简单：你自己知道。
+
+品味的最后一步不是知道，是敢。
+
+所以品味到底是什么
+
+波兰尼说，我们知道的永远比我们能说出来的多。品味就是这种隐性知识在判断和选择领域的集中体现。它不是知识，不是规则，不是感受，而是三种能力的乘积：
+
+品味 = 训练过的感知力 × 说不的判断力 × 承担后果的勇气
+
+是乘法，不是加法。任何一项为零，结果就是零。只有感知没有判断，是鉴赏家。只有判断没有勇气，是评论家。三个乘在一起，才是真正有品味的人。
+
+品味不可转让、不可外包、不可速成。因为品味的原材料，是你这个人全部的经历、注意力和选择。品味不是护城河，品味是人之为人的本身。
+
+---
+@lifesinger | ❤️ 2 | 🔁 1 | 💬 0 | 👁 353]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: 10 #AI Skills to Master in 2026
+by @Python_Dv
+
+#MachineLearning #ArtificialIntel...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045140830386524264</link>
+      <guid isPermaLink="false">2045140830386524264</guid>
+      <pubDate>Fri, 17 Apr 2026 14:02:25 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: 10 #AI Skills to Master in 2026
+by @Python_Dv
+
+#MachineLearning #ArtificialIntelligence #ML https://t.co/optPNCr6cA
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Finally got a Crypto cheat sheet https://t.co/8vxE77MuCX</title>
+      <link>https://x.com/binance/status/2045140604829433901</link>
+      <guid isPermaLink="false">2045140604829433901</guid>
+      <pubDate>Fri, 17 Apr 2026 14:01:31 +0000</pubDate>
+      <description><![CDATA[Finally got a Crypto cheat sheet https://t.co/8vxE77MuCX
+
+---
+@binance | ❤️ 160 | 🔁 6 | 💬 62 | 👁 15098]]></description>
+      <author>@binance</author>
     </item>
   </channel>
 </rss>
