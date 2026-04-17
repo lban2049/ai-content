@@ -5,43 +5,264 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:49:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>What a week! Here’s everything we shipped:
-
-— Gemini 3.1 Flash TTS, our latest text-to-speech model,...</title>
-      <link>https://x.com/GoogleAI/status/2045185070001258865</link>
-      <guid isPermaLink="false">2045185070001258865</guid>
-      <pubDate>Fri, 17 Apr 2026 16:58:13 +0000</pubDate>
-      <description><![CDATA[What a week! Here’s everything we shipped:
-
-— Gemini 3.1 Flash TTS, our latest text-to-speech model, featuring native multi-speaker dialogue and improved controllability and audio tags for more natural, expressive voices in 70+ languages
-
-— Gemini Robotics-ER 1.6 by @GoogleDeepMind, an upgrade designed to help robots reason about the physical world
-
-— The @GeminiApp for Mac desktop (tip: Use Option + Space to access the app via shortcut)
-
-—  Personal Intelligence in @GeminiApp has new integrations with @GooglePhotos and Nano Banana 2, making it easier to create relevant, personalized images. Available for AI Pro, Plus, and Ultra subscribers in the US
-
-— A couple fun additions in @GoogleAIStudio to make building easier, including Design previews and tab tab tab functionality
-
-— Skills in @GoogleChrome, which let you save and reuse your most helpful Gemini prompts and run them in your browser with a single click
+      <title>The team's work is now in Nature Methods, by @YaronMeirovitch et al: https://t.co/g9rDzGsMhh</title>
+      <link>https://x.com/MIT_CSAIL/status/2045197067841114262</link>
+      <guid isPermaLink="false">2045197067841114262</guid>
+      <pubDate>Fri, 17 Apr 2026 17:45:53 +0000</pubDate>
+      <description><![CDATA[The team's work is now in Nature Methods, by @YaronMeirovitch et al: https://t.co/g9rDzGsMhh
 
 ---
-@GoogleAI | ❤️ 16 | 🔁 3 | 💬 3 | 👁 678]]></description>
-      <author>@GoogleAI</author>
+@MIT_CSAIL | ❤️ 1 | 🔁 1 | 💬 0 | 👁 110]]></description>
+      <author>@MIT_CSAIL</author>
     </item>
     <item>
-      <title>Jim，这条是今天的新鲜发布，我直接写。
+      <title>Some signs of life</title>
+      <link>https://x.com/elonmusk/status/2045194063041671385</link>
+      <guid isPermaLink="false">2045194063041671385</guid>
+      <pubDate>Fri, 17 Apr 2026 17:33:57 +0000</pubDate>
+      <description><![CDATA[Some signs of life
 
-Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接...</title>
-      <link>https://x.com/dotey/status/2045185056537252330</link>
-      <guid isPermaLink="false">2045185056537252330</guid>
-      <pubDate>Fri, 17 Apr 2026 16:58:09 +0000</pubDate>
-      <description><![CDATA[Jim，这条是今天的新鲜发布，我直接写。
+---
+@elonmusk | ❤️ 2871 | 🔁 281 | 💬 719 | 👁 793645]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Still an early beta , but worth trying out</title>
+      <link>https://x.com/elonmusk/status/2045193784883884114</link>
+      <guid isPermaLink="false">2045193784883884114</guid>
+      <pubDate>Fri, 17 Apr 2026 17:32:50 +0000</pubDate>
+      <description><![CDATA[Still an early beta , but worth trying out
 
-Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接编辑或者拖拽滑块来反复调整，直到满意为止。
+---
+@elonmusk | ❤️ 3134 | 🔁 342 | 💬 711 | 👁 329079]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @XFreeze: Grok 4.3 Beta is insanely good and now comes with powerful new tools that are super hel...</title>
+      <link>https://x.com/elonmusk/status/2045193667107815517</link>
+      <guid isPermaLink="false">2045193667107815517</guid>
+      <pubDate>Fri, 17 Apr 2026 17:32:22 +0000</pubDate>
+      <description><![CDATA[RT @XFreeze: Grok 4.3 Beta is insanely good and now comes with powerful new tools that are super helpful for everyday use:
+• Create clean s…
+
+---
+@elonmusk | ❤️ 0 | 🔁 125 | 💬 0 | 👁 52]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Still an early beta, but promising</title>
+      <link>https://x.com/elonmusk/status/2045193548266459293</link>
+      <guid isPermaLink="false">2045193548266459293</guid>
+      <pubDate>Fri, 17 Apr 2026 17:31:54 +0000</pubDate>
+      <description><![CDATA[Still an early beta, but promising
+
+---
+@elonmusk | ❤️ 1203 | 🔁 178 | 💬 418 | 👁 260401]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @ti_guo_: The new doc for MiniMax CLI, for both Human and Agents: https://t.co/Gp0nOqgaJH
+
+One pr...</title>
+      <link>https://x.com/MiniMax_AI/status/2045193033793028595</link>
+      <guid isPermaLink="false">2045193033793028595</guid>
+      <pubDate>Fri, 17 Apr 2026 17:29:51 +0000</pubDate>
+      <description><![CDATA[RT @ti_guo_: The new doc for MiniMax CLI, for both Human and Agents: https://t.co/Gp0nOqgaJH
+
+One prompt to bring @MiniMax_AI  into your AI…
+
+---
+@MiniMax_AI | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@MiniMax_AI</author>
+    </item>
+    <item>
+      <title>RT @ArthurMacwaters: can someone explain what I’m missing?
+
+&amp;gt; internet access is highly corre...</title>
+      <link>https://x.com/elonmusk/status/2045192902318469241</link>
+      <guid isPermaLink="false">2045192902318469241</guid>
+      <pubDate>Fri, 17 Apr 2026 17:29:20 +0000</pubDate>
+      <description><![CDATA[RT @ArthurMacwaters: can someone explain what I’m missing?
+
+&amp;gt; internet access is highly correlated with per capita income 
+
+&amp;gt; millions of p…
+
+---
+@elonmusk | ❤️ 0 | 🔁 108 | 💬 0 | 👁 81]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @cb_doge: Grok 4.3 (beta) passes the Caitlyn Jenner AI Test.  
+
+ChatGPT would STILL rather nuke E...</title>
+      <link>https://x.com/elonmusk/status/2045192839840063491</link>
+      <guid isPermaLink="false">2045192839840063491</guid>
+      <pubDate>Fri, 17 Apr 2026 17:29:05 +0000</pubDate>
+      <description><![CDATA[RT @cb_doge: Grok 4.3 (beta) passes the Caitlyn Jenner AI Test.  
+
+ChatGPT would STILL rather nuke Earth than misgender Caitlyn Jenner.
+
+Ch…
+
+---
+@elonmusk | ❤️ 0 | 🔁 134 | 💬 0 | 👁 45]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @SawyerMerritt: Tesla is suing the state of North Dakota because the state won't allow the compan...</title>
+      <link>https://x.com/elonmusk/status/2045192392756629725</link>
+      <guid isPermaLink="false">2045192392756629725</guid>
+      <pubDate>Fri, 17 Apr 2026 17:27:18 +0000</pubDate>
+      <description><![CDATA[RT @SawyerMerritt: Tesla is suing the state of North Dakota because the state won't allow the company to open any showrooms/service centers…
+
+---
+@elonmusk | ❤️ 0 | 🔁 212 | 💬 0 | 👁 58]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Engineering Meets Imagination: China’s #Robotic Beasts Take Shape
+by @China_Fact
+
+#Robotics #Machine...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045191509788541271</link>
+      <guid isPermaLink="false">2045191509788541271</guid>
+      <pubDate>Fri, 17 Apr 2026 17:23:48 +0000</pubDate>
+      <description><![CDATA[Engineering Meets Imagination: China’s #Robotic Beasts Take Shape
+by @China_Fact
+
+#Robotics #MachineLearning #ArtificialIntelligence #ML https://t.co/wgddqXvbDj
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 130]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>everyone who joins @every reads + discussed the last chapter of The Writing Life 
+
+we’re hiring a lo...</title>
+      <link>https://x.com/danshipper/status/2045190327280013402</link>
+      <guid isPermaLink="false">2045190327280013402</guid>
+      <pubDate>Fri, 17 Apr 2026 17:19:06 +0000</pubDate>
+      <description><![CDATA[everyone who joins @every reads + discussed the last chapter of The Writing Life 
+
+we’re hiring a lot, so… https://t.co/qtJTDG1gBI
+
+---
+@danshipper | ❤️ 11 | 🔁 0 | 💬 2 | 👁 635]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>&quot;AI is an incredible technology that everybody should know how to use.&quot; — Jensen Huang
+
+Ac...</title>
+      <link>https://x.com/nvidia/status/2045190152176242753</link>
+      <guid isPermaLink="false">2045190152176242753</guid>
+      <pubDate>Fri, 17 Apr 2026 17:18:24 +0000</pubDate>
+      <description><![CDATA[&quot;AI is an incredible technology that everybody should know how to use.&quot; — Jensen Huang
+
+Across industries, AI is elevating what all of us are capable of. https://t.co/l4oaQDi0J1
+
+---
+@nvidia | ❤️ 80 | 🔁 16 | 💬 15 | 👁 5630]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>RT @ridegoodwaves: if you missed @every compound engineering camp, here's some gems to help you with...</title>
+      <link>https://x.com/danshipper/status/2045189613241663580</link>
+      <guid isPermaLink="false">2045189613241663580</guid>
+      <pubDate>Fri, 17 Apr 2026 17:16:16 +0000</pubDate>
+      <description><![CDATA[RT @ridegoodwaves: if you missed @every compound engineering camp, here's some gems to help you with becoming a better builder:
+
+the AI san…
+
+---
+@danshipper | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>RT @cocktailpeanut: Generate FULLY CONTROLLABLE 3D assets from a SINGLE image, locally on your PC.
+
+...</title>
+      <link>https://x.com/_akhaliq/status/2045188412152402218</link>
+      <guid isPermaLink="false">2045188412152402218</guid>
+      <pubDate>Fri, 17 Apr 2026 17:11:29 +0000</pubDate>
+      <description><![CDATA[RT @cocktailpeanut: Generate FULLY CONTROLLABLE 3D assets from a SINGLE image, locally on your PC.
+
+Made a 1-click launcher for the officia…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 40 | 💬 0 | 👁 2]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @GergelyOrosz: Prediction:
+
+The next 12-24 months, &quot;UX-pilled&quot; builders will be in mass...</title>
+      <link>https://x.com/zarazhangrui/status/2045187400868274505</link>
+      <guid isPermaLink="false">2045187400868274505</guid>
+      <pubDate>Fri, 17 Apr 2026 17:07:28 +0000</pubDate>
+      <description><![CDATA[RT @GergelyOrosz: Prediction:
+
+The next 12-24 months, &quot;UX-pilled&quot; builders will be in massive demand.
+
+Who can create intuitive interfaces,…
+
+---
+@zarazhangrui | ❤️ 0 | 🔁 111 | 💬 0 | 👁 0]]></description>
+      <author>@zarazhangrui</author>
+    </item>
+    <item>
+      <title>grateful to @steipete for prompting me to start the AMA with “what’s the future of ClosedClaw”? 😈 ht...</title>
+      <link>https://x.com/swyx/status/2045186912009458104</link>
+      <guid isPermaLink="false">2045186912009458104</guid>
+      <pubDate>Fri, 17 Apr 2026 17:05:32 +0000</pubDate>
+      <description><![CDATA[grateful to @steipete for prompting me to start the AMA with “what’s the future of ClosedClaw”? 😈 https://t.co/4s9SkNTEsu
+
+---
+@swyx | ❤️ 5 | 🔁 0 | 💬 1 | 👁 1389]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>RT @fffiloni: Keeping up with @gradio changes might be the real benchmark 🤗</title>
+      <link>https://x.com/_akhaliq/status/2045186818404982841</link>
+      <guid isPermaLink="false">2045186818404982841</guid>
+      <pubDate>Fri, 17 Apr 2026 17:05:09 +0000</pubDate>
+      <description><![CDATA[RT @fffiloni: Keeping up with @gradio changes might be the real benchmark 🤗
+
+---
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 3]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @omarsar0: 30K+ likes in the first hour. 🤯
+
+That is crazy!
+
+Design is unsolved with agents. But l...</title>
+      <link>https://x.com/dair_ai/status/2045186177976909832</link>
+      <guid isPermaLink="false">2045186177976909832</guid>
+      <pubDate>Fri, 17 Apr 2026 17:02:37 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: 30K+ likes in the first hour. 🤯
+
+That is crazy!
+
+Design is unsolved with agents. But lots of impactful work generated by agen…
+
+---
+@dair_ai | ❤️ 0 | 🔁 3 | 💬 0 | 👁 2]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接编辑或者拖拽滑块来反复调整，直到满意为止。
+...</title>
+      <link>https://x.com/dotey/status/2045185966399435053</link>
+      <guid isPermaLink="false">2045185966399435053</guid>
+      <pubDate>Fri, 17 Apr 2026 17:01:46 +0000</pubDate>
+      <description><![CDATA[Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接编辑或者拖拽滑块来反复调整，直到满意为止。
 
 这个产品背后跑的是 Claude Opus 4.7，Anthropic 目前视觉能力最强的模型，也是今天一起发布的新模型。目前以研究预览的形式开放，Pro、Max、Team 和 Enterprise 订阅用户都可以用，今天逐步放量。
 
@@ -57,151 +278,13 @@ Claude Design 想解决的问题很直接：设计师没时间探索太多方向
 
 用过 Canva 或 Figma 的人会觉得这套流程很熟悉，区别在于 Claude Design 的交互核心是对话而不是拖拽，更接近&quot;跟一个设计师搭档聊着把东西做出来&quot;的体验。对于那些经常需要出方案但不想开 Figma 的产品和市场团队来说，这可能是个效率上的实质变化。
 
-Claude Design 入口在 https://t.co/v6it9PiXTL，使用现有订阅额度，超出部分可以开启额外用量。企业版默认关闭，需要管理员手动开启。
+Claude Design 入口在 https://t.co/v6it9PjvJj，使用现有订阅额度，超出部分可以开启额外用量。企业版默认关闭，需要管理员手动开启。
 
 有测试过的欢迎留言交流下使用心得。
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 176]]></description>
+@dotey | ❤️ 36 | 🔁 5 | 💬 3 | 👁 4819]]></description>
       <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @OuyyyangMingyu: Thank you @_akhaliq for sharing our work on game agents! 
-
-We see games as a nat...</title>
-      <link>https://x.com/_akhaliq/status/2045184455879401756</link>
-      <guid isPermaLink="false">2045184455879401756</guid>
-      <pubDate>Fri, 17 Apr 2026 16:55:46 +0000</pubDate>
-      <description><![CDATA[RT @OuyyyangMingyu: Thank you @_akhaliq for sharing our work on game agents! 
-
-We see games as a natural testbed for multimodal agents, com…
-
----
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>The New #AI Risk Isn’t What Models Say. It’s What Agents Do
-by Tyler Akidau @Forbes
-
-Learn more: htt...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045183764406456622</link>
-      <guid isPermaLink="false">2045183764406456622</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:01 +0000</pubDate>
-      <description><![CDATA[The New #AI Risk Isn’t What Models Say. It’s What Agents Do
-by Tyler Akidau @Forbes
-
-Learn more: https://t.co/nVK1YaBgb4
-
-#ArtificialIntelligence #MachineLearning #ML #DL https://t.co/Fp5k8v0NUM
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 46]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Learning to grow plants in space, observing worms to develop &quot;living medicines,&quot; and prepp...</title>
-      <link>https://x.com/Space_Station/status/2045182665481912462</link>
-      <guid isPermaLink="false">2045182665481912462</guid>
-      <pubDate>Fri, 17 Apr 2026 16:48:39 +0000</pubDate>
-      <description><![CDATA[Learning to grow plants in space, observing worms to develop &quot;living medicines,&quot; and prepping for new computers wrapped up the week for the Exp 74 crew. https://t.co/ICP7bJU3pE
-
----
-@Space_Station | ❤️ 34 | 🔁 6 | 💬 2 | 👁 4958]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Bee #Robot demonstrating flight at the exhibition
-via @ZappyZappy7
-  
-#Robotics ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045182250287780051</link>
-      <guid isPermaLink="false">2045182250287780051</guid>
-      <pubDate>Fri, 17 Apr 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Bee #Robot demonstrating flight at the exhibition
-via @ZappyZappy7
-  
-#Robotics #MachineLearning #ArtificialIntelligenc…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 32 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Made this 30 second video of Claude Design just by pasting in the Claude Design blog post and some t...</title>
-      <link>https://x.com/petergyang/status/2045181813484884396</link>
-      <guid isPermaLink="false">2045181813484884396</guid>
-      <pubDate>Fri, 17 Apr 2026 16:45:16 +0000</pubDate>
-      <description><![CDATA[Made this 30 second video of Claude Design just by pasting in the Claude Design blog post and some tweets from @AnthropicAI employees
-
-Kinda speechless. https://t.co/9uFxO3LKzf
-
----
-@petergyang | ❤️ 22 | 🔁 2 | 💬 4 | 👁 1192]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>RT @aiDotEngineer: In @steipete's latest State of the Claw, he gives an update on 5 months of @OpenC...</title>
-      <link>https://x.com/swyx/status/2045179650603925805</link>
-      <guid isPermaLink="false">2045179650603925805</guid>
-      <pubDate>Fri, 17 Apr 2026 16:36:40 +0000</pubDate>
-      <description><![CDATA[RT @aiDotEngineer: In @steipete's latest State of the Claw, he gives an update on 5 months of @OpenClaw and some behind the scenes on what…
-
----
-@swyx | ❤️ 0 | 🔁 2 | 💬 0 | 👁 1]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>@claudeai If I make a video (html), I should be able to export as a video clip? https://t.co/lKPBVjZ...</title>
-      <link>https://x.com/petergyang/status/2045179399910445293</link>
-      <guid isPermaLink="false">2045179399910445293</guid>
-      <pubDate>Fri, 17 Apr 2026 16:35:41 +0000</pubDate>
-      <description><![CDATA[@claudeai If I make a video (html), I should be able to export as a video clip? https://t.co/lKPBVjZZ4b
-
----
-@petergyang | ❤️ 11 | 🔁 0 | 💬 1 | 👁 1414]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>RT @jackcheng: My new one for @every on “living software” vs tool-like software: https://t.co/TvUEmf...</title>
-      <link>https://x.com/danshipper/status/2045179328456007841</link>
-      <guid isPermaLink="false">2045179328456007841</guid>
-      <pubDate>Fri, 17 Apr 2026 16:35:24 +0000</pubDate>
-      <description><![CDATA[RT @jackcheng: My new one for @every on “living software” vs tool-like software: https://t.co/TvUEmfwcRu
-
----
-@danshipper | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>RT @WarMonitor3: We now all need to be concerned for the thousands of Iranians that will be arrested...</title>
-      <link>https://x.com/DeepLearn007/status/2045178479600091572</link>
-      <guid isPermaLink="false">2045178479600091572</guid>
-      <pubDate>Fri, 17 Apr 2026 16:32:01 +0000</pubDate>
-      <description><![CDATA[RT @WarMonitor3: We now all need to be concerned for the thousands of Iranians that will be arrested and potentially executed for their con…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 116 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>UniDoc-RL
-
-Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
-
-paper: https://t.c...</title>
-      <link>https://x.com/_akhaliq/status/2045178419130810628</link>
-      <guid isPermaLink="false">2045178419130810628</guid>
-      <pubDate>Fri, 17 Apr 2026 16:31:47 +0000</pubDate>
-      <description><![CDATA[UniDoc-RL
-
-Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
-
-paper: https://t.co/gIBNWR2fQI https://t.co/tOEcdumscq
-
----
-@_akhaliq | ❤️ 5 | 🔁 1 | 💬 0 | 👁 1207]]></description>
-      <author>@_akhaliq</author>
     </item>
   </channel>
 </rss>
