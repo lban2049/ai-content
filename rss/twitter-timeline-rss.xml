@@ -5,158 +5,107 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 19:00:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>codex is for everyone. learn how to get the most out of it:</title>
-      <link>https://x.com/gdb/status/2045208278033142227</link>
-      <guid isPermaLink="false">2045208278033142227</guid>
-      <pubDate>Fri, 17 Apr 2026 18:30:26 +0000</pubDate>
-      <description><![CDATA[codex is for everyone. learn how to get the most out of it:
+      <title>@AnthropicAI Pro tip: You can make better looking slide decks by making a video first in Claude Desi...</title>
+      <link>https://x.com/petergyang/status/2045215758834368975</link>
+      <guid isPermaLink="false">2045215758834368975</guid>
+      <pubDate>Fri, 17 Apr 2026 19:00:09 +0000</pubDate>
+      <description><![CDATA[@AnthropicAI Pro tip: You can make better looking slide decks by making a video first in Claude Design and then asking it to convert to slides
 
 ---
-@gdb | ❤️ 1 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@gdb</author>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 41]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>Hmm</title>
-      <link>https://x.com/elonmusk/status/2045207777325232201</link>
-      <guid isPermaLink="false">2045207777325232201</guid>
-      <pubDate>Fri, 17 Apr 2026 18:28:26 +0000</pubDate>
-      <description><![CDATA[Hmm
+      <title>FWIW i have just updated chrome and do not see this.
+
+google has this big issue of ultra slow increm...</title>
+      <link>https://x.com/swyx/status/2045215094850949315</link>
+      <guid isPermaLink="false">2045215094850949315</guid>
+      <pubDate>Fri, 17 Apr 2026 18:57:31 +0000</pubDate>
+      <description><![CDATA[FWIW i have just updated chrome and do not see this.
+
+google has this big issue of ultra slow incremental rollouts. it really kills the vibe - i see stuff they launch, i am excited to try out, &quot;oh its still rolling out&quot;. 10 days later its still rolling out.
+
+i'm going back to my @kagihq Orion.
 
 ---
-@elonmusk | ❤️ 594 | 🔁 83 | 💬 223 | 👁 35064]]></description>
-      <author>@elonmusk</author>
+@swyx | ❤️ 2 | 🔁 0 | 💬 1 | 👁 199]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>RT @StanfordHAI: AI assistants don’t just answer questions anymore; they jump in with suggestions. D...</title>
-      <link>https://x.com/erikbryn/status/2045207250160292292</link>
-      <guid isPermaLink="false">2045207250160292292</guid>
-      <pubDate>Fri, 17 Apr 2026 18:26:21 +0000</pubDate>
-      <description><![CDATA[RT @StanfordHAI: AI assistants don’t just answer questions anymore; they jump in with suggestions. Does this generally improve worker's qua…
+      <title>From Flat to #3D in a Single Pull: MIT’s String-Driven Transformable Structures
+by @MIT
+  
+#Emerging...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045214759876694376</link>
+      <guid isPermaLink="false">2045214759876694376</guid>
+      <pubDate>Fri, 17 Apr 2026 18:56:11 +0000</pubDate>
+      <description><![CDATA[From Flat to #3D in a Single Pull: MIT’s String-Driven Transformable Structures
+by @MIT
+  
+#EmergingTech #Engineering #Tech #Technology https://t.co/mCJsZZJULR
 
 ---
-@erikbryn | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@erikbryn</author>
-    </item>
-    <item>
-      <title>RT @techdevnotes: Grok 4.3 can Take in Video and Extract Audio files https://t.co/5uprx2dM85</title>
-      <link>https://x.com/elonmusk/status/2045207210045706410</link>
-      <guid isPermaLink="false">2045207210045706410</guid>
-      <pubDate>Fri, 17 Apr 2026 18:26:11 +0000</pubDate>
-      <description><![CDATA[RT @techdevnotes: Grok 4.3 can Take in Video and Extract Audio files https://t.co/5uprx2dM85
-
----
-@elonmusk | ❤️ 0 | 🔁 58 | 💬 0 | 👁 6]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Some signs of life</title>
-      <link>https://x.com/elonmusk/status/2045207072195625338</link>
-      <guid isPermaLink="false">2045207072195625338</guid>
-      <pubDate>Fri, 17 Apr 2026 18:25:38 +0000</pubDate>
-      <description><![CDATA[Some signs of life
-
----
-@elonmusk | ❤️ 693 | 🔁 86 | 💬 217 | 👁 110045]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @who_s_yuan: Thank you @_akhaliq for sharing our work! We also have a 24/7 live stream for GameWo...</title>
-      <link>https://x.com/_akhaliq/status/2045206948950278400</link>
-      <guid isPermaLink="false">2045206948950278400</guid>
-      <pubDate>Fri, 17 Apr 2026 18:25:09 +0000</pubDate>
-      <description><![CDATA[RT @who_s_yuan: Thank you @_akhaliq for sharing our work! We also have a 24/7 live stream for GameWorld: https://t.co/eFfD4a437G. Watch the…
-
----
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>RT @AdinaYakup: https://t.co/XmSdspq5zP</title>
-      <link>https://x.com/_akhaliq/status/2045205913795997736</link>
-      <guid isPermaLink="false">2045205913795997736</guid>
-      <pubDate>Fri, 17 Apr 2026 18:21:02 +0000</pubDate>
-      <description><![CDATA[RT @AdinaYakup: https://t.co/XmSdspq5zP
-
----
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>#AI Today vs AI Coming in 2026
-by @Khulood_Almani
- 
-#MachineLearning #ArtificialIntelligence #ML #MI...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045205405781959037</link>
-      <guid isPermaLink="false">2045205405781959037</guid>
-      <pubDate>Fri, 17 Apr 2026 18:19:01 +0000</pubDate>
-      <description><![CDATA[#AI Today vs AI Coming in 2026
-by @Khulood_Almani
- 
-#MachineLearning #ArtificialIntelligence #ML #MI https://t.co/ve2Id2v4xY
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 77]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 34]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @victormustar: Sharing my current setup to run Qwen3.6 locally in a good agentic setup (Pi + llam...</title>
-      <link>https://x.com/_akhaliq/status/2045204940793020654</link>
-      <guid isPermaLink="false">2045204940793020654</guid>
-      <pubDate>Fri, 17 Apr 2026 18:17:10 +0000</pubDate>
-      <description><![CDATA[RT @victormustar: Sharing my current setup to run Qwen3.6 locally in a good agentic setup (Pi + llama.cpp). Should give you a good overview…
+      <title>Czechs out. https://t.co/yzKZOtmLvt</title>
+      <link>https://x.com/tunguz/status/2045214502052921780</link>
+      <guid isPermaLink="false">2045214502052921780</guid>
+      <pubDate>Fri, 17 Apr 2026 18:55:10 +0000</pubDate>
+      <description><![CDATA[Czechs out. https://t.co/yzKZOtmLvt
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 35 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>https://t.co/HOFfRtjm5T</title>
-      <link>https://x.com/tunguz/status/2045204691412234617</link>
-      <guid isPermaLink="false">2045204691412234617</guid>
-      <pubDate>Fri, 17 Apr 2026 18:16:11 +0000</pubDate>
-      <description><![CDATA[https://t.co/HOFfRtjm5T
-
----
-@tunguz | ❤️ 8 | 🔁 0 | 💬 1 | 👁 607]]></description>
+@tunguz | ❤️ 7 | 🔁 0 | 💬 1 | 👁 233]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>Is there still a widespread belief that LLMs and coding agents are good for greenfield development b...</title>
-      <link>https://x.com/simonw/status/2045204429281067161</link>
-      <guid isPermaLink="false">2045204429281067161</guid>
-      <pubDate>Fri, 17 Apr 2026 18:15:08 +0000</pubDate>
-      <description><![CDATA[Is there still a widespread belief that LLMs and coding agents are good for greenfield development but don't help for maintaining large existing codebases?
-
-I don't think that idea holds up any more
+      <title>Codex is open source, enabling anyone to build awesome applications on top of it:</title>
+      <link>https://x.com/gdb/status/2045214436689072136</link>
+      <guid isPermaLink="false">2045214436689072136</guid>
+      <pubDate>Fri, 17 Apr 2026 18:54:54 +0000</pubDate>
+      <description><![CDATA[Codex is open source, enabling anyone to build awesome applications on top of it:
 
 ---
-@simonw | ❤️ 26 | 🔁 1 | 💬 9 | 👁 1657]]></description>
-      <author>@simonw</author>
+@gdb | ❤️ 55 | 🔁 5 | 💬 3 | 👁 3951]]></description>
+      <author>@gdb</author>
     </item>
     <item>
-      <title>Why are you, a grown man, arguing with cringe anon imbeciles on X the everything app?</title>
-      <link>https://x.com/tunguz/status/2045202596294512896</link>
-      <guid isPermaLink="false">2045202596294512896</guid>
-      <pubDate>Fri, 17 Apr 2026 18:07:51 +0000</pubDate>
-      <description><![CDATA[Why are you, a grown man, arguing with cringe anon imbeciles on X the everything app?
+      <title>Another good reason why I’m glad I don’t have a day-job any more. At this point in time I’d rather u...</title>
+      <link>https://x.com/tunguz/status/2045213207673946598</link>
+      <guid isPermaLink="false">2045213207673946598</guid>
+      <pubDate>Fri, 17 Apr 2026 18:50:01 +0000</pubDate>
+      <description><![CDATA[Another good reason why I’m glad I don’t have a day-job any more. At this point in time I’d rather use most of my time keeping up with the most advanced AI tools and practices.
 
 ---
-@tunguz | ❤️ 20 | 🔁 1 | 💬 6 | 👁 674]]></description>
+@tunguz | ❤️ 6 | 🔁 1 | 💬 0 | 👁 529]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>it's neck and neck lol! https://t.co/jyXCeYsrWT</title>
-      <link>https://x.com/swyx/status/2045202026020421951</link>
-      <guid isPermaLink="false">2045202026020421951</guid>
-      <pubDate>Fri, 17 Apr 2026 18:05:35 +0000</pubDate>
-      <description><![CDATA[it's neck and neck lol! https://t.co/jyXCeYsrWT
+      <title>Anthropic Labs on a generational run: Claude Code, Skills, Claude Cowork, Claude Design</title>
+      <link>https://x.com/mattturck/status/2045211226272129274</link>
+      <guid isPermaLink="false">2045211226272129274</guid>
+      <pubDate>Fri, 17 Apr 2026 18:42:09 +0000</pubDate>
+      <description><![CDATA[Anthropic Labs on a generational run: Claude Code, Skills, Claude Cowork, Claude Design
 
 ---
-@swyx | ❤️ 1 | 🔁 0 | 💬 0 | 👁 502]]></description>
-      <author>@swyx</author>
+@mattturck | ❤️ 5 | 🔁 1 | 💬 1 | 👁 395]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>RT @elonmusk: @ImKingGinger Your statement is true if goods &amp;amp; services output doesn’t rise d...</title>
+      <link>https://x.com/elonmusk/status/2045211162732593525</link>
+      <guid isPermaLink="false">2045211162732593525</guid>
+      <pubDate>Fri, 17 Apr 2026 18:41:54 +0000</pubDate>
+      <description><![CDATA[RT @elonmusk: @ImKingGinger Your statement is true if goods &amp;amp; services output doesn’t rise dramatically due to AI/robots, but false if it d…
+
+---
+@elonmusk | ❤️ 0 | 🔁 262 | 💬 0 | 👁 13]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
