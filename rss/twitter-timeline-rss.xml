@@ -5,37 +5,33 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 06:01:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Need more options for your Image Generation use cases in Hermes Agent? 
-
-We got you covered! Now ava...</title>
-      <link>https://x.com/Teknium/status/2045005151367557563</link>
-      <guid isPermaLink="false">2045005151367557563</guid>
-      <pubDate>Fri, 17 Apr 2026 05:03:17 +0000</pubDate>
-      <description><![CDATA[Need more options for your Image Generation use cases in Hermes Agent? 
-
-We got you covered! Now available, just run `hermes update`!
+      <title>a little DIY https://t.co/QozsRm7MJ2</title>
+      <link>https://x.com/binance/status/2045019618821951951</link>
+      <guid isPermaLink="false">2045019618821951951</guid>
+      <pubDate>Fri, 17 Apr 2026 06:00:46 +0000</pubDate>
+      <description><![CDATA[a little DIY https://t.co/QozsRm7MJ2
 
 ---
-@Teknium | ❤️ 5 | 🔁 1 | 💬 0 | 👁 814]]></description>
-      <author>@Teknium</author>
+@binance | ❤️ 19 | 🔁 1 | 💬 16 | 👁 152]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gatew...</title>
-      <link>https://x.com/NousResearch/status/2045004711699640463</link>
-      <guid isPermaLink="false">2045004711699640463</guid>
-      <pubDate>Fri, 17 Apr 2026 05:01:32 +0000</pubDate>
-      <description><![CDATA[Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!
+      <title>原来 seedance 2 模型支持这么多种媒体参考，很有想法！海外 byteplus 这个模型的费用是 4.3/3.3 USD/M token 这个计算不是特别直观，有点像 OpenRouter 的...</title>
+      <link>https://x.com/turingou/status/2045017305223184467</link>
+      <guid isPermaLink="false">2045017305223184467</guid>
+      <pubDate>Fri, 17 Apr 2026 05:51:34 +0000</pubDate>
+      <description><![CDATA[原来 seedance 2 模型支持这么多种媒体参考，很有想法！海外 byteplus 这个模型的费用是 4.3/3.3 USD/M token 这个计算不是特别直观，有点像 OpenRouter 的计算方法，不是按视频输出的时间算而是按照 token 计算，如果需要 video ref 费用加倍，不过我感觉大部分情况下不需要 video ref，只有特写会需要。
 
-Choose models from ChatGPT Image, Nano Banana, z-Image, FLUX, and more! 
+做视频生成产品最麻烦的事情是每个模型的输入输出都不太一样，当前沿模型变化后，产品也需要随之改变 pipeline，所以我目前在做的 VISI0 新版本会彻底放弃 pipline 模式，转而采用 wanman 的 agent matrix 模式来生成视频。
 
-Access now with `hermes update` and then `hermes tools` -&amp;gt; select Fal -&amp;gt; choose image model. https://t.co/TEdWQfTCCE
+这个新版本将会全面基于 seedance 2 模型构建，重点打造输出品质，只有品质提升到一个阶段，作为用户才能放心抽卡。
 
 ---
-@NousResearch | ❤️ 79 | 🔁 10 | 💬 5 | 👁 4374]]></description>
-      <author>@NousResearch</author>
+@turingou | ❤️ 6 | 🔁 0 | 💬 0 | 👁 804]]></description>
+      <author>@turingou</author>
     </item>
   </channel>
 </rss>
