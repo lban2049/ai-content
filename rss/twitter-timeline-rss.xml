@@ -5,103 +5,118 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Apr 2026 23:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 23:30:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @ashen_one: okok we officially have GLM 5.1 running on a 256gb mac studio with hermes agent
-
-next...</title>
-      <link>https://x.com/Teknium/status/2045274753775337700</link>
-      <guid isPermaLink="false">2045274753775337700</guid>
-      <pubDate>Fri, 17 Apr 2026 22:54:35 +0000</pubDate>
-      <description><![CDATA[RT @ashen_one: okok we officially have GLM 5.1 running on a 256gb mac studio with hermes agent
-
-next is linking it to hermes to see how goo…
+      <title>Everyone’s quitting but everything’s going great. AGI will be here next week. Scout’s honor!</title>
+      <link>https://x.com/GaryMarcus/status/2045283261962952793</link>
+      <guid isPermaLink="false">2045283261962952793</guid>
+      <pubDate>Fri, 17 Apr 2026 23:28:23 +0000</pubDate>
+      <description><![CDATA[Everyone’s quitting but everything’s going great. AGI will be here next week. Scout’s honor!
 
 ---
-@Teknium | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@GaryMarcus | ❤️ 0 | 🔁 1 | 💬 0 | 👁 173]]></description>
+      <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>It would seem that DeepMind is the only top AI lab left that's serious about pushing AI for science ...</title>
-      <link>https://x.com/tunguz/status/2045272092925370760</link>
-      <guid isPermaLink="false">2045272092925370760</guid>
-      <pubDate>Fri, 17 Apr 2026 22:44:00 +0000</pubDate>
-      <description><![CDATA[It would seem that DeepMind is the only top AI lab left that's serious about pushing AI for science now.
+      <title>Hermes creates skills from experience, improves them during use, nudges itself to persist knowledge,...</title>
+      <link>https://x.com/ollama/status/2045282807241723968</link>
+      <guid isPermaLink="false">2045282807241723968</guid>
+      <pubDate>Fri, 17 Apr 2026 23:26:35 +0000</pubDate>
+      <description><![CDATA[Hermes creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions.  
+
+Download Ollama and get started! 
+
+https://t.co/EaOnzdG9zt
+
+After downloading Ollama, run:
+ollama launch hermes
 
 ---
-@tunguz | ❤️ 3 | 🔁 0 | 💬 1 | 👁 487]]></description>
-      <author>@tunguz</author>
+@ollama | ❤️ 5 | 🔁 1 | 💬 0 | 👁 208]]></description>
+      <author>@ollama</author>
     </item>
     <item>
-      <title>Starlink works 5 mins after you receive it</title>
-      <link>https://x.com/elonmusk/status/2045271774925918337</link>
-      <guid isPermaLink="false">2045271774925918337</guid>
-      <pubDate>Fri, 17 Apr 2026 22:42:45 +0000</pubDate>
-      <description><![CDATA[Starlink works 5 mins after you receive it
+      <title>ollama launch hermes 
+
+Ollama 0.21 includes supports Hermes Agent, the self-improving AI agent built...</title>
+      <link>https://x.com/ollama/status/2045282803387158873</link>
+      <guid isPermaLink="false">2045282803387158873</guid>
+      <pubDate>Fri, 17 Apr 2026 23:26:34 +0000</pubDate>
+      <description><![CDATA[ollama launch hermes 
+
+Ollama 0.21 includes supports Hermes Agent, the self-improving AI agent built by @NousResearch.
 
 ---
-@elonmusk | ❤️ 6382 | 🔁 601 | 💬 1176 | 👁 758898]]></description>
-      <author>@elonmusk</author>
+@ollama | ❤️ 16 | 🔁 2 | 💬 1 | 👁 326]]></description>
+      <author>@ollama</author>
     </item>
     <item>
-      <title>AI bots are already running this country. They are using video generated slop right now, but they wi...</title>
-      <link>https://x.com/tunguz/status/2045271745246953491</link>
-      <guid isPermaLink="false">2045271745246953491</guid>
-      <pubDate>Fri, 17 Apr 2026 22:42:38 +0000</pubDate>
-      <description><![CDATA[AI bots are already running this country. They are using video generated slop right now, but they will evolve rapidly.
+      <title>Guys, what is happening in NYC fashion today? 🤣 https://t.co/wgA2osS4LD</title>
+      <link>https://x.com/alliekmiller/status/2045281120976077012</link>
+      <guid isPermaLink="false">2045281120976077012</guid>
+      <pubDate>Fri, 17 Apr 2026 23:19:53 +0000</pubDate>
+      <description><![CDATA[Guys, what is happening in NYC fashion today? 🤣 https://t.co/wgA2osS4LD
 
 ---
-@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 668]]></description>
-      <author>@tunguz</author>
+@alliekmiller | ❤️ 0 | 🔁 0 | 💬 0 | 👁 191]]></description>
+      <author>@alliekmiller</author>
     </item>
     <item>
-      <title>Lot of catching up to do. 
-
-xAI is half the age or less of competitors.</title>
-      <link>https://x.com/elonmusk/status/2045271616146334038</link>
-      <guid isPermaLink="false">2045271616146334038</guid>
-      <pubDate>Fri, 17 Apr 2026 22:42:07 +0000</pubDate>
-      <description><![CDATA[Lot of catching up to do. 
-
-xAI is half the age or less of competitors.
+      <title>Who Owns The #AI Worker? The Legal Question Nobody Is Asking Yet
+by @beygelman @Forbes
+ 
+Learn more:...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045280146966384993</link>
+      <guid isPermaLink="false">2045280146966384993</guid>
+      <pubDate>Fri, 17 Apr 2026 23:16:01 +0000</pubDate>
+      <description><![CDATA[Who Owns The #AI Worker? The Legal Question Nobody Is Asking Yet
+by @beygelman @Forbes
+ 
+Learn more: https://t.co/Pa85jxLbCY
+ 
+#ArtificialIntelligence #MachineLearning #ML https://t.co/3kxiVKEGsG
 
 ---
-@elonmusk | ❤️ 2616 | 🔁 278 | 💬 576 | 👁 290211]]></description>
-      <author>@elonmusk</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 72]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Correct</title>
-      <link>https://x.com/elonmusk/status/2045271340588884212</link>
-      <guid isPermaLink="false">2045271340588884212</guid>
-      <pubDate>Fri, 17 Apr 2026 22:41:01 +0000</pubDate>
-      <description><![CDATA[Correct
+      <title>Stargate is a step towards meeting the demand of the compute-powered economy</title>
+      <link>https://x.com/gdb/status/2045279841482928271</link>
+      <guid isPermaLink="false">2045279841482928271</guid>
+      <pubDate>Fri, 17 Apr 2026 23:14:48 +0000</pubDate>
+      <description><![CDATA[Stargate is a step towards meeting the demand of the compute-powered economy
 
 ---
-@elonmusk | ❤️ 4066 | 🔁 459 | 💬 831 | 👁 846509]]></description>
-      <author>@elonmusk</author>
+@gdb | ❤️ 57 | 🔁 0 | 💬 11 | 👁 5240]]></description>
+      <author>@gdb</author>
     </item>
     <item>
-      <title>@kevinweil Sorry to see you go. Thank you for being such a strong advocate for AI for science all th...</title>
-      <link>https://x.com/tunguz/status/2045270648960757814</link>
-      <guid isPermaLink="false">2045270648960757814</guid>
-      <pubDate>Fri, 17 Apr 2026 22:38:16 +0000</pubDate>
-      <description><![CDATA[@kevinweil Sorry to see you go. Thank you for being such a strong advocate for AI for science all this time. Wishing you all the best wherever you next end up.
+      <title>RT @Ronald_vanLoon: How a Mouse-Inspired Robot Learns to Recognize Places Like a Brain
+by @lukas_m_z...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045277880460939581</link>
+      <guid isPermaLink="false">2045277880460939581</guid>
+      <pubDate>Fri, 17 Apr 2026 23:07:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: How a Mouse-Inspired Robot Learns to Recognize Places Like a Brain
+by @lukas_m_ziegler
+ 
+#Robotics #Engineering #Artifi…
 
 ---
-@tunguz | ❤️ 2 | 🔁 0 | 💬 0 | 👁 132]]></description>
-      <author>@tunguz</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 13 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>All discount codes have been redeemed, the above code is no longer valid.</title>
-      <link>https://x.com/NousResearch/status/2045269957722742962</link>
-      <guid isPermaLink="false">2045269957722742962</guid>
-      <pubDate>Fri, 17 Apr 2026 22:35:31 +0000</pubDate>
-      <description><![CDATA[All discount codes have been redeemed, the above code is no longer valid.
+      <title>Vancouver, it’s been a blast! 🇨🇦</title>
+      <link>https://x.com/steipete/status/2045276507527143629</link>
+      <guid isPermaLink="false">2045276507527143629</guid>
+      <pubDate>Fri, 17 Apr 2026 23:01:33 +0000</pubDate>
+      <description><![CDATA[Vancouver, it’s been a blast! 🇨🇦
 
 ---
-@NousResearch | ❤️ 11 | 🔁 0 | 💬 3 | 👁 789]]></description>
-      <author>@NousResearch</author>
+@steipete | ❤️ 110 | 🔁 8 | 💬 15 | 👁 7517]]></description>
+      <author>@steipete</author>
     </item>
   </channel>
 </rss>
