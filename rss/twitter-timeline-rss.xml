@@ -5,144 +5,84 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 20:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 21:00:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hermes Agent is model &amp;amp; tool backend agnostic for a reason, everyone should have access to A...</title>
-      <link>https://x.com/Teknium/status/2045600634024730764</link>
-      <guid isPermaLink="false">2045600634024730764</guid>
-      <pubDate>Sat, 18 Apr 2026 20:29:31 +0000</pubDate>
-      <description><![CDATA[Hermes Agent is model &amp;amp; tool backend agnostic for a reason, everyone should have access to AI. We don't dictate the rules of use for your agent, YOU do
+      <title>Master Any #LLM
+by @ingliguori
+
+#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045607808041673185</link>
+      <guid isPermaLink="false">2045607808041673185</guid>
+      <pubDate>Sat, 18 Apr 2026 20:58:01 +0000</pubDate>
+      <description><![CDATA[Master Any #LLM
+by @ingliguori
+
+#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t.co/Uh7aTd8fzC
 
 ---
-@Teknium | ❤️ 5 | 🔁 1 | 💬 0 | 👁 118]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>🫡🫡</title>
-      <link>https://x.com/Teknium/status/2045600398762016929</link>
-      <guid isPermaLink="false">2045600398762016929</guid>
-      <pubDate>Sat, 18 Apr 2026 20:28:35 +0000</pubDate>
-      <description><![CDATA[🫡🫡
-
----
-@Teknium | ❤️ 1 | 🔁 0 | 💬 0 | 👁 157]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>NEW paper from Apple.
-
-Interesting idea: &quot;Attention to Mamba&quot;.
-
-The paper introduces a two...</title>
-      <link>https://x.com/dair_ai/status/2045600012860801113</link>
-      <guid isPermaLink="false">2045600012860801113</guid>
-      <pubDate>Sat, 18 Apr 2026 20:27:03 +0000</pubDate>
-      <description><![CDATA[NEW paper from Apple.
-
-Interesting idea: &quot;Attention to Mamba&quot;.
-
-The paper introduces a two-stage recipe for cross-architecture distillation from Transformers into Mamba.
-
-Naive distillation collapses teacher performance. Their trick: first distill the transformer into a linearized-attention student using a kernel adaptation, then transfer that student into a pure Mamba with no attention blocks.
-
-On a 1B model trained on 10B tokens, the Mamba student hits 14.11 perplexity against a 13.86 Pythia-1B teacher, nearly matching quality at linear-time inference cost.
-
-If you can reliably convert trained transformers into state-space models without retraining from scratch, the entire open-weights ecosystem becomes cheaper to serve at long context. This is the kind of quiet infrastructure work that decides which architectures actually get deployed in agent stacks.
-
-Paper: https://t.co/h7k7OrG8Qj
-
-Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
-
----
-@dair_ai | ❤️ 2 | 🔁 1 | 💬 0 | 👁 158]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>#AI on the Assembly Line: Instant Potato Counting with Minimal Training
-by @IlirAliu_
- 
-#ArtificialI...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045598012550881535</link>
-      <guid isPermaLink="false">2045598012550881535</guid>
-      <pubDate>Sat, 18 Apr 2026 20:19:06 +0000</pubDate>
-      <description><![CDATA[#AI on the Assembly Line: Instant Potato Counting with Minimal Training
-by @IlirAliu_
- 
-#ArtificialIntelligence #MachineLearning #ML #MI https://t.co/Z0HPxgGqY6
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 103]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 27]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @NousResearch: The Hermes Agent Creative Hackathon starts now
-
-16 Days, $25k in Prizes
-
-Presented...</title>
-      <link>https://x.com/NousResearch/status/2045597654596321707</link>
-      <guid isPermaLink="false">2045597654596321707</guid>
-      <pubDate>Sat, 18 Apr 2026 20:17:40 +0000</pubDate>
-      <description><![CDATA[RT @NousResearch: The Hermes Agent Creative Hackathon starts now
-
-16 Days, $25k in Prizes
-
-Presented by @Kimi_Moonshot &amp;amp; @NousResearch 
-
-Fo…
+      <title>And yes, Lush/SN used a homegrown Lisp interpreter, to which a compiler was added in the early 1990s...</title>
+      <link>https://x.com/ylecun/status/2045607759836549509</link>
+      <guid isPermaLink="false">2045607759836549509</guid>
+      <pubDate>Sat, 18 Apr 2026 20:57:50 +0000</pubDate>
+      <description><![CDATA[And yes, Lush/SN used a homegrown Lisp interpreter, to which a compiler was added in the early 1990s.
 
 ---
-@NousResearch | ❤️ 0 | 🔁 196 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
+@ylecun | ❤️ 4 | 🔁 0 | 💬 0 | 👁 694]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @cb_doge: NEWS: Grok hits an all-time high in monthly active users on the App Store.  🚀
-
-• Highes...</title>
-      <link>https://x.com/elonmusk/status/2045595151943483495</link>
-      <guid isPermaLink="false">2045595151943483495</guid>
-      <pubDate>Sat, 18 Apr 2026 20:07:44 +0000</pubDate>
-      <description><![CDATA[RT @cb_doge: NEWS: Grok hits an all-time high in monthly active users on the App Store.  🚀
-
-• Highest MAU ever recorded
-• Strong accelerati…
+      <title>RT @ylecun: @norpadon The tensor engine was first implemented inside SN3 (before it was called Lush)...</title>
+      <link>https://x.com/ylecun/status/2045606922959683733</link>
+      <guid isPermaLink="false">2045606922959683733</guid>
+      <pubDate>Sat, 18 Apr 2026 20:54:30 +0000</pubDate>
+      <description><![CDATA[RT @ylecun: @norpadon The tensor engine was first implemented inside SN3 (before it was called Lush) in 1992 at Bell Labs by Léon Bottom an…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 134 | 💬 0 | 👁 57]]></description>
+@ylecun | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>RT @BLKMDL3: Tesla officially fully opened their new Montebello location today.
+
+The largest @Tesla ...</title>
+      <link>https://x.com/elonmusk/status/2045606042210533600</link>
+      <guid isPermaLink="false">2045606042210533600</guid>
+      <pubDate>Sat, 18 Apr 2026 20:51:00 +0000</pubDate>
+      <description><![CDATA[RT @BLKMDL3: Tesla officially fully opened their new Montebello location today.
+
+The largest @Tesla sales/service/delivery location in Cali…
+
+---
+@elonmusk | ❤️ 0 | 🔁 108 | 💬 0 | 👁 3]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>Important learning opportunity. Could be transformative for your business/career.</title>
-      <link>https://x.com/amasad/status/2045594860061921655</link>
-      <guid isPermaLink="false">2045594860061921655</guid>
-      <pubDate>Sat, 18 Apr 2026 20:06:34 +0000</pubDate>
-      <description><![CDATA[Important learning opportunity. Could be transformative for your business/career.
+      <title>Children are the future</title>
+      <link>https://x.com/elonmusk/status/2045603644159283436</link>
+      <guid isPermaLink="false">2045603644159283436</guid>
+      <pubDate>Sat, 18 Apr 2026 20:41:28 +0000</pubDate>
+      <description><![CDATA[Children are the future
 
 ---
-@amasad | ❤️ 18 | 🔁 1 | 💬 3 | 👁 2968]]></description>
-      <author>@amasad</author>
+@elonmusk | ❤️ 6352 | 🔁 833 | 💬 1497 | 👁 1190379]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>incredibly fun to build webapps and games with codex, entirely with natural language</title>
-      <link>https://x.com/gdb/status/2045594591584530826</link>
-      <guid isPermaLink="false">2045594591584530826</guid>
-      <pubDate>Sat, 18 Apr 2026 20:05:30 +0000</pubDate>
-      <description><![CDATA[incredibly fun to build webapps and games with codex, entirely with natural language
+      <title>RT @ArthurMacwaters: &amp;gt; grok4.20-beta1 is a much smaller model than opus but is #1 ranked in m...</title>
+      <link>https://x.com/elonmusk/status/2045601671502598170</link>
+      <guid isPermaLink="false">2045601671502598170</guid>
+      <pubDate>Sat, 18 Apr 2026 20:33:38 +0000</pubDate>
+      <description><![CDATA[RT @ArthurMacwaters: &amp;gt; grok4.20-beta1 is a much smaller model than opus but is #1 ranked in medicine and healthcare
+
+&amp;gt; 4.3 and 4.4 will be…
 
 ---
-@gdb | ❤️ 142 | 🔁 5 | 💬 14 | 👁 12503]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>RT @cb_doge: &quot;Assuming the current trend of AI and robotics continues, which seems likely, the ...</title>
-      <link>https://x.com/elonmusk/status/2045594277519262051</link>
-      <guid isPermaLink="false">2045594277519262051</guid>
-      <pubDate>Sat, 18 Apr 2026 20:04:15 +0000</pubDate>
-      <description><![CDATA[RT @cb_doge: &quot;Assuming the current trend of AI and robotics continues, which seems likely, the AI and robots will be able to do anything th…
-
----
-@elonmusk | ❤️ 0 | 🔁 201 | 💬 0 | 👁 114]]></description>
+@elonmusk | ❤️ 0 | 🔁 114 | 💬 0 | 👁 27]]></description>
       <author>@elonmusk</author>
     </item>
   </channel>
