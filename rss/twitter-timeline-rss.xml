@@ -5,142 +5,29 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 11:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 12:01:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>✨ So cool!!!
-
-Our official Vibe Jam sponsor @heyglif's founder Fabian made a tutorial how to create ...</title>
-      <link>https://x.com/levelsio/status/2045464947551863246</link>
-      <guid isPermaLink="false">2045464947551863246</guid>
-      <pubDate>Sat, 18 Apr 2026 11:30:21 +0000</pubDate>
-      <description><![CDATA[✨ So cool!!!
-
-Our official Vibe Jam sponsor @heyglif's founder Fabian made a tutorial how to create cool video trailers for your game with his app Glif
-
-And he made a cool video for my drone game to show how it works
-
-He's also giving out free credits you can use to make your own videos on Glif (see the quote tweet how)
-
-Really nice because even after the Vibe Jam ends, you worked on a game for a month, so you could actually try commercialize and market it with this
-
-In last year's Vibe Jam @NicolaManzini made VibeSail, which started as a fun boat game, but a year later evolved into a realistic web-based sailing boat simulators, used by people to teach real sailing techniques!
+      <title>People are vibe coding their own tooling</title>
+      <link>https://x.com/levelsio/status/2045470640174490107</link>
+      <guid isPermaLink="false">2045470640174490107</guid>
+      <pubDate>Sat, 18 Apr 2026 11:52:58 +0000</pubDate>
+      <description><![CDATA[People are vibe coding their own tooling
 
 ---
-@levelsio | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+@levelsio | ❤️ 21 | 🔁 0 | 💬 6 | 👁 2026]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>Sweden Tests eRoadArlanda Electrified Road That Charges #EVs While Driving
-by @_fluxfeeds
- 
-#Emergin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045462374879035768</link>
-      <guid isPermaLink="false">2045462374879035768</guid>
-      <pubDate>Sat, 18 Apr 2026 11:20:07 +0000</pubDate>
-      <description><![CDATA[Sweden Tests eRoadArlanda Electrified Road That Charges #EVs While Driving
-by @_fluxfeeds
- 
-#EmergingTech #Technology #Innovation #Tech https://t.co/bRg3KftaTw
+      <title>As Carl Jung put it, &quot;Man needs difficulties. They are necessary for health.&quot; Yet most peo...</title>
+      <link>https://x.com/RayDalio/status/2045466370259706230</link>
+      <guid isPermaLink="false">2045466370259706230</guid>
+      <pubDate>Sat, 18 Apr 2026 11:36:00 +0000</pubDate>
+      <description><![CDATA[As Carl Jung put it, &quot;Man needs difficulties. They are necessary for health.&quot; Yet most people instinctually avoid pain. This is true whether we are talking about building the body (e.g., weight lifting) or the mind (e.g., frustration, mental struggle, embarrassment, shame)--and especially true when people confront the harsh reality of their own imperfections. #principleoftheday
 
 ---
-@Ronald_vanLoon | ❤️ 2 | 🔁 1 | 💬 0 | 👁 95]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>At some point over the past century or so modern economy, especially in America, started tilting fro...</title>
-      <link>https://x.com/tunguz/status/2045461978538258781</link>
-      <guid isPermaLink="false">2045461978538258781</guid>
-      <pubDate>Sat, 18 Apr 2026 11:18:33 +0000</pubDate>
-      <description><![CDATA[At some point over the past century or so modern economy, especially in America, started tilting from value creation to value extraction. AI is only making it more explicit now. And the real economic impact of AI will only start happening once value creation becomes dominant again.
-
----
-@tunguz | ❤️ 5 | 🔁 2 | 💬 2 | 👁 511]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>We push Prefill/Decode disaggregation beyond a single cluster: cross-datacenter + heterogeneous hard...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2045461663898599472</link>
-      <guid isPermaLink="false">2045461663898599472</guid>
-      <pubDate>Sat, 18 Apr 2026 11:17:18 +0000</pubDate>
-      <description><![CDATA[We push Prefill/Decode disaggregation beyond a single cluster: cross-datacenter + heterogeneous hardware, unlocking the potential for significantly lower cost per token.
-
-This was previously blocked by KV cache transfer overhead. The key enabler is our hybrid model (Kimi Linear), which reduces KV cache size and makes cross-DC PD practical.
-
-Validated on a 20x scaled-up Kimi Linear model:
-✅ 1.54× throughput 
-✅ 64% ↓ P90 TTFT 
-→ Directly translating into lower token cost.
-
-More in Prefill-as-a-Service: https://t.co/If8fA3t9Og
-
----
-@Kimi_Moonshot | ❤️ 50 | 🔁 9 | 💬 4 | 👁 1166]]></description>
-      <author>@Kimi_Moonshot</author>
-    </item>
-    <item>
-      <title>RT @Agent_Crafter: Trying to write a tutorial for hermes, anyone interested? https://t.co/eZDnEgtZGy</title>
-      <link>https://x.com/Teknium/status/2045461282409820597</link>
-      <guid isPermaLink="false">2045461282409820597</guid>
-      <pubDate>Sat, 18 Apr 2026 11:15:47 +0000</pubDate>
-      <description><![CDATA[RT @Agent_Crafter: Trying to write a tutorial for hermes, anyone interested? https://t.co/eZDnEgtZGy
-
----
-@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @DODOREACH: Hermes Desktop v0.5.0 – native Mac app for Hermes Agent. SSH only.
-
-multi-profile + f...</title>
-      <link>https://x.com/Teknium/status/2045461187840905227</link>
-      <guid isPermaLink="false">2045461187840905227</guid>
-      <pubDate>Sat, 18 Apr 2026 11:15:24 +0000</pubDate>
-      <description><![CDATA[RT @DODOREACH: Hermes Desktop v0.5.0 – native Mac app for Hermes Agent. SSH only.
-
-multi-profile + full cron manager, now live ✅
-NO gateway…
-
----
-@Teknium | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @geekbb: 在 Ollama 运行 hermes https://t.co/yU4ywysy5Z</title>
-      <link>https://x.com/Teknium/status/2045459346726039590</link>
-      <guid isPermaLink="false">2045459346726039590</guid>
-      <pubDate>Sat, 18 Apr 2026 11:08:05 +0000</pubDate>
-      <description><![CDATA[RT @geekbb: 在 Ollama 运行 hermes https://t.co/yU4ywysy5Z
-
----
-@Teknium | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Automated Road Barrier Modules Help Redirect Traffic in Australia
-by @tweetciiii...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045457819751584254</link>
-      <guid isPermaLink="false">2045457819751584254</guid>
-      <pubDate>Sat, 18 Apr 2026 11:02:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Automated Road Barrier Modules Help Redirect Traffic in Australia
-by @tweetciiiim
- 
-#Innovation #EmergingTech #Technolo…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>PS this pic is annualized numbers based on last 3 months because CF won't show me more</title>
-      <link>https://x.com/levelsio/status/2045457618437599664</link>
-      <guid isPermaLink="false">2045457618437599664</guid>
-      <pubDate>Sat, 18 Apr 2026 11:01:13 +0000</pubDate>
-      <description><![CDATA[PS this pic is annualized numbers based on last 3 months because CF won't show me more
-
----
-@levelsio | ❤️ 7 | 🔁 0 | 💬 0 | 👁 3329]]></description>
-      <author>@levelsio</author>
+@RayDalio | ❤️ 176 | 🔁 43 | 💬 17 | 👁 11840]]></description>
+      <author>@RayDalio</author>
     </item>
   </channel>
 </rss>
