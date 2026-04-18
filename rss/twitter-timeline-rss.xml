@@ -5,35 +5,69 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 06:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:01:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @geekbb: 在 Ollama 运行 hermes https://t.co/yU4ywysy5Z</title>
-      <link>https://x.com/ollama/status/2045388799954538835</link>
-      <guid isPermaLink="false">2045388799954538835</guid>
-      <pubDate>Sat, 18 Apr 2026 06:27:46 +0000</pubDate>
-      <description><![CDATA[RT @geekbb: 在 Ollama 运行 hermes https://t.co/yU4ywysy5Z
+      <title>Mobility for All: Electric Trike Built for Seamless Wheelchair Entry
+by @ViralRushX
+  
+#TechForGood ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045396175600148678</link>
+      <guid isPermaLink="false">2045396175600148678</guid>
+      <pubDate>Sat, 18 Apr 2026 06:57:04 +0000</pubDate>
+      <description><![CDATA[Mobility for All: Electric Trike Built for Seamless Wheelchair Entry
+by @ViralRushX
+  
+#TechForGood #EmergingTech #Technology #Tech https://t.co/R5Sr6dytX6
 
 ---
-@ollama | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@ollama</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 28]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>CATL Unveils #Autonomous #Robot That Drives to Your #EV for On-Demand Charging
-by @IntEngineering
+      <title>In the same vein, writing ≠ generating text
 
-#...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045387652904427984</link>
-      <guid isPermaLink="false">2045387652904427984</guid>
-      <pubDate>Sat, 18 Apr 2026 06:23:12 +0000</pubDate>
-      <description><![CDATA[CATL Unveils #Autonomous #Robot That Drives to Your #EV for On-Demand Charging
-by @IntEngineering
+In fact, generating text is the LEAST important part of...</title>
+      <link>https://x.com/zarazhangrui/status/2045394997630099922</link>
+      <guid isPermaLink="false">2045394997630099922</guid>
+      <pubDate>Sat, 18 Apr 2026 06:52:23 +0000</pubDate>
+      <description><![CDATA[In the same vein, writing ≠ generating text
 
-#Robotics #Engineering #Innovation #Technology https://t.co/DHLkTbuFk2
+In fact, generating text is the LEAST important part of the writing process
+
+So many people mistake LLMs as good writers just because it can generate text well
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 50]]></description>
-      <author>@Ronald_vanLoon</author>
+@zarazhangrui | ❤️ 3 | 🔁 0 | 💬 1 | 👁 242]]></description>
+      <author>@zarazhangrui</author>
+    </item>
+    <item>
+      <title>RT @wil_da_beast630: Always worth a re-share.</title>
+      <link>https://x.com/elonmusk/status/2045392926335770776</link>
+      <guid isPermaLink="false">2045392926335770776</guid>
+      <pubDate>Sat, 18 Apr 2026 06:44:09 +0000</pubDate>
+      <description><![CDATA[RT @wil_da_beast630: Always worth a re-share.
+
+---
+@elonmusk | ❤️ 0 | 🔁 120 | 💬 0 | 👁 14]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @SawyerMerritt: Tesla is officially launching in Estonia.
+
+The company is holding an opening even...</title>
+      <link>https://x.com/elonmusk/status/2045391738928304147</link>
+      <guid isPermaLink="false">2045391738928304147</guid>
+      <pubDate>Sat, 18 Apr 2026 06:39:26 +0000</pubDate>
+      <description><![CDATA[RT @SawyerMerritt: Tesla is officially launching in Estonia.
+
+The company is holding an opening event on April 24th at Ülemiste Center
+
+&quot;Br…
+
+---
+@elonmusk | ❤️ 0 | 🔁 195 | 💬 0 | 👁 6]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
