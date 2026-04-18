@@ -5,97 +5,152 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 15:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 16:00:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>There's a bit of a 2010s PHP vs Go flavor in there.</title>
-      <link>https://x.com/fchollet/status/2045525172376219768</link>
-      <guid isPermaLink="false">2045525172376219768</guid>
-      <pubDate>Sat, 18 Apr 2026 15:29:39 +0000</pubDate>
-      <description><![CDATA[There's a bit of a 2010s PHP vs Go flavor in there.
+      <title>The only way SpaceX’s anticipated IPO price makes sense? https://t.co/ksvQviO19t</title>
+      <link>https://x.com/GaryMarcus/status/2045532897088794850</link>
+      <guid isPermaLink="false">2045532897088794850</guid>
+      <pubDate>Sat, 18 Apr 2026 16:00:21 +0000</pubDate>
+      <description><![CDATA[The only way SpaceX’s anticipated IPO price makes sense? https://t.co/ksvQviO19t
 
 ---
-@fchollet | ❤️ 0 | 🔁 0 | 💬 0 | 👁 180]]></description>
-      <author>@fchollet</author>
+@GaryMarcus | ❤️ 0 | 🔁 0 | 💬 0 | 👁 2]]></description>
+      <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>When looking at deep learning profiles, one of the most obvious tells between a mediocre and great c...</title>
-      <link>https://x.com/fchollet/status/2045524796298101077</link>
-      <guid isPermaLink="false">2045524796298101077</guid>
-      <pubDate>Sat, 18 Apr 2026 15:28:10 +0000</pubDate>
-      <description><![CDATA[When looking at deep learning profiles, one of the most obvious tells between a mediocre and great candidate is whether they list PyTorch or JAX.
+      <title>&quot;Code never lies, comments sometimes do.&quot; — Ron Jeffries</title>
+      <link>https://x.com/MIT_CSAIL/status/2045532867577491477</link>
+      <guid isPermaLink="false">2045532867577491477</guid>
+      <pubDate>Sat, 18 Apr 2026 16:00:14 +0000</pubDate>
+      <description><![CDATA[&quot;Code never lies, comments sometimes do.&quot; — Ron Jeffries
 
 ---
-@fchollet | ❤️ 2 | 🔁 1 | 💬 1 | 👁 606]]></description>
-      <author>@fchollet</author>
+@MIT_CSAIL | ❤️ 0 | 🔁 0 | 💬 0 | 👁 9]]></description>
+      <author>@MIT_CSAIL</author>
     </item>
     <item>
-      <title>This is actually awesome. There is nothing worse than going through the customs AFTER a really long ...</title>
-      <link>https://x.com/tunguz/status/2045524410358984951</link>
-      <guid isPermaLink="false">2045524410358984951</guid>
-      <pubDate>Sat, 18 Apr 2026 15:26:38 +0000</pubDate>
-      <description><![CDATA[This is actually awesome. There is nothing worse than going through the customs AFTER a really long transatlantic flight.
+      <title>24/7 Smart Surveillance: China Deploys #Autonomous Police Cars
+by @niccruzpatane
+  
+#EmergingTech #T...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045532323647484216</link>
+      <guid isPermaLink="false">2045532323647484216</guid>
+      <pubDate>Sat, 18 Apr 2026 15:58:04 +0000</pubDate>
+      <description><![CDATA[24/7 Smart Surveillance: China Deploys #Autonomous Police Cars
+by @niccruzpatane
+  
+#EmergingTech #Technology #Innovation #Tech #FutureTech https://t.co/n21ucgn5fH
 
 ---
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 254]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @paulg: &quot;Ron discovered how to be the investor of the future by accident. He didn't foresee ...</title>
-      <link>https://x.com/sama/status/2045523881012981785</link>
-      <guid isPermaLink="false">2045523881012981785</guid>
-      <pubDate>Sat, 18 Apr 2026 15:24:31 +0000</pubDate>
-      <description><![CDATA[RT @paulg: &quot;Ron discovered how to be the investor of the future by accident. He didn't foresee the future of startup investing, realize it…
-
----
-@sama | ❤️ 0 | 🔁 29 | 💬 0 | 👁 1]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>Designing for Speed: How HexRunner Achieved Stable 30 MPH Locomotion
-by @lukas_m_ziegler
-
-#EmergingT...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045523521028210975</link>
-      <guid isPermaLink="false">2045523521028210975</guid>
-      <pubDate>Sat, 18 Apr 2026 15:23:06 +0000</pubDate>
-      <description><![CDATA[Designing for Speed: How HexRunner Achieved Stable 30 MPH Locomotion
-by @lukas_m_ziegler
-
-#EmergingTech #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/H7rdP5DNTV
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 88]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 36]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Also available as a written guide: https://t.co/z6zkXZsYk1</title>
-      <link>https://x.com/petergyang/status/2045522946438127678</link>
-      <guid isPermaLink="false">2045522946438127678</guid>
-      <pubDate>Sat, 18 Apr 2026 15:20:49 +0000</pubDate>
-      <description><![CDATA[Also available as a written guide: https://t.co/z6zkXZsYk1
+      <title>There is no crying in AI.</title>
+      <link>https://x.com/tunguz/status/2045532297244405987</link>
+      <guid isPermaLink="false">2045532297244405987</guid>
+      <pubDate>Sat, 18 Apr 2026 15:57:58 +0000</pubDate>
+      <description><![CDATA[There is no crying in AI.
 
 ---
-@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 278]]></description>
-      <author>@petergyang</author>
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 103]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>Here's my new tutorial with a live demo of everything you can build with Claude Design.
-
-I cover how...</title>
-      <link>https://x.com/petergyang/status/2045522933943238934</link>
-      <guid isPermaLink="false">2045522933943238934</guid>
-      <pubDate>Sat, 18 Apr 2026 15:20:46 +0000</pubDate>
-      <description><![CDATA[Here's my new tutorial with a live demo of everything you can build with Claude Design.
-
-I cover how to create videos, slides, websites, apps, and even an initial design system all in 16 minutes.
-
-Claude Design is super fun and you'll burn through your usage fast :)
-
-📌 Watch now: https://t.co/MjC6f2dXBt
+      <title>涉及到付费的东西做 native app 真麻烦，还是 web 自由自在。</title>
+      <link>https://x.com/turingou/status/2045531874723090940</link>
+      <guid isPermaLink="false">2045531874723090940</guid>
+      <pubDate>Sat, 18 Apr 2026 15:56:17 +0000</pubDate>
+      <description><![CDATA[涉及到付费的东西做 native app 真麻烦，还是 web 自由自在。
 
 ---
-@petergyang | ❤️ 5 | 🔁 0 | 💬 2 | 👁 507]]></description>
+@turingou | ❤️ 1 | 🔁 0 | 💬 0 | 👁 469]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>This is what they took away from us. https://t.co/Z45TG4eHvz</title>
+      <link>https://x.com/tunguz/status/2045531834096746936</link>
+      <guid isPermaLink="false">2045531834096746936</guid>
+      <pubDate>Sat, 18 Apr 2026 15:56:08 +0000</pubDate>
+      <description><![CDATA[This is what they took away from us. https://t.co/Z45TG4eHvz
+
+---
+@tunguz | ❤️ 8 | 🔁 0 | 💬 1 | 👁 176]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Next-Level #Robotics: Linker Hand06 Brings Human-Scale Precision
+by @CyberRobooo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045530042571030783</link>
+      <guid isPermaLink="false">2045530042571030783</guid>
+      <pubDate>Sat, 18 Apr 2026 15:49:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Next-Level #Robotics: Linker Hand06 Brings Human-Scale Precision
+by @CyberRobooo
+
+#Robots #ArtificialIntelligence #Inno…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>😑</title>
+      <link>https://x.com/elonmusk/status/2045528708773969978</link>
+      <guid isPermaLink="false">2045528708773969978</guid>
+      <pubDate>Sat, 18 Apr 2026 15:43:42 +0000</pubDate>
+      <description><![CDATA[😑
+
+---
+@elonmusk | ❤️ 8317 | 🔁 1445 | 💬 1121 | 👁 670375]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @hylarucoder: 第一眼看过去平平无奇：Prefill/Decode 解耦，多了个跨数据中心…</title>
+      <link>https://x.com/dotey/status/2045528541568143701</link>
+      <guid isPermaLink="false">2045528541568143701</guid>
+      <pubDate>Sat, 18 Apr 2026 15:43:03 +0000</pubDate>
+      <description><![CDATA[RT @hylarucoder: 第一眼看过去平平无奇：Prefill/Decode 解耦，多了个跨数据中心…
+
+---
+@dotey | ❤️ 0 | 🔁 11 | 💬 0 | 👁 4]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Feedback on Claude Design if anyone from Anthropic is reading this:
+
+Love
+
+1. AskUserQuestion from @...</title>
+      <link>https://x.com/petergyang/status/2045527271650558383</link>
+      <guid isPermaLink="false">2045527271650558383</guid>
+      <pubDate>Sat, 18 Apr 2026 15:38:00 +0000</pubDate>
+      <description><![CDATA[Feedback on Claude Design if anyone from Anthropic is reading this:
+
+Love
+
+1. AskUserQuestion from @trq212 spreading to all Claude products
+
+2. It creates beautiful videos, more so than slides. Huge potential here.
+
+3. The design system integration feels best in class for AI tools
+
+Needs improvement
+
+1. Make it easy to create and export videos. Creating a video first and then converting it to slides creates better slides.
+
+2. Let people publish websites and landing pages directly without having to move to Claude Code. Make it easy to share a public link to any creation and for other ppl to remix it.
+
+3. If you ask it to recreate some public websites, it'll just stop working. this is probably for copyright but make it obvious to users.
+
+4. The whole diverge and converge design process - what's an easy way to get it to explore multiple options without burning tons of tokens?
+
+5. Cowork and Design should probably just be one product at some point. fwiw Design is more sticky for me than Cowork (but I rely on Claude Code for most Cowork workflows).
+
+6. Please increase the usage limits - I ran out in one hour 🥹
+
+---
+@petergyang | ❤️ 12 | 🔁 0 | 💬 0 | 👁 1524]]></description>
       <author>@petergyang</author>
     </item>
   </channel>
