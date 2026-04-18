@@ -5,78 +5,126 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 02:30:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Dive into Claude Code and how it compares with OpenClaw.
-
-https://t.co/O8feYa0IMQ https://t.co/Fhm3W...</title>
-      <link>https://x.com/dair_ai/status/2045321176717930498</link>
-      <guid isPermaLink="false">2045321176717930498</guid>
-      <pubDate>Sat, 18 Apr 2026 01:59:03 +0000</pubDate>
-      <description><![CDATA[Dive into Claude Code and how it compares with OpenClaw.
-
-https://t.co/O8feYa0IMQ https://t.co/Fhm3WoCtyg
-
----
-@dair_ai | ❤️ 0 | 🔁 0 | 💬 0 | 👁 38]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>The Truth About #AI Replacing Jobs
-by @Python_Dv
-
-#GenerativeAI #ArtificialIntelligence #MachineLear...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045320916645671177</link>
-      <guid isPermaLink="false">2045320916645671177</guid>
-      <pubDate>Sat, 18 Apr 2026 01:58:01 +0000</pubDate>
-      <description><![CDATA[The Truth About #AI Replacing Jobs
-by @Python_Dv
-
-#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t.co/hee7P6H4LF
+      <title>Meet the #Robot That Runs on Walls Like a Spider
+via @ZappyZappy7
+ 
+#Robotics #Innovation #EmergingT...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045327498041245915</link>
+      <guid isPermaLink="false">2045327498041245915</guid>
+      <pubDate>Sat, 18 Apr 2026 02:24:10 +0000</pubDate>
+      <description><![CDATA[Meet the #Robot That Runs on Walls Like a Spider
+via @ZappyZappy7
+ 
+#Robotics #Innovation #EmergingTech #Technology https://t.co/9raQGG6Z51
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 26]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 39]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Claude Design 目前是独立额度，良心起来了？ https://t.co/fVSRtIxQI5</title>
-      <link>https://x.com/Jason_Young1231/status/2045319324005732835</link>
-      <guid isPermaLink="false">2045319324005732835</guid>
-      <pubDate>Sat, 18 Apr 2026 01:51:41 +0000</pubDate>
-      <description><![CDATA[Claude Design 目前是独立额度，良心起来了？ https://t.co/fVSRtIxQI5
+      <title>Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：
+
+1. 别急着干活，先花一小时搭你的设计系统。...</title>
+      <link>https://x.com/dotey/status/2045327385763913731</link>
+      <guid isPermaLink="false">2045327385763913731</guid>
+      <pubDate>Sat, 18 Apr 2026 02:23:43 +0000</pubDate>
+      <description><![CDATA[Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：
+
+1. 别急着干活，先花一小时搭你的设计系统。
+
+把代码库、设计稿、品牌素材全塞给 Claude，让它抽出一套 UI Kit 并直接发布。这一小时的投入，以后你每次生成设计稿，风格都会自动套用，性价比爆表。公司要全面推开，可以投入一到两周做系统沉淀，道理不变：先沉下去规范，后面才有复利。
+
+2. 别再玩接力，跟工程师一起边聊边改。
+
+过去那种“设计师出稿→甩给工程师实现→回来再修改”的模式，已经过时了。开个会，你们一起看着画布，边讨论边敲定方案，一场会定下来直接开发，效率拉满。
+3. 结构级大改用聊天，细节调整点评论。
+
+你想换个深色模式、布局大洗牌、新增设置面板，或者一次出多个方向，这种级别的任务用聊天界面效率最高；按钮 padding 调一下、颜色换一换、输入框改下拉菜单，这种小修小补直接在元素上评论就行，精准又快速。
+
+4. 反馈要具体，别给模糊情绪。
+
+官方举过一个特别好的例子：「看着不对劲」就是最差反馈，而「表单字段间距改成 8px」才是智能体最爱听的明确指令。Claude 最擅长处理具象具体的要求，不善于揣摩你抽象的审美情绪。
+
+5. 接上 Connector，让 Claude 读懂上下文。
+
+Ryan Mather 提到他最爱的用法：把产品吐槽会议的纪要喂给 Claude，然后出去溜达一圈，回来一份完整的解决方案 Deck 已经自动生成了。
+
+让 Claude 干复杂又综合的脑力活儿，你腾出手做更重要、更有创造力的事。
+
+6. 关键时刻，别怕手工慢下来。
+
+新图标、核心插画、产品名字、品牌形象，这类活儿别指望模型给你完美答案。这不是 Claude 不够牛，而是这事儿本质上考验的是你的个人品味和判断。Ryan 把这叫作“Agentic Designing 的艺术部分”。
+
+7. 挂代码要精准，别塞整个 monorepo。
+
+把整个 repo 拖进去会直接卡爆浏览器，模型的上下文也被无用信息污染了。你只要挂目标组件的文件夹或 package 就够了，记得排除 .git 和 node_modules，干净利索。
+
+再补两条官方没说的小窍门：
+
+1) 多开几个 Chat 平行探索。
+
+同一个想法开 3 个对话，各自往不同方向跑一段，然后再挑精华合并，比在一个对话里反复折腾要高效太多。
+
+2) 团队 Leader 得改改你的审查流程。
+
+以前是“人做、人审”，现在是“Claude 做、人审”，这个差别巨大。如果你不调整节奏和人力配置，工具的价值会浪费一半，审查这一步一定要重构。
 
 ---
-@Jason_Young1231 | ❤️ 1 | 🔁 0 | 💬 0 | 👁 115]]></description>
-      <author>@Jason_Young1231</author>
+@dotey | ❤️ 14 | 🔁 2 | 💬 2 | 👁 1329]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>Lmaooo https://t.co/pPVoCcN8tm</title>
-      <link>https://x.com/elonmusk/status/2045317075783020756</link>
-      <guid isPermaLink="false">2045317075783020756</guid>
-      <pubDate>Sat, 18 Apr 2026 01:42:45 +0000</pubDate>
-      <description><![CDATA[Lmaooo https://t.co/pPVoCcN8tm
+      <title>RT @Ronald_vanLoon: Ways to Train an #LLM
+by @goyalshaliniuk
+
+#GenAI #ArtificialIntelligence #Machin...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045326952366543127</link>
+      <guid isPermaLink="false">2045326952366543127</guid>
+      <pubDate>Sat, 18 Apr 2026 02:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Ways to Train an #LLM
+by @goyalshaliniuk
+
+#GenAI #ArtificialIntelligence #MachineLearning #ML https://t.co/kLlncNpRaO
 
 ---
-@elonmusk | ❤️ 3530 | 🔁 419 | 💬 719 | 👁 479660]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Meet the #Robot That Collects Tolls
-by @BrianRoemmele
-  
-#EmergingTech #Innovation #TechForGood #Tec...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045315644535587227</link>
-      <guid isPermaLink="false">2045315644535587227</guid>
-      <pubDate>Sat, 18 Apr 2026 01:37:04 +0000</pubDate>
-      <description><![CDATA[Meet the #Robot That Collects Tolls
-by @BrianRoemmele
-  
-#EmergingTech #Innovation #TechForGood #Technology https://t.co/ug59Ki13X9
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 169]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @NVIDIAAIDev: @openclaw And of course @Ollama for the local model-serving engine. 🦙</title>
+      <link>https://x.com/ollama/status/2045325253233225991</link>
+      <guid isPermaLink="false">2045325253233225991</guid>
+      <pubDate>Sat, 18 Apr 2026 02:15:15 +0000</pubDate>
+      <description><![CDATA[RT @NVIDIAAIDev: @openclaw And of course @Ollama for the local model-serving engine. 🦙
+
+---
+@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>https://t.co/vPEtJ7N1XZ</title>
+      <link>https://x.com/dotey/status/2045323919570182384</link>
+      <guid isPermaLink="false">2045323919570182384</guid>
+      <pubDate>Sat, 18 Apr 2026 02:09:57 +0000</pubDate>
+      <description><![CDATA[https://t.co/vPEtJ7N1XZ
+
+---
+@dotey | ❤️ 22 | 🔁 4 | 💬 3 | 👁 2775]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>@Jason_Young1231 用不了几次就没了…</title>
+      <link>https://x.com/dotey/status/2045322251671626023</link>
+      <guid isPermaLink="false">2045322251671626023</guid>
+      <pubDate>Sat, 18 Apr 2026 02:03:19 +0000</pubDate>
+      <description><![CDATA[@Jason_Young1231 用不了几次就没了…
+
+---
+@dotey | ❤️ 3 | 🔁 0 | 💬 0 | 👁 397]]></description>
+      <author>@dotey</author>
     </item>
   </channel>
 </rss>
