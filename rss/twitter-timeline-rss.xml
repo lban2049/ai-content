@@ -5,77 +5,68 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 04:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 05:00:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Software going headless is inevitable in a world where agents use the tools 100X more than people do...</title>
-      <link>https://x.com/levie/status/2045355693050655048</link>
-      <guid isPermaLink="false">2045355693050655048</guid>
-      <pubDate>Sat, 18 Apr 2026 04:16:12 +0000</pubDate>
-      <description><![CDATA[Software going headless is inevitable in a world where agents use the tools 100X more than people do. And the reality is for a lot of software this is actually a huge boon to potential use-cases for these platforms.
+      <title>RT @GuntherEagleman: 🚨 TRUMP CALLS OUT GENOCIDE IN SOUTH AFRICA 
 
-Software business models have largely been predicated on selling to the number of seats that are in the company in a given function, and the usage of your software is constrained by how much people can do in a given day. This means that your technology is often vastly underutilized relative to what it actually can power for the customer. 
+“In South Africa there’s a very ho...</title>
+      <link>https://x.com/elonmusk/status/2045366805997166653</link>
+      <guid isPermaLink="false">2045366805997166653</guid>
+      <pubDate>Sat, 18 Apr 2026 05:00:22 +0000</pubDate>
+      <description><![CDATA[RT @GuntherEagleman: 🚨 TRUMP CALLS OUT GENOCIDE IN SOUTH AFRICA 
 
-Enter: agents. Agents can work 24/7, run in parallel, and string together work across systems. This is a big deal because now the agent can do far more than people ever could with these tools. Instead of reviewing contracts one by one, the agent will review all of them. Instead of manually moving data between marketing systems and across campaigns, the agent will let you run 10X more of them. Instead of being rate limited in a client onboarding process by human steps, agents accelerate these.
-
-Agents end up using these underlying platforms far more than people ever did, which opens up use-cases that the platform couldn’t go after before.
-
-Now, not every software market has the same amount of positive sum use-cases between people and agents, but I’d argue that a significant portion of systems of record, for instance, can be used far more than they are today. Your Salesforce data can be leveraged 100X more to do vastly more customer targeting and sales automation. Your documents can be turned into structured data and analyzed for insights and knowledge to automate other workflows. And so on.
-
-Now, of course you have to find a way to make this all commercially attractive, but it’s not hard to picture the revenue from API and agent consumption on these platforms becoming a rich component of revenue streams over time. Seats for the people, consumption for the agents. Lots of upside here for the companies that embrace this trend.
+“In South Africa there’s a very horrible thing going on… it’s a genocide,…
 
 ---
-@levie | ❤️ 42 | 🔁 3 | 💬 4 | 👁 2051]]></description>
-      <author>@levie</author>
+@elonmusk | ❤️ 0 | 🔁 278 | 💬 0 | 👁 0]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: #Data Engineer vs #DataScientist
-by @Python_Dv
-
-#DataScience #BigData https://t....</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045355641624006846</link>
-      <guid isPermaLink="false">2045355641624006846</guid>
-      <pubDate>Sat, 18 Apr 2026 04:16:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #Data Engineer vs #DataScientist
-by @Python_Dv
-
-#DataScience #BigData https://t.co/5IjExSUzja
+      <title>https://t.co/eJ3Dvsx8FV</title>
+      <link>https://x.com/elonmusk/status/2045362463260971461</link>
+      <guid isPermaLink="false">2045362463260971461</guid>
+      <pubDate>Sat, 18 Apr 2026 04:43:06 +0000</pubDate>
+      <description><![CDATA[https://t.co/eJ3Dvsx8FV
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@elonmusk | ❤️ 2790 | 🔁 434 | 💬 564 | 👁 470103]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>108-Armed Cotton Picking #Robot Harvests 120× Faster Than Humans
-via @ZappyZappy7
+      <title>RT @andy1and: FSD is shockingly good, I am completely gobsmacked. @Tesla team, bravo, truly. My god....</title>
+      <link>https://x.com/elonmusk/status/2045362208691855389</link>
+      <guid isPermaLink="false">2045362208691855389</guid>
+      <pubDate>Sat, 18 Apr 2026 04:42:06 +0000</pubDate>
+      <description><![CDATA[RT @andy1and: FSD is shockingly good, I am completely gobsmacked. @Tesla team, bravo, truly. My god. 
 
-#AgriTech #Roboti...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045354938293735657</link>
-      <guid isPermaLink="false">2045354938293735657</guid>
-      <pubDate>Sat, 18 Apr 2026 04:13:12 +0000</pubDate>
-      <description><![CDATA[108-Armed Cotton Picking #Robot Harvests 120× Faster Than Humans
-via @ZappyZappy7
-
-#AgriTech #Robotics #Innovation #Technology #TechForGood https://t.co/dtBjyXkefI
+First drive in Amsterdam after 5 yea…
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 85]]></description>
-      <author>@Ronald_vanLoon</author>
+@elonmusk | ❤️ 0 | 🔁 128 | 💬 0 | 👁 9]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @claudeai: The Claude Code hackathon is back for Opus 4.7.
-
-Join builders from around the world f...</title>
-      <link>https://x.com/mc_anthropic/status/2045353007953387720</link>
-      <guid isPermaLink="false">2045353007953387720</guid>
-      <pubDate>Sat, 18 Apr 2026 04:05:32 +0000</pubDate>
-      <description><![CDATA[RT @claudeai: The Claude Code hackathon is back for Opus 4.7.
-
-Join builders from around the world for a week with the Claude Code team in…
+      <title>买了一些老书 https://t.co/qM8Qox6uCv</title>
+      <link>https://x.com/oran_ge/status/2045361858677445103</link>
+      <guid isPermaLink="false">2045361858677445103</guid>
+      <pubDate>Sat, 18 Apr 2026 04:40:42 +0000</pubDate>
+      <description><![CDATA[买了一些老书 https://t.co/qM8Qox6uCv
 
 ---
-@mc_anthropic | ❤️ 0 | 🔁 382 | 💬 0 | 👁 0]]></description>
-      <author>@mc_anthropic</author>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 1 | 👁 478]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>“my honest read is that a significant portion of this spending is driven by competitive fear rather ...</title>
+      <link>https://x.com/GaryMarcus/status/2045361707326046377</link>
+      <guid isPermaLink="false">2045361707326046377</guid>
+      <pubDate>Sat, 18 Apr 2026 04:40:06 +0000</pubDate>
+      <description><![CDATA[“my honest read is that a significant portion of this spending is driven by competitive fear rather than demonstrated returns. Nobody wants to be the company that didn't invest in AI when everyone else did. That's how bubbles get funded, and at some point boards are going to demand a number that justifies it.”
+
+---
+@GaryMarcus | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1115]]></description>
+      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
