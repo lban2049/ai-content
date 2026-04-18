@@ -5,85 +5,194 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 21:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 21:31:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Master Any #LLM
-by @ingliguori
-
-#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045607808041673185</link>
-      <guid isPermaLink="false">2045607808041673185</guid>
-      <pubDate>Sat, 18 Apr 2026 20:58:01 +0000</pubDate>
-      <description><![CDATA[Master Any #LLM
-by @ingliguori
-
-#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t.co/Uh7aTd8fzC
+      <title>RT @chatgpt21: @kimmonismus It is lol he’s a European meme page who makes fun of European VC culture</title>
+      <link>https://x.com/DeepLearn007/status/2045615298481385826</link>
+      <guid isPermaLink="false">2045615298481385826</guid>
+      <pubDate>Sat, 18 Apr 2026 21:27:47 +0000</pubDate>
+      <description><![CDATA[RT @chatgpt21: @kimmonismus It is lol he’s a European meme page who makes fun of European VC culture
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 27]]></description>
+@DeepLearn007 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @compliantvc: Just spoke with dozens of European VCs
+
+They all agreed: AI is over
+
+No one is putt...</title>
+      <link>https://x.com/DeepLearn007/status/2045615288553459994</link>
+      <guid isPermaLink="false">2045615288553459994</guid>
+      <pubDate>Sat, 18 Apr 2026 21:27:45 +0000</pubDate>
+      <description><![CDATA[RT @compliantvc: Just spoke with dozens of European VCs
+
+They all agreed: AI is over
+
+No one is putting money into AI startups anymore
+
+Ope…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 54 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>@NousResearch Nice and clean! Soon we will port over the next step, turning these infographics into ...</title>
+      <link>https://x.com/Teknium/status/2045615016536416549</link>
+      <guid isPermaLink="false">2045615016536416549</guid>
+      <pubDate>Sat, 18 Apr 2026 21:26:40 +0000</pubDate>
+      <description><![CDATA[@NousResearch Nice and clean! Soon we will port over the next step, turning these infographics into video slideshows to share on tiktok, redbook, and other social media!
+
+---
+@Teknium | ❤️ 1 | 🔁 0 | 💬 0 | 👁 97]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>@dotey @steipete Official port is now in!
+
+https://t.co/rBGAJJwCIs</title>
+      <link>https://x.com/Teknium/status/2045614585022144884</link>
+      <guid isPermaLink="false">2045614585022144884</guid>
+      <pubDate>Sat, 18 Apr 2026 21:24:57 +0000</pubDate>
+      <description><![CDATA[@dotey @steipete Official port is now in!
+
+https://t.co/rBGAJJwCIs
+
+---
+@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 26]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>The quality of your thinking is a multiplier for the amount of progress you make at each iteration. ...</title>
+      <link>https://x.com/fchollet/status/2045614294554096005</link>
+      <guid isPermaLink="false">2045614294554096005</guid>
+      <pubDate>Sat, 18 Apr 2026 21:23:48 +0000</pubDate>
+      <description><![CDATA[The quality of your thinking is a multiplier for the amount of progress you make at each iteration. But the dominant factor behind success is simply your iteration speed. Try more things and you win.
+
+---
+@fchollet | ❤️ 16 | 🔁 0 | 💬 1 | 👁 910]]></description>
+      <author>@fchollet</author>
+    </item>
+    <item>
+      <title>Honored to announce we are partnering with Jim Liu to port over his wildly popular skills for infogr...</title>
+      <link>https://x.com/NousResearch/status/2045613907004535011</link>
+      <guid isPermaLink="false">2045613907004535011</guid>
+      <pubDate>Sat, 18 Apr 2026 21:22:15 +0000</pubDate>
+      <description><![CDATA[Honored to announce we are partnering with Jim Liu to port over his wildly popular skills for infographics and design to work best in Hermes Agent using our native tooling!
+
+The first skill ported today, the Infographic Skill, is available after updating hermes.
+
+Just start a new chat and type `/baoyu-infographic &lt;topic&gt;` to get started! Recommended image generation model is Nano Banana.
+
+---
+@NousResearch | ❤️ 47 | 🔁 3 | 💬 6 | 👁 1634]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Physical #AI and #Robotics will bring about the next industrial revolution
+by @nvidiaomniverse
+  
+#I...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045613374466130194</link>
+      <guid isPermaLink="false">2045613374466130194</guid>
+      <pubDate>Sat, 18 Apr 2026 21:20:08 +0000</pubDate>
+      <description><![CDATA[Physical #AI and #Robotics will bring about the next industrial revolution
+by @nvidiaomniverse
+  
+#Innovation #EmergingTech #Tech #Technology https://t.co/H8JaLQgYFI
+
+---
+@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 1 | 👁 117]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>And yes, Lush/SN used a homegrown Lisp interpreter, to which a compiler was added in the early 1990s...</title>
-      <link>https://x.com/ylecun/status/2045607759836549509</link>
-      <guid isPermaLink="false">2045607759836549509</guid>
-      <pubDate>Sat, 18 Apr 2026 20:57:50 +0000</pubDate>
-      <description><![CDATA[And yes, Lush/SN used a homegrown Lisp interpreter, to which a compiler was added in the early 1990s.
+      <title>RT @omarsar0: Nice paper from Google.
+
+And a great application of AI agents.
+
+Wearables capture a st...</title>
+      <link>https://x.com/dair_ai/status/2045611871537860679</link>
+      <guid isPermaLink="false">2045611871537860679</guid>
+      <pubDate>Sat, 18 Apr 2026 21:14:10 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: Nice paper from Google.
+
+And a great application of AI agents.
+
+Wearables capture a staggering amount of physiological signal…
 
 ---
-@ylecun | ❤️ 4 | 🔁 0 | 💬 0 | 👁 694]]></description>
+@dair_ai | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>You cannot think your way to a perfect design. Only building and testing, over many iterations, can ...</title>
+      <link>https://x.com/fchollet/status/2045611502099628389</link>
+      <guid isPermaLink="false">2045611502099628389</guid>
+      <pubDate>Sat, 18 Apr 2026 21:12:42 +0000</pubDate>
+      <description><![CDATA[You cannot think your way to a perfect design. Only building and testing, over many iterations, can reveal the flaws in your mental model and provide the feedback you need to create the best design possible.
+
+---
+@fchollet | ❤️ 87 | 🔁 13 | 💬 16 | 👁 2967]]></description>
+      <author>@fchollet</author>
+    </item>
+    <item>
+      <title>Dario is wrong.
+He knows absolutely nothing about the effects of technological revolutions on the la...</title>
+      <link>https://x.com/ylecun/status/2045610129119117574</link>
+      <guid isPermaLink="false">2045610129119117574</guid>
+      <pubDate>Sat, 18 Apr 2026 21:07:15 +0000</pubDate>
+      <description><![CDATA[Dario is wrong.
+He knows absolutely nothing about the effects of technological revolutions on the labor market. 
+Don't listen to him, Sam, Yoshua, Geoff, or me on this topic.
+Listen to economists who have spent their career studying this, like @Ph_Aghion , @erikbryn , @DAcemogluMIT , @amcafee , @davidautor
+
+---
+@ylecun | ❤️ 545 | 🔁 76 | 💬 68 | 👁 30438]]></description>
       <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @ylecun: @norpadon The tensor engine was first implemented inside SN3 (before it was called Lush)...</title>
-      <link>https://x.com/ylecun/status/2045606922959683733</link>
-      <guid isPermaLink="false">2045606922959683733</guid>
-      <pubDate>Sat, 18 Apr 2026 20:54:30 +0000</pubDate>
-      <description><![CDATA[RT @ylecun: @norpadon The tensor engine was first implemented inside SN3 (before it was called Lush) in 1992 at Bell Labs by Léon Bottom an…
+      <title>Backtesting: test your strategy on past data https://t.co/LWigGaNzLX</title>
+      <link>https://x.com/binance/status/2045609191977476584</link>
+      <guid isPermaLink="false">2045609191977476584</guid>
+      <pubDate>Sat, 18 Apr 2026 21:03:31 +0000</pubDate>
+      <description><![CDATA[Backtesting: test your strategy on past data https://t.co/LWigGaNzLX
 
 ---
-@ylecun | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@binance | ❤️ 86 | 🔁 15 | 💬 41 | 👁 12535]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>RT @BLKMDL3: Tesla officially fully opened their new Montebello location today.
-
-The largest @Tesla ...</title>
-      <link>https://x.com/elonmusk/status/2045606042210533600</link>
-      <guid isPermaLink="false">2045606042210533600</guid>
-      <pubDate>Sat, 18 Apr 2026 20:51:00 +0000</pubDate>
-      <description><![CDATA[RT @BLKMDL3: Tesla officially fully opened their new Montebello location today.
-
-The largest @Tesla sales/service/delivery location in Cali…
+      <title>Cooking something fun https://t.co/VaE4P2jNsp</title>
+      <link>https://x.com/petergyang/status/2045608925673013690</link>
+      <guid isPermaLink="false">2045608925673013690</guid>
+      <pubDate>Sat, 18 Apr 2026 21:02:28 +0000</pubDate>
+      <description><![CDATA[Cooking something fun https://t.co/VaE4P2jNsp
 
 ---
-@elonmusk | ❤️ 0 | 🔁 108 | 💬 0 | 👁 3]]></description>
-      <author>@elonmusk</author>
+@petergyang | ❤️ 7 | 🔁 0 | 💬 0 | 👁 734]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>Children are the future</title>
-      <link>https://x.com/elonmusk/status/2045603644159283436</link>
-      <guid isPermaLink="false">2045603644159283436</guid>
-      <pubDate>Sat, 18 Apr 2026 20:41:28 +0000</pubDate>
-      <description><![CDATA[Children are the future
+      <title>RT @Ronald_vanLoon: #Tech Experts Detail The Benefits Of The ‘Sky Computing’ Model
+by @Forbes
+
+Learn...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045608810731950398</link>
+      <guid isPermaLink="false">2045608810731950398</guid>
+      <pubDate>Sat, 18 Apr 2026 21:02:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: #Tech Experts Detail The Benefits Of The ‘Sky Computing’ Model
+by @Forbes
+
+Learn more: https://t.co/HS5i4u0MAs
+
+#Emergi…
 
 ---
-@elonmusk | ❤️ 6352 | 🔁 833 | 💬 1497 | 👁 1190379]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @ArthurMacwaters: &amp;gt; grok4.20-beta1 is a much smaller model than opus but is #1 ranked in m...</title>
-      <link>https://x.com/elonmusk/status/2045601671502598170</link>
-      <guid isPermaLink="false">2045601671502598170</guid>
-      <pubDate>Sat, 18 Apr 2026 20:33:38 +0000</pubDate>
-      <description><![CDATA[RT @ArthurMacwaters: &amp;gt; grok4.20-beta1 is a much smaller model than opus but is #1 ranked in medicine and healthcare
-
-&amp;gt; 4.3 and 4.4 will be…
-
----
-@elonmusk | ❤️ 0 | 🔁 114 | 💬 0 | 👁 27]]></description>
-      <author>@elonmusk</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
