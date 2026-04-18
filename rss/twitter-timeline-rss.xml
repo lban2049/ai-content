@@ -5,136 +5,145 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 20:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 20:31:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: MIT’s Self-Folding Origami #Robot Transforms from Flat Sheet to Crawling, Climbi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045593297792442552</link>
-      <guid isPermaLink="false">2045593297792442552</guid>
-      <pubDate>Sat, 18 Apr 2026 20:00:22 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: MIT’s Self-Folding Origami #Robot Transforms from Flat Sheet to Crawling, Climbing, Swimming Machine
-by @tweetciiiim
-
-#…
+      <title>Hermes Agent is model &amp;amp; tool backend agnostic for a reason, everyone should have access to A...</title>
+      <link>https://x.com/Teknium/status/2045600634024730764</link>
+      <guid isPermaLink="false">2045600634024730764</guid>
+      <pubDate>Sat, 18 Apr 2026 20:29:31 +0000</pubDate>
+      <description><![CDATA[Hermes Agent is model &amp;amp; tool backend agnostic for a reason, everyone should have access to AI. We don't dictate the rules of use for your agent, YOU do
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+@Teknium | ❤️ 5 | 🔁 1 | 💬 0 | 👁 118]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>🫡🫡</title>
+      <link>https://x.com/Teknium/status/2045600398762016929</link>
+      <guid isPermaLink="false">2045600398762016929</guid>
+      <pubDate>Sat, 18 Apr 2026 20:28:35 +0000</pubDate>
+      <description><![CDATA[🫡🫡
+
+---
+@Teknium | ❤️ 1 | 🔁 0 | 💬 0 | 👁 157]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>NEW paper from Apple.
+
+Interesting idea: &quot;Attention to Mamba&quot;.
+
+The paper introduces a two...</title>
+      <link>https://x.com/dair_ai/status/2045600012860801113</link>
+      <guid isPermaLink="false">2045600012860801113</guid>
+      <pubDate>Sat, 18 Apr 2026 20:27:03 +0000</pubDate>
+      <description><![CDATA[NEW paper from Apple.
+
+Interesting idea: &quot;Attention to Mamba&quot;.
+
+The paper introduces a two-stage recipe for cross-architecture distillation from Transformers into Mamba.
+
+Naive distillation collapses teacher performance. Their trick: first distill the transformer into a linearized-attention student using a kernel adaptation, then transfer that student into a pure Mamba with no attention blocks.
+
+On a 1B model trained on 10B tokens, the Mamba student hits 14.11 perplexity against a 13.86 Pythia-1B teacher, nearly matching quality at linear-time inference cost.
+
+If you can reliably convert trained transformers into state-space models without retraining from scratch, the entire open-weights ecosystem becomes cheaper to serve at long context. This is the kind of quiet infrastructure work that decides which architectures actually get deployed in agent stacks.
+
+Paper: https://t.co/h7k7OrG8Qj
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+
+---
+@dair_ai | ❤️ 2 | 🔁 1 | 💬 0 | 👁 158]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>#AI on the Assembly Line: Instant Potato Counting with Minimal Training
+by @IlirAliu_
+ 
+#ArtificialI...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045598012550881535</link>
+      <guid isPermaLink="false">2045598012550881535</guid>
+      <pubDate>Sat, 18 Apr 2026 20:19:06 +0000</pubDate>
+      <description><![CDATA[#AI on the Assembly Line: Instant Potato Counting with Minimal Training
+by @IlirAliu_
+ 
+#ArtificialIntelligence #MachineLearning #ML #MI https://t.co/Z0HPxgGqY6
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 103]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @mayemusk: Can’t wait 🤗🤗🤗</title>
-      <link>https://x.com/elonmusk/status/2045592448798478681</link>
-      <guid isPermaLink="false">2045592448798478681</guid>
-      <pubDate>Sat, 18 Apr 2026 19:56:59 +0000</pubDate>
-      <description><![CDATA[RT @mayemusk: Can’t wait 🤗🤗🤗
+      <title>RT @NousResearch: The Hermes Agent Creative Hackathon starts now
+
+16 Days, $25k in Prizes
+
+Presented...</title>
+      <link>https://x.com/NousResearch/status/2045597654596321707</link>
+      <guid isPermaLink="false">2045597654596321707</guid>
+      <pubDate>Sat, 18 Apr 2026 20:17:40 +0000</pubDate>
+      <description><![CDATA[RT @NousResearch: The Hermes Agent Creative Hackathon starts now
+
+16 Days, $25k in Prizes
+
+Presented by @Kimi_Moonshot &amp;amp; @NousResearch 
+
+Fo…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 712 | 💬 0 | 👁 4]]></description>
+@NousResearch | ❤️ 0 | 🔁 196 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>RT @cb_doge: NEWS: Grok hits an all-time high in monthly active users on the App Store.  🚀
+
+• Highes...</title>
+      <link>https://x.com/elonmusk/status/2045595151943483495</link>
+      <guid isPermaLink="false">2045595151943483495</guid>
+      <pubDate>Sat, 18 Apr 2026 20:07:44 +0000</pubDate>
+      <description><![CDATA[RT @cb_doge: NEWS: Grok hits an all-time high in monthly active users on the App Store.  🚀
+
+• Highest MAU ever recorded
+• Strong accelerati…
+
+---
+@elonmusk | ❤️ 0 | 🔁 134 | 💬 0 | 👁 57]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>Strait of Hormuz is Iran's Thermopylae.</title>
-      <link>https://x.com/tunguz/status/2045591830608187764</link>
-      <guid isPermaLink="false">2045591830608187764</guid>
-      <pubDate>Sat, 18 Apr 2026 19:54:32 +0000</pubDate>
-      <description><![CDATA[Strait of Hormuz is Iran's Thermopylae.
+      <title>Important learning opportunity. Could be transformative for your business/career.</title>
+      <link>https://x.com/amasad/status/2045594860061921655</link>
+      <guid isPermaLink="false">2045594860061921655</guid>
+      <pubDate>Sat, 18 Apr 2026 20:06:34 +0000</pubDate>
+      <description><![CDATA[Important learning opportunity. Could be transformative for your business/career.
 
 ---
-@tunguz | ❤️ 0 | 🔁 1 | 💬 0 | 👁 253]]></description>
-      <author>@tunguz</author>
+@amasad | ❤️ 18 | 🔁 1 | 💬 3 | 👁 2968]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>@nikunj 😂</title>
-      <link>https://x.com/petergyang/status/2045591015818760539</link>
-      <guid isPermaLink="false">2045591015818760539</guid>
-      <pubDate>Sat, 18 Apr 2026 19:51:18 +0000</pubDate>
-      <description><![CDATA[@nikunj 😂
+      <title>incredibly fun to build webapps and games with codex, entirely with natural language</title>
+      <link>https://x.com/gdb/status/2045594591584530826</link>
+      <guid isPermaLink="false">2045594591584530826</guid>
+      <pubDate>Sat, 18 Apr 2026 20:05:30 +0000</pubDate>
+      <description><![CDATA[incredibly fun to build webapps and games with codex, entirely with natural language
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 39]]></description>
-      <author>@petergyang</author>
+@gdb | ❤️ 142 | 🔁 5 | 💬 14 | 👁 12503]]></description>
+      <author>@gdb</author>
     </item>
     <item>
-      <title>@petergyang This tweet should’ve been a Claude code prompt</title>
-      <link>https://x.com/nikunj/status/2045590743134441503</link>
-      <guid isPermaLink="false">2045590743134441503</guid>
-      <pubDate>Sat, 18 Apr 2026 19:50:13 +0000</pubDate>
-      <description><![CDATA[@petergyang This tweet should’ve been a Claude code prompt
+      <title>RT @cb_doge: &quot;Assuming the current trend of AI and robotics continues, which seems likely, the ...</title>
+      <link>https://x.com/elonmusk/status/2045594277519262051</link>
+      <guid isPermaLink="false">2045594277519262051</guid>
+      <pubDate>Sat, 18 Apr 2026 20:04:15 +0000</pubDate>
+      <description><![CDATA[RT @cb_doge: &quot;Assuming the current trend of AI and robotics continues, which seems likely, the AI and robots will be able to do anything th…
 
 ---
-@nikunj | ❤️ 0 | 🔁 0 | 💬 1 | 👁 61]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>ABC of #AI Use Cases
-by @ingliguori
-
-#ArtificialIntelligence #MachineLearning #ML #DL https://t.co/R...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045590444629782882</link>
-      <guid isPermaLink="false">2045590444629782882</guid>
-      <pubDate>Sat, 18 Apr 2026 19:49:01 +0000</pubDate>
-      <description><![CDATA[ABC of #AI Use Cases
-by @ingliguori
-
-#ArtificialIntelligence #MachineLearning #ML #DL https://t.co/RLdwc2Fs3J
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 97]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @elonmusk: @Not_the_Bee Actually, AI/Robotics will mean everyone can have a penthouse if they wan...</title>
-      <link>https://x.com/elonmusk/status/2045589241858801972</link>
-      <guid isPermaLink="false">2045589241858801972</guid>
-      <pubDate>Sat, 18 Apr 2026 19:44:15 +0000</pubDate>
-      <description><![CDATA[RT @elonmusk: @Not_the_Bee Actually, AI/Robotics will mean everyone can have a penthouse if they want. The output of goods &amp;amp; services will…
-
----
-@elonmusk | ❤️ 0 | 🔁 250 | 💬 0 | 👁 3]]></description>
+@elonmusk | ❤️ 0 | 🔁 201 | 💬 0 | 👁 114]]></description>
       <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Real opening of the Strait of Hormuz has never been tried.</title>
-      <link>https://x.com/tunguz/status/2045589035897520212</link>
-      <guid isPermaLink="false">2045589035897520212</guid>
-      <pubDate>Sat, 18 Apr 2026 19:43:26 +0000</pubDate>
-      <description><![CDATA[Real opening of the Strait of Hormuz has never been tried.
-
----
-@tunguz | ❤️ 7 | 🔁 0 | 💬 1 | 👁 510]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Here's the course:
-
-https://t.co/QRnqjToWxd</title>
-      <link>https://x.com/erikbryn/status/2045586582879764872</link>
-      <guid isPermaLink="false">2045586582879764872</guid>
-      <pubDate>Sat, 18 Apr 2026 19:33:41 +0000</pubDate>
-      <description><![CDATA[Here's the course:
-
-https://t.co/QRnqjToWxd
-
----
-@erikbryn | ❤️ 1 | 🔁 0 | 💬 1 | 👁 499]]></description>
-      <author>@erikbryn</author>
-    </item>
-    <item>
-      <title>AI should have been named IA.
-
-Millions more people would have embraced it to boost their everyday p...</title>
-      <link>https://x.com/erikbryn/status/2045586493494989066</link>
-      <guid isPermaLink="false">2045586493494989066</guid>
-      <pubDate>Sat, 18 Apr 2026 19:33:19 +0000</pubDate>
-      <description><![CDATA[AI should have been named IA.
-
-Millions more people would have embraced it to boost their everyday performance.
-
-It's something I discuss in my new @MasterClass https://t.co/KdoC2f52VU
-
----
-@erikbryn | ❤️ 8 | 🔁 0 | 💬 2 | 👁 643]]></description>
-      <author>@erikbryn</author>
     </item>
   </channel>
 </rss>
