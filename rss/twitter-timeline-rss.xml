@@ -5,24 +5,58 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 10:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 11:01:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Laser engraving creating stunning detail on cloth
-by @amazingthings_
-  
-#Innovation #EmergingTech #T...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045446767731155037</link>
-      <guid isPermaLink="false">2045446767731155037</guid>
-      <pubDate>Sat, 18 Apr 2026 10:18:06 +0000</pubDate>
-      <description><![CDATA[Laser engraving creating stunning detail on cloth
-by @amazingthings_
-  
-#Innovation #EmergingTech #Tech #Technology https://t.co/vxaXLKGhhr
+      <title>Is #AI Delivering On Its #Business Promise? A Reality Check For Leaders
+by Saurabh Saxena @Forbes
+
+L...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045456308136980921</link>
+      <guid isPermaLink="false">2045456308136980921</guid>
+      <pubDate>Sat, 18 Apr 2026 10:56:01 +0000</pubDate>
+      <description><![CDATA[Is #AI Delivering On Its #Business Promise? A Reality Check For Leaders
+by Saurabh Saxena @Forbes
+
+Learn more: https://t.co/LPKlqI74Mv
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/r8jVewp9ZW
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 84]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 25]]></description>
       <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>CodeX the everything app.</title>
+      <link>https://x.com/tunguz/status/2045455914254155814</link>
+      <guid isPermaLink="false">2045455914254155814</guid>
+      <pubDate>Sat, 18 Apr 2026 10:54:27 +0000</pubDate>
+      <description><![CDATA[CodeX the everything app.
+
+---
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 180]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>I get 4,150,000,000 (4 billion) requests and 300,000,000 (300 million) visitors per year
+
+That'd cos...</title>
+      <link>https://x.com/levelsio/status/2045455574620340332</link>
+      <guid isPermaLink="false">2045455574620340332</guid>
+      <pubDate>Sat, 18 Apr 2026 10:53:06 +0000</pubDate>
+      <description><![CDATA[I get 4,150,000,000 (4 billion) requests and 300,000,000 (300 million) visitors per year
+
+That'd cost me $338,913 if I wasn't on a VPS like @brian_lovin below
+
+Instead I pay $2,932/year or 115x less because I host my sites on my own VPS
+
+My VPS servers are way too big and usually only use 10% of their resources so I could even go with $300/year probably if I optimized more (but I don't care)
+
+Especially with AI these days it's easier than ever to host your sites yourself, and way cheaper! 100-1000x cheaper!
+
+---
+@levelsio | ❤️ 38 | 🔁 0 | 💬 6 | 👁 3083]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
