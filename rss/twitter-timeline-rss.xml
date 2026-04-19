@@ -5,160 +5,167 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Apr 2026 02:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 03:41:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>👀</title>
-      <link>https://x.com/Teknium/status/2045692288026980518</link>
-      <guid isPermaLink="false">2045692288026980518</guid>
-      <pubDate>Sun, 19 Apr 2026 02:33:43 +0000</pubDate>
-      <description><![CDATA[👀
+      <title>RT @badlogicgames: recommended viewing. specifically because cristina is awesome. 
+
+first ever talk ...</title>
+      <link>https://x.com/swyx/status/2045706462161436869</link>
+      <guid isPermaLink="false">2045706462161436869</guid>
+      <pubDate>Sun, 19 Apr 2026 03:30:02 +0000</pubDate>
+      <description><![CDATA[RT @badlogicgames: recommended viewing. specifically because cristina is awesome. 
+
+first ever talk is a keynote in front of a huge audienc…
 
 ---
-@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 139]]></description>
-      <author>@Teknium</author>
+@swyx | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>Seems the twitter cli skill is working well ha</title>
-      <link>https://x.com/Teknium/status/2045692147849204118</link>
-      <guid isPermaLink="false">2045692147849204118</guid>
-      <pubDate>Sun, 19 Apr 2026 02:33:09 +0000</pubDate>
-      <description><![CDATA[Seems the twitter cli skill is working well ha
+      <title>RT @abidlabs: Who else?/ https://t.co/Sr4NW6YVTq</title>
+      <link>https://x.com/_akhaliq/status/2045704828437860852</link>
+      <guid isPermaLink="false">2045704828437860852</guid>
+      <pubDate>Sun, 19 Apr 2026 03:23:33 +0000</pubDate>
+      <description><![CDATA[RT @abidlabs: Who else?/ https://t.co/Sr4NW6YVTq
 
 ---
-@Teknium | ❤️ 4 | 🔁 0 | 💬 1 | 👁 150]]></description>
-      <author>@Teknium</author>
+@_akhaliq | ❤️ 0 | 🔁 4 | 💬 0 | 👁 3]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>RT @retakedottv: meet Mira, our submission for the @NousResearch hackathon.
+      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
 
-she’s an AI streamer ge...</title>
-      <link>https://x.com/Teknium/status/2045691655056249326</link>
-      <guid isPermaLink="false">2045691655056249326</guid>
-      <pubDate>Sun, 19 Apr 2026 02:31:12 +0000</pubDate>
-      <description><![CDATA[RT @retakedottv: meet Mira, our submission for the @NousResearch hackathon.
+Join 1...</title>
+      <link>https://x.com/petergyang/status/2045704787476492649</link>
+      <guid isPermaLink="false">2045704787476492649</guid>
+      <pubDate>Sun, 19 Apr 2026 03:23:23 +0000</pubDate>
+      <description><![CDATA[If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
 
-she’s an AI streamer generating DJ tracks live, and you can in…
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF
 
 ---
-@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Teknium</author>
+@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 353]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>This Video Proves It: Shenzhen Is the World’s Robotics Hub
-by @Robo_Tuo
-  
-#Robotics #MachineLearnin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045689881649656303</link>
-      <guid isPermaLink="false">2045689881649656303</guid>
-      <pubDate>Sun, 19 Apr 2026 02:24:09 +0000</pubDate>
-      <description><![CDATA[This Video Proves It: Shenzhen Is the World’s Robotics Hub
-by @Robo_Tuo
-  
-#Robotics #MachineLearning #ArtificialIntelligence #Innovation #Technology https://t.co/yIeZr5c2Ds
+      <title>Wheeled Bipedal #Robot That Can Combine and Separate on Demand
+via @ZappyZappy7
+
+#ArtificialIntellig...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045704015887954231</link>
+      <guid isPermaLink="false">2045704015887954231</guid>
+      <pubDate>Sun, 19 Apr 2026 03:20:19 +0000</pubDate>
+      <description><![CDATA[Wheeled Bipedal #Robot That Can Combine and Separate on Demand
+via @ZappyZappy7
+
+#ArtificialIntelligence #Robotics #MachineLearning #MI #ML https://t.co/pDG4CFiTrX
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 59]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 90]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Building a Dog-Like #Robot with Raspberry Pi: Bringing Animal-Inspired Motion to...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045689340467032185</link>
-      <guid isPermaLink="false">2045689340467032185</guid>
-      <pubDate>Sun, 19 Apr 2026 02:22:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Building a Dog-Like #Robot with Raspberry Pi: Bringing Animal-Inspired Motion to Life
-by @murasametech
- 
-#AI #Robotics…
+      <title>RT @Ronald_vanLoon: Where to look for #GenerativeAI risks
+by Beth Stackpole @MITSloan
+
+Learn more: h...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045702426703851688</link>
+      <guid isPermaLink="false">2045702426703851688</guid>
+      <pubDate>Sun, 19 Apr 2026 03:14:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Where to look for #GenerativeAI risks
+by Beth Stackpole @MITSloan
+
+Learn more: https://t.co/s3Vz1LhmbL
+
+#LLM #GenAI #Ar…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @aibra: Hermes-Agent just nuked a 2+ hour manual chore in minutes.
-
-Using @gregpr07’s browser-har...</title>
-      <link>https://x.com/gregpr07/status/2045689124087304645</link>
-      <guid isPermaLink="false">2045689124087304645</guid>
-      <pubDate>Sun, 19 Apr 2026 02:21:08 +0000</pubDate>
-      <description><![CDATA[RT @aibra: Hermes-Agent just nuked a 2+ hour manual chore in minutes.
-
-Using @gregpr07’s browser-harness, it:
-
-1. scanned my @collectdotrip…
+      <title>解决掉平台对 Agent 访问时的限制，并不能真实的解决问题，很多平台需要登录账号，这些操作还可能导致账号被封</title>
+      <link>https://x.com/LBan2050/status/2045700403661320344</link>
+      <guid isPermaLink="false">2045700403661320344</guid>
+      <pubDate>Sun, 19 Apr 2026 03:05:58 +0000</pubDate>
+      <description><![CDATA[解决掉平台对 Agent 访问时的限制，并不能真实的解决问题，很多平台需要登录账号，这些操作还可能导致账号被封
 
 ---
-@gregpr07 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@gregpr07</author>
+@LBan2050 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 12]]></description>
+      <author>@LBan2050</author>
     </item>
     <item>
-      <title>@levie Rent free in my brain</title>
-      <link>https://x.com/nikunj/status/2045688886849110343</link>
-      <guid isPermaLink="false">2045688886849110343</guid>
-      <pubDate>Sun, 19 Apr 2026 02:20:12 +0000</pubDate>
-      <description><![CDATA[@levie Rent free in my brain
+      <title>太好了，玉鸟集也开「良玉邻家」分店了，下次周四聚餐有更多选择了。 https://t.co/uxI2TBEDAo</title>
+      <link>https://x.com/tualatrix/status/2045700124563931553</link>
+      <guid isPermaLink="false">2045700124563931553</guid>
+      <pubDate>Sun, 19 Apr 2026 03:04:51 +0000</pubDate>
+      <description><![CDATA[太好了，玉鸟集也开「良玉邻家」分店了，下次周四聚餐有更多选择了。 https://t.co/uxI2TBEDAo
 
 ---
-@nikunj | ❤️ 2 | 🔁 0 | 💬 0 | 👁 130]]></description>
-      <author>@nikunj</author>
+@tualatrix | ❤️ 3 | 🔁 1 | 💬 0 | 👁 905]]></description>
+      <author>@tualatrix</author>
     </item>
     <item>
-      <title>Thank you @scaryrawr for the help!  
-
-https://t.co/PIaAXUjkON</title>
-      <link>https://x.com/ollama/status/2045686438382141448</link>
-      <guid isPermaLink="false">2045686438382141448</guid>
-      <pubDate>Sun, 19 Apr 2026 02:10:28 +0000</pubDate>
-      <description><![CDATA[Thank you @scaryrawr for the help!  
-
-https://t.co/PIaAXUjkON
+      <title>If Binance was an ice cream flavor, what would it be? 🍦👇 https://t.co/vQf8t8GAh9</title>
+      <link>https://x.com/binance/status/2045698998015541336</link>
+      <guid isPermaLink="false">2045698998015541336</guid>
+      <pubDate>Sun, 19 Apr 2026 03:00:23 +0000</pubDate>
+      <description><![CDATA[If Binance was an ice cream flavor, what would it be? 🍦👇 https://t.co/vQf8t8GAh9
 
 ---
-@ollama | ❤️ 1 | 🔁 0 | 💬 0 | 👁 644]]></description>
+@binance | ❤️ 204 | 🔁 14 | 💬 186 | 👁 21246]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>How time savings from #AI are used
+by @Gartner_inc
+
+#MachineLearning #ArtificialIntelligence #ML htt...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045698402919264336</link>
+      <guid isPermaLink="false">2045698402919264336</guid>
+      <pubDate>Sun, 19 Apr 2026 02:58:01 +0000</pubDate>
+      <description><![CDATA[How time savings from #AI are used
+by @Gartner_inc
+
+#MachineLearning #ArtificialIntelligence #ML https://t.co/wNc2yCzNKM
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 139]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @Saboo_Shubham_: This is HUGE.
+
+Ollama now supports Hermes AI Agents.
+
+A fully local self-improvi...</title>
+      <link>https://x.com/ollama/status/2045694512455115022</link>
+      <guid isPermaLink="false">2045694512455115022</guid>
+      <pubDate>Sun, 19 Apr 2026 02:42:33 +0000</pubDate>
+      <description><![CDATA[RT @Saboo_Shubham_: This is HUGE.
+
+Ollama now supports Hermes AI Agents.
+
+A fully local self-improving AI Agent that runs for you 24/7 for…
+
+---
+@ollama | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
       <author>@ollama</author>
     </item>
     <item>
-      <title>Learn more: 
-https://t.co/cc8ZZ45gw7</title>
-      <link>https://x.com/ollama/status/2045686040175001923</link>
-      <guid isPermaLink="false">2045686040175001923</guid>
-      <pubDate>Sun, 19 Apr 2026 02:08:53 +0000</pubDate>
-      <description><![CDATA[Learn more: 
-https://t.co/cc8ZZ45gw7
+      <title>有论文支持
+https://t.co/qqY5DiG5Lw</title>
+      <link>https://x.com/dotey/status/2045694317205807587</link>
+      <guid isPermaLink="false">2045694317205807587</guid>
+      <pubDate>Sun, 19 Apr 2026 02:41:47 +0000</pubDate>
+      <description><![CDATA[有论文支持
+https://t.co/qqY5DiG5Lw
 
 ---
-@ollama | ❤️ 5 | 🔁 0 | 💬 1 | 👁 963]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>ollama launch copilot 
-
-Ollama now supports GitHub's Copilot CLI, the terminal agent that works dire...</title>
-      <link>https://x.com/ollama/status/2045686038274990147</link>
-      <guid isPermaLink="false">2045686038274990147</guid>
-      <pubDate>Sun, 19 Apr 2026 02:08:53 +0000</pubDate>
-      <description><![CDATA[ollama launch copilot 
-
-Ollama now supports GitHub's Copilot CLI, the terminal agent that works directly with repositories on GitHub. 
-
-You can use it to: 
-
-Explore issues and PRs. 
-
-Search across repos by label (e.g. good first issue, help wanted) and bring that context into your session.
-
-Plan and scaffold work from a ticket. 
-
-Hand Copilot CLI an issue and have it map out the change, edit the files, and run the commands to get it done.
-
-Navigate unfamiliar codebases. 
-
-Point it at a repo and ask it to explain the structure, install dependencies, and walk you through how the pieces fit together.
-
----
-@ollama | ❤️ 52 | 🔁 6 | 💬 10 | 👁 3074]]></description>
-      <author>@ollama</author>
+@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 2329]]></description>
+      <author>@dotey</author>
     </item>
   </channel>
 </rss>
