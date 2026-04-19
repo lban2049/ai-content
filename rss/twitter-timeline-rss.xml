@@ -5,265 +5,91 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Apr 2026 00:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 00:30:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>鸭哥这条对 AI 分析的在理，很多 Codex 的黑话就是英文直译成中文带来的翻译腔👍</title>
-      <link>https://x.com/dotey/status/2045656699575427202</link>
-      <guid isPermaLink="false">2045656699575427202</guid>
-      <pubDate>Sun, 19 Apr 2026 00:12:18 +0000</pubDate>
-      <description><![CDATA[鸭哥这条对 AI 分析的在理，很多 Codex 的黑话就是英文直译成中文带来的翻译腔👍
+      <title>RT @ylecun: @norpadon The tensor engine was first implemented inside SN3 (before it was called Lush)...</title>
+      <link>https://x.com/jeremyphoward/status/2045659970625208359</link>
+      <guid isPermaLink="false">2045659970625208359</guid>
+      <pubDate>Sun, 19 Apr 2026 00:25:18 +0000</pubDate>
+      <description><![CDATA[RT @ylecun: @norpadon The tensor engine was first implemented inside SN3 (before it was called Lush) in 1992 at Bell Labs by Léon Bottom an…
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 45]]></description>
+@jeremyphoward | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Meet Oscar: The Living #Robot That Can Heal Itself
+by @pascal_bornet
+ 
+#Robotics...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045659896939422039</link>
+      <guid isPermaLink="false">2045659896939422039</guid>
+      <pubDate>Sun, 19 Apr 2026 00:25:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Meet Oscar: The Living #Robot That Can Heal Itself
+by @pascal_bornet
+ 
+#Robotics #AI #Biotech #Innovation #FutureOfTech…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Santiago Bernabeu: The World’s Biggest Hidden #Robot Stadium
+by @lukas_m_ziegler
+
+#EmergingTech #Tec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045658667517694031</link>
+      <guid isPermaLink="false">2045658667517694031</guid>
+      <pubDate>Sun, 19 Apr 2026 00:20:07 +0000</pubDate>
+      <description><![CDATA[Santiago Bernabeu: The World’s Biggest Hidden #Robot Stadium
+by @lukas_m_ziegler
+
+#EmergingTech #Tech #Technology #TechForGood https://t.co/aOVvh30hcS
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 51]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @asparagui: @jeremyphoward Check this out! I used Lean4 to emit MLIR by way of StableHLO/IREE to ...</title>
+      <link>https://x.com/jeremyphoward/status/2045657884156211510</link>
+      <guid isPermaLink="false">2045657884156211510</guid>
+      <pubDate>Sun, 19 Apr 2026 00:17:00 +0000</pubDate>
+      <description><![CDATA[RT @asparagui: @jeremyphoward Check this out! I used Lean4 to emit MLIR by way of StableHLO/IREE to train image recognition networks, with…
+
+---
+@jeremyphoward | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>在 Hermes 里面用 baoyu-infographic skill 生成的信息图👍
+&amp;gt; /baoyu-infographic + &amp;lt;URL&amp;gt;
+
+直接生成...</title>
+      <link>https://x.com/dotey/status/2045657732250820620</link>
+      <guid isPermaLink="false">2045657732250820620</guid>
+      <pubDate>Sun, 19 Apr 2026 00:16:24 +0000</pubDate>
+      <description><![CDATA[在 Hermes 里面用 baoyu-infographic skill 生成的信息图👍
+&amp;gt; /baoyu-infographic + &amp;lt;URL&amp;gt;
+
+直接生成一张高质量信息图
+
+---
+@dotey | ❤️ 5 | 🔁 0 | 💬 3 | 👁 1062]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>这篇关于 Harness 工程的科普文章非常非常好
-今天的软件工程实际已经进入了 Harness 工程阶段，复杂度其实一点都不低，而且最重要的事情是要意识到它还是一个动态过程。
-模型在不断变强不断内化...</title>
-      <link>https://x.com/oran_ge/status/2045655788522504659</link>
-      <guid isPermaLink="false">2045655788522504659</guid>
-      <pubDate>Sun, 19 Apr 2026 00:08:41 +0000</pubDate>
-      <description><![CDATA[这篇关于 Harness 工程的科普文章非常非常好
-今天的软件工程实际已经进入了 Harness 工程阶段，复杂度其实一点都不低，而且最重要的事情是要意识到它还是一个动态过程。
-模型在不断变强不断内化 Harness
-工程需要围绕更好的模型做新的 Harness
-这个过程其实不应该以终局思维来看
-就像摩尔定律一下，我们获得了更好的芯片，并用它来开发下一代芯片
-大模型和 Harness 是真正的左脚踩右脚，不断变强的整体
-作为工程师，只要你是在做最前沿的 Harness 永远也无需担心会被模型取代
-btw，欢迎对此理解深刻的工程师加入 ColaOS 构建其 Harness
-k@marswave.ai
+      <title>https://t.co/YGS2qpkqoh</title>
+      <link>https://x.com/dotey/status/2045657139952173209</link>
+      <guid isPermaLink="false">2045657139952173209</guid>
+      <pubDate>Sun, 19 Apr 2026 00:14:03 +0000</pubDate>
+      <description><![CDATA[https://t.co/YGS2qpkqoh
 
 ---
-@oran_ge | ❤️ 3 | 🔁 0 | 💬 0 | 👁 189]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>Since Anthropic publish their system prompts we can generate a diff between Claude Opus 4.6 and 4.7 ...</title>
-      <link>https://x.com/simonw/status/2045655052548022690</link>
-      <guid isPermaLink="false">2045655052548022690</guid>
-      <pubDate>Sun, 19 Apr 2026 00:05:45 +0000</pubDate>
-      <description><![CDATA[Since Anthropic publish their system prompts we can generate a diff between Claude Opus 4.6 and 4.7 - here are my notes on what's changed https://t.co/IQHuvLGmwO
-
----
-@simonw | ❤️ 10 | 🔁 0 | 💬 2 | 👁 667]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>good to know that a trillion dollars’ investment scaling has thoroughly solved the challenges of com...</title>
-      <link>https://x.com/GaryMarcus/status/2045654841775804846</link>
-      <guid isPermaLink="false">2045654841775804846</guid>
-      <pubDate>Sun, 19 Apr 2026 00:04:55 +0000</pubDate>
-      <description><![CDATA[good to know that a trillion dollars’ investment scaling has thoroughly solved the challenges of common sense.
-
----
-@GaryMarcus | ❤️ 6 | 🔁 1 | 💬 1 | 👁 608]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>Second post
-https://t.co/CHPsfFl5gH</title>
-      <link>https://x.com/dotey/status/2045654201666060387</link>
-      <guid isPermaLink="false">2045654201666060387</guid>
-      <pubDate>Sun, 19 Apr 2026 00:02:22 +0000</pubDate>
-      <description><![CDATA[Second post
-https://t.co/CHPsfFl5gH
-
----
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 466]]></description>
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 538]]></description>
       <author>@dotey</author>
-    </item>
-    <item>
-      <title>First post
-https://t.co/9oPN5jFz5U</title>
-      <link>https://x.com/dotey/status/2045654136402620916</link>
-      <guid isPermaLink="false">2045654136402620916</guid>
-      <pubDate>Sun, 19 Apr 2026 00:02:07 +0000</pubDate>
-      <description><![CDATA[First post
-https://t.co/9oPN5jFz5U
-
----
-@dotey | ❤️ 0 | 🔁 0 | 💬 1 | 👁 533]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>A quick update for everyone following this: 
-
-I've been asking for help since March 9th about my Cla...</title>
-      <link>https://x.com/dotey/status/2045653928319008827</link>
-      <guid isPermaLink="false">2045653928319008827</guid>
-      <pubDate>Sun, 19 Apr 2026 00:01:17 +0000</pubDate>
-      <description><![CDATA[A quick update for everyone following this: 
-
-I've been asking for help since March 9th about my ClawHub skill slugs being maliciously hijacked. To be clear, this isn't just name-squatting—someone is forking my open-source code and publishing it directly. 
-
-Despite repeated promises that it will be resolved, there has been absolutely zero progress. 
-
-I am now seriously considering no longer publishing my skills to ClawHub.
-
----
-@dotey | ❤️ 7 | 🔁 0 | 💬 3 | 👁 1577]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>if you showed a primitive canibalistic tribe codex computer use they wouldn’t have cared and would h...</title>
-      <link>https://x.com/tunguz/status/2045653793581175122</link>
-      <guid isPermaLink="false">2045653793581175122</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:45 +0000</pubDate>
-      <description><![CDATA[if you showed a primitive canibalistic tribe codex computer use they wouldn’t have cared and would have eaten you anyway
-
----
-@tunguz | ❤️ 2 | 🔁 0 | 💬 1 | 👁 286]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Set up your trade without losing sight of the market. 
-
-Tap the minimize button on the K-line chart ...</title>
-      <link>https://x.com/binance/status/2045653605311713497</link>
-      <guid isPermaLink="false">2045653605311713497</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[Set up your trade without losing sight of the market. 
-
-Tap the minimize button on the K-line chart to open a floating chart.
-
-Even better, you can browse social media or other apps while keeping your chart in view.
-
-Try now 👉 https://t.co/dTCZMhNksw https://t.co/Dm1MReFBOf
-
----
-@binance | ❤️ 36 | 🔁 4 | 💬 16 | 👁 4572]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>And just like that Hungarians yet again save the Western Civilization.</title>
-      <link>https://x.com/tunguz/status/2045653011750359428</link>
-      <guid isPermaLink="false">2045653011750359428</guid>
-      <pubDate>Sat, 18 Apr 2026 23:57:39 +0000</pubDate>
-      <description><![CDATA[And just like that Hungarians yet again save the Western Civilization.
-
----
-@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 354]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Is a 92% “honest”* AI really good enough?
-
-Or a disaster waiting to happen?
-
-—-
-*”honest” is itself ...</title>
-      <link>https://x.com/GaryMarcus/status/2045652981362930005</link>
-      <guid isPermaLink="false">2045652981362930005</guid>
-      <pubDate>Sat, 18 Apr 2026 23:57:31 +0000</pubDate>
-      <description><![CDATA[Is a 92% “honest”* AI really good enough?
-
-Or a disaster waiting to happen?
-
-—-
-*”honest” is itself a misleading anthropomorphization of the kind Anthropic loves to promote.  “Accurate” would be more accurate. https://t.co/NMnjGEqf41
-
----
-@GaryMarcus | ❤️ 11 | 🔁 0 | 💬 6 | 👁 607]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>@turingou 为什么大家觉得电话费不贵而token贵呢，可能因为很少打电话了吧</title>
-      <link>https://x.com/oran_ge/status/2045652681776402773</link>
-      <guid isPermaLink="false">2045652681776402773</guid>
-      <pubDate>Sat, 18 Apr 2026 23:56:20 +0000</pubDate>
-      <description><![CDATA[@turingou 为什么大家觉得电话费不贵而token贵呢，可能因为很少打电话了吧
-
----
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 167]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>RT @GadSaad: Dr. Sowell got it a long time ago.</title>
-      <link>https://x.com/elonmusk/status/2045650695890899140</link>
-      <guid isPermaLink="false">2045650695890899140</guid>
-      <pubDate>Sat, 18 Apr 2026 23:48:26 +0000</pubDate>
-      <description><![CDATA[RT @GadSaad: Dr. Sowell got it a long time ago.
-
----
-@elonmusk | ❤️ 0 | 🔁 991 | 💬 0 | 👁 10]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>At some point, usually in your 20s, you'll notice that the people around you get addicted to the FAA...</title>
-      <link>https://x.com/nikunj/status/2045649829041512929</link>
-      <guid isPermaLink="false">2045649829041512929</guid>
-      <pubDate>Sat, 18 Apr 2026 23:45:00 +0000</pubDate>
-      <description><![CDATA[At some point, usually in your 20s, you'll notice that the people around you get addicted to the FAANG salary. And no matter how hard you try, you can't save them. By all means, do not let it infect your mind. Stay on your path.
-
----
-@nikunj | ❤️ 30 | 🔁 0 | 💬 1 | 👁 1548]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>RT @saif_aldareei: The Indian tanker captain in the Strait of Hormuz explodes in anger over the radi...</title>
-      <link>https://x.com/DeepLearn007/status/2045649696325034301</link>
-      <guid isPermaLink="false">2045649696325034301</guid>
-      <pubDate>Sat, 18 Apr 2026 23:44:28 +0000</pubDate>
-      <description><![CDATA[RT @saif_aldareei: The Indian tanker captain in the Strait of Hormuz explodes in anger over the radio, confronting the Iranian Revolutionar…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 5634 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Oh my</title>
-      <link>https://x.com/bearliu/status/2045649075803205770</link>
-      <guid isPermaLink="false">2045649075803205770</guid>
-      <pubDate>Sat, 18 Apr 2026 23:42:00 +0000</pubDate>
-      <description><![CDATA[Oh my
-
----
-@bearliu | ❤️ 2 | 🔁 0 | 💬 0 | 👁 467]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>For good reason</title>
-      <link>https://x.com/elonmusk/status/2045647384831799510</link>
-      <guid isPermaLink="false">2045647384831799510</guid>
-      <pubDate>Sat, 18 Apr 2026 23:35:17 +0000</pubDate>
-      <description><![CDATA[For good reason
-
----
-@elonmusk | ❤️ 19119 | 🔁 2118 | 💬 1444 | 👁 1295214]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @aibra: Everyone using @openclaw or @NousResearch Hermes should install this as a skill.
-
-Full br...</title>
-      <link>https://x.com/gregpr07/status/2045647013933670448</link>
-      <guid isPermaLink="false">2045647013933670448</guid>
-      <pubDate>Sat, 18 Apr 2026 23:33:49 +0000</pubDate>
-      <description><![CDATA[RT @aibra: Everyone using @openclaw or @NousResearch Hermes should install this as a skill.
-
-Full browser control comparable to Claude's Ch…
-
----
-@gregpr07 | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@gregpr07</author>
-    </item>
-    <item>
-      <title>RT @daviddorg: Stanford paid 35,000 people to quit Facebook and Instagram for 6 weeks
-
-Depression dr...</title>
-      <link>https://x.com/elonmusk/status/2045646847897960670</link>
-      <guid isPermaLink="false">2045646847897960670</guid>
-      <pubDate>Sat, 18 Apr 2026 23:33:09 +0000</pubDate>
-      <description><![CDATA[RT @daviddorg: Stanford paid 35,000 people to quit Facebook and Instagram for 6 weeks
-
-Depression dropped. Anxiety dropped. Happiness went…
-
----
-@elonmusk | ❤️ 0 | 🔁 5110 | 💬 0 | 👁 29]]></description>
-      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
