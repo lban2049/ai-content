@@ -5,60 +5,160 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Apr 2026 02:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 02:36:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Legal #Tech In 2026: #AI's Impact And Other Trends To Look Out For
-by Dan Hauck @Forbes
-
-Learn more:...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045683303517180267</link>
-      <guid isPermaLink="false">2045683303517180267</guid>
-      <pubDate>Sun, 19 Apr 2026 01:58:01 +0000</pubDate>
-      <description><![CDATA[Legal #Tech In 2026: #AI's Impact And Other Trends To Look Out For
-by Dan Hauck @Forbes
-
-Learn more: https://t.co/BtB3aFa6ac
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/LubYlh6vXL
+      <title>👀</title>
+      <link>https://x.com/Teknium/status/2045692288026980518</link>
+      <guid isPermaLink="false">2045692288026980518</guid>
+      <pubDate>Sun, 19 Apr 2026 02:33:43 +0000</pubDate>
+      <description><![CDATA[👀
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 26]]></description>
+@Teknium | ❤️ 0 | 🔁 0 | 💬 0 | 👁 139]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>Seems the twitter cli skill is working well ha</title>
+      <link>https://x.com/Teknium/status/2045692147849204118</link>
+      <guid isPermaLink="false">2045692147849204118</guid>
+      <pubDate>Sun, 19 Apr 2026 02:33:09 +0000</pubDate>
+      <description><![CDATA[Seems the twitter cli skill is working well ha
+
+---
+@Teknium | ❤️ 4 | 🔁 0 | 💬 1 | 👁 150]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>RT @retakedottv: meet Mira, our submission for the @NousResearch hackathon.
+
+she’s an AI streamer ge...</title>
+      <link>https://x.com/Teknium/status/2045691655056249326</link>
+      <guid isPermaLink="false">2045691655056249326</guid>
+      <pubDate>Sun, 19 Apr 2026 02:31:12 +0000</pubDate>
+      <description><![CDATA[RT @retakedottv: meet Mira, our submission for the @NousResearch hackathon.
+
+she’s an AI streamer generating DJ tracks live, and you can in…
+
+---
+@Teknium | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Teknium</author>
+    </item>
+    <item>
+      <title>This Video Proves It: Shenzhen Is the World’s Robotics Hub
+by @Robo_Tuo
+  
+#Robotics #MachineLearnin...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045689881649656303</link>
+      <guid isPermaLink="false">2045689881649656303</guid>
+      <pubDate>Sun, 19 Apr 2026 02:24:09 +0000</pubDate>
+      <description><![CDATA[This Video Proves It: Shenzhen Is the World’s Robotics Hub
+by @Robo_Tuo
+  
+#Robotics #MachineLearning #ArtificialIntelligence #Innovation #Technology https://t.co/yIeZr5c2Ds
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 59]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>It’s remarkable how often you need to be dramatically upgrading your AI architecture given the pace ...</title>
-      <link>https://x.com/levie/status/2045680043607941548</link>
-      <guid isPermaLink="false">2045680043607941548</guid>
-      <pubDate>Sun, 19 Apr 2026 01:45:03 +0000</pubDate>
-      <description><![CDATA[It’s remarkable how often you need to be dramatically upgrading your AI architecture given the pace of progress in AI models right now. 
-
-If you’re building agents, you basically need to throw away large parts of previous work that you setup to compensate for model limitations every few quarters. The systems you built to mitigate context window limits aren’t useful anymore, and for many use-cases it’s easier just to throw more compute at a problem today in ways that wouldn’t have worked previously.
-
-If you’re deploying agents in a workflow, you likely need to equally be rethinking your core systems at about that same frequency. The way you would deploy agents in an enterprise 18 months ago is entirely different from the best practices that you’d have today.
-
-This is partly why everyone’s working so hard right now. Right as a best practice is solidified, models improve dramatically, and that old work is rendered obsolete. Unclear that this lets up anytime soon, which is why the it pays to be so wired in right now.
+      <title>RT @Ronald_vanLoon: Building a Dog-Like #Robot with Raspberry Pi: Bringing Animal-Inspired Motion to...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2045689340467032185</link>
+      <guid isPermaLink="false">2045689340467032185</guid>
+      <pubDate>Sun, 19 Apr 2026 02:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Building a Dog-Like #Robot with Raspberry Pi: Bringing Animal-Inspired Motion to Life
+by @murasametech
+ 
+#AI #Robotics…
 
 ---
-@levie | ❤️ 28 | 🔁 5 | 💬 5 | 👁 4233]]></description>
-      <author>@levie</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>The Evolution of Remote Work: What the Future Holds
-by @SciTechera
- 
-#Robotics #Engineering #RPA #In...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2045678028169118000</link>
-      <guid isPermaLink="false">2045678028169118000</guid>
-      <pubDate>Sun, 19 Apr 2026 01:37:03 +0000</pubDate>
-      <description><![CDATA[The Evolution of Remote Work: What the Future Holds
-by @SciTechera
- 
-#Robotics #Engineering #RPA #Innovation #Technology https://t.co/PBBcYuQkWJ
+      <title>RT @aibra: Hermes-Agent just nuked a 2+ hour manual chore in minutes.
+
+Using @gregpr07’s browser-har...</title>
+      <link>https://x.com/gregpr07/status/2045689124087304645</link>
+      <guid isPermaLink="false">2045689124087304645</guid>
+      <pubDate>Sun, 19 Apr 2026 02:21:08 +0000</pubDate>
+      <description><![CDATA[RT @aibra: Hermes-Agent just nuked a 2+ hour manual chore in minutes.
+
+Using @gregpr07’s browser-harness, it:
+
+1. scanned my @collectdotrip…
 
 ---
-@Ronald_vanLoon | ❤️ 2 | 🔁 1 | 💬 0 | 👁 114]]></description>
-      <author>@Ronald_vanLoon</author>
+@gregpr07 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>@levie Rent free in my brain</title>
+      <link>https://x.com/nikunj/status/2045688886849110343</link>
+      <guid isPermaLink="false">2045688886849110343</guid>
+      <pubDate>Sun, 19 Apr 2026 02:20:12 +0000</pubDate>
+      <description><![CDATA[@levie Rent free in my brain
+
+---
+@nikunj | ❤️ 2 | 🔁 0 | 💬 0 | 👁 130]]></description>
+      <author>@nikunj</author>
+    </item>
+    <item>
+      <title>Thank you @scaryrawr for the help!  
+
+https://t.co/PIaAXUjkON</title>
+      <link>https://x.com/ollama/status/2045686438382141448</link>
+      <guid isPermaLink="false">2045686438382141448</guid>
+      <pubDate>Sun, 19 Apr 2026 02:10:28 +0000</pubDate>
+      <description><![CDATA[Thank you @scaryrawr for the help!  
+
+https://t.co/PIaAXUjkON
+
+---
+@ollama | ❤️ 1 | 🔁 0 | 💬 0 | 👁 644]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>Learn more: 
+https://t.co/cc8ZZ45gw7</title>
+      <link>https://x.com/ollama/status/2045686040175001923</link>
+      <guid isPermaLink="false">2045686040175001923</guid>
+      <pubDate>Sun, 19 Apr 2026 02:08:53 +0000</pubDate>
+      <description><![CDATA[Learn more: 
+https://t.co/cc8ZZ45gw7
+
+---
+@ollama | ❤️ 5 | 🔁 0 | 💬 1 | 👁 963]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>ollama launch copilot 
+
+Ollama now supports GitHub's Copilot CLI, the terminal agent that works dire...</title>
+      <link>https://x.com/ollama/status/2045686038274990147</link>
+      <guid isPermaLink="false">2045686038274990147</guid>
+      <pubDate>Sun, 19 Apr 2026 02:08:53 +0000</pubDate>
+      <description><![CDATA[ollama launch copilot 
+
+Ollama now supports GitHub's Copilot CLI, the terminal agent that works directly with repositories on GitHub. 
+
+You can use it to: 
+
+Explore issues and PRs. 
+
+Search across repos by label (e.g. good first issue, help wanted) and bring that context into your session.
+
+Plan and scaffold work from a ticket. 
+
+Hand Copilot CLI an issue and have it map out the change, edit the files, and run the commands to get it done.
+
+Navigate unfamiliar codebases. 
+
+Point it at a repo and ask it to explain the structure, install dependencies, and walk you through how the pieces fit together.
+
+---
+@ollama | ❤️ 52 | 🔁 6 | 💬 10 | 👁 3074]]></description>
+      <author>@ollama</author>
     </item>
   </channel>
 </rss>
