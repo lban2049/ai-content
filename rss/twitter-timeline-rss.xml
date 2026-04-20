@@ -5,119 +5,238 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 16:01:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @omarsar0: Nice paper combining the strength of Skills and RAG.
-
-Most RAG systems retrieve on eve...</title>
-      <link>https://x.com/dair_ai/status/2046250069528342638</link>
-      <guid isPermaLink="false">2046250069528342638</guid>
-      <pubDate>Mon, 20 Apr 2026 15:30:08 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: Nice paper combining the strength of Skills and RAG.
-
-Most RAG systems retrieve on every query, whether the model needs help…
+      <title>100 tips to get the most out of Claude, v/@BoucherNicolas. https://t.co/fwobapRfWz</title>
+      <link>https://x.com/MIT_CSAIL/status/2046257659586683281</link>
+      <guid isPermaLink="false">2046257659586683281</guid>
+      <pubDate>Mon, 20 Apr 2026 16:00:18 +0000</pubDate>
+      <description><![CDATA[100 tips to get the most out of Claude, v/@BoucherNicolas. https://t.co/fwobapRfWz
 
 ---
-@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
+@MIT_CSAIL | ❤️ 1 | 🔁 0 | 💬 0 | 👁 49]]></description>
+      <author>@MIT_CSAIL</author>
     </item>
     <item>
-      <title>Meet Kimi K2.6: Advancing Open-Source Coding
+      <title>A new opportunity from the USD1 airdrop campaign.
 
-🔹Open-source SOTA on HLE w/ tools (54.0), SWE-Bench Pr...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046249571882500354</link>
-      <guid isPermaLink="false">2046249571882500354</guid>
-      <pubDate>Mon, 20 Apr 2026 15:28:10 +0000</pubDate>
-      <description><![CDATA[Meet Kimi K2.6: Advancing Open-Source Coding
+🔸 Base APR: 4.82%
+🔸 Boosted APR: 5.79%
 
-🔹Open-source SOTA on HLE w/ tools (54.0), SWE-Bench Pro (58.6), SWE-bench Multilingual (76.7), BrowseComp (83.2), Toolathlon (50.0), Charxiv w/ python(86.7), Math Vision w/ python (93.2)
+Earn up t...</title>
+      <link>https://x.com/binance/status/2046257589806117372</link>
+      <guid isPermaLink="false">2046257589806117372</guid>
+      <pubDate>Mon, 20 Apr 2026 16:00:01 +0000</pubDate>
+      <description><![CDATA[A new opportunity from the USD1 airdrop campaign.
 
-What's new:
-🔹Long-horizon coding  - 4,000+ tool calls, over 12 hours of continuous execution, with generalization across languages (Rust, Go, Python) and tasks (frontend, devops, perf optimization).
-🔹Motion-rich frontend - Videos in hero sections, WebGL shaders, GSAP + Framer Motion, Three.js 3D.
-🔹Agent Swarms, elevated - 300 parallel sub-agents × 4,000 steps per run (up from K2.5's 100 / 1,500). One prompt, 100+ files. 
-🔹Proactive Agents - K2.6 model powers OpenClaw, Hermes Agent, etc for 24/7 autonomous ops.  
-🔹Claw Groups (research preview) - bring your own agents, command your friends', bots &amp; humans in the loop.
--
-K2.6 is now live on https://t.co/YutVbwktG0 in chat mode and agent mode. 
-For production-grade coding, pair K2.6 with Kimi Code: https://t.co/uvoSJKyGCY
-- 
-🔗 API: https://t.co/EOZkbOwCN4
-🔗 Tech blog: https://t.co/9wWvgIQSS3
-🔗 Weights &amp; code: https://t.co/Be0hjs2RTP
+🔸 Base APR: 4.82%
+🔸 Boosted APR: 5.79%
+
+Earn up to 5.79% (variable) APR on rewards with no individual reward cap.
+
+*APR is based on the past 7 days of data.
+
+Get started 👉 https://t.co/KDi7DpAlh5
 
 ---
-@Kimi_Moonshot | ❤️ 61 | 🔁 13 | 💬 11 | 👁 799]]></description>
-      <author>@Kimi_Moonshot</author>
+@binance | ❤️ 1 | 🔁 0 | 💬 2 | 👁 1256]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>Okay that was WAY too easy 😂
+      <title>Cardboard #Drone from Japan Hits 120 km/h—Built in Just 5 Minutes
+by @FurkanGozukara
 
-I created 🗑️ Tab Cleaner:
+#EmergingTech ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046257127639908355</link>
+      <guid isPermaLink="false">2046257127639908355</guid>
+      <pubDate>Mon, 20 Apr 2026 15:58:11 +0000</pubDate>
+      <description><![CDATA[Cardboard #Drone from Japan Hits 120 km/h—Built in Just 5 Minutes
+by @FurkanGozukara
 
-My own Chrome extension that has no malware...</title>
-      <link>https://x.com/levelsio/status/2046248763103015030</link>
-      <guid isPermaLink="false">2046248763103015030</guid>
-      <pubDate>Mon, 20 Apr 2026 15:24:57 +0000</pubDate>
-      <description><![CDATA[Okay that was WAY too easy 😂
-
-I created 🗑️ Tab Cleaner:
-
-My own Chrome extension that has no malware because I coded it myself and I can read the source code
-
-I asked this: &quot;can u make a chrome extension for chrome called 🚮 Tab Cleaner it auto closes tabs after inactivity of like 5 minutes, but when we press it it shoudl open a little window hwere we can add HOST exclusions like google .com etc&quot;
+#EmergingTech #Technology #Innovation https://t.co/oxaz3D2G1p
 
 ---
-@levelsio | ❤️ 19 | 🔁 0 | 💬 5 | 👁 1890]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>#AI-Powered Robot Bicycle Mimics Human Athletic Performance
-via @ZappyZappy7
- 
-#Robotics #Artificial...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046248312223695280</link>
-      <guid isPermaLink="false">2046248312223695280</guid>
-      <pubDate>Mon, 20 Apr 2026 15:23:09 +0000</pubDate>
-      <description><![CDATA[#AI-Powered Robot Bicycle Mimics Human Athletic Performance
-via @ZappyZappy7
- 
-#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/eEAv1PQHYW
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 65]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 37]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>we love a clean start</title>
-      <link>https://x.com/ryolu_/status/2046246973783859559</link>
-      <guid isPermaLink="false">2046246973783859559</guid>
-      <pubDate>Mon, 20 Apr 2026 15:17:50 +0000</pubDate>
-      <description><![CDATA[we love a clean start
+      <title>Kimi K2.6 is out on Hugging Face
+https://t.co/ZUyWr0dVL4</title>
+      <link>https://x.com/_akhaliq/status/2046255754294841594</link>
+      <guid isPermaLink="false">2046255754294841594</guid>
+      <pubDate>Mon, 20 Apr 2026 15:52:44 +0000</pubDate>
+      <description><![CDATA[Kimi K2.6 is out on Hugging Face
+https://t.co/ZUyWr0dVL4
 
 ---
-@ryolu_ | ❤️ 15 | 🔁 1 | 💬 1 | 👁 814]]></description>
-      <author>@ryolu_</author>
+@_akhaliq | ❤️ 7 | 🔁 2 | 💬 0 | 👁 687]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>Another Chrome extension allegedly sold to mine your personal information
-
-This is an entire black m...</title>
-      <link>https://x.com/levelsio/status/2046245653492146262</link>
-      <guid isPermaLink="false">2046245653492146262</guid>
-      <pubDate>Mon, 20 Apr 2026 15:12:35 +0000</pubDate>
-      <description><![CDATA[Another Chrome extension allegedly sold to mine your personal information
-
-This is an entire black market you'd have no idea existed but it does!
-
-Your best bet is to use no Chrome extensions at all, except uBlock Origin for ad block
-
-Or better: just vibe code your own so you know what is running in your browser
+      <title>Yes, but you can simply read the source code for your own extensions and check! And they exist on yo...</title>
+      <link>https://x.com/levelsio/status/2046255658903724275</link>
+      <guid isPermaLink="false">2046255658903724275</guid>
+      <pubDate>Mon, 20 Apr 2026 15:52:21 +0000</pubDate>
+      <description><![CDATA[Yes, but you can simply read the source code for your own extensions and check! And they exist on your computer so they don't change unlike Chrome extensions other people make
 
 ---
-@levelsio | ❤️ 44 | 🔁 5 | 💬 14 | 👁 7404]]></description>
+@levelsio | ❤️ 7 | 🔁 0 | 💬 3 | 👁 2517]]></description>
       <author>@levelsio</author>
+    </item>
+    <item>
+      <title>Kimi K2.6 正式发布，我最近一直在用 preview 版本，感觉很不错</title>
+      <link>https://x.com/Jason_Young1231/status/2046255283065041246</link>
+      <guid isPermaLink="false">2046255283065041246</guid>
+      <pubDate>Mon, 20 Apr 2026 15:50:51 +0000</pubDate>
+      <description><![CDATA[Kimi K2.6 正式发布，我最近一直在用 preview 版本，感觉很不错
+
+---
+@Jason_Young1231 | ❤️ 1 | 🔁 0 | 💬 1 | 👁 124]]></description>
+      <author>@Jason_Young1231</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: 10 Steps to Learn #AgenticAI 
+by @Python_Dv
+ 
+#LLM #GenerativeAI #ArtificialInte...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046254819975860362</link>
+      <guid isPermaLink="false">2046254819975860362</guid>
+      <pubDate>Mon, 20 Apr 2026 15:49:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: 10 Steps to Learn #AgenticAI 
+by @Python_Dv
+ 
+#LLM #GenerativeAI #ArtificialIntelligence #MI #MachineLearning https://t…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Okay it's been 18 minutes and I've now vibe coded and replaced 3 more extensions and made it all int...</title>
+      <link>https://x.com/levelsio/status/2046254207884271626</link>
+      <guid isPermaLink="false">2046254207884271626</guid>
+      <pubDate>Mon, 20 Apr 2026 15:46:35 +0000</pubDate>
+      <description><![CDATA[Okay it's been 18 minutes and I've now vibe coded and replaced 3 more extensions and made it all into one super extension called 
+
+🚀 SuperLevels
+
+It has a 
+🗑️ Tab Cleaner, auto closes tabs after inactivity (with host-based exclusions)
+🍪 Cookie Editor, lets you nuke all cookies or edit any
+🔀 Redirect Tracer, lets you see any redirects a site took you through
+
+I can read and check the source code, so it's much safer than these extensions that keep being bought by blackhat companies to add malware and steal your data or worse hack you
+
+---
+@levelsio | ❤️ 36 | 🔁 0 | 💬 11 | 👁 4680]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>The state of the PM industry in 2026 via @nikhyl 
+
+&quot;If you talked to product leaders 3 years ag...</title>
+      <link>https://x.com/lennysan/status/2046252696907530426</link>
+      <guid isPermaLink="false">2046252696907530426</guid>
+      <pubDate>Mon, 20 Apr 2026 15:40:35 +0000</pubDate>
+      <description><![CDATA[The state of the PM industry in 2026 via @nikhyl 
+
+&quot;If you talked to product leaders 3 years ago, they weren't very happy. Their day was largely a day of moving information from one person to another.
+
+The function had become extremely focused on responsibility without authority.
+
+What's changed is that people are having fun again.
+
+They're able to build. They don't have to rely on as many people to have impact. There's much more of a direct connection to their ideas and their ability to test and connect their product instincts to their customers.
+
+This is a complete renaissance for the product industry.
+
+But it comes with a lot of strings attached.&quot;
+
+---
+@lennysan | ❤️ 10 | 🔁 1 | 💬 2 | 👁 3012]]></description>
+      <author>@lennysan</author>
+    </item>
+    <item>
+      <title>My core belief is this: companies and organizations that work critically for the government, and on ...</title>
+      <link>https://x.com/tunguz/status/2046252291385159848</link>
+      <guid isPermaLink="false">2046252291385159848</guid>
+      <pubDate>Mon, 20 Apr 2026 15:38:58 +0000</pubDate>
+      <description><![CDATA[My core belief is this: companies and organizations that work critically for the government, and on which the government *critically* depends should be *especially* apolitical and non-ideological.
+
+---
+@tunguz | ❤️ 9 | 🔁 1 | 💬 3 | 👁 605]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>NEW paper from NVIDIA.
+
+EDA tools like ABC have been hand-tuned by humans for decades. New research ...</title>
+      <link>https://x.com/dair_ai/status/2046251813738025025</link>
+      <guid isPermaLink="false">2046251813738025025</guid>
+      <pubDate>Mon, 20 Apr 2026 15:37:04 +0000</pubDate>
+      <description><![CDATA[NEW paper from NVIDIA.
+
+EDA tools like ABC have been hand-tuned by humans for decades. New research from NVIDIA shows they can evolve themselves.
+
+The work introduces the first self-evolving logic synthesis framework: multi-agent LLMs autonomously refine the entire ABC codebase, generating and testing candidate optimization sequences against standard benchmark circuits, then merging improvements back into the base tool. No human engineer in the loop.
+
+ABC is a foundational tool across the semiconductor industry.
+
+If agents can evolve it without manual engineering, the same pattern generalizes to any large, domain-specific codebase. It is a concrete extension of the self-improving agent thread, applied to real infrastructure that shipping chips depend on.
+
+Paper: https://t.co/ExqRk5pn2p
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+
+---
+@dair_ai | ❤️ 11 | 🔁 5 | 💬 0 | 👁 885]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>Hell yeah</title>
+      <link>https://x.com/petergyang/status/2046251511119049050</link>
+      <guid isPermaLink="false">2046251511119049050</guid>
+      <pubDate>Mon, 20 Apr 2026 15:35:52 +0000</pubDate>
+      <description><![CDATA[Hell yeah
+
+---
+@petergyang | ❤️ 3 | 🔁 0 | 💬 0 | 👁 987]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>LinkedIn 增长不在于发帖频率，而在于互动深度
+
+LinkedIn 上有个常见的误区：每天发 3 条内容就能快速增长。几周前我也这样想过。但仔细想想，作为独立设计顾问，这样做可能反而稀释我的专业...</title>
+      <link>https://x.com/bearliu/status/2046251044032680282</link>
+      <guid isPermaLink="false">2046251044032680282</guid>
+      <pubDate>Mon, 20 Apr 2026 15:34:01 +0000</pubDate>
+      <description><![CDATA[LinkedIn 增长不在于发帖频率，而在于互动深度
+
+LinkedIn 上有个常见的误区：每天发 3 条内容就能快速增长。几周前我也这样想过。但仔细想想，作为独立设计顾问，这样做可能反而稀释我的专业形象。
+
+Readwise 的这份 LinkedIn 增长指南提到了一个被忽视的策略：在你行业内评论 20+ 条帖子。对比每天狂发内容，这个方法显然更有效——因为评论能让你在相关话题中保持活跃，同时向潜在客户展现你的专业见解。
+
+我现在的做法是每周发 3-5 条帖子，同时把更多精力放在有意义的互动和内容复用上。把 YouTube 视频转化成 LinkedIn 内容，用 Twitter 素材补充帖子库。这样既能保持专业感，又不用投入巨大的创作成本。
+
+关键是改变心态：不是追求发帖量，而是追求在你的领域里产生真实的影响力。质量优于数量，互动优于曝光。
+
+原文链接：https://t.co/SdcIZo191N
+
+---
+@bearliu | ❤️ 4 | 🔁 0 | 💬 1 | 👁 616]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>想回退到 Opus 4.6 的朋友，可以参考泊舟在 cc switch 里的设置</title>
+      <link>https://x.com/Jason_Young1231/status/2046250258607554729</link>
+      <guid isPermaLink="false">2046250258607554729</guid>
+      <pubDate>Mon, 20 Apr 2026 15:30:53 +0000</pubDate>
+      <description><![CDATA[想回退到 Opus 4.6 的朋友，可以参考泊舟在 cc switch 里的设置
+
+---
+@Jason_Young1231 | ❤️ 2 | 🔁 0 | 💬 1 | 👁 557]]></description>
+      <author>@Jason_Young1231</author>
     </item>
   </channel>
 </rss>
