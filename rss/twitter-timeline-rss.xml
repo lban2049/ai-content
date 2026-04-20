@@ -5,127 +5,225 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 18:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:30:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>we saw this                      and created this https://t.co/kH3O6XVGjv</title>
-      <link>https://x.com/binance/status/2046287783602290807</link>
-      <guid isPermaLink="false">2046287783602290807</guid>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[we saw this                      and created this https://t.co/kH3O6XVGjv
+      <title>@NotebookLM @GeminiApp Learn more  ↓ https://t.co/6Tj1Wog8CJ</title>
+      <link>https://x.com/Google/status/2046295364957876521</link>
+      <guid isPermaLink="false">2046295364957876521</guid>
+      <pubDate>Mon, 20 Apr 2026 18:30:07 +0000</pubDate>
+      <description><![CDATA[@NotebookLM @GeminiApp Learn more  ↓ https://t.co/6Tj1Wog8CJ
 
 ---
-@binance | ❤️ 34 | 🔁 0 | 💬 21 | 👁 1056]]></description>
-      <author>@binance</author>
+@Google | ❤️ 1 | 🔁 0 | 💬 0 | 👁 213]]></description>
+      <author>@Google</author>
     </item>
     <item>
-      <title>RT @I_amMukhtar: Klaudia Zakrzewska, the influencer who was run over by a car outside a nightclub in...</title>
-      <link>https://x.com/DeepLearn007/status/2046287491909681307</link>
-      <guid isPermaLink="false">2046287491909681307</guid>
-      <pubDate>Mon, 20 Apr 2026 17:58:50 +0000</pubDate>
-      <description><![CDATA[RT @I_amMukhtar: Klaudia Zakrzewska, the influencer who was run over by a car outside a nightclub in Mayfair, has passed away.
-
-Her friends…
+      <title>We’re constantly updating our education tools to help students learn in their own way, and educators...</title>
+      <link>https://x.com/Google/status/2046295362164432897</link>
+      <guid isPermaLink="false">2046295362164432897</guid>
+      <pubDate>Mon, 20 Apr 2026 18:30:07 +0000</pubDate>
+      <description><![CDATA[We’re constantly updating our education tools to help students learn in their own way, and educators provide more personalized support. Some of our latest updates:
+📔 Expanded @NotebookLM limits for more personalized learning
+📚 No-cost NEET exam prep in the @GeminiApp
+🏫 Free AI literacy training for 6 million U.S. educators
+✍️ Gemini integration coming to the Moodle LMS to save time on lesson prep and personalize learning 
+🎓@GooglePhotos Takeout Transfer for graduating students to save photos from their school-issued ac count
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 379 | 💬 0 | 👁 0]]></description>
+@Google | ❤️ 6 | 🔁 0 | 💬 3 | 👁 473]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>Claude Design rocks and Claude Design sucks. 
+
+Let's talk about.
+
+Last night, I created an entire ga...</title>
+      <link>https://x.com/alliekmiller/status/2046294849117097989</link>
+      <guid isPermaLink="false">2046294849117097989</guid>
+      <pubDate>Mon, 20 Apr 2026 18:28:05 +0000</pubDate>
+      <description><![CDATA[Claude Design rocks and Claude Design sucks. 
+
+Let's talk about.
+
+Last night, I created an entire game in Claude Design inspired by the Longyou Caves in China (why is there no soot!), and we all gathered around the TV and Airplayed it and shouted at the screen to solve ciphers. 
+
+Was it fun? YES!
+
+Was it perfect? God no!
+
+Claude is still rough around the edges. Here are some weak spots we found and what I would go to another product for, have to work extra hard to get done, or hire a human to create:
+
+1) anything SVG from scratch (ex: designing caves or bat characters) - the illustrations Claude makes are comically bad. The &quot;bat with a flashlight&quot; we asked for looked more like a fat clown fish stuck in a purple hat wearing a misshaped pearl necklace.
+
+2) accessibility decisions, like font sizes or color schemes - if you prompt Claude to fix these issues, it can go online and look up accessibility best practices and update the design decently well. But as a colorblind person who wears decently strong contacts, I would trust a human more than AI on this any day of the week. One example it consistently failed on was deciding what color to highlight text with. We could never read the text that was highlighted. 
+
+3) basic design principles - incredibly strange font selection and mismatch of font families (how many serif fonts can one gal handle??) and the game toolbar overlapped and hid about 1/3 of the gaming screen.
+
+4) human-centered basic design - there were so many features that were obviously needed that Claude missed. For example, the cigarette in one of the game screenshots below was just a dot. And when we had to 'log' the find, we logged it as a cave drawing. And Claude came back and said &quot;false! it's a cigarette!&quot; but provided zero design or caption signaling to tell the user that. Very obvious gap if you're a human user of it, not obvious if you're an AI designing it. The user is still very much the owner of UI QA.
+
+5) human-centered delightful design - it will do the thing you ask. will it add extra levels or a fun mascot or buttons to make things more engaging or whimsical captions to drive the game forward? eh. the game was timed and we asked it to add a 'health' meter, which it called 'stamina', but because it set it up as a timer as well (and not health points), the game had two timers running at once.
+
+6) logic - we had to label the objects we found in the cave as one of four categories - authentic, anachronism, forgery, or 'natural/modern'. Modern is also anachronistic so that made no sense. Also, we labeled one object as 'natural' and the system came back and said &quot;nope that's actually a ghost!&quot; and marked our answer as wrong...but ghost wasn't even one of the four options.
+
+7) iteration and tradeoffs - I want my AI systems to consider tradeoffs. If we're dealing with a massive design overhaul, clearly I'm willing to answer 10 questions about it. If we're changing one font, I'm okay answering 0-2 questions. We asked for a kid-friendly version of the game; Claude asked 0 questions and built for a user that was too young. It felt like it lacked reasoning/empathy or like it didn't make the right tradeoffs. 
+
+8) token usage - mine was fine but saw several posts saying it killed theirs, so I want to call that out as a consideration and something to check on with '/usage' inside of Claude Code. 
+
+So there we go. It didn't replace a PRD process or the deep iteration I do on product building but it made me slightly less likely to recommend to non-engineers to look into Lovable as a design prototyping buddy. 
+
+'Claude the Everything Machine' is getting more vertically integrated every day.
+
+---
+@alliekmiller | ❤️ 3 | 🔁 0 | 💬 1 | 👁 105]]></description>
+      <author>@alliekmiller</author>
+    </item>
+    <item>
+      <title>25 years of Canada's robotic arm, the Canadarm2, helping build the space station, maneuvering spacew...</title>
+      <link>https://x.com/Space_Station/status/2046294511287165014</link>
+      <guid isPermaLink="false">2046294511287165014</guid>
+      <pubDate>Mon, 20 Apr 2026 18:26:44 +0000</pubDate>
+      <description><![CDATA[25 years of Canada's robotic arm, the Canadarm2, helping build the space station, maneuvering spacewalkers, and capturing spaceships!
+
+---
+@Space_Station | ❤️ 29 | 🔁 1 | 💬 2 | 👁 3378]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>Chronicle is an experimental feature giving Codex the ability to see and have recent memory over wha...</title>
+      <link>https://x.com/gdb/status/2046293955009274019</link>
+      <guid isPermaLink="false">2046293955009274019</guid>
+      <pubDate>Mon, 20 Apr 2026 18:24:31 +0000</pubDate>
+      <description><![CDATA[Chronicle is an experimental feature giving Codex the ability to see and have recent memory over what you see, automatically giving it full context on what you're doing. Feels surprisingly magical to use.
+
+---
+@gdb | ❤️ 55 | 🔁 2 | 💬 5 | 👁 3811]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>🎯</title>
+      <link>https://x.com/GaryMarcus/status/2046293597910413466</link>
+      <guid isPermaLink="false">2046293597910413466</guid>
+      <pubDate>Mon, 20 Apr 2026 18:23:06 +0000</pubDate>
+      <description><![CDATA[🎯
+
+---
+@GaryMarcus | ❤️ 10 | 🔁 2 | 💬 0 | 👁 892]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>Estonia’s Rollo #Robotics Unveils the World’s First Stable Autonomous Monowheel Security #Robot
+by @...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046292592208273801</link>
+      <guid isPermaLink="false">2046292592208273801</guid>
+      <pubDate>Mon, 20 Apr 2026 18:19:06 +0000</pubDate>
+      <description><![CDATA[Estonia’s Rollo #Robotics Unveils the World’s First Stable Autonomous Monowheel Security #Robot
+by @lukas_m_ziegler
+
+#EmergingTech #Technology #Innovation https://t.co/DlS5EtrgNK
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 96]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @frendriadi4386: @pankajkumar_dev I actually found 4.6 to be the sweet spot—it improved on 4.5 in...</title>
+      <link>https://x.com/DeepLearn007/status/2046292138133270783</link>
+      <guid isPermaLink="false">2046292138133270783</guid>
+      <pubDate>Mon, 20 Apr 2026 18:17:18 +0000</pubDate>
+      <description><![CDATA[RT @frendriadi4386: @pankajkumar_dev I actually found 4.6 to be the sweet spot—it improved on 4.5 in all the right ways. But 4.7 feels like…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
       <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>RT @Python_Dv: RAG has three generations. Most teams are still on the first one. 🧠
+      <title>RT @pankajkumar_dev: why opus 4.5 still clears 4.6 and 4.7 (power users know)
 
-Classic RAG → Re...</title>
-      <link>https://x.com/DeepLearn007/status/2046287381876404721</link>
-      <guid isPermaLink="false">2046287381876404721</guid>
-      <pubDate>Mon, 20 Apr 2026 17:58:24 +0000</pubDate>
-      <description><![CDATA[RT @Python_Dv: RAG has three generations. Most teams are still on the first one. 🧠
+- 4.5 is still the mo...</title>
+      <link>https://x.com/DeepLearn007/status/2046292078624412109</link>
+      <guid isPermaLink="false">2046292078624412109</guid>
+      <pubDate>Mon, 20 Apr 2026 18:17:04 +0000</pubDate>
+      <description><![CDATA[RT @pankajkumar_dev: why opus 4.5 still clears 4.6 and 4.7 (power users know)
 
-Classic RAG → Retrieves
-Fast, simple, single-hop. Perfe…
+- 4.5 is still the most reliable for one-shot coding, you gi…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 48 | 💬 0 | 👁 0]]></description>
+@DeepLearn007 | ❤️ 0 | 🔁 37 | 💬 0 | 👁 0]]></description>
       <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>RT @NoaMagid: Nusha Farrin, 19, was shot multiple times by the Islamic Republic on January 9 - her m...</title>
-      <link>https://x.com/DeepLearn007/status/2046286706861879757</link>
-      <guid isPermaLink="false">2046286706861879757</guid>
-      <pubDate>Mon, 20 Apr 2026 17:55:43 +0000</pubDate>
-      <description><![CDATA[RT @NoaMagid: Nusha Farrin, 19, was shot multiple times by the Islamic Republic on January 9 - her mother was murdered beside her.
-
-She sur…
+      <title>RT @dom_lucre: 🔥🚨BREAKING: IG model Klaudiaglam has reportedly passed away after being run over by a...</title>
+      <link>https://x.com/DeepLearn007/status/2046291902123970563</link>
+      <guid isPermaLink="false">2046291902123970563</guid>
+      <pubDate>Mon, 20 Apr 2026 18:16:22 +0000</pubDate>
+      <description><![CDATA[RT @dom_lucre: 🔥🚨BREAKING: IG model Klaudiaglam has reportedly passed away after being run over by a car outside a nightclub in Soho driven…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 631 | 💬 0 | 👁 0]]></description>
+@DeepLearn007 | ❤️ 0 | 🔁 323 | 💬 0 | 👁 0]]></description>
       <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>RT @yazi_goudarzi: I’m so sick of regime supporters🖕🏽
+      <title>RT @kam_gol: Can confirm. Fiancée spends weeknights scrolling puppies on OLX (ads, pagination, page ...</title>
+      <link>https://x.com/amasad/status/2046291829512110251</link>
+      <guid isPermaLink="false">2046291829512110251</guid>
+      <pubDate>Mon, 20 Apr 2026 18:16:05 +0000</pubDate>
+      <description><![CDATA[RT @kam_gol: Can confirm. Fiancée spends weeknights scrolling puppies on OLX (ads, pagination, page 1 of 100). 
 
-#Iran https://t.co/cnrP8NcHOU</title>
-      <link>https://x.com/DeepLearn007/status/2046286627526598823</link>
-      <guid isPermaLink="false">2046286627526598823</guid>
-      <pubDate>Mon, 20 Apr 2026 17:55:24 +0000</pubDate>
-      <description><![CDATA[RT @yazi_goudarzi: I’m so sick of regime supporters🖕🏽
-
-#Iran https://t.co/cnrP8NcHOU
+I opened @Replit, typed: &quot;…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 123 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @spaceandtech_: Scientists developed HumanX, a system that lets humanoid robots learn new skills ...</title>
-      <link>https://x.com/DeepLearn007/status/2046286521519710683</link>
-      <guid isPermaLink="false">2046286521519710683</guid>
-      <pubDate>Mon, 20 Apr 2026 17:54:59 +0000</pubDate>
-      <description><![CDATA[RT @spaceandtech_: Scientists developed HumanX, a system that lets humanoid robots learn new skills by watching just one short human video.…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 109 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human l...</title>
-      <link>https://x.com/mattturck/status/2046284478151086178</link>
-      <guid isPermaLink="false">2046284478151086178</guid>
-      <pubDate>Mon, 20 Apr 2026 17:46:52 +0000</pubDate>
-      <description><![CDATA[One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human labor market, dollar-for-dollar.  Many trillions!
-
-Just for like any labor automation technology in history, the price of AI services will be the marginal cost + a normal margin.
-
----
-@mattturck | ❤️ 1 | 🔁 0 | 💬 0 | 👁 329]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>1. Go to an existing Replit project
-2. “Make a mobile app”
-3. Publish to App Store</title>
-      <link>https://x.com/amasad/status/2046281857281802630</link>
-      <guid isPermaLink="false">2046281857281802630</guid>
-      <pubDate>Mon, 20 Apr 2026 17:36:27 +0000</pubDate>
-      <description><![CDATA[1. Go to an existing Replit project
-2. “Make a mobile app”
-3. Publish to App Store
-
----
-@amasad | ❤️ 62 | 🔁 3 | 💬 5 | 👁 5421]]></description>
+@amasad | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@amasad</author>
     </item>
     <item>
-      <title>The era of the &quot;AI Factory&quot; is transforming manufacturing from a series of isolated pilots...</title>
-      <link>https://x.com/nvidia/status/2046281553441857791</link>
-      <guid isPermaLink="false">2046281553441857791</guid>
-      <pubDate>Mon, 20 Apr 2026 17:35:15 +0000</pubDate>
-      <description><![CDATA[The era of the &quot;AI Factory&quot; is transforming manufacturing from a series of isolated pilots into a scalable, autonomous engine of production. 
-
-Explore how NVIDIA and our global partners are using digital twins and Omniverse blueprints to close the &quot;sim-to-real&quot; gap and redefine industrial efficiency.
+      <title>RT @chikpees: @linmeitalks You should be arrested before you do something similar</title>
+      <link>https://x.com/DeepLearn007/status/2046290304446386444</link>
+      <guid isPermaLink="false">2046290304446386444</guid>
+      <pubDate>Mon, 20 Apr 2026 18:10:01 +0000</pubDate>
+      <description><![CDATA[RT @chikpees: @linmeitalks You should be arrested before you do something similar
 
 ---
-@nvidia | ❤️ 48 | 🔁 3 | 💬 7 | 👁 5602]]></description>
-      <author>@nvidia</author>
+@DeepLearn007 | ❤️ 0 | 🔁 37 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @opencode: Kimi K2.6 now in OpenCode — Go included</title>
+      <link>https://x.com/Kimi_Moonshot/status/2046288745134190888</link>
+      <guid isPermaLink="false">2046288745134190888</guid>
+      <pubDate>Mon, 20 Apr 2026 18:03:49 +0000</pubDate>
+      <description><![CDATA[RT @opencode: Kimi K2.6 now in OpenCode — Go included
+
+---
+@Kimi_Moonshot | ❤️ 0 | 🔁 35 | 💬 0 | 👁 1]]></description>
+      <author>@Kimi_Moonshot</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Are Businesses Ready for the Next Wave of #AI-Powered Cyberattacks?
+by @rehackma...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046288619204157712</link>
+      <guid isPermaLink="false">2046288619204157712</guid>
+      <pubDate>Mon, 20 Apr 2026 18:03:19 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Are Businesses Ready for the Next Wave of #AI-Powered Cyberattacks?
+by @rehackmagazine @UniteAi
+ 
+Learn more: https://t…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>wanman 的效果太好了！实话说我目前用过这么多 harness 产品，没有一个能做到如此丝滑，如此方便上手，无论是 openclaw 还是 hermes agent 都是针对技术人员的产品，但 w...</title>
+      <link>https://x.com/turingou/status/2046288353096814841</link>
+      <guid isPermaLink="false">2046288353096814841</guid>
+      <pubDate>Mon, 20 Apr 2026 18:02:16 +0000</pubDate>
+      <description><![CDATA[wanman 的效果太好了！实话说我目前用过这么多 harness 产品，没有一个能做到如此丝滑，如此方便上手，无论是 openclaw 还是 hermes agent 都是针对技术人员的产品，但 wanman 可以说是真正面向普通人，完全不用动脑子的 agent matrix https://t.co/niy58xzWh5
+
+---
+@turingou | ❤️ 18 | 🔁 0 | 💬 2 | 👁 1558]]></description>
+      <author>@turingou</author>
     </item>
   </channel>
 </rss>
