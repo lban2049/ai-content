@@ -5,149 +5,57 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 20:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 20:30:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Microinteracti1: The countries MAGA describes as collapsing and joyless hold positions 1 through...</title>
-      <link>https://x.com/ylecun/status/2046318210945896787</link>
-      <guid isPermaLink="false">2046318210945896787</guid>
-      <pubDate>Mon, 20 Apr 2026 20:00:54 +0000</pubDate>
-      <description><![CDATA[RT @Microinteracti1: The countries MAGA describes as collapsing and joyless hold positions 1 through 6 in the global happiness rankings.
-
-T…
+      <title>Check out Jack's new book. Jack has been one of my early influences on how to be creatively unhinged...</title>
+      <link>https://x.com/tunguz/status/2046324679607022016</link>
+      <guid isPermaLink="false">2046324679607022016</guid>
+      <pubDate>Mon, 20 Apr 2026 20:26:37 +0000</pubDate>
+      <description><![CDATA[Check out Jack's new book. Jack has been one of my early influences on how to be creatively unhinged on social media. He's helped me to look at LinkedIn from a whole new perspective for instance. The book is bound to come with some really cool insights.
 
 ---
-@ylecun | ❤️ 0 | 🔁 148 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@tunguz | ❤️ 2 | 🔁 1 | 💬 2 | 👁 388]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Successful #Data product teams balance #Business and #Tech expertise 
-by @McKins...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046318127613358323</link>
-      <guid isPermaLink="false">2046318127613358323</guid>
-      <pubDate>Mon, 20 Apr 2026 20:00:35 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Successful #Data product teams balance #Business and #Tech expertise 
-by @McKinsey
- 
-#DataScience #BigData https://t.co…
+      <title>Imagine Beauty</title>
+      <link>https://x.com/elonmusk/status/2046324618571427978</link>
+      <guid isPermaLink="false">2046324618571427978</guid>
+      <pubDate>Mon, 20 Apr 2026 20:26:22 +0000</pubDate>
+      <description><![CDATA[Imagine Beauty
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Seriously. If you don’t understand the below, you really shouldn’t speculate about AI. It’s absolute...</title>
-      <link>https://x.com/GaryMarcus/status/2046317765297139992</link>
-      <guid isPermaLink="false">2046317765297139992</guid>
-      <pubDate>Mon, 20 Apr 2026 19:59:08 +0000</pubDate>
-      <description><![CDATA[Seriously. If you don’t understand the below, you really shouldn’t speculate about AI. It’s absolutely fundamental.
-
----
-@GaryMarcus | ❤️ 1 | 🔁 0 | 💬 0 | 👁 232]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are...</title>
-      <link>https://x.com/thenanyu/status/2046317076164350411</link>
-      <guid isPermaLink="false">2046317076164350411</guid>
-      <pubDate>Mon, 20 Apr 2026 19:56:24 +0000</pubDate>
-      <description><![CDATA[When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are hooking up?
-
----
-@thenanyu | ❤️ 0 | 🔁 0 | 💬 1 | 👁 47]]></description>
-      <author>@thenanyu</author>
-    </item>
-    <item>
-      <title>OpenAI 给 Codex 加了一个新功能 Chronicle，让它能“看”你的屏幕。
-
-简单说，Codex 现在可以记住你最近在屏幕上干了什么。你跟它说“这个报错”“那个文件”，它不用你解释就知道...</title>
-      <link>https://x.com/dotey/status/2046316977711452560</link>
-      <guid isPermaLink="false">2046316977711452560</guid>
-      <pubDate>Mon, 20 Apr 2026 19:56:00 +0000</pubDate>
-      <description><![CDATA[OpenAI 给 Codex 加了一个新功能 Chronicle，让它能“看”你的屏幕。
-
-简单说，Codex 现在可以记住你最近在屏幕上干了什么。你跟它说“这个报错”“那个文件”，它不用你解释就知道指的是什么。过去你得复制粘贴一堆上下文才能让 AI 理解你在做什么，现在它自己会从屏幕内容里补齐。
-
-背景：Codex 上周刚推出了 Memories 功能，可以跨会话记住用户的偏好和项目。Chronicle 是 Memories 的扩展，靠后台进程定期截屏、做 OCR、分析你正在用哪些工具，再把这些信息整理成记忆文件。
-
-目前是小范围灰度：只开放给 macOS 上的 ChatGPT Pro 订阅用户，欧盟、英国、瑞士不支持，大概率是隐私法规的原因。
-
-但是需要注意的是：它会很快吃掉你的 rate limit，因为后台一直在跑 Agent 做总结。生成的记忆是明文 Markdown 存在本地 ~/.codex/memories_extensions/chronicle 里，其他 App 也能读到，敏感信息存在泄露风险。OpenAI 还明确警告这会放大 prompt injection 的风险：如果你浏览了带有恶意指令的网页，Codex 可能真的会照着那些指令执行。
-
-屏幕截图会上传到 OpenAI 服务器生成记忆，官方说处理完就删，也不用于训练。如果不放心，可以随时从菜单栏暂停，或者直接删掉那些 Markdown 文件让它&quot;忘记&quot;。
-
-AI 读屏幕这个方向不算新。微软 Recall 在 Windows 上折腾了一年多，Cursor 这类 IDE 也在探索类似的上下文补齐。但把它做成持续运行的后台 Agent，自动更新长期记忆，再直接塞进一个命令行编程工具里，目前还没看到别家这么干。
-
-我暂时还不打算测试，不太喜欢有人/Agent盯着屏幕的感觉，有兴趣的可以试试并反馈下好用不。
-
----
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 253]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>Nanotechnology for Safer Water Systems and Sustainable industrial Growth
-by @antgrasso
-
-#Sustainabil...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046315220402913744</link>
-      <guid isPermaLink="false">2046315220402913744</guid>
-      <pubDate>Mon, 20 Apr 2026 19:49:01 +0000</pubDate>
-      <description><![CDATA[Nanotechnology for Safer Water Systems and Sustainable industrial Growth
-by @antgrasso
-
-#Sustainability #EmergingTech #Innovation #Technology https://t.co/alx1HMT8s1
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 85]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Media accreditation is open for the launch of the next @SpaceX Dragon spacecraft to deliver @NASA re...</title>
-      <link>https://x.com/Space_Station/status/2046314206870503766</link>
-      <guid isPermaLink="false">2046314206870503766</guid>
-      <pubDate>Mon, 20 Apr 2026 19:45:00 +0000</pubDate>
-      <description><![CDATA[Media accreditation is open for the launch of the next @SpaceX Dragon spacecraft to deliver @NASA research and supplies to the Exp 74 crew targeted for no earlier than May 12. https://t.co/2k2tiJRtb8
-
----
-@Space_Station | ❤️ 63 | 🔁 11 | 💬 2 | 👁 6985]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>Try it out</title>
-      <link>https://x.com/elonmusk/status/2046313895447716230</link>
-      <guid isPermaLink="false">2046313895447716230</guid>
-      <pubDate>Mon, 20 Apr 2026 19:43:46 +0000</pubDate>
-      <description><![CDATA[Try it out
-
----
-@elonmusk | ❤️ 2620 | 🔁 294 | 💬 720 | 👁 747959]]></description>
+@elonmusk | ❤️ 1109 | 🔁 135 | 💬 508 | 👁 93991]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @amilabs: Heading to ICLR in Rio 🇧🇷?
-We’re hosting our first networking mixer on April 24.
-Meet A...</title>
-      <link>https://x.com/ylecun/status/2046313335910809791</link>
-      <guid isPermaLink="false">2046313335910809791</guid>
-      <pubDate>Mon, 20 Apr 2026 19:41:32 +0000</pubDate>
-      <description><![CDATA[RT @amilabs: Heading to ICLR in Rio 🇧🇷?
-We’re hosting our first networking mixer on April 24.
-Meet AMI’s technical team and cofounders, and…
+      <title>Truly the end times.</title>
+      <link>https://x.com/tunguz/status/2046322973242437784</link>
+      <guid isPermaLink="false">2046322973242437784</guid>
+      <pubDate>Mon, 20 Apr 2026 20:19:50 +0000</pubDate>
+      <description><![CDATA[Truly the end times.
 
 ---
-@ylecun | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 697]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>literally my basic model since 1998. crazy that some people still haven’t figured this out.</title>
-      <link>https://x.com/GaryMarcus/status/2046311482489700477</link>
-      <guid isPermaLink="false">2046311482489700477</guid>
-      <pubDate>Mon, 20 Apr 2026 19:34:10 +0000</pubDate>
-      <description><![CDATA[literally my basic model since 1998. crazy that some people still haven’t figured this out.
+      <title>This #Robot Just Nailed a Seamless Webster Backflip
+by @XRoboHub
+  
+#Robotics #Engineering #Artifici...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046322795349496056</link>
+      <guid isPermaLink="false">2046322795349496056</guid>
+      <pubDate>Mon, 20 Apr 2026 20:19:07 +0000</pubDate>
+      <description><![CDATA[This #Robot Just Nailed a Seamless Webster Backflip
+by @XRoboHub
+  
+#Robotics #Engineering #ArtificialIntelligence #Innovation https://t.co/giFMWRvL6T
 
 ---
-@GaryMarcus | ❤️ 27 | 🔁 5 | 💬 3 | 👁 2603]]></description>
-      <author>@GaryMarcus</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 106]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
