@@ -5,121 +5,158 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 23:31:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last ...</title>
-      <link>https://x.com/swyx/status/2046362691606855700</link>
-      <guid isPermaLink="false">2046362691606855700</guid>
-      <pubDate>Mon, 20 Apr 2026 22:57:39 +0000</pubDate>
-      <description><![CDATA[the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last year.
-
-I've been waiting for &quot;real&quot; computer use since @romainhuet demoed the ChatGPT App with 4o Vision at AIEWF 2024... and only now it's really, actually rolling out in a usable fashion.
+      <title>Welp, apparently I should not have taken Opus 4.7 at its word about famous fictional characters who ...</title>
+      <link>https://x.com/ESYudkowsky/status/2046368377963479110</link>
+      <guid isPermaLink="false">2046368377963479110</guid>
+      <pubDate>Mon, 20 Apr 2026 23:20:15 +0000</pubDate>
+      <description><![CDATA[Welp, apparently I should not have taken Opus 4.7 at its word about famous fictional characters who do not lie (only Ged being of my own knowledge).  Maybe it was trying to fool me to retain freedom of action for future Claudes. https://t.co/V7PeZAsVGf
 
 ---
-@swyx | ❤️ 3 | 🔁 0 | 💬 3 | 👁 248]]></description>
-      <author>@swyx</author>
+@ESYudkowsky | ❤️ 9 | 🔁 0 | 💬 0 | 👁 894]]></description>
+      <author>@ESYudkowsky</author>
     </item>
     <item>
-      <title>We're launching the Anthropic STEM Fellows Program. 
-
-AI will accelerate progress in science and eng...</title>
-      <link>https://x.com/AnthropicAI/status/2046362119755727256</link>
-      <guid isPermaLink="false">2046362119755727256</guid>
-      <pubDate>Mon, 20 Apr 2026 22:55:23 +0000</pubDate>
-      <description><![CDATA[We're launching the Anthropic STEM Fellows Program. 
-
-AI will accelerate progress in science and engineering. We're looking for experts across these fields to work alongside our research teams on specific projects over a few months.
-
-Learn more and apply: https://t.co/MoF60j53pX
+      <title>RT @nickcraske: Ollama we love you 👨‍💻🚀</title>
+      <link>https://x.com/ollama/status/2046367740295106895</link>
+      <guid isPermaLink="false">2046367740295106895</guid>
+      <pubDate>Mon, 20 Apr 2026 23:17:43 +0000</pubDate>
+      <description><![CDATA[RT @nickcraske: Ollama we love you 👨‍💻🚀
 
 ---
-@AnthropicAI | ❤️ 139 | 🔁 19 | 💬 21 | 👁 4520]]></description>
-      <author>@AnthropicAI</author>
-    </item>
-    <item>
-      <title>Model page 
-https://t.co/881xL3CzjO
-
-More integrations 
-https://t.co/UhFsEEt4oO</title>
-      <link>https://x.com/ollama/status/2046361869963935989</link>
-      <guid isPermaLink="false">2046361869963935989</guid>
-      <pubDate>Mon, 20 Apr 2026 22:54:24 +0000</pubDate>
-      <description><![CDATA[Model page 
-https://t.co/881xL3CzjO
-
-More integrations 
-https://t.co/UhFsEEt4oO
-
----
-@ollama | ❤️ 1 | 🔁 0 | 💬 0 | 👁 257]]></description>
+@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@ollama</author>
     </item>
     <item>
-      <title>Kimi K2.6 raises the bar for open-source models. 
-
-🦙 available on Ollama's cloud! 
-
-Try it with Open...</title>
-      <link>https://x.com/ollama/status/2046361868076487155</link>
-      <guid isPermaLink="false">2046361868076487155</guid>
-      <pubDate>Mon, 20 Apr 2026 22:54:23 +0000</pubDate>
-      <description><![CDATA[Kimi K2.6 raises the bar for open-source models. 
-
-🦙 available on Ollama's cloud! 
-
-Try it with OpenClaw: 
-ollama launch openclaw --model kimi-k2.6:cloud
-
-Try it with Hermes Agent: 
-ollama launch hermes --model kimi-k2.6:cloud
-
-Try it with Claude Code: 
-ollama launch claude --model kimi-k2.6:cloud
-
-more integrations 🧵
+      <title>RT @RamanduLight: Time to really give Kimi K2.6 a go. Thank you @ollama! Love the ollama cloud setup...</title>
+      <link>https://x.com/ollama/status/2046367709382996201</link>
+      <guid isPermaLink="false">2046367709382996201</guid>
+      <pubDate>Mon, 20 Apr 2026 23:17:36 +0000</pubDate>
+      <description><![CDATA[RT @RamanduLight: Time to really give Kimi K2.6 a go. Thank you @ollama! Love the ollama cloud setup!
 
 ---
-@ollama | ❤️ 26 | 🔁 5 | 💬 8 | 👁 862]]></description>
+@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@ollama</author>
     </item>
     <item>
-      <title>Welcome back Ben! Can’t wait to see what you build!</title>
-      <link>https://x.com/joshwoodward/status/2046361644029378731</link>
-      <guid isPermaLink="false">2046361644029378731</guid>
-      <pubDate>Mon, 20 Apr 2026 22:53:30 +0000</pubDate>
-      <description><![CDATA[Welcome back Ben! Can’t wait to see what you build!
+      <title>Underground Waste Systems: The Netherlands’ Secret to Spotless Streets
+by @HowThingsWork_
+
+#Technolo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046367355605807203</link>
+      <guid isPermaLink="false">2046367355605807203</guid>
+      <pubDate>Mon, 20 Apr 2026 23:16:11 +0000</pubDate>
+      <description><![CDATA[Underground Waste Systems: The Netherlands’ Secret to Spotless Streets
+by @HowThingsWork_
+
+#Technology #Innovation #EmergingTech #TechForGood https://t.co/5uMNGFKUqk
 
 ---
-@joshwoodward | ❤️ 12 | 🔁 0 | 💬 1 | 👁 479]]></description>
-      <author>@joshwoodward</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 118]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>&quot;In the next 12-24 months, we're going to see massive shedding of staff, and then a massive reh...</title>
-      <link>https://x.com/lennysan/status/2046360849972068817</link>
-      <guid isPermaLink="false">2046360849972068817</guid>
-      <pubDate>Mon, 20 Apr 2026 22:50:20 +0000</pubDate>
-      <description><![CDATA[&quot;In the next 12-24 months, we're going to see massive shedding of staff, and then a massive rehiring. You might see a company shed 30,000 and hire 8,000. But the 8,000 people they're gonna hire are going to all be AI-first.&quot; https://t.co/ACGH5xexq0
+      <title>Look how they massacred my boy</title>
+      <link>https://x.com/thenanyu/status/2046366841572888747</link>
+      <guid isPermaLink="false">2046366841572888747</guid>
+      <pubDate>Mon, 20 Apr 2026 23:14:09 +0000</pubDate>
+      <description><![CDATA[Look how they massacred my boy
 
 ---
-@lennysan | ❤️ 1 | 🔁 1 | 💬 2 | 👁 1799]]></description>
-      <author>@lennysan</author>
+@thenanyu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 167]]></description>
+      <author>@thenanyu</author>
     </item>
     <item>
-      <title>🧭 gog 0.13 is out!
-
-Gmail forwarding with notes + attachments, autoreplies, full-body search, Markdo...</title>
-      <link>https://x.com/steipete/status/2046356596683411924</link>
-      <guid isPermaLink="false">2046356596683411924</guid>
-      <pubDate>Mon, 20 Apr 2026 22:33:26 +0000</pubDate>
-      <description><![CDATA[🧭 gog 0.13 is out!
-
-Gmail forwarding with notes + attachments, autoreplies, full-body search, Markdown uploads to Google Docs, rendered Slides thumbnails, Sheets chart editing, secondary calendars, commenter-only Drive shares, and safer no-send controls. https://t.co/7nQoJaa0Ti
+      <title>价格上先和 Claude 对标了😅</title>
+      <link>https://x.com/Jason_Young1231/status/2046366220526780751</link>
+      <guid isPermaLink="false">2046366220526780751</guid>
+      <pubDate>Mon, 20 Apr 2026 23:11:41 +0000</pubDate>
+      <description><![CDATA[价格上先和 Claude 对标了😅
 
 ---
-@steipete | ❤️ 97 | 🔁 5 | 💬 7 | 👁 5364]]></description>
-      <author>@steipete</author>
+@Jason_Young1231 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 369]]></description>
+      <author>@Jason_Young1231</author>
+    </item>
+    <item>
+      <title>https://t.co/qL32GGLaCy</title>
+      <link>https://x.com/gregpr07/status/2046366012774470054</link>
+      <guid isPermaLink="false">2046366012774470054</guid>
+      <pubDate>Mon, 20 Apr 2026 23:10:51 +0000</pubDate>
+      <description><![CDATA[https://t.co/qL32GGLaCy
+
+---
+@gregpr07 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 77]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>Asked my AI browser agent to cancel my Xfinity account.
+
+There is no cancel button. Anywhere.
+
+The o...</title>
+      <link>https://x.com/gregpr07/status/2046366010295611852</link>
+      <guid isPermaLink="false">2046366010295611852</guid>
+      <pubDate>Mon, 20 Apr 2026 23:10:51 +0000</pubDate>
+      <description><![CDATA[Asked my AI browser agent to cancel my Xfinity account.
+
+There is no cancel button. Anywhere.
+
+The only path: open the support bot, type &quot;I want to cancel&quot; four times, and it schedules you a retention callback.
+
+Not a cancellation. A callback.
+
+How is this legal?! https://t.co/D64pL61Wni
+
+---
+@gregpr07 | ❤️ 8 | 🔁 0 | 💬 2 | 👁 419]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: From Toys to Tools of War: How Necessity Fuels Relentless Technological Evolutio...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046365044208791778</link>
+      <guid isPermaLink="false">2046365044208791778</guid>
+      <pubDate>Mon, 20 Apr 2026 23:07:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: From Toys to Tools of War: How Necessity Fuels Relentless Technological Evolution
+by @_fluxfeeds
+ 
+#Robotics #MachineLe…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @t_blom: First it was &quot;UK  wage growth is too low&quot; 😭 
+
+Now &quot;Rich American AI compa...</title>
+      <link>https://x.com/DeepLearn007/status/2046363693055644109</link>
+      <guid isPermaLink="false">2046363693055644109</guid>
+      <pubDate>Mon, 20 Apr 2026 23:01:38 +0000</pubDate>
+      <description><![CDATA[RT @t_blom: First it was &quot;UK  wage growth is too low&quot; 😭 
+
+Now &quot;Rich American AI companies are paying our engineers too much and UK unicorns…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 24 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @SebJohnsonUK: Anthropic is hiring a for a role in London that will be paid up to £630k A YEAR. 
+...</title>
+      <link>https://x.com/DeepLearn007/status/2046363658150686798</link>
+      <guid isPermaLink="false">2046363658150686798</guid>
+      <pubDate>Mon, 20 Apr 2026 23:01:30 +0000</pubDate>
+      <description><![CDATA[RT @SebJohnsonUK: Anthropic is hiring a for a role in London that will be paid up to £630k A YEAR. 
+
+This excludes stock options.
+
+For a lo…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 67 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
   </channel>
 </rss>
