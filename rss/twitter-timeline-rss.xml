@@ -5,142 +5,127 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:01:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>counterintuitive things I believe about AI: 
-
-SaaS is not dead, it will be stronger than ever
-
-The u...</title>
-      <link>https://x.com/danshipper/status/2046280089818828835</link>
-      <guid isPermaLink="false">2046280089818828835</guid>
-      <pubDate>Mon, 20 Apr 2026 17:29:26 +0000</pubDate>
-      <description><![CDATA[counterintuitive things I believe about AI: 
-
-SaaS is not dead, it will be stronger than ever
-
-The userbase for SaaS will 10x over the next 3 years because agents will become users
-
-Knowledge work will change dramatically, but everyone will still have jobs (except very specific categories like personal injury insurance for car crashes)
-
-Humans will continue to be the sandwich at the beginning and end of every AI process (h/t @kieranklaassen and @trevin who came up with this)
-
-Personal software looks like OpenClaw, not a vibe-coded Salesforce clone
-
-You'll use Codex and Claude Cowork through your SaaS software, and use your SaaS software through Codex and Claude Code
-
-Because you'll use Codex with your SaaS, all software users will start to look like extremely technical users
-
-All SaaS will need to incorporate the idea of 'presence' for agents—making what agents are doing legible in real-time to users
-
-Agents are currently built for 1-1 interactions, they'll need to be built for one to many and many to many interactions
-
-Specialization will be just as important in agents as it is in humans, therefore we will live in a many-agent world
-
-Most software companies are not building for a world where everyone has an agent, and they're wasting a ton of time and capital developing capabilities that a user with Claude Code doesn't need
+      <title>we saw this                      and created this https://t.co/kH3O6XVGjv</title>
+      <link>https://x.com/binance/status/2046287783602290807</link>
+      <guid isPermaLink="false">2046287783602290807</guid>
+      <pubDate>Mon, 20 Apr 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[we saw this                      and created this https://t.co/kH3O6XVGjv
 
 ---
-@danshipper | ❤️ 3 | 🔁 0 | 💬 0 | 👁 61]]></description>
-      <author>@danshipper</author>
+@binance | ❤️ 34 | 🔁 0 | 💬 21 | 👁 1056]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>Beyond generating high-fidelity visuals, we wanted to test the limits of what Nano Banana Pro can do...</title>
-      <link>https://x.com/GoogleAI/status/2046279894284525860</link>
-      <guid isPermaLink="false">2046279894284525860</guid>
-      <pubDate>Mon, 20 Apr 2026 17:28:39 +0000</pubDate>
-      <description><![CDATA[Beyond generating high-fidelity visuals, we wanted to test the limits of what Nano Banana Pro can do. We worked with design partners Porto Rocha to build out a hypothetical brand called YOYOYO to see how the model would handle the task. Here’s what we found:
+      <title>RT @I_amMukhtar: Klaudia Zakrzewska, the influencer who was run over by a car outside a nightclub in...</title>
+      <link>https://x.com/DeepLearn007/status/2046287491909681307</link>
+      <guid isPermaLink="false">2046287491909681307</guid>
+      <pubDate>Mon, 20 Apr 2026 17:58:50 +0000</pubDate>
+      <description><![CDATA[RT @I_amMukhtar: Klaudia Zakrzewska, the influencer who was run over by a car outside a nightclub in Mayfair, has passed away.
 
-🎨Brand consistency: Across logos, colors, and typography, the model maintained a strict, cohesive brand identity (even for wildly diverse concepts)
-
-🛍️Environmental realism: We asked to see the products in storefront and studio mockups. It nailed accurate lighting, shadows, and physical proportions - even when upscaled for massive retail displays
-
-🪀Spatial accuracy: We tested spatial volumes for physical packaging. The generated proportions were so precise that we were able to 3D-print the functional yo-yo
-
-How have you been pushing the limits of Nano Banana Pro? Let us know in the replies below!
+Her friends…
 
 ---
-@GoogleAI | ❤️ 9 | 🔁 0 | 💬 0 | 👁 524]]></description>
-      <author>@GoogleAI</author>
+@DeepLearn007 | ❤️ 0 | 🔁 379 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>RT @OpenRouter: Kimi K2.6 is live on OpenRouter!
+      <title>RT @Python_Dv: RAG has three generations. Most teams are still on the first one. 🧠
 
-@Kimi_Moonshot's new model is a long-horizon codin...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046279631482093807</link>
-      <guid isPermaLink="false">2046279631482093807</guid>
-      <pubDate>Mon, 20 Apr 2026 17:27:36 +0000</pubDate>
-      <description><![CDATA[RT @OpenRouter: Kimi K2.6 is live on OpenRouter!
+Classic RAG → Re...</title>
+      <link>https://x.com/DeepLearn007/status/2046287381876404721</link>
+      <guid isPermaLink="false">2046287381876404721</guid>
+      <pubDate>Mon, 20 Apr 2026 17:58:24 +0000</pubDate>
+      <description><![CDATA[RT @Python_Dv: RAG has three generations. Most teams are still on the first one. 🧠
 
-@Kimi_Moonshot's new model is a long-horizon coding model built for sustained agentic wor…
+Classic RAG → Retrieves
+Fast, simple, single-hop. Perfe…
 
 ---
-@Kimi_Moonshot | ❤️ 0 | 🔁 15 | 💬 0 | 👁 0]]></description>
-      <author>@Kimi_Moonshot</author>
+@DeepLearn007 | ❤️ 0 | 🔁 48 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Meet the Fully #Robotic Massage Machine with 16 Axes of Relaxation
-by @MarioNawfal
-  
-#HealthTech #T...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046278501867642974</link>
-      <guid isPermaLink="false">2046278501867642974</guid>
-      <pubDate>Mon, 20 Apr 2026 17:23:07 +0000</pubDate>
-      <description><![CDATA[Meet the Fully #Robotic Massage Machine with 16 Axes of Relaxation
-by @MarioNawfal
-  
-#HealthTech #TechForGood #Tech https://t.co/zF3VIqlo7L
+      <title>RT @NoaMagid: Nusha Farrin, 19, was shot multiple times by the Islamic Republic on January 9 - her m...</title>
+      <link>https://x.com/DeepLearn007/status/2046286706861879757</link>
+      <guid isPermaLink="false">2046286706861879757</guid>
+      <pubDate>Mon, 20 Apr 2026 17:55:43 +0000</pubDate>
+      <description><![CDATA[RT @NoaMagid: Nusha Farrin, 19, was shot multiple times by the Islamic Republic on January 9 - her mother was murdered beside her.
+
+She sur…
 
 ---
-@Ronald_vanLoon | ❤️ 3 | 🔁 0 | 💬 0 | 👁 76]]></description>
-      <author>@Ronald_vanLoon</author>
+@DeepLearn007 | ❤️ 0 | 🔁 631 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to...</title>
-      <link>https://x.com/alexalbert__/status/2046277525207466003</link>
-      <guid isPermaLink="false">2046277525207466003</guid>
-      <pubDate>Mon, 20 Apr 2026 17:19:14 +0000</pubDate>
-      <description><![CDATA[Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to do post-grad. 
+      <title>RT @yazi_goudarzi: I’m so sick of regime supporters🖕🏽
 
-If you are in your teens/20s and trying to figure out how to think about life, this book will offer you some good ideas.
+#Iran https://t.co/cnrP8NcHOU</title>
+      <link>https://x.com/DeepLearn007/status/2046286627526598823</link>
+      <guid isPermaLink="false">2046286627526598823</guid>
+      <pubDate>Mon, 20 Apr 2026 17:55:24 +0000</pubDate>
+      <description><![CDATA[RT @yazi_goudarzi: I’m so sick of regime supporters🖕🏽
+
+#Iran https://t.co/cnrP8NcHOU
 
 ---
-@alexalbert__ | ❤️ 9 | 🔁 0 | 💬 2 | 👁 1435]]></description>
-      <author>@alexalbert__</author>
+@DeepLearn007 | ❤️ 0 | 🔁 123 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Maximal Brain Damage Without Data or Optimization
-
-Disrupting Neural Networks via Sign-Bit Flips
-
-pa...</title>
-      <link>https://x.com/_akhaliq/status/2046277219794792689</link>
-      <guid isPermaLink="false">2046277219794792689</guid>
-      <pubDate>Mon, 20 Apr 2026 17:18:01 +0000</pubDate>
-      <description><![CDATA[Maximal Brain Damage Without Data or Optimization
-
-Disrupting Neural Networks via Sign-Bit Flips
-
-paper: https://t.co/Dk5sYp1otN https://t.co/GdRaEMk2i3
+      <title>RT @spaceandtech_: Scientists developed HumanX, a system that lets humanoid robots learn new skills ...</title>
+      <link>https://x.com/DeepLearn007/status/2046286521519710683</link>
+      <guid isPermaLink="false">2046286521519710683</guid>
+      <pubDate>Mon, 20 Apr 2026 17:54:59 +0000</pubDate>
+      <description><![CDATA[RT @spaceandtech_: Scientists developed HumanX, a system that lets humanoid robots learn new skills by watching just one short human video.…
 
 ---
-@_akhaliq | ❤️ 6 | 🔁 0 | 💬 0 | 👁 839]]></description>
-      <author>@_akhaliq</author>
+@DeepLearn007 | ❤️ 0 | 🔁 109 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Elucidating the SNR-t Bias of Diffusion Probabilistic Models
+      <title>One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human l...</title>
+      <link>https://x.com/mattturck/status/2046284478151086178</link>
+      <guid isPermaLink="false">2046284478151086178</guid>
+      <pubDate>Mon, 20 Apr 2026 17:46:52 +0000</pubDate>
+      <description><![CDATA[One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human labor market, dollar-for-dollar.  Many trillions!
 
-paper: https://t.co/Z6zPgQ36cW https:/...</title>
-      <link>https://x.com/_akhaliq/status/2046276964151964027</link>
-      <guid isPermaLink="false">2046276964151964027</guid>
-      <pubDate>Mon, 20 Apr 2026 17:17:00 +0000</pubDate>
-      <description><![CDATA[Elucidating the SNR-t Bias of Diffusion Probabilistic Models
-
-paper: https://t.co/Z6zPgQ36cW https://t.co/bdfvsIWWmV
+Just for like any labor automation technology in history, the price of AI services will be the marginal cost + a normal margin.
 
 ---
-@_akhaliq | ❤️ 10 | 🔁 0 | 💬 0 | 👁 1019]]></description>
-      <author>@_akhaliq</author>
+@mattturck | ❤️ 1 | 🔁 0 | 💬 0 | 👁 329]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>1. Go to an existing Replit project
+2. “Make a mobile app”
+3. Publish to App Store</title>
+      <link>https://x.com/amasad/status/2046281857281802630</link>
+      <guid isPermaLink="false">2046281857281802630</guid>
+      <pubDate>Mon, 20 Apr 2026 17:36:27 +0000</pubDate>
+      <description><![CDATA[1. Go to an existing Replit project
+2. “Make a mobile app”
+3. Publish to App Store
+
+---
+@amasad | ❤️ 62 | 🔁 3 | 💬 5 | 👁 5421]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>The era of the &quot;AI Factory&quot; is transforming manufacturing from a series of isolated pilots...</title>
+      <link>https://x.com/nvidia/status/2046281553441857791</link>
+      <guid isPermaLink="false">2046281553441857791</guid>
+      <pubDate>Mon, 20 Apr 2026 17:35:15 +0000</pubDate>
+      <description><![CDATA[The era of the &quot;AI Factory&quot; is transforming manufacturing from a series of isolated pilots into a scalable, autonomous engine of production. 
+
+Explore how NVIDIA and our global partners are using digital twins and Omniverse blueprints to close the &quot;sim-to-real&quot; gap and redefine industrial efficiency.
+
+---
+@nvidia | ❤️ 48 | 🔁 3 | 💬 7 | 👁 5602]]></description>
+      <author>@nvidia</author>
     </item>
   </channel>
 </rss>
