@@ -5,57 +5,217 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 20:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 21:01:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Check out Jack's new book. Jack has been one of my early influences on how to be creatively unhinged...</title>
-      <link>https://x.com/tunguz/status/2046324679607022016</link>
-      <guid isPermaLink="false">2046324679607022016</guid>
-      <pubDate>Mon, 20 Apr 2026 20:26:37 +0000</pubDate>
-      <description><![CDATA[Check out Jack's new book. Jack has been one of my early influences on how to be creatively unhinged on social media. He's helped me to look at LinkedIn from a whole new perspective for instance. The book is bound to come with some really cool insights.
+      <title>✨ Added a 🎵 Track ID music recognition tool in my fully vibecoded new Chrome extension 🚀 SuperLevels...</title>
+      <link>https://x.com/levelsio/status/2046332830322495770</link>
+      <guid isPermaLink="false">2046332830322495770</guid>
+      <pubDate>Mon, 20 Apr 2026 20:59:00 +0000</pubDate>
+      <description><![CDATA[✨ Added a 🎵 Track ID music recognition tool in my fully vibecoded new Chrome extension 🚀 SuperLevels that I started a few hours ago
+
+I never made a Chrome extension before but they were all becoming such a safety risk that I might as well re-make everything myself with AI
+
+It works really well, even catches double drops in Drum &amp; Bass mixes like this (well it detects at least one track here, but that's impressive!)
+
+No messing around with Shazam anymore, it pulls the audio feed straight from inside Chrome!
+
+It now has all these features
+
+🎵 Track ID music recognizer
+🗑️ Tab Cleaner, auto closes tabs after inactivity (with host-based exclusions)
+🍪 Cookie Editor, lets you nuke all cookies or edit any
+🔀 Redirect Tracer, lets you see any redirects a site took you through
+🌗 Dark Mode, changes websites to dark, per site or all sites
+🎚️ X Dim, changes X background back to dark blue
+🗺️ Add back a Maps link to Google in EU (they hide it!)
+🌠 Add back a View Image link to Google Images in EU (they hide it too!)
+🍪 Cookie popup hider
+📹 YouTube recommendations hider
+🖍️ CSS editor
+📜 JS toggler
 
 ---
-@tunguz | ❤️ 2 | 🔁 1 | 💬 2 | 👁 388]]></description>
-      <author>@tunguz</author>
+@levelsio | ❤️ 4 | 🔁 0 | 💬 0 | 👁 626]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>Imagine Beauty</title>
-      <link>https://x.com/elonmusk/status/2046324618571427978</link>
-      <guid isPermaLink="false">2046324618571427978</guid>
-      <pubDate>Mon, 20 Apr 2026 20:26:22 +0000</pubDate>
-      <description><![CDATA[Imagine Beauty
+      <title>#Algorithms On Trial: The High Stakes Of #AI Accountability
+by @WillConaway1 @Forbes
+
+Learn more: ht...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046332583877718353</link>
+      <guid isPermaLink="false">2046332583877718353</guid>
+      <pubDate>Mon, 20 Apr 2026 20:58:01 +0000</pubDate>
+      <description><![CDATA[#Algorithms On Trial: The High Stakes Of #AI Accountability
+by @WillConaway1 @Forbes
+
+Learn more: https://t.co/N1Kjdy5tKl
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/bpKPYyM88z
 
 ---
-@elonmusk | ❤️ 1109 | 🔁 135 | 💬 508 | 👁 93991]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 29]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>@AnthropicAI 🫡</title>
+      <link>https://x.com/trq212/status/2046332427946311941</link>
+      <guid isPermaLink="false">2046332427946311941</guid>
+      <pubDate>Mon, 20 Apr 2026 20:57:24 +0000</pubDate>
+      <description><![CDATA[@AnthropicAI 🫡
+
+---
+@trq212 | ❤️ 7 | 🔁 0 | 💬 0 | 👁 403]]></description>
+      <author>@trq212</author>
+    </item>
+    <item>
+      <title>Tim Cook is a legend.
+
+I am very thankful for everything he has done and I am very thankful for Appl...</title>
+      <link>https://x.com/sama/status/2046330825265086712</link>
+      <guid isPermaLink="false">2046330825265086712</guid>
+      <pubDate>Mon, 20 Apr 2026 20:51:02 +0000</pubDate>
+      <description><![CDATA[Tim Cook is a legend.
+
+I am very thankful for everything he has done and I am very thankful for Apple.
+
+---
+@sama | ❤️ 904 | 🔁 70 | 💬 132 | 👁 20557]]></description>
+      <author>@sama</author>
+    </item>
+    <item>
+      <title>The internal working name for this was &quot;telepathy&quot;, and it feels like it.</title>
+      <link>https://x.com/sama/status/2046330082726384051</link>
+      <guid isPermaLink="false">2046330082726384051</guid>
+      <pubDate>Mon, 20 Apr 2026 20:48:05 +0000</pubDate>
+      <description><![CDATA[The internal working name for this was &quot;telepathy&quot;, and it feels like it.
+
+---
+@sama | ❤️ 421 | 🔁 18 | 💬 88 | 👁 31814]]></description>
+      <author>@sama</author>
+    </item>
+    <item>
+      <title>RT @SpaceX: Falcon 9 vertical at pad 40 https://t.co/djQW8nJINH</title>
+      <link>https://x.com/elonmusk/status/2046329674876243998</link>
+      <guid isPermaLink="false">2046329674876243998</guid>
+      <pubDate>Mon, 20 Apr 2026 20:46:28 +0000</pubDate>
+      <description><![CDATA[RT @SpaceX: Falcon 9 vertical at pad 40 https://t.co/djQW8nJINH
+
+---
+@elonmusk | ❤️ 0 | 🔁 250 | 💬 0 | 👁 15]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>Truly the end times.</title>
-      <link>https://x.com/tunguz/status/2046322973242437784</link>
-      <guid isPermaLink="false">2046322973242437784</guid>
-      <pubDate>Mon, 20 Apr 2026 20:19:50 +0000</pubDate>
-      <description><![CDATA[Truly the end times.
+      <title>Available now on all paid plans.
+
+Update or download the Claude app to try it in Cowork: https://t.c...</title>
+      <link>https://x.com/claudeai/status/2046328622869344429</link>
+      <guid isPermaLink="false">2046328622869344429</guid>
+      <pubDate>Mon, 20 Apr 2026 20:42:17 +0000</pubDate>
+      <description><![CDATA[Available now on all paid plans.
+
+Update or download the Claude app to try it in Cowork: https://t.co/hwPB3zlk0w
 
 ---
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 697]]></description>
+@claudeai | ❤️ 132 | 🔁 4 | 💬 5 | 👁 15553]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>Everything you build is saved to the new Live Artifacts tab, with version history. Come back tomorro...</title>
+      <link>https://x.com/claudeai/status/2046328621611065668</link>
+      <guid isPermaLink="false">2046328621611065668</guid>
+      <pubDate>Mon, 20 Apr 2026 20:42:16 +0000</pubDate>
+      <description><![CDATA[Everything you build is saved to the new Live Artifacts tab, with version history. Come back tomorrow or next month, from any session, and pick up where you left off.
+
+---
+@claudeai | ❤️ 213 | 🔁 7 | 💬 8 | 👁 17832]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and f...</title>
+      <link>https://x.com/claudeai/status/2046328619249684989</link>
+      <guid isPermaLink="false">2046328619249684989</guid>
+      <pubDate>Mon, 20 Apr 2026 20:42:16 +0000</pubDate>
+      <description><![CDATA[In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and files.
+
+Open one any time and it refreshes with current data. https://t.co/oru97zRn8L
+
+---
+@claudeai | ❤️ 1441 | 🔁 96 | 💬 149 | 👁 52685]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>RT @XFreeze: Grok 4.3 beta’s front-end capabilities are totally insane
+
+I just put only this prompt:...</title>
+      <link>https://x.com/elonmusk/status/2046328430984085688</link>
+      <guid isPermaLink="false">2046328430984085688</guid>
+      <pubDate>Mon, 20 Apr 2026 20:41:31 +0000</pubDate>
+      <description><![CDATA[RT @XFreeze: Grok 4.3 beta’s front-end capabilities are totally insane
+
+I just put only this prompt: “design a website for kids toys”
+
+It g…
+
+---
+@elonmusk | ❤️ 0 | 🔁 89 | 💬 0 | 👁 6]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Whoa!!!</title>
+      <link>https://x.com/tunguz/status/2046327782876008929</link>
+      <guid isPermaLink="false">2046327782876008929</guid>
+      <pubDate>Mon, 20 Apr 2026 20:38:57 +0000</pubDate>
+      <description><![CDATA[Whoa!!!
+
+---
+@tunguz | ❤️ 10 | 🔁 2 | 💬 0 | 👁 1232]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>This #Robot Just Nailed a Seamless Webster Backflip
-by @XRoboHub
-  
-#Robotics #Engineering #Artifici...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046322795349496056</link>
-      <guid isPermaLink="false">2046322795349496056</guid>
-      <pubDate>Mon, 20 Apr 2026 20:19:07 +0000</pubDate>
-      <description><![CDATA[This #Robot Just Nailed a Seamless Webster Backflip
-by @XRoboHub
-  
-#Robotics #Engineering #ArtificialIntelligence #Innovation https://t.co/giFMWRvL6T
+      <title>Worth double-checking charitable giving to make sure it actually helps the cause you care about</title>
+      <link>https://x.com/elonmusk/status/2046327719231705207</link>
+      <guid isPermaLink="false">2046327719231705207</guid>
+      <pubDate>Mon, 20 Apr 2026 20:38:41 +0000</pubDate>
+      <description><![CDATA[Worth double-checking charitable giving to make sure it actually helps the cause you care about
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 106]]></description>
-      <author>@Ronald_vanLoon</author>
+@elonmusk | ❤️ 7526 | 🔁 845 | 💬 912 | 👁 1196422]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>We're expanding our collaboration with Amazon to secure up to 5 gigawatts of compute for training an...</title>
+      <link>https://x.com/AnthropicAI/status/2046327624092487688</link>
+      <guid isPermaLink="false">2046327624092487688</guid>
+      <pubDate>Mon, 20 Apr 2026 20:38:19 +0000</pubDate>
+      <description><![CDATA[We're expanding our collaboration with Amazon to secure up to 5 gigawatts of compute for training and deploying Claude. Capacity begins coming online this quarter, with nearly 1 gigawatt expected by the end of 2026.
+
+---
+@AnthropicAI | ❤️ 1190 | 🔁 98 | 💬 81 | 👁 47881]]></description>
+      <author>@AnthropicAI</author>
+    </item>
+    <item>
+      <title>Australians are becoming an endangered species</title>
+      <link>https://x.com/elonmusk/status/2046326850415186114</link>
+      <guid isPermaLink="false">2046326850415186114</guid>
+      <pubDate>Mon, 20 Apr 2026 20:35:14 +0000</pubDate>
+      <description><![CDATA[Australians are becoming an endangered species
+
+---
+@elonmusk | ❤️ 7470 | 🔁 1202 | 💬 1178 | 👁 748338]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Welcome to the app store for AI Agents.</title>
+      <link>https://x.com/coinbase/status/2046326603601399828</link>
+      <guid isPermaLink="false">2046326603601399828</guid>
+      <pubDate>Mon, 20 Apr 2026 20:34:15 +0000</pubDate>
+      <description><![CDATA[Welcome to the app store for AI Agents.
+
+---
+@coinbase | ❤️ 70 | 🔁 15 | 💬 16 | 👁 14976]]></description>
+      <author>@coinbase</author>
     </item>
   </channel>
 </rss>
