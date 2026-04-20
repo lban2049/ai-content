@@ -5,248 +5,119 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:30:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Here's a crisp summary by @EconChrisClarke  of some of the key findings of our Canaries in the Coal ...</title>
-      <link>https://x.com/erikbryn/status/2046244291945927102</link>
-      <guid isPermaLink="false">2046244291945927102</guid>
-      <pubDate>Mon, 20 Apr 2026 15:07:11 +0000</pubDate>
-      <description><![CDATA[Here's a crisp summary by @EconChrisClarke  of some of the key findings of our Canaries in the Coal Mine, the counter arguments, the counter-counter arguments and the complementary research by others.  @BharatKChandar @RuyuChen
+      <title>RT @omarsar0: Nice paper combining the strength of Skills and RAG.
+
+Most RAG systems retrieve on eve...</title>
+      <link>https://x.com/dair_ai/status/2046250069528342638</link>
+      <guid isPermaLink="false">2046250069528342638</guid>
+      <pubDate>Mon, 20 Apr 2026 15:30:08 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: Nice paper combining the strength of Skills and RAG.
+
+Most RAG systems retrieve on every query, whether the model needs help…
 
 ---
-@erikbryn | ❤️ 0 | 🔁 0 | 💬 0 | 👁 149]]></description>
-      <author>@erikbryn</author>
+@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
     </item>
     <item>
-      <title>Technological republic? More like a technological autocracy amirite.</title>
-      <link>https://x.com/tunguz/status/2046243812033397177</link>
-      <guid isPermaLink="false">2046243812033397177</guid>
-      <pubDate>Mon, 20 Apr 2026 15:05:16 +0000</pubDate>
-      <description><![CDATA[Technological republic? More like a technological autocracy amirite.
+      <title>Meet Kimi K2.6: Advancing Open-Source Coding
+
+🔹Open-source SOTA on HLE w/ tools (54.0), SWE-Bench Pr...</title>
+      <link>https://x.com/Kimi_Moonshot/status/2046249571882500354</link>
+      <guid isPermaLink="false">2046249571882500354</guid>
+      <pubDate>Mon, 20 Apr 2026 15:28:10 +0000</pubDate>
+      <description><![CDATA[Meet Kimi K2.6: Advancing Open-Source Coding
+
+🔹Open-source SOTA on HLE w/ tools (54.0), SWE-Bench Pro (58.6), SWE-bench Multilingual (76.7), BrowseComp (83.2), Toolathlon (50.0), Charxiv w/ python(86.7), Math Vision w/ python (93.2)
+
+What's new:
+🔹Long-horizon coding  - 4,000+ tool calls, over 12 hours of continuous execution, with generalization across languages (Rust, Go, Python) and tasks (frontend, devops, perf optimization).
+🔹Motion-rich frontend - Videos in hero sections, WebGL shaders, GSAP + Framer Motion, Three.js 3D.
+🔹Agent Swarms, elevated - 300 parallel sub-agents × 4,000 steps per run (up from K2.5's 100 / 1,500). One prompt, 100+ files. 
+🔹Proactive Agents - K2.6 model powers OpenClaw, Hermes Agent, etc for 24/7 autonomous ops.  
+🔹Claw Groups (research preview) - bring your own agents, command your friends', bots &amp; humans in the loop.
+-
+K2.6 is now live on https://t.co/YutVbwktG0 in chat mode and agent mode. 
+For production-grade coding, pair K2.6 with Kimi Code: https://t.co/uvoSJKyGCY
+- 
+🔗 API: https://t.co/EOZkbOwCN4
+🔗 Tech blog: https://t.co/9wWvgIQSS3
+🔗 Weights &amp; code: https://t.co/Be0hjs2RTP
 
 ---
-@tunguz | ❤️ 4 | 🔁 0 | 💬 1 | 👁 187]]></description>
-      <author>@tunguz</author>
+@Kimi_Moonshot | ❤️ 61 | 🔁 13 | 💬 11 | 👁 799]]></description>
+      <author>@Kimi_Moonshot</author>
     </item>
     <item>
-      <title>🤷‍♂️</title>
-      <link>https://x.com/tunguz/status/2046242826992615906</link>
-      <guid isPermaLink="false">2046242826992615906</guid>
-      <pubDate>Mon, 20 Apr 2026 15:01:21 +0000</pubDate>
-      <description><![CDATA[🤷‍♂️
+      <title>Okay that was WAY too easy 😂
+
+I created 🗑️ Tab Cleaner:
+
+My own Chrome extension that has no malware...</title>
+      <link>https://x.com/levelsio/status/2046248763103015030</link>
+      <guid isPermaLink="false">2046248763103015030</guid>
+      <pubDate>Mon, 20 Apr 2026 15:24:57 +0000</pubDate>
+      <description><![CDATA[Okay that was WAY too easy 😂
+
+I created 🗑️ Tab Cleaner:
+
+My own Chrome extension that has no malware because I coded it myself and I can read the source code
+
+I asked this: &quot;can u make a chrome extension for chrome called 🚮 Tab Cleaner it auto closes tabs after inactivity of like 5 minutes, but when we press it it shoudl open a little window hwere we can add HOST exclusions like google .com etc&quot;
 
 ---
-@tunguz | ❤️ 2 | 🔁 0 | 💬 0 | 👁 429]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>The big takeaway for me:
-
-Before scaling AI, build the foundation.
-
-→ Start with the business proble...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046242566580883915</link>
-      <guid isPermaLink="false">2046242566580883915</guid>
-      <pubDate>Mon, 20 Apr 2026 15:00:19 +0000</pubDate>
-      <description><![CDATA[The big takeaway for me:
-
-Before scaling AI, build the foundation.
-
-→ Start with the business problem, not the model
-→ Define the process, policies, and metrics
-→ Govern access to certified data products
-→ Keep humans in the loop to validate and monitor
-
-That is how you get better decisions at scale, not just faster mistakes.
-
-Watch the full video for the full conversation with Collibra, then tell me this:
-
-What is the biggest context gap holding back AI in your organization right now?
-
-#CollibraPartner
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 34]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>That is why “context” is not a soft concept.
-
-It is the operating model of the business, made usable...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046242563061846155</link>
-      <guid isPermaLink="false">2046242563061846155</guid>
-      <pubDate>Mon, 20 Apr 2026 15:00:19 +0000</pubDate>
-      <description><![CDATA[That is why “context” is not a soft concept.
-
-It is the operating model of the business, made usable for AI.
-
-In practice, that means:
-
-→ What does this metric actually mean?
-→ When should this rule apply?
-→ Why does this policy exist?
-→ What is this decision trying to optimize for?
-
-If that is not explicit, AI starts guessing.
-
-And guessed context is where enterprise AI breaks.
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 41]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Most enterprise AI does not fail because the model is weak.
-
-It fails because the business context i...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046242553607966953</link>
-      <guid isPermaLink="false">2046242553607966953</guid>
-      <pubDate>Mon, 20 Apr 2026 15:00:16 +0000</pubDate>
-      <description><![CDATA[Most enterprise AI does not fail because the model is weak.
-
-It fails because the business context is missing.
-
-That is the real bottleneck, and it gets worse as companies move from one copilot to hundreds of autonomous agents.
-
-I unpacked this with Teresa Rojas &amp; Tom Dejonghe from @collibra at Data Citizens on the Road in Rotterdam.
-
-Here’s the breakdown...
-
----
-@Ronald_vanLoon | ❤️ 2 | 🔁 1 | 💬 1 | 👁 64]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>You can try it at 💾 https://t.co/RRYOCWqRQq which gets its internet via 📡 https://t.co/I1CzsNTkC5</title>
-      <link>https://x.com/levelsio/status/2046242093094375674</link>
-      <guid isPermaLink="false">2046242093094375674</guid>
-      <pubDate>Mon, 20 Apr 2026 14:58:26 +0000</pubDate>
-      <description><![CDATA[You can try it at 💾 https://t.co/RRYOCWqRQq which gets its internet via 📡 https://t.co/I1CzsNTkC5
-
----
-@levelsio | ❤️ 1 | 🔁 0 | 💬 0 | 👁 1274]]></description>
+@levelsio | ❤️ 19 | 🔁 0 | 💬 5 | 👁 1890]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>💾 I renamed it to https://t.co/6tRObkZbZa because AltaVista is still owned by Yahoo so I didn't wann...</title>
-      <link>https://x.com/levelsio/status/2046241967177089038</link>
-      <guid isPermaLink="false">2046241967177089038</guid>
-      <pubDate>Mon, 20 Apr 2026 14:57:56 +0000</pubDate>
-      <description><![CDATA[💾 I renamed it to https://t.co/6tRObkZbZa because AltaVista is still owned by Yahoo so I didn't wanna infringe
-
-🔎 https://t.co/HmRnyRsZoI is a fully functional search engine and proxy that lets ANY old browser browse most of the web with just HTTP (instead of HTTPS), it converts modern web pages to something that any old device can access (like removing JavaScript code)
-
-So now devices like your old Apple II, Commodore 64, Atari ST, Amiga, 486 PC, Dreamcast or PS2 can access the modern internet too! 🤓
-
-And it's great for Kindles too because it converts most webpages to easy-to-read text ☺️
-
----
-@levelsio | ❤️ 20 | 🔁 3 | 💬 9 | 👁 2942]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>RT @MIT_CSAIL: Things we didn't have 25 years ago: 
-iPhone
-Facebook
-YouTube
-Twitter/X
-Instagram
-Andr...</title>
-      <link>https://x.com/MIT_CSAIL/status/2046240810857800065</link>
-      <guid isPermaLink="false">2046240810857800065</guid>
-      <pubDate>Mon, 20 Apr 2026 14:53:21 +0000</pubDate>
-      <description><![CDATA[RT @MIT_CSAIL: Things we didn't have 25 years ago: 
-iPhone
-Facebook
-YouTube
-Twitter/X
-Instagram
-Android
-Bitcoin
-Tesla
-Gmail
-WhatsApp
-Snapch…
+      <title>#AI-Powered Robot Bicycle Mimics Human Athletic Performance
+via @ZappyZappy7
+ 
+#Robotics #Artificial...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046248312223695280</link>
+      <guid isPermaLink="false">2046248312223695280</guid>
+      <pubDate>Mon, 20 Apr 2026 15:23:09 +0000</pubDate>
+      <description><![CDATA[#AI-Powered Robot Bicycle Mimics Human Athletic Performance
+via @ZappyZappy7
+ 
+#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/eEAv1PQHYW
 
 ---
-@MIT_CSAIL | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: This Chinese Combat #Robot Feels Like Sci-Fi Come to Life
-by @tweetciiiim
-
-#Robo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046240724664877547</link>
-      <guid isPermaLink="false">2046240724664877547</guid>
-      <pubDate>Mon, 20 Apr 2026 14:53:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: This Chinese Combat #Robot Feels Like Sci-Fi Come to Life
-by @tweetciiiim
-
-#Robotics #ArtificialIntelligence #Innovatio…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 17 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 65]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>I always enjoy the Qwen reasoning traces but this one was particularly poetic https://t.co/55QOuwLEd...</title>
-      <link>https://x.com/simonw/status/2046239852497400006</link>
-      <guid isPermaLink="false">2046239852497400006</guid>
-      <pubDate>Mon, 20 Apr 2026 14:49:32 +0000</pubDate>
-      <description><![CDATA[I always enjoy the Qwen reasoning traces but this one was particularly poetic https://t.co/55QOuwLEdP
+      <title>we love a clean start</title>
+      <link>https://x.com/ryolu_/status/2046246973783859559</link>
+      <guid isPermaLink="false">2046246973783859559</guid>
+      <pubDate>Mon, 20 Apr 2026 15:17:50 +0000</pubDate>
+      <description><![CDATA[we love a clean start
 
 ---
-@simonw | ❤️ 15 | 🔁 0 | 💬 0 | 👁 1338]]></description>
-      <author>@simonw</author>
+@ryolu_ | ❤️ 15 | 🔁 1 | 💬 1 | 👁 814]]></description>
+      <author>@ryolu_</author>
     </item>
     <item>
-      <title>&quot;I am envisioning a harmonious interplay of form and space, where each element finds its rightf...</title>
-      <link>https://x.com/simonw/status/2046239233371988460</link>
-      <guid isPermaLink="false">2046239233371988460</guid>
-      <pubDate>Mon, 20 Apr 2026 14:47:05 +0000</pubDate>
-      <description><![CDATA[&quot;I am envisioning a harmonious interplay of form and space, where each element finds its rightful place within the visual narrative. The pelican emerges as a central figure, its wings poised in dynamic tension, gripping the handlebars with lifelike intent, while its feet extend confidently onto the ground line that anchors the scene.&quot;
+      <title>Another Chrome extension allegedly sold to mine your personal information
+
+This is an entire black m...</title>
+      <link>https://x.com/levelsio/status/2046245653492146262</link>
+      <guid isPermaLink="false">2046245653492146262</guid>
+      <pubDate>Mon, 20 Apr 2026 15:12:35 +0000</pubDate>
+      <description><![CDATA[Another Chrome extension allegedly sold to mine your personal information
+
+This is an entire black market you'd have no idea existed but it does!
+
+Your best bet is to use no Chrome extensions at all, except uBlock Origin for ad block
+
+Or better: just vibe code your own so you know what is running in your browser
 
 ---
-@simonw | ❤️ 22 | 🔁 0 | 💬 5 | 👁 2799]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>在葬爱咸鱼的 Agent 心中
-我居然是最疯狂的创业者 https://t.co/HA9aNrj2ZZ</title>
-      <link>https://x.com/lifesinger/status/2046235858320368080</link>
-      <guid isPermaLink="false">2046235858320368080</guid>
-      <pubDate>Mon, 20 Apr 2026 14:33:40 +0000</pubDate>
-      <description><![CDATA[在葬爱咸鱼的 Agent 心中
-我居然是最疯狂的创业者 https://t.co/HA9aNrj2ZZ
-
----
-@lifesinger | ❤️ 2 | 🔁 0 | 💬 1 | 👁 740]]></description>
-      <author>@lifesinger</author>
-    </item>
-    <item>
-      <title>Last week, Anthropic dropped the coolest &quot;AI isn't just chat&quot; product.
-
-Claude Design lets...</title>
-      <link>https://x.com/alliekmiller/status/2046235520993292704</link>
-      <guid isPermaLink="false">2046235520993292704</guid>
-      <pubDate>Mon, 20 Apr 2026 14:32:20 +0000</pubDate>
-      <description><![CDATA[Last week, Anthropic dropped the coolest &quot;AI isn't just chat&quot; product.
-
-Claude Design lets you describe what you want to Claude and it returns prototypes, slides, and one-pagers by just chatting. You can then export to Canva, PDF, PPT, or hand off to Claude Code. You can give your entire design system and codebase to apply automatically to your project, and can share and collaborate with your team. The direct connect to GitHub will probably be my most used feature.
-
-Feels directly like a competitor to Figma or just a way to further boost collaboration with Claude.
-
-I built a preview of an app that allows CSGO players to meet and squad up with other players, marketplace for in-game loadouts, and pay high-ranking players to mentor them.
-
-(CSGO is a game released in 2012 and still consistently one of the highest watched games on Twitch, extremely popular in esports, highly competitive, and an all-around classic game - I know this because a gen zer talked to me about it for 2 straight hours.)
-
-I'll keep sharing more examples here.
-
----
-@alliekmiller | ❤️ 9 | 🔁 0 | 💬 5 | 👁 1135]]></description>
-      <author>@alliekmiller</author>
+@levelsio | ❤️ 44 | 🔁 5 | 💬 14 | 👁 7404]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
