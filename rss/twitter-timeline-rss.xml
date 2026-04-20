@@ -5,248 +5,142 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:30:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>media is cool again!</title>
-      <link>https://x.com/danshipper/status/2046272643133825458</link>
-      <guid isPermaLink="false">2046272643133825458</guid>
-      <pubDate>Mon, 20 Apr 2026 16:59:50 +0000</pubDate>
-      <description><![CDATA[media is cool again!
+      <title>counterintuitive things I believe about AI: 
+
+SaaS is not dead, it will be stronger than ever
+
+The u...</title>
+      <link>https://x.com/danshipper/status/2046280089818828835</link>
+      <guid isPermaLink="false">2046280089818828835</guid>
+      <pubDate>Mon, 20 Apr 2026 17:29:26 +0000</pubDate>
+      <description><![CDATA[counterintuitive things I believe about AI: 
+
+SaaS is not dead, it will be stronger than ever
+
+The userbase for SaaS will 10x over the next 3 years because agents will become users
+
+Knowledge work will change dramatically, but everyone will still have jobs (except very specific categories like personal injury insurance for car crashes)
+
+Humans will continue to be the sandwich at the beginning and end of every AI process (h/t @kieranklaassen and @trevin who came up with this)
+
+Personal software looks like OpenClaw, not a vibe-coded Salesforce clone
+
+You'll use Codex and Claude Cowork through your SaaS software, and use your SaaS software through Codex and Claude Code
+
+Because you'll use Codex with your SaaS, all software users will start to look like extremely technical users
+
+All SaaS will need to incorporate the idea of 'presence' for agents—making what agents are doing legible in real-time to users
+
+Agents are currently built for 1-1 interactions, they'll need to be built for one to many and many to many interactions
+
+Specialization will be just as important in agents as it is in humans, therefore we will live in a many-agent world
+
+Most software companies are not building for a world where everyone has an agent, and they're wasting a ton of time and capital developing capabilities that a user with Claude Code doesn't need
 
 ---
-@danshipper | ❤️ 1 | 🔁 0 | 💬 0 | 👁 72]]></description>
+@danshipper | ❤️ 3 | 🔁 0 | 💬 0 | 👁 61]]></description>
       <author>@danshipper</author>
     </item>
     <item>
-      <title>Hyatt is deploying AI broadly to its employees:</title>
-      <link>https://x.com/gdb/status/2046272438003270086</link>
-      <guid isPermaLink="false">2046272438003270086</guid>
-      <pubDate>Mon, 20 Apr 2026 16:59:01 +0000</pubDate>
-      <description><![CDATA[Hyatt is deploying AI broadly to its employees:
+      <title>Beyond generating high-fidelity visuals, we wanted to test the limits of what Nano Banana Pro can do...</title>
+      <link>https://x.com/GoogleAI/status/2046279894284525860</link>
+      <guid isPermaLink="false">2046279894284525860</guid>
+      <pubDate>Mon, 20 Apr 2026 17:28:39 +0000</pubDate>
+      <description><![CDATA[Beyond generating high-fidelity visuals, we wanted to test the limits of what Nano Banana Pro can do. We worked with design partners Porto Rocha to build out a hypothetical brand called YOYOYO to see how the model would handle the task. Here’s what we found:
+
+🎨Brand consistency: Across logos, colors, and typography, the model maintained a strict, cohesive brand identity (even for wildly diverse concepts)
+
+🛍️Environmental realism: We asked to see the products in storefront and studio mockups. It nailed accurate lighting, shadows, and physical proportions - even when upscaled for massive retail displays
+
+🪀Spatial accuracy: We tested spatial volumes for physical packaging. The generated proportions were so precise that we were able to 3D-print the functional yo-yo
+
+How have you been pushing the limits of Nano Banana Pro? Let us know in the replies below!
 
 ---
-@gdb | ❤️ 10 | 🔁 1 | 💬 3 | 👁 856]]></description>
-      <author>@gdb</author>
+@GoogleAI | ❤️ 9 | 🔁 0 | 💬 0 | 👁 524]]></description>
+      <author>@GoogleAI</author>
     </item>
     <item>
-      <title>We are excited to have @baseten as a day 0 launch partner for Kimi K2.6!
+      <title>RT @OpenRouter: Kimi K2.6 is live on OpenRouter!
 
-Their inference stack brin...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046272319191150749</link>
-      <guid isPermaLink="false">2046272319191150749</guid>
-      <pubDate>Mon, 20 Apr 2026 16:58:33 +0000</pubDate>
-      <description><![CDATA[We are excited to have @baseten as a day 0 launch partner for Kimi K2.6!
+@Kimi_Moonshot's new model is a long-horizon codin...</title>
+      <link>https://x.com/Kimi_Moonshot/status/2046279631482093807</link>
+      <guid isPermaLink="false">2046279631482093807</guid>
+      <pubDate>Mon, 20 Apr 2026 17:27:36 +0000</pubDate>
+      <description><![CDATA[RT @OpenRouter: Kimi K2.6 is live on OpenRouter!
 
-Their inference stack brings KV-aware routing, NVFP4 on Blackwell, multi-modal hierarchical caching, and prefill-decode disaggregation, so K2.6 runs the way it's meant to in production.
-
-Try it out at: https://t.co/ol3lIkaH6m
+@Kimi_Moonshot's new model is a long-horizon coding model built for sustained agentic wor…
 
 ---
-@Kimi_Moonshot | ❤️ 21 | 🔁 0 | 💬 0 | 👁 658]]></description>
+@Kimi_Moonshot | ❤️ 0 | 🔁 15 | 💬 0 | 👁 0]]></description>
       <author>@Kimi_Moonshot</author>
     </item>
     <item>
-      <title>Research for blood disease and cancer therapies as well as growing plants in space for food continue...</title>
-      <link>https://x.com/Space_Station/status/2046271904315490580</link>
-      <guid isPermaLink="false">2046271904315490580</guid>
-      <pubDate>Mon, 20 Apr 2026 16:56:54 +0000</pubDate>
-      <description><![CDATA[Research for blood disease and cancer therapies as well as growing plants in space for food continued on Monday as a cargo spacecraft nears departure. https://t.co/xkZSv4ftqE
+      <title>Meet the Fully #Robotic Massage Machine with 16 Axes of Relaxation
+by @MarioNawfal
+  
+#HealthTech #T...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046278501867642974</link>
+      <guid isPermaLink="false">2046278501867642974</guid>
+      <pubDate>Mon, 20 Apr 2026 17:23:07 +0000</pubDate>
+      <description><![CDATA[Meet the Fully #Robotic Massage Machine with 16 Axes of Relaxation
+by @MarioNawfal
+  
+#HealthTech #TechForGood #Tech https://t.co/zF3VIqlo7L
 
 ---
-@Space_Station | ❤️ 18 | 🔁 7 | 💬 2 | 👁 2266]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>Now just 1.5 hours into this mini project
-
-I have replaced ALL my Chrome extensions with my own vibe...</title>
-      <link>https://x.com/levelsio/status/2046271694042505451</link>
-      <guid isPermaLink="false">2046271694042505451</guid>
-      <pubDate>Mon, 20 Apr 2026 16:56:04 +0000</pubDate>
-      <description><![CDATA[Now just 1.5 hours into this mini project
-
-I have replaced ALL my Chrome extensions with my own vibe coded ones for safety
-
-After another one of my extensions after updating suddenly wanted to read my entire browser history (probably to sell off to an ad company)
-
-My own Chrome extension is called 🚀 SuperLevels and now has:
-
-🗑️ Tab Cleaner, auto closes tabs after inactivity (with host-based exclusions)
-🍪 Cookie Editor, lets you nuke all cookies or edit any
-🔀 Redirect Tracer, lets you see any redirects a site took you through
-🌗 Dark Mode, changes websites to dark, per site or all sites
-🎚️ X Dim, changes X background back to dark blue
-🎶 Music Finder, records music in a tab and submits to find the name of the song
-🗺️ Add back a Maps link to Google in EU (they hide it!)
-🌠 Add back a View Image link to Google Images in EU (they hide it too!)
-
-I've deleted all my other extensions (except uBlock Origin for ad blocking!), much much safer because now I control the source code!
-
----
-@levelsio | ❤️ 20 | 🔁 0 | 💬 4 | 👁 1347]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>Less Sci-Fi, More #ROI: The Case For Practical #AI In B2B Commerce
-by Jary Carter @Forbes
-
-Learn mor...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046270926933664016</link>
-      <guid isPermaLink="false">2046270926933664016</guid>
-      <pubDate>Mon, 20 Apr 2026 16:53:01 +0000</pubDate>
-      <description><![CDATA[Less Sci-Fi, More #ROI: The Case For Practical #AI In B2B Commerce
-by Jary Carter @Forbes
-
-Learn more: https://t.co/Td2ddzJu5Z
-
-#ArtificialIntelligence #MachineLearning #ML #DL https://t.co/f8gV8AJDOc
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 68]]></description>
+@Ronald_vanLoon | ❤️ 3 | 🔁 0 | 💬 0 | 👁 76]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: The Complete Roadmap to Becoming a #Web Developer by 2026
-by @Python_Dv
+      <title>Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to...</title>
+      <link>https://x.com/alexalbert__/status/2046277525207466003</link>
+      <guid isPermaLink="false">2046277525207466003</guid>
+      <pubDate>Mon, 20 Apr 2026 17:19:14 +0000</pubDate>
+      <description><![CDATA[Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to do post-grad. 
 
-#Emergi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046269414610268464</link>
-      <guid isPermaLink="false">2046269414610268464</guid>
-      <pubDate>Mon, 20 Apr 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: The Complete Roadmap to Becoming a #Web Developer by 2026
-by @Python_Dv
-
-#EmergingTech #Innovation #Technology https://…
+If you are in your teens/20s and trying to figure out how to think about life, this book will offer you some good ideas.
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@alexalbert__ | ❤️ 9 | 🔁 0 | 💬 2 | 👁 1435]]></description>
+      <author>@alexalbert__</author>
     </item>
     <item>
-      <title>By recognizing the higher-level consequences nature optimizes for, I've come to see that people who ...</title>
-      <link>https://x.com/RayDalio/status/2046268808881446925</link>
-      <guid isPermaLink="false">2046268808881446925</guid>
-      <pubDate>Mon, 20 Apr 2026 16:44:36 +0000</pubDate>
-      <description><![CDATA[By recognizing the higher-level consequences nature optimizes for, I've come to see that people who overweigh the first-order consequences of their decisions and ignore the effects of second- and subsequent-order consequences rarely reach their goals. This is because first-order consequences often have opposite desirabilities from second-order consequences, resulting in big mistakes in decision making. For example, the first-order consequences of exercise (pain and time spent) are commonly considered undesirable, while the second-order consequences (better health and more attractive appearance) are desirable. Similarly, food that tastes good is often bad for you and vice versa. #principleoftheday
+      <title>Maximal Brain Damage Without Data or Optimization
+
+Disrupting Neural Networks via Sign-Bit Flips
+
+pa...</title>
+      <link>https://x.com/_akhaliq/status/2046277219794792689</link>
+      <guid isPermaLink="false">2046277219794792689</guid>
+      <pubDate>Mon, 20 Apr 2026 17:18:01 +0000</pubDate>
+      <description><![CDATA[Maximal Brain Damage Without Data or Optimization
+
+Disrupting Neural Networks via Sign-Bit Flips
+
+paper: https://t.co/Dk5sYp1otN https://t.co/GdRaEMk2i3
 
 ---
-@RayDalio | ❤️ 73 | 🔁 11 | 💬 7 | 👁 9878]]></description>
-      <author>@RayDalio</author>
+@_akhaliq | ❤️ 6 | 🔁 0 | 💬 0 | 👁 839]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>LLMs are “ good at math style problems, where you tell them A, B and C are true, and then ask them t...</title>
-      <link>https://x.com/GaryMarcus/status/2046267501567267237</link>
-      <guid isPermaLink="false">2046267501567267237</guid>
-      <pubDate>Mon, 20 Apr 2026 16:39:24 +0000</pubDate>
-      <description><![CDATA[LLMs are “ good at math style problems, where you tell them A, B and C are true, and then ask them to figure out D [but]
-extremely bad at anything involving what I would call mature scholarship .. [something] like naive undergrads” -@kareem_carr
+      <title>Elucidating the SNR-t Bias of Diffusion Probabilistic Models
+
+paper: https://t.co/Z6zPgQ36cW https:/...</title>
+      <link>https://x.com/_akhaliq/status/2046276964151964027</link>
+      <guid isPermaLink="false">2046276964151964027</guid>
+      <pubDate>Mon, 20 Apr 2026 17:17:00 +0000</pubDate>
+      <description><![CDATA[Elucidating the SNR-t Bias of Diffusion Probabilistic Models
+
+paper: https://t.co/Z6zPgQ36cW https://t.co/bdfvsIWWmV
 
 ---
-@GaryMarcus | ❤️ 23 | 🔁 6 | 💬 5 | 👁 6492]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>@steipete @NollioLabs Awesome legend, I'll just wait. 
-
-Not moving to Hermes, Chanel, or whatever. 
-...</title>
-      <link>https://x.com/petergyang/status/2046266768134635852</link>
-      <guid isPermaLink="false">2046266768134635852</guid>
-      <pubDate>Mon, 20 Apr 2026 16:36:29 +0000</pubDate>
-      <description><![CDATA[@steipete @NollioLabs Awesome legend, I'll just wait. 
-
-Not moving to Hermes, Chanel, or whatever. 
-
-Claw!
-
----
-@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 154]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>It's so easy, vibe coded a Dark Reader extension inside my 🚀 SuperLevels extension! https://t.co/snd...</title>
-      <link>https://x.com/levelsio/status/2046266327753527479</link>
-      <guid isPermaLink="false">2046266327753527479</guid>
-      <pubDate>Mon, 20 Apr 2026 16:34:44 +0000</pubDate>
-      <description><![CDATA[It's so easy, vibe coded a Dark Reader extension inside my 🚀 SuperLevels extension! https://t.co/sndIDGCjHa
-
----
-@levelsio | ❤️ 30 | 🔁 0 | 💬 5 | 👁 6433]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>RT @s13k_: Make your #vibejam game pop on X with proper meta tags
-
-Add these to your HTML &amp;lt;he...</title>
-      <link>https://x.com/levelsio/status/2046266154830717012</link>
-      <guid isPermaLink="false">2046266154830717012</guid>
-      <pubDate>Mon, 20 Apr 2026 16:34:03 +0000</pubDate>
-      <description><![CDATA[RT @s13k_: Make your #vibejam game pop on X with proper meta tags
-
-Add these to your HTML &amp;lt;head&amp;gt;:
-
-&amp;lt;meta name=&quot;twitter:card&quot; content=&quot;summa…
-
----
-@levelsio | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>Sheer fabric with light transmission. Cloth physics that responds to wind. Depth-of-field compositin...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046265981333549433</link>
-      <guid isPermaLink="false">2046265981333549433</guid>
-      <pubDate>Mon, 20 Apr 2026 16:33:22 +0000</pubDate>
-      <description><![CDATA[Sheer fabric with light transmission. Cloth physics that responds to wind. Depth-of-field compositing. Physically-based lighting - all rendered live in the browser. https://t.co/JwmalU4FQj
-
----
-@Kimi_Moonshot | ❤️ 23 | 🔁 2 | 💬 0 | 👁 1955]]></description>
-      <author>@Kimi_Moonshot</author>
-    </item>
-    <item>
-      <title>Kimi wires up auth + database + backend in one pass
-One prompt gets you user registration, login, da...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046265978024231067</link>
-      <guid isPermaLink="false">2046265978024231067</guid>
-      <pubDate>Mon, 20 Apr 2026 16:33:21 +0000</pubDate>
-      <description><![CDATA[Kimi wires up auth + database + backend in one pass
-One prompt gets you user registration, login, database, booking systems, admin dashboards - wired up and deployed.
-No separate &quot;now build the backend&quot; step. https://t.co/mTmfQp7r46
-
----
-@Kimi_Moonshot | ❤️ 23 | 🔁 0 | 💬 2 | 👁 2058]]></description>
-      <author>@Kimi_Moonshot</author>
-    </item>
-    <item>
-      <title>Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. From one prompt.
-
-🔹 Video h...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046265960383033825</link>
-      <guid isPermaLink="false">2046265960383033825</guid>
-      <pubDate>Mon, 20 Apr 2026 16:33:17 +0000</pubDate>
-      <description><![CDATA[Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. From one prompt.
-
-🔹 Video hero sections - cinematic aesthetic, auto-composited 
-🔹 WebGL shader animations - native GLSL / WGSL, liquid metal, caustics, raymarching 
-🔹 Motion design - GSAP + Framer Motion 
-🔹 Backend database: Kimi wires up auth + database + backend in one pass. 
-🔹 Website stack - React 19 + TypeScript + Vite + Tailwind + shadcn/ui 
-🔹 3D w/ physically-based lighting - Three.js + React Three Fiber
-
----
-@Kimi_Moonshot | ❤️ 587 | 🔁 37 | 💬 29 | 👁 17208]]></description>
-      <author>@Kimi_Moonshot</author>
-    </item>
-    <item>
-      <title>deadline 真是第一生产力，为了和大爷大妈演示 wanman 我疯狂熬夜修 bug 中</title>
-      <link>https://x.com/turingou/status/2046265595239502057</link>
-      <guid isPermaLink="false">2046265595239502057</guid>
-      <pubDate>Mon, 20 Apr 2026 16:31:50 +0000</pubDate>
-      <description><![CDATA[deadline 真是第一生产力，为了和大爷大妈演示 wanman 我疯狂熬夜修 bug 中
-
----
-@turingou | ❤️ 13 | 🔁 0 | 💬 1 | 👁 1542]]></description>
-      <author>@turingou</author>
+@_akhaliq | ❤️ 10 | 🔁 0 | 💬 0 | 👁 1019]]></description>
+      <author>@_akhaliq</author>
     </item>
   </channel>
 </rss>
