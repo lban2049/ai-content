@@ -5,109 +5,119 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:30:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>我今天也刚配置了 opus-4.6，有时候写东西还是 opus 4.6 稳一些，而且省 token，但是 /model 不能选了，不过可以通过配置切换，下面是配置：
+      <title>PortalVR Lets You Play SteamVR Games Without Wearing a Headset
+by @GabRoXR
 
-~/.claude/settin...</title>
-      <link>https://x.com/dotey/status/2046408595437191636</link>
-      <guid isPermaLink="false">2046408595437191636</guid>
-      <pubDate>Tue, 21 Apr 2026 02:00:04 +0000</pubDate>
-      <description><![CDATA[我今天也刚配置了 opus-4.6，有时候写东西还是 opus 4.6 稳一些，而且省 token，但是 /model 不能选了，不过可以通过配置切换，下面是配置：
+#AR #VirtualReality #AR ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046414690973098409</link>
+      <guid isPermaLink="false">2046414690973098409</guid>
+      <pubDate>Tue, 21 Apr 2026 02:24:17 +0000</pubDate>
+      <description><![CDATA[PortalVR Lets You Play SteamVR Games Without Wearing a Headset
+by @GabRoXR
 
-~/.claude/settings.json
-{
-  &quot;model&quot;: &quot;claude-opus-4-6&quot;
-} https://t.co/sZlgtX1RY9
-
----
-@dotey | ❤️ 1 | 🔁 1 | 💬 0 | 👁 63]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>That Meeting You Hate May Keep #AI From Stealing Your Job
-by @noamscheiber @nytimes
-
-Learn more: htt...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046408079680393591</link>
-      <guid isPermaLink="false">2046408079680393591</guid>
-      <pubDate>Tue, 21 Apr 2026 01:58:01 +0000</pubDate>
-      <description><![CDATA[That Meeting You Hate May Keep #AI From Stealing Your Job
-by @noamscheiber @nytimes
-
-Learn more: https://t.co/ZZbZil5tZd
-
-#MachineLearning #ArtificialIntelligence #ML https://t.co/WnUpFgmmfi
+#AR #VirtualReality #AR #AugmentedReality #Gaming https://t.co/P38JakGvGv
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 19]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 42]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
-
-We’...</title>
-      <link>https://x.com/rauchg/status/2046406894269747668</link>
-      <guid isPermaLink="false">2046406894269747668</guid>
-      <pubDate>Tue, 21 Apr 2026 01:53:18 +0000</pubDate>
-      <description><![CDATA[I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
-
-We’ve now shipped over 20 product improvements across Dashboard and CLI to help your security posture.
-
-Easier to set up MFA, audit your Environment Variables, Activity logs and more
+      <title>RT @voooooogel: opus 4.7 seems to have a much better time in claude code if you run without most of ...</title>
+      <link>https://x.com/jeremyphoward/status/2046414604012835163</link>
+      <guid isPermaLink="false">2046414604012835163</guid>
+      <pubDate>Tue, 21 Apr 2026 02:23:56 +0000</pubDate>
+      <description><![CDATA[RT @voooooogel: opus 4.7 seems to have a much better time in claude code if you run without most of the system prompt (claude --system-prom…
 
 ---
-@rauchg | ❤️ 45 | 🔁 3 | 💬 7 | 👁 2091]]></description>
-      <author>@rauchg</author>
-    </item>
-    <item>
-      <title>RT @remilouf: Philosophy (among other things) grad here. I could write a whole essay about this vide...</title>
-      <link>https://x.com/jeremyphoward/status/2046406592443355516</link>
-      <guid isPermaLink="false">2046406592443355516</guid>
-      <pubDate>Tue, 21 Apr 2026 01:52:06 +0000</pubDate>
-      <description><![CDATA[RT @remilouf: Philosophy (among other things) grad here. I could write a whole essay about this video, and mostly the reactions to it. Peop…
-
----
-@jeremyphoward | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+@jeremyphoward | ❤️ 0 | 🔁 19 | 💬 0 | 👁 0]]></description>
       <author>@jeremyphoward</author>
     </item>
     <item>
-      <title>Grok</title>
-      <link>https://x.com/elonmusk/status/2046405057332097524</link>
-      <guid isPermaLink="false">2046405057332097524</guid>
-      <pubDate>Tue, 21 Apr 2026 01:46:00 +0000</pubDate>
-      <description><![CDATA[Grok
-
----
-@elonmusk | ❤️ 3666 | 🔁 360 | 💬 638 | 👁 390136]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Only the fraud was stopped by DOGE and, even then, only some of the fraud</title>
-      <link>https://x.com/elonmusk/status/2046404769040810159</link>
-      <guid isPermaLink="false">2046404769040810159</guid>
-      <pubDate>Tue, 21 Apr 2026 01:44:51 +0000</pubDate>
-      <description><![CDATA[Only the fraud was stopped by DOGE and, even then, only some of the fraud
-
----
-@elonmusk | ❤️ 6463 | 🔁 939 | 💬 385 | 👁 378845]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Japan Turns Footsteps Into Power with Piezoelectric Floors in Shibuya and Tokyo Stations
-by @_fluxfe...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046402824712474839</link>
-      <guid isPermaLink="false">2046402824712474839</guid>
-      <pubDate>Tue, 21 Apr 2026 01:37:08 +0000</pubDate>
-      <description><![CDATA[Japan Turns Footsteps Into Power with Piezoelectric Floors in Shibuya and Tokyo Stations
+      <title>RT @Ronald_vanLoon: Solar Farm in the Gobi Desert Sparks the Rise of a New Ecosystem
+by @_fluxfeeds
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046414115980136938</link>
+      <guid isPermaLink="false">2046414115980136938</guid>
+      <pubDate>Tue, 21 Apr 2026 02:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Solar Farm in the Gobi Desert Sparks the Rise of a New Ecosystem
 by @_fluxfeeds
 
-#Sustainability #RenewableEnergy #CleanEnergy #Technology #Innovation #EmergingTech #TechForGood https://t.co/myAb12Bnny
+#Sustainability #RenewableEnergy #Clea…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 121]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @chaitu: Smarter video extensions are live on Grok Imagine.</title>
+      <link>https://x.com/elonmusk/status/2046413727239372940</link>
+      <guid isPermaLink="false">2046413727239372940</guid>
+      <pubDate>Tue, 21 Apr 2026 02:20:27 +0000</pubDate>
+      <description><![CDATA[RT @chaitu: Smarter video extensions are live on Grok Imagine.
+
+---
+@elonmusk | ❤️ 0 | 🔁 72 | 💬 0 | 👁 11]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>许个愿：希望下一个十年能看到 SOTA 模型跑在 Mac 上。</title>
+      <link>https://x.com/tualatrix/status/2046413253694365858</link>
+      <guid isPermaLink="false">2046413253694365858</guid>
+      <pubDate>Tue, 21 Apr 2026 02:18:34 +0000</pubDate>
+      <description><![CDATA[许个愿：希望下一个十年能看到 SOTA 模型跑在 Mac 上。
+
+---
+@tualatrix | ❤️ 1 | 🔁 0 | 💬 1 | 👁 315]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>GitHub 今天（4 月 20 日）对 Copilot 个人版套餐做了一次大动作调整：暂停 Pro、Pro+、Student 三档套餐的新用户注册，收紧使用额度，并从 Pro 套餐里移除 Claud...</title>
+      <link>https://x.com/dotey/status/2046410238627070420</link>
+      <guid isPermaLink="false">2046410238627070420</guid>
+      <pubDate>Tue, 21 Apr 2026 02:06:36 +0000</pubDate>
+      <description><![CDATA[GitHub 今天（4 月 20 日）对 Copilot 个人版套餐做了一次大动作调整：暂停 Pro、Pro+、Student 三档套餐的新用户注册，收紧使用额度，并从 Pro 套餐里移除 Claude Opus 模型。只有免费版 Copilot Free 继续开放注册。
+
+核心变化有三点：
+
+1. 新注册暂停。
+
+GitHub 的官方说法是要&quot;优先保障现有付费用户的服务质量&quot;，所以关闭了 Pro、Pro+、Student 三档的新订阅入口。现有用户仍然可以在各档位之间升级或切换。
+
+2. 使用额度收紧。
+
+Pro+ 的额度被重新拉开到 Pro 的 5 倍以上，言下之意就是 Pro 用户经常撞上限的话，官方的建议是掏钱升 Pro+。VS Code 和 Copilot CLI 会在接近额度时弹警告，用量进度条据说也会很快上线。
+
+3. Pro 套餐砍掉 Opus。
+
+Anthropic 最新旗舰 Claude Opus 4.7 只保留给 Pro+ 用户。早些时候官方还预告过，Pro+ 上的旧版 Opus 4.5、4.6 也会一起下架，等于 Pro+ 用户以后只剩 Opus 4.7 这一档 Opus 可选。
+
+为什么现在动刀？背景是过去一年 AI 编程工具跑量太凶，Opus 本身就是市面上最贵的推理模型之一，Copilot 按月固定价卖给海量用户，成本账早就算不过来。GitHub 三月底、四月初已经先后对 Pro+ 动过一次限速和模型下架，这次相当于把刀挥得更彻底，同时把 Pro 这档重新定位成&quot;轻度用户入门款&quot;。
+
+受影响最明显的是两类人。一是想新开 Pro 或 Pro+ 订阅的开发者，窗口暂时关了，只能先用免费版。二是 Pro 订阅者里依赖 Opus 做复杂代码任务的，要么掏钱升 Pro+，要么转到 Claude Code、Cursor、Codex 这些竞品。
+
+GitHub 给了台阶：对这些改动不满意的用户，4 月 20 日到 5 月 20 日之间可以联系官方取消订阅，4 月的费用全额退还。
+
+这是主流 AI 编程工具第一次公开把付费注册窗口关上。
+
+公告地址：https://t.co/EtihyY1WLX
+
+---
+@dotey | ❤️ 13 | 🔁 0 | 💬 4 | 👁 4611]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>第一次早上9点就来打疫苗，第一次看到这么多娃（以前都是下午或接近中午来的）。</title>
+      <link>https://x.com/tualatrix/status/2046410183761641727</link>
+      <guid isPermaLink="false">2046410183761641727</guid>
+      <pubDate>Tue, 21 Apr 2026 02:06:22 +0000</pubDate>
+      <description><![CDATA[第一次早上9点就来打疫苗，第一次看到这么多娃（以前都是下午或接近中午来的）。
+
+---
+@tualatrix | ❤️ 1 | 🔁 0 | 💬 1 | 👁 809]]></description>
+      <author>@tualatrix</author>
     </item>
   </channel>
 </rss>
