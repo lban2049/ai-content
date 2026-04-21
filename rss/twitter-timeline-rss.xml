@@ -5,169 +5,237 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 21:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 21:31:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>#Data Engineer vs #DataScientist
-by @Python_Dv
+      <title>Okay so we all now know vibecoding is a massive opportunity AND a massive risk.
 
-#DataScience #BigData https://t.co/pzfU4CUot0</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046694972653457492</link>
-      <guid isPermaLink="false">2046694972653457492</guid>
-      <pubDate>Tue, 21 Apr 2026 20:58:01 +0000</pubDate>
-      <description><![CDATA[#Data Engineer vs #DataScientist
-by @Python_Dv
+Now the question is...</title>
+      <link>https://x.com/amasad/status/2046703193963589787</link>
+      <guid isPermaLink="false">2046703193963589787</guid>
+      <pubDate>Tue, 21 Apr 2026 21:30:42 +0000</pubDate>
+      <description><![CDATA[Okay so we all now know vibecoding is a massive opportunity AND a massive risk.
 
-#DataScience #BigData https://t.co/pzfU4CUot0
+Now the question is what platform can you trust and why?
+
+Replit CTO lays it out ⬇️
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 33]]></description>
+@amasad | ❤️ 3 | 🔁 1 | 💬 0 | 👁 101]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>“There is no option to opt out”</title>
+      <link>https://x.com/GaryMarcus/status/2046703106377814353</link>
+      <guid isPermaLink="false">2046703106377814353</guid>
+      <pubDate>Tue, 21 Apr 2026 21:30:21 +0000</pubDate>
+      <description><![CDATA[“There is no option to opt out”
+
+---
+@GaryMarcus | ❤️ 2 | 🔁 0 | 💬 0 | 👁 109]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>RT @ClementDelangue: Share this with your representative! https://t.co/H8bxSP89aw https://t.co/SRgCY...</title>
+      <link>https://x.com/ylecun/status/2046703002124255504</link>
+      <guid isPermaLink="false">2046703002124255504</guid>
+      <pubDate>Tue, 21 Apr 2026 21:29:56 +0000</pubDate>
+      <description><![CDATA[RT @ClementDelangue: Share this with your representative! https://t.co/H8bxSP89aw https://t.co/SRgCYYAiJE
+
+---
+@ylecun | ❤️ 0 | 🔁 23 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>RT @TrySpiral: https://t.co/715ZaHIB6k</title>
+      <link>https://x.com/danshipper/status/2046702479119716774</link>
+      <guid isPermaLink="false">2046702479119716774</guid>
+      <pubDate>Tue, 21 Apr 2026 21:27:51 +0000</pubDate>
+      <description><![CDATA[RT @TrySpiral: https://t.co/715ZaHIB6k
+
+---
+@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>@OpenAI Doesn't seem like it, would be great to support it inside projects 🙏 https://t.co/C4ub6zJZHP</title>
+      <link>https://x.com/petergyang/status/2046701341989605526</link>
+      <guid isPermaLink="false">2046701341989605526</guid>
+      <pubDate>Tue, 21 Apr 2026 21:23:20 +0000</pubDate>
+      <description><![CDATA[@OpenAI Doesn't seem like it, would be great to support it inside projects 🙏 https://t.co/C4ub6zJZHP
+
+---
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 131]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>The free year of the Google AI Pro alone is insane:
+- Higher access to Gemini 3.1
+- Higher limits in...</title>
+      <link>https://x.com/lennysan/status/2046701303762726942</link>
+      <guid isPermaLink="false">2046701303762726942</guid>
+      <pubDate>Tue, 21 Apr 2026 21:23:11 +0000</pubDate>
+      <description><![CDATA[The free year of the Google AI Pro alone is insane:
+- Higher access to Gemini 3.1
+- Higher limits in NotebookLM, Antigravity, Nano Banana, Veo 3, AI Studio
+- 5 TB of cloud storage across Gmail, Drive, and Photos
+
+Thanks for making this possible team @GoogleAI https://t.co/Ij4y9RV2Nw
+
+---
+@lennysan | ❤️ 14 | 🔁 0 | 💬 2 | 👁 1119]]></description>
+      <author>@lennysan</author>
+    </item>
+    <item>
+      <title>RT @MIT_CSAIL: Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of Interna...</title>
+      <link>https://x.com/MIT_CSAIL/status/2046701287643701681</link>
+      <guid isPermaLink="false">2046701287643701681</guid>
+      <pubDate>Tue, 21 Apr 2026 21:23:07 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Olympiad problems &amp;amp; solutions 🌍
+
+Ma…
+
+---
+@MIT_CSAIL | ❤️ 0 | 🔁 173 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
+    </item>
+    <item>
+      <title>RT @aakashgupta: Earlier this year Yann LeCun left Meta because Mark Zuckerberg wouldn't bet the com...</title>
+      <link>https://x.com/ylecun/status/2046700616525754870</link>
+      <guid isPermaLink="false">2046700616525754870</guid>
+      <pubDate>Tue, 21 Apr 2026 21:20:27 +0000</pubDate>
+      <description><![CDATA[RT @aakashgupta: Earlier this year Yann LeCun left Meta because Mark Zuckerberg wouldn't bet the company on JEPA. Last week his group dropp…
+
+---
+@ylecun | ❤️ 0 | 🔁 158 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>Meet Xiaoling: China’s Modular Humanoid #Robot with Swappable Heads and Multi-Role Capabilities
+by @...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046700533604323697</link>
+      <guid isPermaLink="false">2046700533604323697</guid>
+      <pubDate>Tue, 21 Apr 2026 21:20:07 +0000</pubDate>
+      <description><![CDATA[Meet Xiaoling: China’s Modular Humanoid #Robot with Swappable Heads and Multi-Role Capabilities
+by @StarSnap_1
+
+#Robotics #Engineering #ArtificialIntelligence #Technology https://t.co/FBWOsmOYlg
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 95]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Pro tip: use GPT Images 2.0 to make your images higher-res
+      <title>RT @arena: Arena Trends: Text-to-Image, Jan 2026 – Apr 2026
 
-The bottom was made in Figma with screen...</title>
-      <link>https://x.com/nickbaumann_/status/2046694845490843725</link>
-      <guid isPermaLink="false">2046694845490843725</guid>
-      <pubDate>Tue, 21 Apr 2026 20:57:31 +0000</pubDate>
-      <description><![CDATA[Pro tip: use GPT Images 2.0 to make your images higher-res
+For most of the year, @GoogleDeepMind a...</title>
+      <link>https://x.com/OpenAI/status/2046699281198047403</link>
+      <guid isPermaLink="false">2046699281198047403</guid>
+      <pubDate>Tue, 21 Apr 2026 21:15:09 +0000</pubDate>
+      <description><![CDATA[RT @arena: Arena Trends: Text-to-Image, Jan 2026 – Apr 2026
 
-The bottom was made in Figma with screenshots
-
-This one was touched up by ChatGPT https://t.co/TXacLUNMjK
+For most of the year, @GoogleDeepMind and @OpenAI traded the top spot within a…
 
 ---
-@nickbaumann_ | ❤️ 1 | 🔁 0 | 💬 0 | 👁 72]]></description>
-      <author>@nickbaumann_</author>
-    </item>
-    <item>
-      <title>really incredible what you're now able to create with a little bit of compute.
-
-excited for new appl...</title>
-      <link>https://x.com/gdb/status/2046694017287811390</link>
-      <guid isPermaLink="false">2046694017287811390</guid>
-      <pubDate>Tue, 21 Apr 2026 20:54:14 +0000</pubDate>
-      <description><![CDATA[really incredible what you're now able to create with a little bit of compute.
-
-excited for new applications in areas like education, professional settings (slides, marketing materials, etc), and productivity (such as creating diagrams for code documentation). https://t.co/M9xWFXEseI
-
----
-@gdb | ❤️ 115 | 🔁 5 | 💬 18 | 👁 4866]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>Access GPT Image 2.0 natively in Hermes Agent
-
-Update now to get access - just run `hermes update` a...</title>
-      <link>https://x.com/NousResearch/status/2046693872773062834</link>
-      <guid isPermaLink="false">2046693872773062834</guid>
-      <pubDate>Tue, 21 Apr 2026 20:53:39 +0000</pubDate>
-      <description><![CDATA[Access GPT Image 2.0 natively in Hermes Agent
-
-Update now to get access - just run `hermes update` and select your image generation tool model with `hermes tools`
-
----
-@NousResearch | ❤️ 55 | 🔁 3 | 💬 6 | 👁 1456]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>RT @dvassallo: The most played game in the past 24 hours on #vibejam! 🙏 https://t.co/khSwh5LEMT</title>
-      <link>https://x.com/levelsio/status/2046693009228484766</link>
-      <guid isPermaLink="false">2046693009228484766</guid>
-      <pubDate>Tue, 21 Apr 2026 20:50:13 +0000</pubDate>
-      <description><![CDATA[RT @dvassallo: The most played game in the past 24 hours on #vibejam! 🙏 https://t.co/khSwh5LEMT
-
----
-@levelsio | ❤️ 0 | 🔁 4 | 💬 0 | 👁 1]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>RT @ClementDelangue: HF becoming the platform for agents (assisted by their humans) to use and build...</title>
-      <link>https://x.com/_akhaliq/status/2046692459858591755</link>
-      <guid isPermaLink="false">2046692459858591755</guid>
-      <pubDate>Tue, 21 Apr 2026 20:48:02 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: HF becoming the platform for agents (assisted by their humans) to use and build AI (rather than just leveraging APIs)!
-
----
-@_akhaliq | ❤️ 0 | 🔁 17 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Aspect Ratios &amp;amp; Resolution in ChatGPT Images 2.0, demonstrated by @dibyayB https://t.co/K6pb...</title>
-      <link>https://x.com/OpenAI/status/2046691653453562341</link>
-      <guid isPermaLink="false">2046691653453562341</guid>
-      <pubDate>Tue, 21 Apr 2026 20:44:50 +0000</pubDate>
-      <description><![CDATA[Aspect Ratios &amp;amp; Resolution in ChatGPT Images 2.0, demonstrated by @dibyayB https://t.co/K6pbscNZtL
-
----
-@OpenAI | ❤️ 28 | 🔁 0 | 💬 2 | 👁 10775]]></description>
+@OpenAI | ❤️ 0 | 🔁 28 | 💬 0 | 👁 0]]></description>
       <author>@OpenAI</author>
     </item>
     <item>
-      <title>Slides &amp;amp; Infographics in ChatGPT Images 2.0, demonstrated by @yuguang_yang https://t.co/yQUv...</title>
-      <link>https://x.com/OpenAI/status/2046691651767476579</link>
-      <guid isPermaLink="false">2046691651767476579</guid>
-      <pubDate>Tue, 21 Apr 2026 20:44:50 +0000</pubDate>
-      <description><![CDATA[Slides &amp;amp; Infographics in ChatGPT Images 2.0, demonstrated by @yuguang_yang https://t.co/yQUviVxMAr
+      <title>@OpenAI This works inside projects right?</title>
+      <link>https://x.com/petergyang/status/2046698744541032826</link>
+      <guid isPermaLink="false">2046698744541032826</guid>
+      <pubDate>Tue, 21 Apr 2026 21:13:01 +0000</pubDate>
+      <description><![CDATA[@OpenAI This works inside projects right?
 
 ---
-@OpenAI | ❤️ 33 | 🔁 0 | 💬 1 | 👁 11483]]></description>
-      <author>@OpenAI</author>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 1 | 👁 324]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>What makes ChatGPT Images 2.0 a state-of-the-art image generation model?
-
-Researchers behind the mod...</title>
-      <link>https://x.com/OpenAI/status/2046691647036227700</link>
-      <guid isPermaLink="false">2046691647036227700</guid>
-      <pubDate>Tue, 21 Apr 2026 20:44:49 +0000</pubDate>
-      <description><![CDATA[What makes ChatGPT Images 2.0 a state-of-the-art image generation model?
-
-Researchers behind the model explain. A thread:
-
-Thinking &amp;amp; Intelligence in ChatGPT Images 2.0, demonstrated by @ayaanzhaque https://t.co/yxFCITwWhd
+      <title>RT @cgtwts: &amp;gt; be Yann LeCun
+&amp;gt; spend years building JEPA at Meta
+&amp;gt; company focus...</title>
+      <link>https://x.com/ylecun/status/2046697961753616732</link>
+      <guid isPermaLink="false">2046697961753616732</guid>
+      <pubDate>Tue, 21 Apr 2026 21:09:54 +0000</pubDate>
+      <description><![CDATA[RT @cgtwts: &amp;gt; be Yann LeCun
+&amp;gt; spend years building JEPA at Meta
+&amp;gt; company focuses on LLaMA instead
+&amp;gt; his idea stays complicated and unused…
 
 ---
-@OpenAI | ❤️ 575 | 🔁 38 | 💬 42 | 👁 35201]]></description>
-      <author>@OpenAI</author>
+@ylecun | ❤️ 0 | 🔁 58 | 💬 0 | 👁 6]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>Mid people judge you by your medium performance. Or worse, by your worst performance. And never by y...</title>
-      <link>https://x.com/tunguz/status/2046690568344830280</link>
-      <guid isPermaLink="false">2046690568344830280</guid>
-      <pubDate>Tue, 21 Apr 2026 20:40:31 +0000</pubDate>
-      <description><![CDATA[Mid people judge you by your medium performance. Or worse, by your worst performance. And never by your top.
+      <title>RT @Ronald_vanLoon: Realistic Finger Prosthetic 
+by @IntEngineering
+  
+#EmergingTech #TechForGood #I...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046695975595483175</link>
+      <guid isPermaLink="false">2046695975595483175</guid>
+      <pubDate>Tue, 21 Apr 2026 21:02:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Realistic Finger Prosthetic 
+by @IntEngineering
+  
+#EmergingTech #TechForGood #Innovation #Technology https://t.co/NWgN…
 
 ---
-@tunguz | ❤️ 9 | 🔁 3 | 💬 1 | 👁 615]]></description>
-      <author>@tunguz</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>OpenAI cooked with this one.</title>
-      <link>https://x.com/tunguz/status/2046690012117213646</link>
-      <guid isPermaLink="false">2046690012117213646</guid>
-      <pubDate>Tue, 21 Apr 2026 20:38:19 +0000</pubDate>
-      <description><![CDATA[OpenAI cooked with this one.
+      <title>True to form, I've already seen OpenAI themselves refer to the new image model as &quot;ChatGPT Imag...</title>
+      <link>https://x.com/simonw/status/2046695792782749862</link>
+      <guid isPermaLink="false">2046695792782749862</guid>
+      <pubDate>Tue, 21 Apr 2026 21:01:17 +0000</pubDate>
+      <description><![CDATA[True to form, I've already seen OpenAI themselves refer to the new image model as &quot;ChatGPT Images 2.0&quot;, &quot;Image gen 2&quot; and &quot;gpt-image-2&quot;
 
 ---
-@tunguz | ❤️ 13 | 🔁 0 | 💬 1 | 👁 902]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>I came up with a somewhat foolish new benchmark for testing image generation models, to exercise the...</title>
-      <link>https://x.com/simonw/status/2046689436004766011</link>
-      <guid isPermaLink="false">2046689436004766011</guid>
-      <pubDate>Tue, 21 Apr 2026 20:36:01 +0000</pubDate>
-      <description><![CDATA[I came up with a somewhat foolish new benchmark for testing image generation models, to exercise the new ChatGPT Images 2.0:
-
-&quot;Do a where's Waldo style image but it's where is the raccoon holding a ham radio&quot;
-
-https://t.co/KuPdFAEWUl
-
----
-@simonw | ❤️ 29 | 🔁 2 | 💬 6 | 👁 2762]]></description>
+@simonw | ❤️ 96 | 🔁 0 | 💬 10 | 👁 3966]]></description>
       <author>@simonw</author>
+    </item>
+    <item>
+      <title>🧑‍🚀 Day 19 of the @cursor_ai #vibejam!!!
+
+Proudly sponsored by @cursor_ai + @boltdotnew + @heyglif +...</title>
+      <link>https://x.com/levelsio/status/2046695726789390776</link>
+      <guid isPermaLink="false">2046695726789390776</guid>
+      <pubDate>Tue, 21 Apr 2026 21:01:01 +0000</pubDate>
+      <description><![CDATA[🧑‍🚀 Day 19 of the @cursor_ai #vibejam!!!
+
+Proudly sponsored by @cursor_ai + @boltdotnew + @heyglif + @tripoai
+
+Prizes to win (submit your vibe coded game before May 1!)
+🏆 $25,000
+🥈 $10,000
+🥉 $5,000
+
+🚨🚨🚨 YOU HAVE 9 DAYS LEFT! 🚨🚨🚨
+
+Lots of great games today:
+
+🌳 Hollowlands by @andreeliasdev
+A really beautiful Zelda looking forest exploration game, really cute
+
+🥷 Road Fighter by @SoloDevelling
+Very street fighter-esque but with cool AI-gen'd scenery in the back
+
+🌊 Mom's Basement by @MyMoonEnt
+I've seen updates on this one a lot, it's an Unreal style 3d shooter, it looked so smooth I had to check with @s13k_ if it was really AI and it is but it just uses a good JS 3d engine (which is fine btw)
+
+☀️ Solar System by @libcedric
+A multi-solar system space exploration and shooter game
+
+Reply in this thread with updates on your current games to share your progress, and add tag #vibejam so I see and can include you in the daily tweet
+
+Wanna to participate? You can still start now and submit your game any time before May 1! (we started April 1 btw)
+
+There's now $40,000 in prizes for you to win, see threads below for more info. The Gold prize is $25,000, silver is $10,000 and bronze is $5,000!
+
+---
+@levelsio | ❤️ 21 | 🔁 2 | 💬 6 | 👁 5224]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
