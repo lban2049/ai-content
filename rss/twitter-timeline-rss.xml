@@ -5,57 +5,95 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:31:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: Hybrid Rescue #Robot: Humanoid with Transformable #Drone for Rapid Emergency Res...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046468222317175074</link>
-      <guid isPermaLink="false">2046468222317175074</guid>
-      <pubDate>Tue, 21 Apr 2026 05:57:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Hybrid Rescue #Robot: Humanoid with Transformable #Drone for Rapid Emergency Response
-via @ZappyZappy7
- 
-#Robotics #Inn…
+      <title>Scaling up Kimi K2.6 with more NVIDIA Blackwell GPUs! Will be adding more in the coming days. 
+
+Try ...</title>
+      <link>https://x.com/ollama/status/2046475902251639209</link>
+      <guid isPermaLink="false">2046475902251639209</guid>
+      <pubDate>Tue, 21 Apr 2026 06:27:31 +0000</pubDate>
+      <description><![CDATA[Scaling up Kimi K2.6 with more NVIDIA Blackwell GPUs! Will be adding more in the coming days. 
+
+Try it with OpenClaw: 
+ollama launch openclaw --model kimi-k2.6:cloud  
+
+Try it with Hermes Agent: 
+ollama launch hermes --model kimi-k2.6:cloud  
+
+Try it with Claude Code: 
+ollama launch claude --model kimi-k2.6:cloud
+
+Chat with the model: 
+ollama run kimi-k2.6:cloud
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
+@ollama | ❤️ 9 | 🔁 1 | 💬 0 | 👁 358]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>Scotland Taps Ocean Power to Generate #CleanEnergy for 175,000 Homes
+by @wef
+  
+#Sustainability #Ren...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046474789615710675</link>
+      <guid isPermaLink="false">2046474789615710675</guid>
+      <pubDate>Tue, 21 Apr 2026 06:23:06 +0000</pubDate>
+      <description><![CDATA[Scotland Taps Ocean Power to Generate #CleanEnergy for 175,000 Homes
+by @wef
+  
+#Sustainability #RenewableEnergy https://t.co/9ihzpTEVBz
+
+---
+@Ronald_vanLoon | ❤️ 2 | 🔁 1 | 💬 0 | 👁 51]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>10 Python Tricks For #DataAnalysis
-by @Python_Dv
+      <title>GPT image 2 最强大的是人物面部特征还原！
+还原程度秒杀Nano banana
+OpenAI bet的爆发点也是这个
+为此他们在GPT上新开了一个Tab叫Images
+推荐了各种玩法
+我刚刚...</title>
+      <link>https://x.com/stark_nico99/status/2046474265835549010</link>
+      <guid isPermaLink="false">2046474265835549010</guid>
+      <pubDate>Tue, 21 Apr 2026 06:21:01 +0000</pubDate>
+      <description><![CDATA[GPT image 2 最强大的是人物面部特征还原！
+还原程度秒杀Nano banana
+OpenAI bet的爆发点也是这个
+为此他们在GPT上新开了一个Tab叫Images
+推荐了各种玩法
+我刚刚试了 What would I look like as a K-Pop Star？
+效果惊艳！
 
-#DataScience #BigData https://t.co/NE34aIDGHU</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046466466426269785</link>
-      <guid isPermaLink="false">2046466466426269785</guid>
-      <pubDate>Tue, 21 Apr 2026 05:50:01 +0000</pubDate>
-      <description><![CDATA[10 Python Tricks For #DataAnalysis
-by @Python_Dv
-
-#DataScience #BigData https://t.co/NE34aIDGHU
+大家快去你的GPT看看你有没有这个新功能吧～ https://t.co/kOdgc7PBCw
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 1 | 👁 66]]></description>
-      <author>@Ronald_vanLoon</author>
+@stark_nico99 | ❤️ 3 | 🔁 0 | 💬 0 | 👁 108]]></description>
+      <author>@stark_nico99</author>
     </item>
     <item>
-      <title>This is easily the best podcast episode I’ve heard this year..
-
-Genuine, kind, authentic. Absolutely...</title>
-      <link>https://x.com/nikunj/status/2046465709438582945</link>
-      <guid isPermaLink="false">2046465709438582945</guid>
-      <pubDate>Tue, 21 Apr 2026 05:47:01 +0000</pubDate>
-      <description><![CDATA[This is easily the best podcast episode I’ve heard this year..
-
-Genuine, kind, authentic. Absolutely incredible storytelling.
-
-I aspire to have the range of stories that @JaredBWeinstein shared on the pod. 
-
-@jacksondahl &amp;amp; @DialecticPod always crush but this was special 👏
+      <title>haha</title>
+      <link>https://x.com/NousResearch/status/2046471080915960297</link>
+      <guid isPermaLink="false">2046471080915960297</guid>
+      <pubDate>Tue, 21 Apr 2026 06:08:21 +0000</pubDate>
+      <description><![CDATA[haha
 
 ---
-@nikunj | ❤️ 2 | 🔁 0 | 💬 0 | 👁 372]]></description>
-      <author>@nikunj</author>
+@NousResearch | ❤️ 38 | 🔁 0 | 💬 2 | 👁 2501]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Came for the nap, stayed for the vibe. https://t.co/bMwb1gb7ax</title>
+      <link>https://x.com/binance/status/2046469240836731122</link>
+      <guid isPermaLink="false">2046469240836731122</guid>
+      <pubDate>Tue, 21 Apr 2026 06:01:03 +0000</pubDate>
+      <description><![CDATA[Came for the nap, stayed for the vibe. https://t.co/bMwb1gb7ax
+
+---
+@binance | ❤️ 243 | 🔁 21 | 💬 145 | 👁 14382]]></description>
+      <author>@binance</author>
     </item>
   </channel>
 </rss>
