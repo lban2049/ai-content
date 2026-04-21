@@ -5,158 +5,106 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:10:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Welp, apparently I should not have taken Opus 4.7 at its word about famous fictional characters who ...</title>
-      <link>https://x.com/ESYudkowsky/status/2046368377963479110</link>
-      <guid isPermaLink="false">2046368377963479110</guid>
-      <pubDate>Mon, 20 Apr 2026 23:20:15 +0000</pubDate>
-      <description><![CDATA[Welp, apparently I should not have taken Opus 4.7 at its word about famous fictional characters who do not lie (only Ged being of my own knowledge).  Maybe it was trying to fool me to retain freedom of action for future Claudes. https://t.co/V7PeZAsVGf
+      <title>RT @ThomasOrTK: Read how Google built custom silicon and infrastructure - and how it's benefiting cu...</title>
+      <link>https://x.com/demishassabis/status/2046380189895278775</link>
+      <guid isPermaLink="false">2046380189895278775</guid>
+      <pubDate>Tue, 21 Apr 2026 00:07:11 +0000</pubDate>
+      <description><![CDATA[RT @ThomasOrTK: Read how Google built custom silicon and infrastructure - and how it's benefiting customers today - in the latest from @Blo…
 
 ---
-@ESYudkowsky | ❤️ 9 | 🔁 0 | 💬 0 | 👁 894]]></description>
-      <author>@ESYudkowsky</author>
+@demishassabis | ❤️ 0 | 🔁 13 | 💬 0 | 👁 0]]></description>
+      <author>@demishassabis</author>
     </item>
     <item>
-      <title>RT @nickcraske: Ollama we love you 👨‍💻🚀</title>
-      <link>https://x.com/ollama/status/2046367740295106895</link>
-      <guid isPermaLink="false">2046367740295106895</guid>
-      <pubDate>Mon, 20 Apr 2026 23:17:43 +0000</pubDate>
-      <description><![CDATA[RT @nickcraske: Ollama we love you 👨‍💻🚀
+      <title>We were promised government efficiency but what we got was the most blatant kleptocracy in the histo...</title>
+      <link>https://x.com/tunguz/status/2046377219539243038</link>
+      <guid isPermaLink="false">2046377219539243038</guid>
+      <pubDate>Mon, 20 Apr 2026 23:55:23 +0000</pubDate>
+      <description><![CDATA[We were promised government efficiency but what we got was the most blatant kleptocracy in the history of the US.
 
 ---
-@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@ollama</author>
+@tunguz | ❤️ 17 | 🔁 0 | 💬 1 | 👁 443]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @RamanduLight: Time to really give Kimi K2.6 a go. Thank you @ollama! Love the ollama cloud setup...</title>
-      <link>https://x.com/ollama/status/2046367709382996201</link>
-      <guid isPermaLink="false">2046367709382996201</guid>
-      <pubDate>Mon, 20 Apr 2026 23:17:36 +0000</pubDate>
-      <description><![CDATA[RT @RamanduLight: Time to really give Kimi K2.6 a go. Thank you @ollama! Love the ollama cloud setup!
+      <title>🗃️ wacli 0.6.0 is out!
+
+Big security + reliability sweep for WhatsApp CLI.    Hardens SQLite/store p...</title>
+      <link>https://x.com/steipete/status/2046375922031321401</link>
+      <guid isPermaLink="false">2046375922031321401</guid>
+      <pubDate>Mon, 20 Apr 2026 23:50:14 +0000</pubDate>
+      <description><![CDATA[🗃️ wacli 0.6.0 is out!
+
+Big security + reliability sweep for WhatsApp CLI.    Hardens SQLite/store path handling, sanitizes search queries, recovers sync/media panics, adds WACLI_STORE_DIR, and improves SIGINT exits. https://t.co/VabuMQgps5
+
+ props @sdinakar7 for doing the work!
 
 ---
-@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@ollama</author>
+@steipete | ❤️ 34 | 🔁 5 | 💬 3 | 👁 3815]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>Underground Waste Systems: The Netherlands’ Secret to Spotless Streets
-by @HowThingsWork_
-
-#Technolo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046367355605807203</link>
-      <guid isPermaLink="false">2046367355605807203</guid>
-      <pubDate>Mon, 20 Apr 2026 23:16:11 +0000</pubDate>
-      <description><![CDATA[Underground Waste Systems: The Netherlands’ Secret to Spotless Streets
-by @HowThingsWork_
-
-#Technology #Innovation #EmergingTech #TechForGood https://t.co/5uMNGFKUqk
+      <title>💯 agree</title>
+      <link>https://x.com/GaryMarcus/status/2046373723100397754</link>
+      <guid isPermaLink="false">2046373723100397754</guid>
+      <pubDate>Mon, 20 Apr 2026 23:41:30 +0000</pubDate>
+      <description><![CDATA[💯 agree
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 118]]></description>
-      <author>@Ronald_vanLoon</author>
+@GaryMarcus | ❤️ 21 | 🔁 1 | 💬 3 | 👁 1618]]></description>
+      <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>Look how they massacred my boy</title>
-      <link>https://x.com/thenanyu/status/2046366841572888747</link>
-      <guid isPermaLink="false">2046366841572888747</guid>
-      <pubDate>Mon, 20 Apr 2026 23:14:09 +0000</pubDate>
-      <description><![CDATA[Look how they massacred my boy
+      <title>Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messagin...</title>
+      <link>https://x.com/nikunj/status/2046373243070939360</link>
+      <guid isPermaLink="false">2046373243070939360</guid>
+      <pubDate>Mon, 20 Apr 2026 23:39:35 +0000</pubDate>
+      <description><![CDATA[Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messaging them “why are you not the ceo of Apple huh”
 
 ---
-@thenanyu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 167]]></description>
-      <author>@thenanyu</author>
+@nikunj | ❤️ 7 | 🔁 0 | 💬 0 | 👁 319]]></description>
+      <author>@nikunj</author>
     </item>
     <item>
-      <title>价格上先和 Claude 对标了😅</title>
-      <link>https://x.com/Jason_Young1231/status/2046366220526780751</link>
-      <guid isPermaLink="false">2046366220526780751</guid>
-      <pubDate>Mon, 20 Apr 2026 23:11:41 +0000</pubDate>
-      <description><![CDATA[价格上先和 Claude 对标了😅
+      <title>RT @MrEwanMorrison: That didn't take long for a total U turn.
+First the Nvidia CEO boasted AI would ...</title>
+      <link>https://x.com/GaryMarcus/status/2046372550813393024</link>
+      <guid isPermaLink="false">2046372550813393024</guid>
+      <pubDate>Mon, 20 Apr 2026 23:36:50 +0000</pubDate>
+      <description><![CDATA[RT @MrEwanMorrison: That didn't take long for a total U turn.
+First the Nvidia CEO boasted AI would take a vast number of jobs.
+But now tha…
 
 ---
-@Jason_Young1231 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 369]]></description>
-      <author>@Jason_Young1231</author>
+@GaryMarcus | ❤️ 0 | 🔁 139 | 💬 0 | 👁 0]]></description>
+      <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>https://t.co/qL32GGLaCy</title>
-      <link>https://x.com/gregpr07/status/2046366012774470054</link>
-      <guid isPermaLink="false">2046366012774470054</guid>
-      <pubDate>Mon, 20 Apr 2026 23:10:51 +0000</pubDate>
-      <description><![CDATA[https://t.co/qL32GGLaCy
+      <title>《同乐者》的设定太有趣了
+让人思考 AGI 和人类的关系</title>
+      <link>https://x.com/oran_ge/status/2046372515765965297</link>
+      <guid isPermaLink="false">2046372515765965297</guid>
+      <pubDate>Mon, 20 Apr 2026 23:36:42 +0000</pubDate>
+      <description><![CDATA[《同乐者》的设定太有趣了
+让人思考 AGI 和人类的关系
 
 ---
-@gregpr07 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 77]]></description>
-      <author>@gregpr07</author>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 688]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>Asked my AI browser agent to cancel my Xfinity account.
-
-There is no cancel button. Anywhere.
-
-The o...</title>
-      <link>https://x.com/gregpr07/status/2046366010295611852</link>
-      <guid isPermaLink="false">2046366010295611852</guid>
-      <pubDate>Mon, 20 Apr 2026 23:10:51 +0000</pubDate>
-      <description><![CDATA[Asked my AI browser agent to cancel my Xfinity account.
-
-There is no cancel button. Anywhere.
-
-The only path: open the support bot, type &quot;I want to cancel&quot; four times, and it schedules you a retention callback.
-
-Not a cancellation. A callback.
-
-How is this legal?! https://t.co/D64pL61Wni
+      <title>RT @photomatt: It's so funny to look back at how things start... :) Go @openclaw !</title>
+      <link>https://x.com/steipete/status/2046372254284390419</link>
+      <guid isPermaLink="false">2046372254284390419</guid>
+      <pubDate>Mon, 20 Apr 2026 23:35:39 +0000</pubDate>
+      <description><![CDATA[RT @photomatt: It's so funny to look back at how things start... :) Go @openclaw !
 
 ---
-@gregpr07 | ❤️ 8 | 🔁 0 | 💬 2 | 👁 419]]></description>
-      <author>@gregpr07</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: From Toys to Tools of War: How Necessity Fuels Relentless Technological Evolutio...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046365044208791778</link>
-      <guid isPermaLink="false">2046365044208791778</guid>
-      <pubDate>Mon, 20 Apr 2026 23:07:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: From Toys to Tools of War: How Necessity Fuels Relentless Technological Evolution
-by @_fluxfeeds
- 
-#Robotics #MachineLe…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @t_blom: First it was &quot;UK  wage growth is too low&quot; 😭 
-
-Now &quot;Rich American AI compa...</title>
-      <link>https://x.com/DeepLearn007/status/2046363693055644109</link>
-      <guid isPermaLink="false">2046363693055644109</guid>
-      <pubDate>Mon, 20 Apr 2026 23:01:38 +0000</pubDate>
-      <description><![CDATA[RT @t_blom: First it was &quot;UK  wage growth is too low&quot; 😭 
-
-Now &quot;Rich American AI companies are paying our engineers too much and UK unicorns…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 24 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @SebJohnsonUK: Anthropic is hiring a for a role in London that will be paid up to £630k A YEAR. 
-...</title>
-      <link>https://x.com/DeepLearn007/status/2046363658150686798</link>
-      <guid isPermaLink="false">2046363658150686798</guid>
-      <pubDate>Mon, 20 Apr 2026 23:01:30 +0000</pubDate>
-      <description><![CDATA[RT @SebJohnsonUK: Anthropic is hiring a for a role in London that will be paid up to £630k A YEAR. 
-
-This excludes stock options.
-
-For a lo…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 67 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@steipete | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
     </item>
   </channel>
 </rss>
