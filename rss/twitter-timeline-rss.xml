@@ -5,164 +5,67 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:30:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: Taiwan’s Electric Scooters with Swappable Batteries Are Game-Changing
-by @cqcqcq...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046514406050115751</link>
-      <guid isPermaLink="false">2046514406050115751</guid>
-      <pubDate>Tue, 21 Apr 2026 09:00:31 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Taiwan’s Electric Scooters with Swappable Batteries Are Game-Changing
-by @cqcqcqdx
-
-#Automotive #Transport #EV https://…
+      <title>RT @badlogicgames: anthropic, are you OK? https://t.co/Iw3wwOBCBF</title>
+      <link>https://x.com/jeremyphoward/status/2046520241610715416</link>
+      <guid isPermaLink="false">2046520241610715416</guid>
+      <pubDate>Tue, 21 Apr 2026 09:23:42 +0000</pubDate>
+      <description><![CDATA[RT @badlogicgames: anthropic, are you OK? https://t.co/Iw3wwOBCBF
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
+@jeremyphoward | ❤️ 0 | 🔁 4 | 💬 0 | 👁 2]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>Meet BeingBeyond U1: Redefining #Robotic Dexterity Beyond Grippers
+by @beingbeyond_
+ 
+#AI #Robots #E...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046519056539201649</link>
+      <guid isPermaLink="false">2046519056539201649</guid>
+      <pubDate>Tue, 21 Apr 2026 09:19:00 +0000</pubDate>
+      <description><![CDATA[Meet BeingBeyond U1: Redefining #Robotic Dexterity Beyond Grippers
+by @beingbeyond_
+ 
+#AI #Robots #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/tyuhEL9Rgg
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 79]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Cool - generate fully scalable, simulated 3D biology labs entirely from natural language</title>
-      <link>https://x.com/DeepLearn007/status/2046513247570858135</link>
-      <guid isPermaLink="false">2046513247570858135</guid>
-      <pubDate>Tue, 21 Apr 2026 08:55:55 +0000</pubDate>
-      <description><![CDATA[Cool - generate fully scalable, simulated 3D biology labs entirely from natural language
+      <title>RT @qoder_ai_ide: @Kimi_Moonshot Kimi-K2.6 just dropped in Qoder.
+
+SOTA coding · Long-horizon execut...</title>
+      <link>https://x.com/Kimi_Moonshot/status/2046516899669057997</link>
+      <guid isPermaLink="false">2046516899669057997</guid>
+      <pubDate>Tue, 21 Apr 2026 09:10:25 +0000</pubDate>
+      <description><![CDATA[RT @qoder_ai_ide: @Kimi_Moonshot Kimi-K2.6 just dropped in Qoder.
+
+SOTA coding · Long-horizon execution · Agent swarms
+
+At 0.3x credits. ht…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 10]]></description>
-      <author>@DeepLearn007</author>
+@Kimi_Moonshot | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@Kimi_Moonshot</author>
     </item>
     <item>
-      <title>RT @DrNeilStone: Chemtrails don't exist 
+      <title>Our neurosymbolic + ontology + deterministic architecture is almost the opposite design philosophy t...</title>
+      <link>https://x.com/DeepLearn007/status/2046514800352542728</link>
+      <guid isPermaLink="false">2046514800352542728</guid>
+      <pubDate>Tue, 21 Apr 2026 09:02:05 +0000</pubDate>
+      <description><![CDATA[Our neurosymbolic + ontology + deterministic architecture is almost the opposite design philosophy to the one in the quoted post:
 
-Turbo cancer doesn't exist 
-
-Covid does exist
-
-Covid vacci...</title>
-      <link>https://x.com/DeepLearn007/status/2046512966632104262</link>
-      <guid isPermaLink="false">2046512966632104262</guid>
-      <pubDate>Tue, 21 Apr 2026 08:54:48 +0000</pubDate>
-      <description><![CDATA[RT @DrNeilStone: Chemtrails don't exist 
-
-Turbo cancer doesn't exist 
-
-Covid does exist
-
-Covid vaccines worked 
-
-Ivermectin doesn't work fo…
+- Retrieval is not trusted by default.
+- Every retrieved fact must pass deterministic validation.
+- Facts are not accepted because they are semantically similar; they are accepted only if they satisfy ontology rules, provenance rules, and cross-source consistency. @pierrepinna
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 1481 | 💬 0 | 👁 0]]></description>
+@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 74]]></description>
       <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @markgurman: BREAKING: Tim Cook steps down. Ternus to CEO.</title>
-      <link>https://x.com/DeepLearn007/status/2046512889444368480</link>
-      <guid isPermaLink="false">2046512889444368480</guid>
-      <pubDate>Tue, 21 Apr 2026 08:54:29 +0000</pubDate>
-      <description><![CDATA[RT @markgurman: BREAKING: Tim Cook steps down. Ternus to CEO.
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 3435 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @EFischberger: Crazy story out of Qatar:
-
-A British couple honeymooned in Doha, where the wife wa...</title>
-      <link>https://x.com/DeepLearn007/status/2046512861267075351</link>
-      <guid isPermaLink="false">2046512861267075351</guid>
-      <pubDate>Tue, 21 Apr 2026 08:54:23 +0000</pubDate>
-      <description><![CDATA[RT @EFischberger: Crazy story out of Qatar:
-
-A British couple honeymooned in Doha, where the wife was harassed at the Ritz-Carlton pool by…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 14148 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @astro_reid: Only one chance in this lifetime…
-
-Like watching sunset at the beach from the most f...</title>
-      <link>https://x.com/DeepLearn007/status/2046512541291941934</link>
-      <guid isPermaLink="false">2046512541291941934</guid>
-      <pubDate>Tue, 21 Apr 2026 08:53:06 +0000</pubDate>
-      <description><![CDATA[RT @astro_reid: Only one chance in this lifetime…
-
-Like watching sunset at the beach from the most foreign seat in the cosmos, I couldn’t r…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 43572 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @cixliv: F1 of Robots.
-
-Using dry ice to cool down the robot. https://t.co/av86u7FKtE</title>
-      <link>https://x.com/DeepLearn007/status/2046512408299004362</link>
-      <guid isPermaLink="false">2046512408299004362</guid>
-      <pubDate>Tue, 21 Apr 2026 08:52:35 +0000</pubDate>
-      <description><![CDATA[RT @cixliv: F1 of Robots.
-
-Using dry ice to cool down the robot. https://t.co/av86u7FKtE
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 322 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @pfau: I know nothing.</title>
-      <link>https://x.com/DeepLearn007/status/2046512331413221723</link>
-      <guid isPermaLink="false">2046512331413221723</guid>
-      <pubDate>Tue, 21 Apr 2026 08:52:16 +0000</pubDate>
-      <description><![CDATA[RT @pfau: I know nothing.
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 48 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @nattyover: Bacteria move around using a molecular machine called the flagellar motor that rotate...</title>
-      <link>https://x.com/DeepLearn007/status/2046512110876729751</link>
-      <guid isPermaLink="false">2046512110876729751</guid>
-      <pubDate>Tue, 21 Apr 2026 08:51:24 +0000</pubDate>
-      <description><![CDATA[RT @nattyover: Bacteria move around using a molecular machine called the flagellar motor that rotates faster than the flywheel of a race ca…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 2140 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>It is somewhat inevitable given recent events in Ukraine &amp;amp; Iran that AI &amp;amp; Robotics a...</title>
-      <link>https://x.com/DeepLearn007/status/2046511989128569263</link>
-      <guid isPermaLink="false">2046511989128569263</guid>
-      <pubDate>Tue, 21 Apr 2026 08:50:55 +0000</pubDate>
-      <description><![CDATA[It is somewhat inevitable given recent events in Ukraine &amp;amp; Iran that AI &amp;amp; Robotics accelerates in military, but who is independently testing that the robots do what they are supposed to do &amp;amp; don’t malfunction: i.e. target everyone, kill non combatants such as civilians
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 27]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Leverage #AI for Enhanced Traceability and Transparency in the #SupplyChain
-by @antgrasso
-
-#Logistic...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046510520438505839</link>
-      <guid isPermaLink="false">2046510520438505839</guid>
-      <pubDate>Tue, 21 Apr 2026 08:45:05 +0000</pubDate>
-      <description><![CDATA[Leverage #AI for Enhanced Traceability and Transparency in the #SupplyChain
-by @antgrasso
-
-#Logistics #MachineLearning #ArtificialIntelligence #ML #DL https://t.co/82UMQHvnaE
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 1 | 👁 74]]></description>
-      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
