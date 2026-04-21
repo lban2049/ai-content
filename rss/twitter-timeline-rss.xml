@@ -5,89 +5,61 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:01:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Brazen and bizarre.</title>
-      <link>https://x.com/tunguz/status/2046536018032009477</link>
-      <guid isPermaLink="false">2046536018032009477</guid>
-      <pubDate>Tue, 21 Apr 2026 10:26:24 +0000</pubDate>
-      <description><![CDATA[Brazen and bizarre.
+      <title>What The Best #AI Use Cases In Education Have In Common
+by @TalFrankfurt @Forbes
+
+Learn more: https:...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046543473721987394</link>
+      <guid isPermaLink="false">2046543473721987394</guid>
+      <pubDate>Tue, 21 Apr 2026 10:56:01 +0000</pubDate>
+      <description><![CDATA[What The Best #AI Use Cases In Education Have In Common
+by @TalFrankfurt @Forbes
+
+Learn more: https://t.co/cHZnSGNnVN
+ 
+#ArtificialIntelligence #MachineLearning #ML https://t.co/zLJc3AtsWH
 
 ---
-@tunguz | ❤️ 2 | 🔁 0 | 💬 1 | 👁 195]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Apple hardware has been an unqualified success for Apple over the past decade+. The whole software s...</title>
-      <link>https://x.com/tunguz/status/2046535483618906352</link>
-      <guid isPermaLink="false">2046535483618906352</guid>
-      <pubDate>Tue, 21 Apr 2026 10:24:16 +0000</pubDate>
-      <description><![CDATA[Apple hardware has been an unqualified success for Apple over the past decade+. The whole software stack, however, is lagging significantly behind. We are only scratching the surface of what Apple devices can deliver, especially on the AI/ML front. It will be interesting to see if there will be any significant course changes over the next few years.
-
----
-@tunguz | ❤️ 5 | 🔁 0 | 💬 1 | 👁 320]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>The Future of Shopping: Humanoid #Robots Take Over Store Operations in Hangzhou
-by @CyberRobooo
-
-#En...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046533928593264775</link>
-      <guid isPermaLink="false">2046533928593264775</guid>
-      <pubDate>Tue, 21 Apr 2026 10:18:05 +0000</pubDate>
-      <description><![CDATA[The Future of Shopping: Humanoid #Robots Take Over Store Operations in Hangzhou
-by @CyberRobooo
-
-#Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/qP9ZmkWQNw
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 85]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 48]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>https://t.co/6xwqVCBHvb</title>
-      <link>https://x.com/lifesinger/status/2046532547983659479</link>
-      <guid isPermaLink="false">2046532547983659479</guid>
-      <pubDate>Tue, 21 Apr 2026 10:12:36 +0000</pubDate>
-      <description><![CDATA[https://t.co/6xwqVCBHvb
+      <title>AGI will be able to comprehend European mind.</title>
+      <link>https://x.com/tunguz/status/2046540136016494730</link>
+      <guid isPermaLink="false">2046540136016494730</guid>
+      <pubDate>Tue, 21 Apr 2026 10:42:45 +0000</pubDate>
+      <description><![CDATA[AGI will be able to comprehend European mind.
 
 ---
-@lifesinger | ❤️ 4 | 🔁 0 | 💬 0 | 👁 246]]></description>
-      <author>@lifesinger</author>
+@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 413]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>Kimi K2.6 autonomously overhauled exchange-core, an 8-year-old open-source financial matching engine...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046531057147933137</link>
-      <guid isPermaLink="false">2046531057147933137</guid>
-      <pubDate>Tue, 21 Apr 2026 10:06:41 +0000</pubDate>
-      <description><![CDATA[Kimi K2.6 autonomously overhauled exchange-core, an 8-year-old open-source financial matching engine. 
-
-Over a 13-hour execution, the model iterated through 12 optimization strategies, initiating over 1,000 tool calls to precisely modify more than 4,000 lines of code. Acting as an expert systems architect, Kimi K2.6 analyzed CPU and allocation flame graphs to pinpoint hidden bottlenecks and boldly reconfigured the core thread topology (from 4ME+2RE to 2ME+1RE). 
-
-Despite the engine already operating near its performance limits, Kimi K2.6 extracted a 185% medium throughput leap (from 0.43 to 1.24 MT/s) and a 133% performance throughput gain (soaring from 1.23 to 2.86 MT/s).
+      <title>@simonw @badlogicgames I guess you're the person to ask about this?</title>
+      <link>https://x.com/jeremyphoward/status/2046537912377061471</link>
+      <guid isPermaLink="false">2046537912377061471</guid>
+      <pubDate>Tue, 21 Apr 2026 10:33:55 +0000</pubDate>
+      <description><![CDATA[@simonw @badlogicgames I guess you're the person to ask about this?
 
 ---
-@Kimi_Moonshot | ❤️ 64 | 🔁 3 | 💬 1 | 👁 3087]]></description>
-      <author>@Kimi_Moonshot</author>
+@jeremyphoward | ❤️ 0 | 🔁 0 | 💬 1 | 👁 868]]></description>
+      <author>@jeremyphoward</author>
     </item>
     <item>
-      <title>Kimi K2.6 demonstrates strong long-horizon coding in complex engineering tasks:
+      <title>Anyone know whether OpenAI officially supports the use of the `/backend-api/codex/responses` endpoin...</title>
+      <link>https://x.com/jeremyphoward/status/2046537816834965714</link>
+      <guid isPermaLink="false">2046537816834965714</guid>
+      <pubDate>Tue, 21 Apr 2026 10:33:33 +0000</pubDate>
+      <description><![CDATA[Anyone know whether OpenAI officially supports the use of the `/backend-api/codex/responses` endpoint that Pi and Opencode (IIUC) uses?
 
-Kimi K2.6 successfu...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2046531052957569211</link>
-      <guid isPermaLink="false">2046531052957569211</guid>
-      <pubDate>Tue, 21 Apr 2026 10:06:40 +0000</pubDate>
-      <description><![CDATA[Kimi K2.6 demonstrates strong long-horizon coding in complex engineering tasks:
-
-Kimi K2.6 successfully downloaded and deployed the Qwen3.5-0.8B model locally on a Mac. By implementing and optimizing model inference in Zig—a highly niche programming language—it demonstrated exceptional out-of-distribution generalization. 
-
-Across 4,000+ tool calls, over 12 hours of continuous execution, and 14 iterations, Kimi K2.6 dramatically improved throughput from ~15 to ~193 tokens/sec, ultimately achieving speeds ~20% faster than LM Studio.
+It doesn't seem to be documented, and was reverse engineered by @simonw - but is now used by some popular harnesses.
 
 ---
-@Kimi_Moonshot | ❤️ 192 | 🔁 22 | 💬 11 | 👁 7042]]></description>
-      <author>@Kimi_Moonshot</author>
+@jeremyphoward | ❤️ 5 | 🔁 0 | 💬 3 | 👁 1422]]></description>
+      <author>@jeremyphoward</author>
     </item>
   </channel>
 </rss>
