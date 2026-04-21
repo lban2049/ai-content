@@ -5,16 +5,76 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:00:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google 今天把 Gemini Deep Research 升级成了两个版本：Deep Research 和 Deep Research Max。https://t.co/bCBIknoYmZ
+      <title>RT @Ronald_vanLoon: Meet Belmont: The Humanoid #Robot Redefining Hospitality at Events
+by @CyberRobo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046649673385959542</link>
+      <guid isPermaLink="false">2046649673385959542</guid>
+      <pubDate>Tue, 21 Apr 2026 17:58:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Meet Belmont: The Humanoid #Robot Redefining Hospitality at Events
+by @CyberRobooo
 
-...</title>
-      <link>https://x.com/dotey/status/2046642837333422450</link>
-      <guid isPermaLink="false">2046642837333422450</guid>
-      <pubDate>Tue, 21 Apr 2026 17:30:51 +0000</pubDate>
-      <description><![CDATA[Google 今天把 Gemini Deep Research 升级成了两个版本：Deep Research 和 Deep Research Max。https://t.co/bCBIknoYmZ
+#Robotics #Engineering #ArtificialI…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @HuggingPapers: Microsoft just released CUAVerifierBench on Hugging Face
+
+A dataset of 260 agent ...</title>
+      <link>https://x.com/_akhaliq/status/2046649650128576660</link>
+      <guid isPermaLink="false">2046649650128576660</guid>
+      <pubDate>Tue, 21 Apr 2026 17:57:56 +0000</pubDate>
+      <description><![CDATA[RT @HuggingPapers: Microsoft just released CUAVerifierBench on Hugging Face
+
+A dataset of 260 agent trajectories with human annotations for…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>Combining NVIDIA accelerated computing, @Adobe Firefly and @WPP’s expertise, we’re enabling agentic ...</title>
+      <link>https://x.com/nvidia/status/2046649391428345972</link>
+      <guid isPermaLink="false">2046649391428345972</guid>
+      <pubDate>Tue, 21 Apr 2026 17:56:54 +0000</pubDate>
+      <description><![CDATA[Combining NVIDIA accelerated computing, @Adobe Firefly and @WPP’s expertise, we’re enabling agentic systems that deliver both speed and safety.
+
+✅ Agentic workflows that handle multi-step content creation and production
+✅ Secure, brand-aware generative AI built for enterprise use
+✅ Systems that scale content while maintaining consistency and creative control
+
+Read to learn more about the foundation for next-gen media workflows: https://t.co/CNe91s2Z88
+
+---
+@nvidia | ❤️ 9 | 🔁 0 | 💬 8 | 👁 1703]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>RT @alessiapacca: Introducing: VibeFlow UI (@vibeflowai) design systems. Generate UIs that actually ...</title>
+      <link>https://x.com/gregpr07/status/2046645142799679722</link>
+      <guid isPermaLink="false">2046645142799679722</guid>
+      <pubDate>Tue, 21 Apr 2026 17:40:01 +0000</pubDate>
+      <description><![CDATA[RT @alessiapacca: Introducing: VibeFlow UI (@vibeflowai) design systems. Generate UIs that actually look like YOUR brand. 
+
+We got tired of…
+
+---
+@gregpr07 | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>Google 今天把 Gemini Deep Research 升级成了两个版本：Deep Research 和 Deep Research Max。
+
+Deep Research 走速度和成本优先的...</title>
+      <link>https://x.com/dotey/status/2046644342241083510</link>
+      <guid isPermaLink="false">2046644342241083510</guid>
+      <pubDate>Tue, 21 Apr 2026 17:36:50 +0000</pubDate>
+      <description><![CDATA[Google 今天把 Gemini Deep Research 升级成了两个版本：Deep Research 和 Deep Research Max。
 
 Deep Research 走速度和成本优先的路线，适合做成即问即答的研究助手嵌到用户界面里。
 
@@ -41,161 +101,27 @@ Max 版则反过来：跑更长时间、烧更多算力，
 官方没有公布具体定价。
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+@dotey | ❤️ 6 | 🔁 1 | 💬 0 | 👁 2280]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>I for one would be delighted to see OpenAI commit to maintaining a tool like this in the long-term, ...</title>
-      <link>https://x.com/simonw/status/2046642204006031666</link>
-      <guid isPermaLink="false">2046642204006031666</guid>
-      <pubDate>Tue, 21 Apr 2026 17:28:20 +0000</pubDate>
-      <description><![CDATA[I for one would be delighted to see OpenAI commit to maintaining a tool like this in the long-term, I'm already nervous about mine going stale
+      <title>Monologue Notes is live!
+
+Record a note on a walk, in a meeting, or in the middle of the night. 
+
+Bu...</title>
+      <link>https://x.com/danshipper/status/2046643173766697214</link>
+      <guid isPermaLink="false">2046643173766697214</guid>
+      <pubDate>Tue, 21 Apr 2026 17:32:12 +0000</pubDate>
+      <description><![CDATA[Monologue Notes is live!
+
+Record a note on a walk, in a meeting, or in the middle of the night. 
+
+Built to be agent native: your agents can access your notes from anywhere
 
 ---
-@simonw | ❤️ 2 | 🔁 0 | 💬 1 | 👁 266]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>OneVL
-
-One-Step Latent Reasoning and Planning with Vision-Language Explanation
-
-paper: https://t.co/...</title>
-      <link>https://x.com/_akhaliq/status/2046641517696037039</link>
-      <guid isPermaLink="false">2046641517696037039</guid>
-      <pubDate>Tue, 21 Apr 2026 17:25:37 +0000</pubDate>
-      <description><![CDATA[OneVL
-
-One-Step Latent Reasoning and Planning with Vision-Language Explanation
-
-paper: https://t.co/cqbBDdrNZc https://t.co/u21uFYIxhb
-
----
-@_akhaliq | ❤️ 2 | 🔁 0 | 💬 1 | 👁 427]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Eurocrats standing in the way of small business innovation again.</title>
-      <link>https://x.com/tunguz/status/2046641489778745502</link>
-      <guid isPermaLink="false">2046641489778745502</guid>
-      <pubDate>Tue, 21 Apr 2026 17:25:30 +0000</pubDate>
-      <description><![CDATA[Eurocrats standing in the way of small business innovation again.
-
----
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 354]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>This Kinetic Screen Brings Visuals to Life with Motion and Texture
-by @IntEngineering
-  
-#TechForGoo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046640889414525233</link>
-      <guid isPermaLink="false">2046640889414525233</guid>
-      <pubDate>Tue, 21 Apr 2026 17:23:07 +0000</pubDate>
-      <description><![CDATA[This Kinetic Screen Brings Visuals to Life with Motion and Texture
-by @IntEngineering
-  
-#TechForGood #Innovation #Tech #Technology https://t.co/lQfxoT0rom
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 77]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>OpenAI's new Euphony tool works almost exactly the same way as my Codex transcript viewer https://t....</title>
-      <link>https://x.com/simonw/status/2046640420311142540</link>
-      <guid isPermaLink="false">2046640420311142540</guid>
-      <pubDate>Tue, 21 Apr 2026 17:21:15 +0000</pubDate>
-      <description><![CDATA[OpenAI's new Euphony tool works almost exactly the same way as my Codex transcript viewer https://t.co/lUQQds4Nvj
-
----
-@simonw | ❤️ 19 | 🔁 1 | 💬 4 | 👁 1965]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>Another Indian doing a job that Americans don’t want to do any more.</title>
-      <link>https://x.com/tunguz/status/2046639725629362292</link>
-      <guid isPermaLink="false">2046639725629362292</guid>
-      <pubDate>Tue, 21 Apr 2026 17:18:29 +0000</pubDate>
-      <description><![CDATA[Another Indian doing a job that Americans don’t want to do any more.
-
----
-@tunguz | ❤️ 12 | 🔁 0 | 💬 0 | 👁 592]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Tokenize Physical and #Digital Assets Unlock Fractional Ownership and Liquidity
-by @antgrasso
-
-#Inno...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046639014506033323</link>
-      <guid isPermaLink="false">2046639014506033323</guid>
-      <pubDate>Tue, 21 Apr 2026 17:15:40 +0000</pubDate>
-      <description><![CDATA[Tokenize Physical and #Digital Assets Unlock Fractional Ownership and Liquidity
-by @antgrasso
-
-#Innovation #EmergingTech #Technology https://t.co/Xw3yFPIYIC
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 89]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>@petergyang We're taking a look!</title>
-      <link>https://x.com/noahzweben/status/2046638495947735209</link>
-      <guid isPermaLink="false">2046638495947735209</guid>
-      <pubDate>Tue, 21 Apr 2026 17:13:36 +0000</pubDate>
-      <description><![CDATA[@petergyang We're taking a look!
-
----
-@noahzweben | ❤️ 1 | 🔁 0 | 💬 0 | 👁 29]]></description>
-      <author>@noahzweben</author>
-    </item>
-    <item>
-      <title>RT @nomadicai: The future of computer vision is agentic.
-
-1/ We built Nomadic around a gap we kept s...</title>
-      <link>https://x.com/JeffDean/status/2046638377278242978</link>
-      <guid isPermaLink="false">2046638377278242978</guid>
-      <pubDate>Tue, 21 Apr 2026 17:13:08 +0000</pubDate>
-      <description><![CDATA[RT @nomadicai: The future of computer vision is agentic.
-
-1/ We built Nomadic around a gap we kept seeing in video understanding: VLMs gene…
-
----
-@JeffDean | ❤️ 0 | 🔁 7 | 💬 0 | 👁 4]]></description>
-      <author>@JeffDean</author>
-    </item>
-    <item>
-      <title>Agent-World
-
-Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
-
-paper...</title>
-      <link>https://x.com/_akhaliq/status/2046638236450054155</link>
-      <guid isPermaLink="false">2046638236450054155</guid>
-      <pubDate>Tue, 21 Apr 2026 17:12:34 +0000</pubDate>
-      <description><![CDATA[Agent-World
-
-Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
-
-paper: https://t.co/H7xNRtOfjw https://t.co/mHbHhYAPMf
-
----
-@_akhaliq | ❤️ 6 | 🔁 0 | 💬 1 | 👁 918]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Those Slavic genes are super powerful.</title>
-      <link>https://x.com/tunguz/status/2046635854345445800</link>
-      <guid isPermaLink="false">2046635854345445800</guid>
-      <pubDate>Tue, 21 Apr 2026 17:03:06 +0000</pubDate>
-      <description><![CDATA[Those Slavic genes are super powerful.
-
----
-@tunguz | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1875]]></description>
-      <author>@tunguz</author>
+@danshipper | ❤️ 16 | 🔁 7 | 💬 1 | 👁 3452]]></description>
+      <author>@danshipper</author>
     </item>
   </channel>
 </rss>
