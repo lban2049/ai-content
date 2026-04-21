@@ -5,165 +5,242 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:30:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>This is not a screenshot. https://t.co/WU8clgJQMa</title>
-      <link>https://x.com/OpenAI/status/2046589828918317155</link>
-      <guid isPermaLink="false">2046589828918317155</guid>
-      <pubDate>Tue, 21 Apr 2026 14:00:13 +0000</pubDate>
-      <description><![CDATA[This is not a screenshot. https://t.co/WU8clgJQMa
+      <title>My next guest Ryan (VP @mercury) 2x'd his productivity by building a second brain in Claude Code tra...</title>
+      <link>https://x.com/petergyang/status/2046597450279125132</link>
+      <guid isPermaLink="false">2046597450279125132</guid>
+      <pubDate>Tue, 21 Apr 2026 14:30:30 +0000</pubDate>
+      <description><![CDATA[My next guest Ryan (VP @mercury) 2x'd his productivity by building a second brain in Claude Code trained on 5 years of work history.
+
+It runs locally and gets better every day.
+
+The diagram below looks complicated but I asked him to break down exactly how it works.
+
+📌 Subscribe to get our full episode tmr: https://t.co/1C6pbWzPYn
 
 ---
-@OpenAI | ❤️ 220 | 🔁 17 | 💬 41 | 👁 3438]]></description>
-      <author>@OpenAI</author>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>Events that have a 1 in 1 googolplex chance of happening: https://t.co/O2K2FafttP</title>
-      <link>https://x.com/binance/status/2046589810270220786</link>
-      <guid isPermaLink="false">2046589810270220786</guid>
-      <pubDate>Tue, 21 Apr 2026 14:00:09 +0000</pubDate>
-      <description><![CDATA[Events that have a 1 in 1 googolplex chance of happening: https://t.co/O2K2FafttP
+      <title>Interestingly the failure of Bali is one of LACK of regulation
+
+Another extreme is Portugal where bu...</title>
+      <link>https://x.com/levelsio/status/2046597370352185742</link>
+      <guid isPermaLink="false">2046597370352185742</guid>
+      <pubDate>Tue, 21 Apr 2026 14:30:11 +0000</pubDate>
+      <description><![CDATA[Interestingly the failure of Bali is one of LACK of regulation
+
+Another extreme is Portugal where building new homes is kept close to impossible, but as a benefit of that you have clean unrept nature without any of this
+
+The balance would be somewhere in the middle of Bali's lack of regulation and Portuguese/European over-regulation
+
+Sane regulation
+
+https://t.co/IqrIt913h4
 
 ---
-@binance | ❤️ 9 | 🔁 0 | 💬 7 | 👁 811]]></description>
-      <author>@binance</author>
+@levelsio | ❤️ 0 | 🔁 0 | 💬 0 | 👁 87]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>Having a 20-agent system is a million times more powerful than 100 agents working in silos. 
-
-Last n...</title>
-      <link>https://x.com/alliekmiller/status/2046588965457711274</link>
-      <guid isPermaLink="false">2046588965457711274</guid>
-      <pubDate>Tue, 21 Apr 2026 13:56:47 +0000</pubDate>
-      <description><![CDATA[Having a 20-agent system is a million times more powerful than 100 agents working in silos. 
-
-Last night, I stayed up way too late fixing and improving my digital workforce for my AI Agent Mastermind program but here are a few of the improvements I made ⬇️ 
-
-- the hub and spoke model is definitely key but orchestration and documentation are the actual unlock; I gave my chief of staff (Simon) an assistant (Toby) and Toby handles the paperwork and notes and governance and reporting the daily standup 
-
-- Claude kept getting confused with the word “agent” because everything is an agent so now I can refer to it as an AI CoS (Simon) with a named assistant (Toby), then under that is 6 Avengers (named after the Friends characters for ease), then under each Avenger is a set of 2-5 sidekicks (named by the task they execute), then if they need to create temporary parallelism or fanouts, they spawn “civilians” which are unnamed with no permanent file.  
-
-- Moved from 5 Avengers to 6 for better task delineation (sorry Phoebe, you should have always been here! That’s my b! Might even bring in Gunther, who knows!)
-
-- Added tighter spawning rules (see image) and now allow for Simon and Toby to also spawn “civilians” 
-
-- Added better post tool use to improve the documentation process 
-
-- Added that Toby is keeping track of the historical team tasks to see if there are common issues to fix or promotions to make 
-
-- Added an autonomy boundaries document to keep track of system-wide tool use 
-
-- Changed civilians and sidekicks to use Haiku instead of Sonnet (will see if performance degrades significantly and might change back)
-
-- Improved shared external memory process because that was a dang mess 
-
-- Also built out a parallel researcher with the same sidekick/civilian model to improve the speed of my research and it works like a charm 
-
-————————
-
-2026 agent capabilities are, in fact, insane. 
-
-Will be interesting to teach hundreds of people how to do this.
-
-(You could probably take this tweet and image and ask Claude to start it for you - let me know how it goes.)
+      <title>好机会帮转</title>
+      <link>https://x.com/Jason_Young1231/status/2046596912082821303</link>
+      <guid isPermaLink="false">2046596912082821303</guid>
+      <pubDate>Tue, 21 Apr 2026 14:28:22 +0000</pubDate>
+      <description><![CDATA[好机会帮转
 
 ---
-@alliekmiller | ❤️ 3 | 🔁 1 | 💬 2 | 👁 206]]></description>
-      <author>@alliekmiller</author>
+@Jason_Young1231 | ❤️ 1 | 🔁 0 | 💬 0 | 👁 16]]></description>
+      <author>@Jason_Young1231</author>
     </item>
     <item>
-      <title>@petergyang Welcome to token anxiety</title>
-      <link>https://x.com/nikunj/status/2046588828992102708</link>
-      <guid isPermaLink="false">2046588828992102708</guid>
-      <pubDate>Tue, 21 Apr 2026 13:56:15 +0000</pubDate>
-      <description><![CDATA[@petergyang Welcome to token anxiety
+      <title>🌴 Bali's trash burning that I've talked about for a decade now has finally made it unliveable
+
+As al...</title>
+      <link>https://x.com/levelsio/status/2046595686016164197</link>
+      <guid isPermaLink="false">2046595686016164197</guid>
+      <pubDate>Tue, 21 Apr 2026 14:23:30 +0000</pubDate>
+      <description><![CDATA[🌴 Bali's trash burning that I've talked about for a decade now has finally made it unliveable
+
+As always people said I was exaggerating: &quot;it's not that bad&quot;
+
+Fast forward to 2026 and Bali is now a dirty polluted island with perpetual thick toxic smoke of burning plastics and trash littered everywhere
+
+And this time, that's not me saying this, it's the Balinese people
 
 ---
-@nikunj | ❤️ 0 | 🔁 0 | 💬 0 | 👁 12]]></description>
-      <author>@nikunj</author>
+@levelsio | ❤️ 26 | 🔁 0 | 💬 11 | 👁 2935]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>Jensen’s daughter BTW.</title>
-      <link>https://x.com/tunguz/status/2046588064961560635</link>
-      <guid isPermaLink="false">2046588064961560635</guid>
-      <pubDate>Tue, 21 Apr 2026 13:53:13 +0000</pubDate>
-      <description><![CDATA[Jensen’s daughter BTW.
+      <title>LoopX: #AI-Powered Situational Awareness for Safer Mining Operations
+via @WevolverApp
+ 
+#EmergingTec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046595591619195031</link>
+      <guid isPermaLink="false">2046595591619195031</guid>
+      <pubDate>Tue, 21 Apr 2026 14:23:07 +0000</pubDate>
+      <description><![CDATA[LoopX: #AI-Powered Situational Awareness for Safer Mining Operations
+via @WevolverApp
+ 
+#EmergingTech #Technology #Innovation #Tech https://t.co/ThsjFe3HOb
 
 ---
-@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 556]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>One of these days we’ll get a GPT-X.Y that you could prompt with “Run my life. Make no mistakes.” an...</title>
-      <link>https://x.com/tunguz/status/2046587541327958522</link>
-      <guid isPermaLink="false">2046587541327958522</guid>
-      <pubDate>Tue, 21 Apr 2026 13:51:08 +0000</pubDate>
-      <description><![CDATA[One of these days we’ll get a GPT-X.Y that you could prompt with “Run my life. Make no mistakes.” and it will run indefinitely for the rest of your life.
-
----
-@tunguz | ❤️ 6 | 🔁 0 | 💬 1 | 👁 530]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>郭宇的经历证明：
-
-有钱不一定快乐
-创作让笑容开怀</title>
-      <link>https://x.com/lifesinger/status/2046586699304808486</link>
-      <guid isPermaLink="false">2046586699304808486</guid>
-      <pubDate>Tue, 21 Apr 2026 13:47:47 +0000</pubDate>
-      <description><![CDATA[郭宇的经历证明：
-
-有钱不一定快乐
-创作让笑容开怀
-
----
-@lifesinger | ❤️ 4 | 🔁 0 | 💬 1 | 👁 382]]></description>
-      <author>@lifesinger</author>
-    </item>
-    <item>
-      <title>@turingou 太厉害了。好玩。</title>
-      <link>https://x.com/lifesinger/status/2046586162450665619</link>
-      <guid isPermaLink="false">2046586162450665619</guid>
-      <pubDate>Tue, 21 Apr 2026 13:45:39 +0000</pubDate>
-      <description><![CDATA[@turingou 太厉害了。好玩。
-
----
-@lifesinger | ❤️ 0 | 🔁 0 | 💬 0 | 👁 227]]></description>
-      <author>@lifesinger</author>
-    </item>
-    <item>
-      <title>Create Dashboards with #AI
-by @ingliguori
-
-#MachineLearning #ArtificialIntelligence #ML https://t.co...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046586050068217973</link>
-      <guid isPermaLink="false">2046586050068217973</guid>
-      <pubDate>Tue, 21 Apr 2026 13:45:12 +0000</pubDate>
-      <description><![CDATA[Create Dashboards with #AI
-by @ingliguori
-
-#MachineLearning #ArtificialIntelligence #ML https://t.co/60poXyrbcA
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 128]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 71]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @HuggingPapers: Tencent just released MegaStyle on Hugging Face
-
-A 1.4M image style dataset featu...</title>
-      <link>https://x.com/_akhaliq/status/2046583550204428593</link>
-      <guid isPermaLink="false">2046583550204428593</guid>
-      <pubDate>Tue, 21 Apr 2026 13:35:16 +0000</pubDate>
-      <description><![CDATA[RT @HuggingPapers: Tencent just released MegaStyle on Hugging Face
-
-A 1.4M image style dataset featuring strong intra-style consistency and…
+      <title>My new aspirational car just dropped.</title>
+      <link>https://x.com/tunguz/status/2046595216186949851</link>
+      <guid isPermaLink="false">2046595216186949851</guid>
+      <pubDate>Tue, 21 Apr 2026 14:21:38 +0000</pubDate>
+      <description><![CDATA[My new aspirational car just dropped.
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
+@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 489]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>// Survey on Multi-Agent Systems //
+
+The paper traces the landscape from classical paradigms (consen...</title>
+      <link>https://x.com/dair_ai/status/2046595081025802697</link>
+      <guid isPermaLink="false">2046595081025802697</guid>
+      <pubDate>Tue, 21 Apr 2026 14:21:05 +0000</pubDate>
+      <description><![CDATA[// Survey on Multi-Agent Systems //
+
+The paper traces the landscape from classical paradigms (consensus, distributed control, swarm intelligence, cooperative learning) to foundation-model-enabled MAS (LLM-based planning, role specialization, task decomposition, multi-modal coordination).
+
+It highlights the hard open problems that neither camp has solved on its own: scalability in heterogeneous systems, alignment across agent collectives, efficient knowledge transfer, and real-time adaptation.
+
+Paper: https://t.co/FhDcRjn9Km
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+
+---
+@dair_ai | ❤️ 5 | 🔁 2 | 💬 1 | 👁 352]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>🇺🇸🇺🇸</title>
+      <link>https://x.com/elonmusk/status/2046594456141365724</link>
+      <guid isPermaLink="false">2046594456141365724</guid>
+      <pubDate>Tue, 21 Apr 2026 14:18:36 +0000</pubDate>
+      <description><![CDATA[🇺🇸🇺🇸
+
+---
+@elonmusk | ❤️ 5484 | 🔁 672 | 💬 890 | 👁 368860]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>I let Codex babysit my PRs so I could sleep last night https://t.co/MeJxSxe8PM</title>
+      <link>https://x.com/nickbaumann_/status/2046593498103857368</link>
+      <guid isPermaLink="false">2046593498103857368</guid>
+      <pubDate>Tue, 21 Apr 2026 14:14:48 +0000</pubDate>
+      <description><![CDATA[I let Codex babysit my PRs so I could sleep last night https://t.co/MeJxSxe8PM
+
+---
+@nickbaumann_ | ❤️ 14 | 🔁 0 | 💬 1 | 👁 848]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>I don't get it, if it's on bypass permissions why is it still asking me for permissions? https://t.c...</title>
+      <link>https://x.com/petergyang/status/2046592842152505767</link>
+      <guid isPermaLink="false">2046592842152505767</guid>
+      <pubDate>Tue, 21 Apr 2026 14:12:12 +0000</pubDate>
+      <description><![CDATA[I don't get it, if it's on bypass permissions why is it still asking me for permissions? https://t.co/DasoKj0Zv5
+
+---
+@petergyang | ❤️ 6 | 🔁 0 | 💬 5 | 👁 1402]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>Why did I name my chief of staff Simon? 
+
+Great question! 
+
+- I wanted a name that was two syllables...</title>
+      <link>https://x.com/alliekmiller/status/2046591879806861502</link>
+      <guid isPermaLink="false">2046591879806861502</guid>
+      <pubDate>Tue, 21 Apr 2026 14:08:22 +0000</pubDate>
+      <description><![CDATA[Why did I name my chief of staff Simon? 
+
+Great question! 
+
+- I wanted a name that was two syllables long, so it was fast enough to say but long enough that it was easier to hear. 
+
+- I wanted a name that was very unlikely to be misspelled by Wispr Flow and Siri. 
+
+- I wanted a name that, if I whispered it, my dictation tools could still pick it up. 
+
+- I wanted a name that is not as common (ex:  John, Sam, Sarah, Laura) so it’s less likely to come up in client meetings.
+
+- I wanted a name that is not (yet) on my team. If I were to hire a Simon, I would change the name of my Chief of Staff (likely to Pascal).
+
+- I wanted a name that didn't sound like something else, and although 'Simon' sounds a little bit like 'assignment', it hasn't been an issue thus far. 
+
+- I was going to name it something funny like Waffle, but then realized I probably wouldn't listen to its advice as openly.
+
+---
+@alliekmiller | ❤️ 1 | 🔁 0 | 💬 0 | 👁 343]]></description>
+      <author>@alliekmiller</author>
+    </item>
+    <item>
+      <title>AI subscriptions to claude or chatgpt are going to be like data plans
+
+this is a good move:</title>
+      <link>https://x.com/danshipper/status/2046591350225727929</link>
+      <guid isPermaLink="false">2046591350225727929</guid>
+      <pubDate>Tue, 21 Apr 2026 14:06:16 +0000</pubDate>
+      <description><![CDATA[AI subscriptions to claude or chatgpt are going to be like data plans
+
+this is a good move:
+
+---
+@danshipper | ❤️ 12 | 🔁 0 | 💬 3 | 👁 1469]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>let's gooooooooo</title>
+      <link>https://x.com/danshipper/status/2046591222924320965</link>
+      <guid isPermaLink="false">2046591222924320965</guid>
+      <pubDate>Tue, 21 Apr 2026 14:05:46 +0000</pubDate>
+      <description><![CDATA[let's gooooooooo
+
+---
+@danshipper | ❤️ 24 | 🔁 1 | 💬 2 | 👁 3420]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>The worst feeling is waking up assuming your agents built something but they actually got stuck on a...</title>
+      <link>https://x.com/petergyang/status/2046591086555271660</link>
+      <guid isPermaLink="false">2046591086555271660</guid>
+      <pubDate>Tue, 21 Apr 2026 14:05:13 +0000</pubDate>
+      <description><![CDATA[The worst feeling is waking up assuming your agents built something but they actually got stuck on a simple permission check.
+
+---
+@petergyang | ❤️ 3 | 🔁 0 | 💬 2 | 👁 539]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: How Do You Solve #DataAnalytics Problem?
+by @Python_Dv
+
+#DataScience #BigData ht...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046590566155129216</link>
+      <guid isPermaLink="false">2046590566155129216</guid>
+      <pubDate>Tue, 21 Apr 2026 14:03:09 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: How Do You Solve #DataAnalytics Problem?
+by @Python_Dv
+
+#DataScience #BigData https://t.co/tCUxXmY2qD
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
