@@ -5,254 +5,128 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 20:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 20:31:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: How to #Automate Your #Warehouse with #Robotics
-by @antgrasso
-
-#Robots #RPA #Art...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046680490430644320</link>
-      <guid isPermaLink="false">2046680490430644320</guid>
-      <pubDate>Tue, 21 Apr 2026 20:00:29 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: How to #Automate Your #Warehouse with #Robotics
-by @antgrasso
-
-#Robots #RPA #ArtificialIntelligence #Innovation #Techno…
+      <title>RT @sundarpichai: We are launching two powerful updates to Deep Research in the Gemini API, now with...</title>
+      <link>https://x.com/demishassabis/status/2046688013103882620</link>
+      <guid isPermaLink="false">2046688013103882620</guid>
+      <pubDate>Tue, 21 Apr 2026 20:30:22 +0000</pubDate>
+      <description><![CDATA[RT @sundarpichai: We are launching two powerful updates to Deep Research in the Gemini API, now with better quality, MCP support, and nativ…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+@demishassabis | ❤️ 0 | 🔁 234 | 💬 0 | 👁 0]]></description>
+      <author>@demishassabis</author>
+    </item>
+    <item>
+      <title>Since this is blowing up on hacker news.
+
+Boris said that CLI usage is allowed. Thus we added suppor...</title>
+      <link>https://x.com/steipete/status/2046685973233189375</link>
+      <guid isPermaLink="false">2046685973233189375</guid>
+      <pubDate>Tue, 21 Apr 2026 20:22:16 +0000</pubDate>
+      <description><![CDATA[Since this is blowing up on hacker news.
+
+Boris said that CLI usage is allowed. Thus we added support for it, only to find out that we are still blocked there. It is trival to work around with a few renames, but I don't wanna play that game. So it's in a weird limbo where cli use should work in theory but doesn’t in practice.
+
+https://t.co/KKIh7KNaCP
+
+---
+@steipete | ❤️ 98 | 🔁 9 | 💬 12 | 👁 7046]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>25 world-class AI products, free for a full year
+
+I've partnered with @Cursor_ai, @GoogleAI, @Notion...</title>
+      <link>https://x.com/lennysan/status/2046685688763154800</link>
+      <guid isPermaLink="false">2046685688763154800</guid>
+      <pubDate>Tue, 21 Apr 2026 20:21:08 +0000</pubDate>
+      <description><![CDATA[25 world-class AI products, free for a full year
+
+I've partnered with @Cursor_ai, @GoogleAI, @NotionHQ, @Fin_ai, @Supabase, and @Gumloop to give my paid subscribers a free year of their tools.
+
+That's on top of the 19 premium AI products you already get free as a paid subscriber, including @Replit, @Lovable, @FactoryAI, @ManusAI, @Railway, @GammaApp, @Canva, @n8n_io, @Linear, @PostHog, and more.
+
+25 of the hottest, most important, and most beautifully crafted products in the world, free with your Lenny’s Newsletter subscription. 
+
+This all sounds way too good to be true, but it isn’t.
+
+→ Already a paid subscriber? Grab your free products here: https://t.co/FmhnTSGaoM
+→ Not yet a subscriber? Learn more here: https://t.co/V72lLpgwuM
+
+Why am I doing this: There’s a growing divide—in terms of career opportunities, financial outcomes, and how much you enjoy your work—between the people who benefit from the transformation we’re living through and those who get left behind. I want to make sure you’re in the first group. Join us: https://t.co/V72lLpgwuM
+
+---
+@lennysan | ❤️ 8 | 🔁 0 | 💬 3 | 👁 942]]></description>
+      <author>@lennysan</author>
+    </item>
+    <item>
+      <title>Wind Power Returns: Cargo Ships Harness the Breeze Once Again
+by @QuantumTech_X
+ 
+#Sustainability #R...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046685206501871664</link>
+      <guid isPermaLink="false">2046685206501871664</guid>
+      <pubDate>Tue, 21 Apr 2026 20:19:13 +0000</pubDate>
+      <description><![CDATA[Wind Power Returns: Cargo Ships Harness the Breeze Once Again
+by @QuantumTech_X
+ 
+#Sustainability #RenewableEnergy #CleanEnergy https://t.co/8j35EcFCNN
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 114]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>#Binance is building toward 3 billion users with a vision for an everyday financial app.
+      <title>RT @omarsar0: We are entering an extremely exciting era for open-weight models.
 
-As mobile ...</title>
-      <link>https://x.com/binance/status/2046680477331837014</link>
-      <guid isPermaLink="false">2046680477331837014</guid>
-      <pubDate>Tue, 21 Apr 2026 20:00:25 +0000</pubDate>
-      <description><![CDATA[#Binance is building toward 3 billion users with a vision for an everyday financial app.
+Kimi K2.6 now feels...</title>
+      <link>https://x.com/dair_ai/status/2046682856014180500</link>
+      <guid isPermaLink="false">2046682856014180500</guid>
+      <pubDate>Tue, 21 Apr 2026 20:09:53 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: We are entering an extremely exciting era for open-weight models.
 
-As mobile access expands worldwide, a more integrated financial experience can help close longstanding gaps in financial access. 
+Kimi K2.6 now feels like a top agentic model.
 
-See how Binance's leaders are thinking about the next phase of growth. 
-→ https://t.co/zERS10gX0x
+I took it f…
 
 ---
-@binance | ❤️ 15 | 🔁 1 | 💬 6 | 👁 619]]></description>
-      <author>@binance</author>
+@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
     </item>
     <item>
-      <title>do not miss. one of the INSANE gets courtesy of @osanseviero and the @GoogleDeepMind london avengers...</title>
-      <link>https://x.com/swyx/status/2046680414836715655</link>
-      <guid isPermaLink="false">2046680414836715655</guid>
-      <pubDate>Tue, 21 Apr 2026 20:00:11 +0000</pubDate>
-      <description><![CDATA[do not miss. one of the INSANE gets courtesy of @osanseviero and the @GoogleDeepMind london avengers. 
-
-if you always felt out of the loop on the SOTA on Imagegen, today or otherwise, this is the best 40 minutes you will find on the internet, period.
+      <title>Gabe is incredibly talented and a great leader. Happy to see this, but not surprised.</title>
+      <link>https://x.com/sama/status/2046682384251429279</link>
+      <guid isPermaLink="false">2046682384251429279</guid>
+      <pubDate>Tue, 21 Apr 2026 20:08:00 +0000</pubDate>
+      <description><![CDATA[Gabe is incredibly talented and a great leader. Happy to see this, but not surprised.
 
 ---
-@swyx | ❤️ 1 | 🔁 0 | 💬 0 | 👁 100]]></description>
-      <author>@swyx</author>
+@sama | ❤️ 616 | 🔁 17 | 💬 92 | 👁 75963]]></description>
+      <author>@sama</author>
     </item>
     <item>
-      <title>My favorite military drone company is Paris-based Harmattan (https://t.co/pYjGM1T1Fh). They make mor...</title>
-      <link>https://x.com/fchollet/status/2046678381434179749</link>
-      <guid isPermaLink="false">2046678381434179749</guid>
-      <pubDate>Tue, 21 Apr 2026 19:52:06 +0000</pubDate>
-      <description><![CDATA[My favorite military drone company is Paris-based Harmattan (https://t.co/pYjGM1T1Fh). They make more than just quadcopters.
+      <title>RT @jasoncrawford: On May 4 in SF, I'll be speaking on “Human Agency in the Intelligence Age” at @so...</title>
+      <link>https://x.com/adityaag/status/2046682296938570087</link>
+      <guid isPermaLink="false">2046682296938570087</guid>
+      <pubDate>Tue, 21 Apr 2026 20:07:39 +0000</pubDate>
+      <description><![CDATA[RT @jasoncrawford: On May 4 in SF, I'll be speaking on “Human Agency in the Intelligence Age” at @southpkcommons. What can we learn from th…
 
 ---
-@fchollet | ❤️ 2 | 🔁 0 | 💬 0 | 👁 1048]]></description>
-      <author>@fchollet</author>
+@adityaag | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@adityaag</author>
     </item>
     <item>
-      <title>RT @MIT_CSAIL: Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of Interna...</title>
-      <link>https://x.com/MIT_CSAIL/status/2046678101397004556</link>
-      <guid isPermaLink="false">2046678101397004556</guid>
-      <pubDate>Tue, 21 Apr 2026 19:50:59 +0000</pubDate>
-      <description><![CDATA[RT @MIT_CSAIL: Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Olympiad problems &amp;amp; solutions 🌍
-
-Ma…
+      <title>If you put your goals in the hands of RPs who can execute those goals well, and if you make it clear...</title>
+      <link>https://x.com/RayDalio/status/2046680850863935973</link>
+      <guid isPermaLink="false">2046680850863935973</guid>
+      <pubDate>Tue, 21 Apr 2026 20:01:54 +0000</pubDate>
+      <description><![CDATA[If you put your goals in the hands of RPs who can execute those goals well, and if you make it clear to them that they are personally responsible for achieving those goals and doing the tasks, they should produce excellent results. #principleoftheday https://t.co/aqLych5mua
 
 ---
-@MIT_CSAIL | ❤️ 0 | 🔁 125 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
-    </item>
-    <item>
-      <title>RT @StockMKTNewz: Mark Zuckerberg and Meta Platforms $META just sent a memo to employees saying
-
-Met...</title>
-      <link>https://x.com/GaryMarcus/status/2046678052298498362</link>
-      <guid isPermaLink="false">2046678052298498362</guid>
-      <pubDate>Tue, 21 Apr 2026 19:50:47 +0000</pubDate>
-      <description><![CDATA[RT @StockMKTNewz: Mark Zuckerberg and Meta Platforms $META just sent a memo to employees saying
-
-Meta Platforms is installing a new trackin…
-
----
-@GaryMarcus | ❤️ 0 | 🔁 312 | 💬 0 | 👁 0]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>The very first quadcopter prototype was the Breguet-Richet Gyroplane No. 1, created in 1907 by Bregu...</title>
-      <link>https://x.com/fchollet/status/2046677844374560899</link>
-      <guid isPermaLink="false">2046677844374560899</guid>
-      <pubDate>Tue, 21 Apr 2026 19:49:58 +0000</pubDate>
-      <description><![CDATA[The very first quadcopter prototype was the Breguet-Richet Gyroplane No. 1, created in 1907 by Breguet Aviation in France.
-
-The first consumer quadcopter drone was the Parrot AR.Drone, released in 2010 by French company Parrot SA. It was also the first commercially successful mass-market drone, and the first time the word &quot;drone&quot; was used for a consumer product (previously &quot;drone&quot; only referred to unmanned military aircraft in an airplane form factor).
-
-This was the starting point of the quadcopter drone era, which is still unfolding.
-
----
-@fchollet | ❤️ 12 | 🔁 1 | 💬 5 | 👁 1926]]></description>
-      <author>@fchollet</author>
-    </item>
-    <item>
-      <title>Escaping Pilot Purgatory: A Framework For Scaling Enterprise #AI
-by Jim Tunnessen @Forbes
-
-Learn mor...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046677606586552385</link>
-      <guid isPermaLink="false">2046677606586552385</guid>
-      <pubDate>Tue, 21 Apr 2026 19:49:01 +0000</pubDate>
-      <description><![CDATA[Escaping Pilot Purgatory: A Framework For Scaling Enterprise #AI
-by Jim Tunnessen @Forbes
-
-Learn more: https://t.co/gzbKImLioZ
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/Oi1rHd8PVK
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 94]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>网络梗图 https://t.co/zsD9De6ZId</title>
-      <link>https://x.com/dotey/status/2046676994373325138</link>
-      <guid isPermaLink="false">2046676994373325138</guid>
-      <pubDate>Tue, 21 Apr 2026 19:46:35 +0000</pubDate>
-      <description><![CDATA[网络梗图 https://t.co/zsD9De6ZId
-
----
-@dotey | ❤️ 0 | 🔁 0 | 💬 1 | 👁 258]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>Replit Security Center</title>
-      <link>https://x.com/amasad/status/2046676787821007298</link>
-      <guid isPermaLink="false">2046676787821007298</guid>
-      <pubDate>Tue, 21 Apr 2026 19:45:46 +0000</pubDate>
-      <description><![CDATA[Replit Security Center
-
----
-@amasad | ❤️ 10 | 🔁 1 | 💬 3 | 👁 2082]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>OpenAI 发布了 ChatGPT Images 2.0，图片生成能力全面升级，今天起对所有 ChatGPT 和 Codex 用户开放。
-
-这次升级最直观的变化是&quot;听得懂复杂指令了&quo...</title>
-      <link>https://x.com/dotey/status/2046676083714478150</link>
-      <guid isPermaLink="false">2046676083714478150</guid>
-      <pubDate>Tue, 21 Apr 2026 19:42:58 +0000</pubDate>
-      <description><![CDATA[OpenAI 发布了 ChatGPT Images 2.0，图片生成能力全面升级，今天起对所有 ChatGPT 和 Codex 用户开放。
-
-这次升级最直观的变化是&quot;听得懂复杂指令了&quot;。以前用 AI 生图，稍微复杂一点的构图就容易翻车，尤其是图里带文字、UI 界面、密集排版这些场景，基本靠运气。Images 2.0 在这些细节上进步明显，小字、图标、界面元素都能比较准确地渲染出来，分辨率最高支持 2K，宽高比从 3:1 到 1:3 都行，做横幅、海报、社交图片可以直接出成品。
-
-另一个实用的提升是多语言文字生成。以前让 AI 在图里写中文、日文、阿拉伯文，错字乱码是常态。OpenAI 说 2.0 能生成语义连贯的非英文文本，做中文海报或多语言物料的人可以试试看实际效果如何。
-
-最有意思的是&quot;会思考的图片生成&quot;。在 ChatGPT 里选择 thinking 模式后，Images 2.0 可以先联网搜索实时信息，一个提示词生成多张不同风格的图，还能自检输出结果，甚至能生成可扫描的二维码。这个能力目前限 Plus、Pro 和 Business 用户使用，Enterprise 还没上线。
-
-底层模型 gpt-image-2 同步开放了 API 接口，知识截止到 2025 年 12 月。移动端用户需要更新到最新版本。
-
-体验地址：https://t.co/x7pUHEXs6s
-
----
-@dotey | ❤️ 4 | 🔁 1 | 💬 1 | 👁 904]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>Generated with GPT Image 2 
-
-(not a real image) https://t.co/Ee9IvPmGAC</title>
-      <link>https://x.com/nickbaumann_/status/2046675529001214094</link>
-      <guid isPermaLink="false">2046675529001214094</guid>
-      <pubDate>Tue, 21 Apr 2026 19:40:46 +0000</pubDate>
-      <description><![CDATA[Generated with GPT Image 2 
-
-(not a real image) https://t.co/Ee9IvPmGAC
-
----
-@nickbaumann_ | ❤️ 2 | 🔁 0 | 💬 1 | 👁 320]]></description>
-      <author>@nickbaumann_</author>
-    </item>
-    <item>
-      <title>Legal stuff:
-
-Coinbase Financial Markets is a registered futures commission merchant with the CFTC a...</title>
-      <link>https://x.com/coinbase/status/2046674433314820392</link>
-      <guid isPermaLink="false">2046674433314820392</guid>
-      <pubDate>Tue, 21 Apr 2026 19:36:24 +0000</pubDate>
-      <description><![CDATA[Legal stuff:
-
-Coinbase Financial Markets is a registered futures commission merchant with the CFTC and is a member of the NFA.  Not investment advice or recommendation to trade a particular contract or to employ a particular strategy. Prediction contracts are high-risk; you could lose your entire investment. Payouts depend on specific events.
-
----
-@coinbase | ❤️ 10 | 🔁 4 | 💬 2 | 👁 10253]]></description>
-      <author>@coinbase</author>
-    </item>
-    <item>
-      <title>The prediction market for Apple announcing a foldable iPhone before 2027 is at 82% and currently fal...</title>
-      <link>https://x.com/coinbase/status/2046674421650481627</link>
-      <guid isPermaLink="false">2046674421650481627</guid>
-      <pubDate>Tue, 21 Apr 2026 19:36:22 +0000</pubDate>
-      <description><![CDATA[The prediction market for Apple announcing a foldable iPhone before 2027 is at 82% and currently falling, with traders already rethinking what Apple ships next.
-
-Learn more ↓
-https://t.co/pmJ3VDzDev
-
----
-@coinbase | ❤️ 16 | 🔁 5 | 💬 5 | 👁 20424]]></description>
-      <author>@coinbase</author>
-    </item>
-    <item>
-      <title>New CEO, new questions.
-
-Chances of Apple announcing a foldable iPhone are down 8% the day after Tim...</title>
-      <link>https://x.com/coinbase/status/2046674410082570679</link>
-      <guid isPermaLink="false">2046674410082570679</guid>
-      <pubDate>Tue, 21 Apr 2026 19:36:19 +0000</pubDate>
-      <description><![CDATA[New CEO, new questions.
-
-Chances of Apple announcing a foldable iPhone are down 8% the day after Tim Cook steps down.
-
----
-@coinbase | ❤️ 108 | 🔁 11 | 💬 23 | 👁 16829]]></description>
-      <author>@coinbase</author>
-    </item>
-    <item>
-      <title>Google Cloud Partner of the year 🤠</title>
-      <link>https://x.com/amasad/status/2046674042871325091</link>
-      <guid isPermaLink="false">2046674042871325091</guid>
-      <pubDate>Tue, 21 Apr 2026 19:34:51 +0000</pubDate>
-      <description><![CDATA[Google Cloud Partner of the year 🤠
-
----
-@amasad | ❤️ 58 | 🔁 3 | 💬 7 | 👁 5521]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>官方一直都知道“稳稳地接住你”这梗😂 https://t.co/EkMusN4jMb</title>
-      <link>https://x.com/dotey/status/2046673159940689992</link>
-      <guid isPermaLink="false">2046673159940689992</guid>
-      <pubDate>Tue, 21 Apr 2026 19:31:21 +0000</pubDate>
-      <description><![CDATA[官方一直都知道“稳稳地接住你”这梗😂 https://t.co/EkMusN4jMb
-
----
-@dotey | ❤️ 4 | 🔁 0 | 💬 2 | 👁 1237]]></description>
-      <author>@dotey</author>
+@RayDalio | ❤️ 79 | 🔁 12 | 💬 13 | 👁 13858]]></description>
+      <author>@RayDalio</author>
     </item>
   </channel>
 </rss>
