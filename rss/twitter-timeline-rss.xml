@@ -5,138 +5,250 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 13:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:31:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @tunguz: What string theory has shown me was that it's possible to have an extremely high IQ AND ...</title>
-      <link>https://x.com/tunguz/status/2046574836986638453</link>
-      <guid isPermaLink="false">2046574836986638453</guid>
-      <pubDate>Tue, 21 Apr 2026 13:00:39 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: What string theory has shown me was that it's possible to have an extremely high IQ AND be a complete idiot. 
+      <title>RT @AYi_AInotes: 全网都在吹的LeCun新论文，90%的解读都是错的。
 
-That inisght has…
+他们说生成式AI是死路，说过去三年花的几百亿全白费了，说15M参数的小模型就能吊打万亿大模型。
+
+这些全是营销...</title>
+      <link>https://x.com/ylecun/status/2046582256043434360</link>
+      <guid isPermaLink="false">2046582256043434360</guid>
+      <pubDate>Tue, 21 Apr 2026 13:30:08 +0000</pubDate>
+      <description><![CDATA[RT @AYi_AInotes: 全网都在吹的LeCun新论文，90%的解读都是错的。
+
+他们说生成式AI是死路，说过去三年花的几百亿全白费了，说15M参数的小模型就能吊打万亿大模型。
+
+这些全是营销号的夸张，
+我觉得这篇论文的真正分量比他们吹的还要重。
+
+Yann LeCun…
 
 ---
-@tunguz | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+@ylecun | ❤️ 0 | 🔁 105 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>RT @AYi_AInotes: 这可能是今年AI圈最清醒的一条推文，
+
+Yann LeCun 是当今 AI 领域最有影响力的科学家之一，深度学习三大教父之一，2018 年图灵奖获得者，
+
+他直接怼了...</title>
+      <link>https://x.com/ylecun/status/2046582111939752164</link>
+      <guid isPermaLink="false">2046582111939752164</guid>
+      <pubDate>Tue, 21 Apr 2026 13:29:33 +0000</pubDate>
+      <description><![CDATA[RT @AYi_AInotes: 这可能是今年AI圈最清醒的一条推文，
+
+Yann LeCun 是当今 AI 领域最有影响力的科学家之一，深度学习三大教父之一，2018 年图灵奖获得者，
+
+他直接怼了Anthropic CEO Dario的著名言论，
+
+Dario说未来一到五年…
+
+---
+@ylecun | ❤️ 0 | 🔁 133 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>This is a stunning new discovery in science, challenging the “fundamental dogma” of biology. This is...</title>
+      <link>https://x.com/tunguz/status/2046581691301376074</link>
+      <guid isPermaLink="false">2046581691301376074</guid>
+      <pubDate>Tue, 21 Apr 2026 13:27:53 +0000</pubDate>
+      <description><![CDATA[This is a stunning new discovery in science, challenging the “fundamental dogma” of biology. This is the kind of non-trivial fundamental research that I had in mind that I think only GDM is capable of building upon amongst all of the top AI labs.
+
+---
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 294]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @tunguz: It’s so over.</title>
-      <link>https://x.com/tunguz/status/2046574744137338959</link>
-      <guid isPermaLink="false">2046574744137338959</guid>
-      <pubDate>Tue, 21 Apr 2026 13:00:17 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: It’s so over.
+      <title>RT @FuSheng_0306: 周末就试了几款AI“内容创作”工具——Youmind、Notebook LM、Perplexity，看看谁更胜一筹呢。
+工具筛选的前提：能直接调取网上资源，特别是Y...</title>
+      <link>https://x.com/lifesinger/status/2046580682265436564</link>
+      <guid isPermaLink="false">2046580682265436564</guid>
+      <pubDate>Tue, 21 Apr 2026 13:23:52 +0000</pubDate>
+      <description><![CDATA[RT @FuSheng_0306: 周末就试了几款AI“内容创作”工具——Youmind、Notebook LM、Perplexity，看看谁更胜一筹呢。
+工具筛选的前提：能直接调取网上资源，特别是YouTube，可以对视频内容进行分析提炼。… https://t.co/3bO…
 
 ---
-@tunguz | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
+@lifesinger | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@lifesinger</author>
     </item>
     <item>
-      <title>RT @tunguz: Startup idea: a non-totalitarian version of Palantir.
+      <title>History shows us that these conflicts don’t happen independently. They emerge as interconnected part...</title>
+      <link>https://x.com/RayDalio/status/2046577907477229874</link>
+      <guid isPermaLink="false">2046577907477229874</guid>
+      <pubDate>Tue, 21 Apr 2026 13:12:51 +0000</pubDate>
+      <description><![CDATA[History shows us that these conflicts don’t happen independently. They emerge as interconnected parts of a larger pattern — a Big Cycle involving power, economics, and shifting world orders. To understand what’s happening and the implications of the Iran war, you have to see the whole system instead of looking at just one event.
 
-Who’s building this?</title>
-      <link>https://x.com/tunguz/status/2046574726080876759</link>
-      <guid isPermaLink="false">2046574726080876759</guid>
-      <pubDate>Tue, 21 Apr 2026 13:00:12 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Startup idea: a non-totalitarian version of Palantir.
-
-Who’s building this?
+I break this down in my latest article, “The Big Thing: We Are in a World War That Isn’t Going to End Anytime Soon,” available to read here: https://t.co/OXoWz8Y3th
 
 ---
-@tunguz | ❤️ 0 | 🔁 55 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
+@RayDalio | ❤️ 70 | 🔁 11 | 💬 14 | 👁 12017]]></description>
+      <author>@RayDalio</author>
     </item>
     <item>
-      <title>RT @tunguz: I so wish Steve could have lived long enough to witness this.</title>
-      <link>https://x.com/tunguz/status/2046574709639102638</link>
-      <guid isPermaLink="false">2046574709639102638</guid>
-      <pubDate>Tue, 21 Apr 2026 13:00:08 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: I so wish Steve could have lived long enough to witness this.
+      <title>RT @Dan_Jeffries1: It's always easy to see jobs that will go away but hard to see the jobs that will...</title>
+      <link>https://x.com/ylecun/status/2046577561434464695</link>
+      <guid isPermaLink="false">2046577561434464695</guid>
+      <pubDate>Tue, 21 Apr 2026 13:11:28 +0000</pubDate>
+      <description><![CDATA[RT @Dan_Jeffries1: It's always easy to see jobs that will go away but hard to see the jobs that will get created. 
+
+Try explaining &quot;web dev…
 
 ---
-@tunguz | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
+@ylecun | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @tunguz: Europe is working on its own planned obsolescence.</title>
-      <link>https://x.com/tunguz/status/2046574671605235887</link>
-      <guid isPermaLink="false">2046574671605235887</guid>
-      <pubDate>Tue, 21 Apr 2026 12:59:59 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Europe is working on its own planned obsolescence.
+      <title>How Physical #AI and #Robotics Will Reshape Industry
+by @nvidiaomniverse
+
+#Innovation #EmergingTech ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046577470380315020</link>
+      <guid isPermaLink="false">2046577470380315020</guid>
+      <pubDate>Tue, 21 Apr 2026 13:11:07 +0000</pubDate>
+      <description><![CDATA[How Physical #AI and #Robotics Will Reshape Industry
+by @nvidiaomniverse
+
+#Innovation #EmergingTech #Tech #Technology https://t.co/5XJAPTiByF
 
 ---
-@tunguz | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 136]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @tunguz: Americans saw this and decided to build datacenters. https://t.co/EshykwnjyK</title>
-      <link>https://x.com/tunguz/status/2046574541053247631</link>
-      <guid isPermaLink="false">2046574541053247631</guid>
-      <pubDate>Tue, 21 Apr 2026 12:59:28 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Americans saw this and decided to build datacenters. https://t.co/EshykwnjyK
+      <title>餐厅厕所里的广告装饰：
+
+老婆说：“如果我同意你，我们俩就都错了。”
+
+你能反驳吗？哈哈！ https://t.co/FHxaPolC5A</title>
+      <link>https://x.com/bearliu/status/2046577209175863580</link>
+      <guid isPermaLink="false">2046577209175863580</guid>
+      <pubDate>Tue, 21 Apr 2026 13:10:04 +0000</pubDate>
+      <description><![CDATA[餐厅厕所里的广告装饰：
+
+老婆说：“如果我同意你，我们俩就都错了。”
+
+你能反驳吗？哈哈！ https://t.co/FHxaPolC5A
+
+---
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 423]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: UBTECH’s Walker S2 Takes on a Human in a Live Tennis Rally
+by @XRoboHub
+
+#Roboti...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046575940096929815</link>
+      <guid isPermaLink="false">2046575940096929815</guid>
+      <pubDate>Tue, 21 Apr 2026 13:05:02 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: UBTECH’s Walker S2 Takes on a Human in a Live Tennis Rally
+by @XRoboHub
+
+#Robotics #Engineering #ArtificialIntelligence…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>My biggest takeaway from this conversation:
+
+The funnel is not disappearing, but it is collapsing in...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046575145637097832</link>
+      <guid isPermaLink="false">2046575145637097832</guid>
+      <pubDate>Tue, 21 Apr 2026 13:01:52 +0000</pubDate>
+      <description><![CDATA[My biggest takeaway from this conversation:
+
+The funnel is not disappearing, but it is collapsing into a single interaction.
+
+Awareness, consideration, decision, all happening in one chat, in seconds.
+
+That is a very different operating model for marketing, sales, and service.
+
+Watch the full video to see how this shift is playing out in practice, and how Spoki is thinking about conversational experiences that turn messages into outcomes.
+
+What would need to change in your business for a conversation to become your primary interface with customers?
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 88]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>The real shift is this:
+
+We are moving from one-way messaging
+to two-way, outcome-driven conversatio...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046575142977851532</link>
+      <guid isPermaLink="false">2046575142977851532</guid>
+      <pubDate>Tue, 21 Apr 2026 13:01:52 +0000</pubDate>
+      <description><![CDATA[The real shift is this:
+
+We are moving from one-way messaging
+to two-way, outcome-driven conversations.
+
+That means a customer should be able to:
+
+→ ask a question
+→ get a real answer
+→ change an appointment
+→ buy a product
+→ solve the issue
+
+All inside the same thread.
+
+Not across 5 channels.
+Not after 3 handoffs.
+Not 2 days later.
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 90]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Most companies still treat customer messaging like a megaphone.
+
+Send update.
+Push campaign.
+Wait.
+
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046575136938111086</link>
+      <guid isPermaLink="false">2046575136938111086</guid>
+      <pubDate>Tue, 21 Apr 2026 13:01:50 +0000</pubDate>
+      <description><![CDATA[Most companies still treat customer messaging like a megaphone.
+
+Send update.
+Push campaign.
+Wait.
+
+But AI is changing the rules fast:
+
+The future is not better messaging.
+It is conversations that actually get things done.
+
+That is the big idea I unpacked with @GiorgioPagliara from @Spokiapp, and it has major implications for every team thinking about CX, sales, and automation.
+
+Let’s dig in.
+
+#SpokiPartner
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 2 | 👁 126]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @tunguz: Wow, California is doomed!</title>
+      <link>https://x.com/tunguz/status/2046574925041786887</link>
+      <guid isPermaLink="false">2046574925041786887</guid>
+      <pubDate>Tue, 21 Apr 2026 13:01:00 +0000</pubDate>
+      <description><![CDATA[RT @tunguz: Wow, California is doomed!
 
 ---
 @tunguz | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
       <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Inside Modern #Robot Wrists: How Timing Belts Enable Precision Multi-Axis Movement
-by @mechanical_4u...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046572186689753112</link>
-      <guid isPermaLink="false">2046572186689753112</guid>
-      <pubDate>Tue, 21 Apr 2026 12:50:07 +0000</pubDate>
-      <description><![CDATA[Inside Modern #Robot Wrists: How Timing Belts Enable Precision Multi-Axis Movement
-by @mechanical_4u
-
-#Robotics #Tech #Technology #EmergingTech #TechForGood https://t.co/x3UyfnNNKH
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 75]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @CalmCoding: @Lovable https://t.co/wmDgXBrg8G</title>
-      <link>https://x.com/steipete/status/2046569788961395042</link>
-      <guid isPermaLink="false">2046569788961395042</guid>
-      <pubDate>Tue, 21 Apr 2026 12:40:35 +0000</pubDate>
-      <description><![CDATA[RT @CalmCoding: @Lovable https://t.co/wmDgXBrg8G
-
----
-@steipete | ❤️ 0 | 🔁 21 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>Please don’t trust your chatbot for medical advice. 🙏
-
-Remember how I used to say that large languag...</title>
-      <link>https://x.com/GaryMarcus/status/2046568298020508119</link>
-      <guid isPermaLink="false">2046568298020508119</guid>
-      <pubDate>Tue, 21 Apr 2026 12:34:40 +0000</pubDate>
-      <description><![CDATA[Please don’t trust your chatbot for medical advice. 🙏
-
-Remember how I used to say that large language models are “frequently wrong, never in doubt”, and how I warned three years ago on 60 Minutes that they were purveyors of “authoritative bullshit” that should not be trusted?
-
-That’s still true – and it very much applies in medicine. 
-
-And that matters, a lot. Because a large fraction of the population has begun to turn to chatbots for medical advice.
-
-Two relevant new studies are reported today in the Washington Post, in a damning article.
-
-The first new study, published by BMJ (affiliated with the British Medical Association) in a peer reviewed journal, and entitled “Generative artificial intelligence-driven chatbots and medical misinformation: an accuracy, referencing and readability audit”, studied five popular chatbots (Gemini, DeepSeek, Meta AI, ChatGPT and Grok), about one year ago, prompting each with 10 questions about things ranging from cancer to vaccines and nutrition, in open-ended dialogues, and reporting that nearly half of the responses were highly problematic. Worse, “chatbot outputs were consistently expressed with confidence and certainty”. The responses were also filled with hallucinations and fabricated citations. 
-All of this – the hallucinations, mistakes, and overconfidence – is entirely typical of LLMs, and entirely problematic in medicine. As the authors put it, in somewhat academic language, but entirely accurately, “continued deployment without public education and oversight risks amplifying misinformation.”
-
-The second new study, published in JAMA Network Open, affiliated with the American Medical Association, called “Large Language Model Performance and Clinical Reasoning Tasks” looked at 21 frontier models across 29 questions, and reported that “despite progress, current LLMs remain limited in early diagnostic reasoning and cannot yet be relied on for unsupervised patient-facing clinical decision-making.”
-And the Post article actually only reported part of the new scientific literature on LLMs and medicines. 
-
-Two other new studies that they missed only add to the concerns*
-
-There will always be better models, but for now, and until proven otherwise, we should not take the apparent “confidence” of large language models — itself an illusion of how they are trained — to mean that we should trust large language with our lives.
-
-*Read full version including re other studies, all with links, at my newsletter Marcus on AI; you can subscribe for free.
-
----
-@GaryMarcus | ❤️ 22 | 🔁 2 | 💬 9 | 👁 1242]]></description>
-      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
