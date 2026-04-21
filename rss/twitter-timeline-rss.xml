@@ -5,61 +5,36 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:31:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>What The Best #AI Use Cases In Education Have In Common
-by @TalFrankfurt @Forbes
-
-Learn more: https:...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046543473721987394</link>
-      <guid isPermaLink="false">2046543473721987394</guid>
-      <pubDate>Tue, 21 Apr 2026 10:56:01 +0000</pubDate>
-      <description><![CDATA[What The Best #AI Use Cases In Education Have In Common
-by @TalFrankfurt @Forbes
-
-Learn more: https://t.co/cHZnSGNnVN
- 
-#ArtificialIntelligence #MachineLearning #ML https://t.co/zLJc3AtsWH
+      <title>China Builds Solar Farms on Water and Mountains, Preserving Land for Agriculture
+by @MarchUnofficial...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046549541206245705</link>
+      <guid isPermaLink="false">2046549541206245705</guid>
+      <pubDate>Tue, 21 Apr 2026 11:20:08 +0000</pubDate>
+      <description><![CDATA[China Builds Solar Farms on Water and Mountains, Preserving Land for Agriculture
+by @MarchUnofficial
+  
+#Sustainability #RenewableEnergy #CleanEnergy https://t.co/kGopgtj4qa
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 48]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 69]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>AGI will be able to comprehend European mind.</title>
-      <link>https://x.com/tunguz/status/2046540136016494730</link>
-      <guid isPermaLink="false">2046540136016494730</guid>
-      <pubDate>Tue, 21 Apr 2026 10:42:45 +0000</pubDate>
-      <description><![CDATA[AGI will be able to comprehend European mind.
+      <title>RT @Ronald_vanLoon: This ice bucket makes for a convenient source of ice cubes during the hot summer...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046544985449701462</link>
+      <guid isPermaLink="false">2046544985449701462</guid>
+      <pubDate>Tue, 21 Apr 2026 11:02:02 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: This ice bucket makes for a convenient source of ice cubes during the hot summer days
+by @IntEngineering
+  
+#Technology…
 
 ---
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 413]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>@simonw @badlogicgames I guess you're the person to ask about this?</title>
-      <link>https://x.com/jeremyphoward/status/2046537912377061471</link>
-      <guid isPermaLink="false">2046537912377061471</guid>
-      <pubDate>Tue, 21 Apr 2026 10:33:55 +0000</pubDate>
-      <description><![CDATA[@simonw @badlogicgames I guess you're the person to ask about this?
-
----
-@jeremyphoward | ❤️ 0 | 🔁 0 | 💬 1 | 👁 868]]></description>
-      <author>@jeremyphoward</author>
-    </item>
-    <item>
-      <title>Anyone know whether OpenAI officially supports the use of the `/backend-api/codex/responses` endpoin...</title>
-      <link>https://x.com/jeremyphoward/status/2046537816834965714</link>
-      <guid isPermaLink="false">2046537816834965714</guid>
-      <pubDate>Tue, 21 Apr 2026 10:33:33 +0000</pubDate>
-      <description><![CDATA[Anyone know whether OpenAI officially supports the use of the `/backend-api/codex/responses` endpoint that Pi and Opencode (IIUC) uses?
-
-It doesn't seem to be documented, and was reverse engineered by @simonw - but is now used by some popular harnesses.
-
----
-@jeremyphoward | ❤️ 5 | 🔁 0 | 💬 3 | 👁 1422]]></description>
-      <author>@jeremyphoward</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
