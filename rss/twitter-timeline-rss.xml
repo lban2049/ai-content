@@ -5,99 +5,109 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:01:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The jump from working with a chatbot to having an agent that actually helps automate a process requi...</title>
-      <link>https://x.com/levie/status/2046397816755634340</link>
-      <guid isPermaLink="false">2046397816755634340</guid>
-      <pubDate>Tue, 21 Apr 2026 01:17:14 +0000</pubDate>
-      <description><![CDATA[The jump from working with a chatbot to having an agent that actually helps automate a process requires a real amount of work. 
+      <title>我今天也刚配置了 opus-4.6，有时候写东西还是 opus 4.6 稳一些，而且省 token，但是 /model 不能选了，不过可以通过配置切换，下面是配置：
 
-Most companies will need to have dedicated people that are responsible for bringing automation to their teams, instead of leaving this up to every individual employee. Partly because the work is more technical than we imagine today, and partly because it’s just hard to do this as a side project.
+~/.claude/settin...</title>
+      <link>https://x.com/dotey/status/2046408595437191636</link>
+      <guid isPermaLink="false">2046408595437191636</guid>
+      <pubDate>Tue, 21 Apr 2026 02:00:04 +0000</pubDate>
+      <description><![CDATA[我今天也刚配置了 opus-4.6，有时候写东西还是 opus 4.6 稳一些，而且省 token，但是 /model 不能选了，不过可以通过配置切换，下面是配置：
 
-The job spec is to map out new workflows with agents, implement new systems to deploy agents, make sure the agent has all the right (up to date) context to work with, wiring up internal systems to connect to the agents, creating evals for the agents, figuring out where the human is in the loop, managing the system when there are new upgrades, helping with the change management of the existing business process, and so on.
-
-These jobs may come from IT or engineering, or live directly in the business function itself. They’ll be called different things depending on the company, and in some sense it’s the future of software engineering that you’ll see a huge growth of in non-tech companies.
-
-Most companies will have to be hiring for this now or in the future, and it’s another example of the kind of new jobs that will be created in AI.
+~/.claude/settings.json
+{
+  &quot;model&quot;: &quot;claude-opus-4-6&quot;
+} https://t.co/sZlgtX1RY9
 
 ---
-@levie | ❤️ 20 | 🔁 2 | 💬 5 | 👁 3760]]></description>
-      <author>@levie</author>
+@dotey | ❤️ 1 | 🔁 1 | 💬 0 | 👁 63]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>🔗 https://t.co/tvzEmbtNiB</title>
-      <link>https://x.com/nvidia/status/2046396663296622961</link>
-      <guid isPermaLink="false">2046396663296622961</guid>
-      <pubDate>Tue, 21 Apr 2026 01:12:39 +0000</pubDate>
-      <description><![CDATA[🔗 https://t.co/tvzEmbtNiB
+      <title>That Meeting You Hate May Keep #AI From Stealing Your Job
+by @noamscheiber @nytimes
+
+Learn more: htt...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046408079680393591</link>
+      <guid isPermaLink="false">2046408079680393591</guid>
+      <pubDate>Tue, 21 Apr 2026 01:58:01 +0000</pubDate>
+      <description><![CDATA[That Meeting You Hate May Keep #AI From Stealing Your Job
+by @noamscheiber @nytimes
+
+Learn more: https://t.co/ZZbZil5tZd
+
+#MachineLearning #ArtificialIntelligence #ML https://t.co/WnUpFgmmfi
 
 ---
-@nvidia | ❤️ 1 | 🔁 1 | 💬 0 | 👁 2527]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>At #AdobeSummit, Shantanu Narayen and Jensen Huang sat down to discuss the next era of our partnersh...</title>
-      <link>https://x.com/nvidia/status/2046396659261743183</link>
-      <guid isPermaLink="false">2046396659261743183</guid>
-      <pubDate>Tue, 21 Apr 2026 01:12:38 +0000</pubDate>
-      <description><![CDATA[At #AdobeSummit, Shantanu Narayen and Jensen Huang sat down to discuss the next era of our partnership. We are moving beyond simple tools to a full-stack acceleration of enterprise creativity.
-
-Key integrations include:
-
-Generative AI Power: Deeper integration of NVIDIA OpenShell and Nemotron for custom, high-fidelity brand models.
-
-Industrial Digital Twins: Launching a cloud-native 3D solution to bridge the gap between design and physical reality.
-
-Together, NVIDIA and @Adobe are providing the infrastructure for the world’s most ambitious brands to create at the speed of thought.
-
----
-@nvidia | ❤️ 22 | 🔁 2 | 💬 7 | 👁 3243]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Honda’s Innovative Wearable #Robots Help Users Walk and Climb Stairs with Ease
-b...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046394235969016047</link>
-      <guid isPermaLink="false">2046394235969016047</guid>
-      <pubDate>Tue, 21 Apr 2026 01:03:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Honda’s Innovative Wearable #Robots Help Users Walk and Climb Stairs with Ease
-by @IntEngineering
-
-#Robotics #Artificia…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 19]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Turns out being great at navigating your computer is similar to being great at navigating slack/noti...</title>
-      <link>https://x.com/nickbaumann_/status/2046394231774998581</link>
-      <guid isPermaLink="false">2046394231774998581</guid>
-      <pubDate>Tue, 21 Apr 2026 01:02:59 +0000</pubDate>
-      <description><![CDATA[Turns out being great at navigating your computer is similar to being great at navigating slack/notion/linear
+      <title>I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
 
-Make codex your little buddy :)
+We’...</title>
+      <link>https://x.com/rauchg/status/2046406894269747668</link>
+      <guid isPermaLink="false">2046406894269747668</guid>
+      <pubDate>Tue, 21 Apr 2026 01:53:18 +0000</pubDate>
+      <description><![CDATA[I’m so encouraged by the way our team and industry peers have shown up to protect the internet.
 
-⬇️⬇️⬇️
+We’ve now shipped over 20 product improvements across Dashboard and CLI to help your security posture.
+
+Easier to set up MFA, audit your Environment Variables, Activity logs and more
 
 ---
-@nickbaumann_ | ❤️ 7 | 🔁 1 | 💬 1 | 👁 729]]></description>
-      <author>@nickbaumann_</author>
+@rauchg | ❤️ 45 | 🔁 3 | 💬 7 | 👁 2091]]></description>
+      <author>@rauchg</author>
     </item>
     <item>
-      <title>RT @OfficialLoganK: Excited to share that Google AI subscriptions (Pro and Ultra) now work with @Goo...</title>
-      <link>https://x.com/demishassabis/status/2046394036781490445</link>
-      <guid isPermaLink="false">2046394036781490445</guid>
-      <pubDate>Tue, 21 Apr 2026 01:02:13 +0000</pubDate>
-      <description><![CDATA[RT @OfficialLoganK: Excited to share that Google AI subscriptions (Pro and Ultra) now work with @GoogleAIStudio!!
-
-Come vibe code and use t…
+      <title>RT @remilouf: Philosophy (among other things) grad here. I could write a whole essay about this vide...</title>
+      <link>https://x.com/jeremyphoward/status/2046406592443355516</link>
+      <guid isPermaLink="false">2046406592443355516</guid>
+      <pubDate>Tue, 21 Apr 2026 01:52:06 +0000</pubDate>
+      <description><![CDATA[RT @remilouf: Philosophy (among other things) grad here. I could write a whole essay about this video, and mostly the reactions to it. Peop…
 
 ---
-@demishassabis | ❤️ 0 | 🔁 103 | 💬 0 | 👁 0]]></description>
-      <author>@demishassabis</author>
+@jeremyphoward | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>Grok</title>
+      <link>https://x.com/elonmusk/status/2046405057332097524</link>
+      <guid isPermaLink="false">2046405057332097524</guid>
+      <pubDate>Tue, 21 Apr 2026 01:46:00 +0000</pubDate>
+      <description><![CDATA[Grok
+
+---
+@elonmusk | ❤️ 3666 | 🔁 360 | 💬 638 | 👁 390136]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Only the fraud was stopped by DOGE and, even then, only some of the fraud</title>
+      <link>https://x.com/elonmusk/status/2046404769040810159</link>
+      <guid isPermaLink="false">2046404769040810159</guid>
+      <pubDate>Tue, 21 Apr 2026 01:44:51 +0000</pubDate>
+      <description><![CDATA[Only the fraud was stopped by DOGE and, even then, only some of the fraud
+
+---
+@elonmusk | ❤️ 6463 | 🔁 939 | 💬 385 | 👁 378845]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Japan Turns Footsteps Into Power with Piezoelectric Floors in Shibuya and Tokyo Stations
+by @_fluxfe...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046402824712474839</link>
+      <guid isPermaLink="false">2046402824712474839</guid>
+      <pubDate>Tue, 21 Apr 2026 01:37:08 +0000</pubDate>
+      <description><![CDATA[Japan Turns Footsteps Into Power with Piezoelectric Floors in Shibuya and Tokyo Stations
+by @_fluxfeeds
+
+#Sustainability #RenewableEnergy #CleanEnergy #Technology #Innovation #EmergingTech #TechForGood https://t.co/myAb12Bnny
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 121]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
