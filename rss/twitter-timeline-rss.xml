@@ -5,173 +5,204 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:30:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>#Robot Foundation Models: Unlocking Human-Level Dexterity and Intelligence
-via @ZappyZappy7
+      <title>When you build with the Deep Research agent, you’re tapping into the same autonomous infrastructure ...</title>
+      <link>https://x.com/Google/status/2046627656477610323</link>
+      <guid isPermaLink="false">2046627656477610323</guid>
+      <pubDate>Tue, 21 Apr 2026 16:30:32 +0000</pubDate>
+      <description><![CDATA[When you build with the Deep Research agent, you’re tapping into the same autonomous infrastructure that powers Google’s most popular products, like the @GeminiApp, @NotebookLM, Search and Google Finance.
 
-#AI #Ro...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046619533096415490</link>
-      <guid isPermaLink="false">2046619533096415490</guid>
-      <pubDate>Tue, 21 Apr 2026 15:58:15 +0000</pubDate>
-      <description><![CDATA[#Robot Foundation Models: Unlocking Human-Level Dexterity and Intelligence
-via @ZappyZappy7
+Both agents are available starting today in public preview via the Gemini API (coming soon to startups and enterprises via @GoogleCloud).
 
-#AI #Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/fxIubVoWOS
+Learn more ↓ https://t.co/77kO6fBZ5p
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 28]]></description>
+@Google | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>We’ve expanded the capabilities of Deep Research and Deep Research Max to give you even more control...</title>
+      <link>https://x.com/Google/status/2046627652568850687</link>
+      <guid isPermaLink="false">2046627652568850687</guid>
+      <pubDate>Tue, 21 Apr 2026 16:30:31 +0000</pubDate>
+      <description><![CDATA[We’ve expanded the capabilities of Deep Research and Deep Research Max to give you even more control and transparency over the entire research process:
+
+📋 Collaborative Planning: Review and refine the agent's research plan before it executes.
+
+🛠️ Extended Tooling: Run Google Search, MCP servers, URL context, Code Execution and File Search simultaneously — or turn off web access entirely to exclusively search through your custom data.
+
+🎥 Multimodal Inputs: Base the agent's research on your own PDFs, CSVs, audio, video, and images.
+
+📊 Native Charts &amp; Infographics: Generate high-quality visuals (via HTML or Nano Banana 2) to dynamically enrich your reports.
+
+💭 Real-Time Streaming: Track the agent's live reasoning steps, and receive text and image outputs as they’re generated.
+
+---
+@Google | ❤️ 0 | 🔁 0 | 💬 1 | 👁 0]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>The next evolution of our autonomous research agent is here. Today, we’re introducing Deep Research ...</title>
+      <link>https://x.com/Google/status/2046627647208259835</link>
+      <guid isPermaLink="false">2046627647208259835</guid>
+      <pubDate>Tue, 21 Apr 2026 16:30:30 +0000</pubDate>
+      <description><![CDATA[The next evolution of our autonomous research agent is here. Today, we’re introducing Deep Research and Deep Research Max via the Gemini API.
+
+Powered by Gemini 3.1 Pro, you can now trigger comprehensive research workflows with unprecedented control and transparency, featuring:
+
+🔌 Arbitrary MCP support
+📊 Native infographic &amp; chart generation
+🌐 Fully cited reports grounded in the open web + your own files and data
+
+All from a single API call. Meet the new agent 🧵↓
+
+---
+@Google | ❤️ 0 | 🔁 0 | 💬 1 | 👁 0]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>Cloud computer?</title>
+      <link>https://x.com/gregpr07/status/2046627537498120496</link>
+      <guid isPermaLink="false">2046627537498120496</guid>
+      <pubDate>Tue, 21 Apr 2026 16:30:04 +0000</pubDate>
+      <description><![CDATA[Cloud computer?
+
+---
+@gregpr07 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 7]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>✨ Integrated Hoodmaps now into my new site https://t.co/kSbsCmuvBO 
+
+I started it 2 years ago but fi...</title>
+      <link>https://x.com/levelsio/status/2046627357285359667</link>
+      <guid isPermaLink="false">2046627357285359667</guid>
+      <pubDate>Tue, 21 Apr 2026 16:29:21 +0000</pubDate>
+      <description><![CDATA[✨ Integrated Hoodmaps now into my new site https://t.co/kSbsCmuvBO 
+
+I started it 2 years ago but finally working on it again
+
+It's a hotel booking site with hotels rated by AI to avoid all the fake reviews and paid listings of modern booking sites
+
+Any way, if you zoom in to any city, it'll pull the Hoodmaps neighborhood data, so you can stay in the cool area, not the tourist area or the crime area!
+
+Let me know what you think 😊
+
+---
+@levelsio | ❤️ 3 | 🔁 0 | 💬 0 | 👁 280]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>Deep Research now includes arbitrary MCP support to securely connect and analyze your own or third p...</title>
+      <link>https://x.com/GoogleDeepMind/status/2046627049045967175</link>
+      <guid isPermaLink="false">2046627049045967175</guid>
+      <pubDate>Tue, 21 Apr 2026 16:28:07 +0000</pubDate>
+      <description><![CDATA[Deep Research now includes arbitrary MCP support to securely connect and analyze your own or third party data.
+
+Plus, it’s our first research agent to natively generate presentation-ready visuals that bring data to life.
+
+Start building via the Gemini API → https://t.co/1GnisEFViA
+
+---
+@GoogleDeepMind | ❤️ 7 | 🔁 0 | 💬 0 | 👁 753]]></description>
+      <author>@GoogleDeepMind</author>
+    </item>
+    <item>
+      <title>🔵 Deep Research: Optimized for speed and efficiency. Perfect for interactive apps needing quicker re...</title>
+      <link>https://x.com/GoogleDeepMind/status/2046627044453134389</link>
+      <guid isPermaLink="false">2046627044453134389</guid>
+      <pubDate>Tue, 21 Apr 2026 16:28:06 +0000</pubDate>
+      <description><![CDATA[🔵 Deep Research: Optimized for speed and efficiency. Perfect for interactive apps needing quicker responses.
+
+🔵 Deep Research Max: It uses extra time to search and reason. Ideal for exhaustive context gathering and tasks happening in the background. https://t.co/FFM4xOPdAi
+
+---
+@GoogleDeepMind | ❤️ 12 | 🔁 1 | 💬 1 | 👁 955]]></description>
+      <author>@GoogleDeepMind</author>
+    </item>
+    <item>
+      <title>Deep Research and Deep Research Max are our latest autonomous research agents powered by Gemini 3.1 ...</title>
+      <link>https://x.com/GoogleDeepMind/status/2046627042335060342</link>
+      <guid isPermaLink="false">2046627042335060342</guid>
+      <pubDate>Tue, 21 Apr 2026 16:28:06 +0000</pubDate>
+      <description><![CDATA[Deep Research and Deep Research Max are our latest autonomous research agents powered by Gemini 3.1 Pro.
+
+They can safely navigate both the web and your custom data, like internal docs and specialized financial information, to create professional-grade, fully cited reports. 🧵
+
+---
+@GoogleDeepMind | ❤️ 61 | 🔁 7 | 💬 4 | 👁 1221]]></description>
+      <author>@GoogleDeepMind</author>
+    </item>
+    <item>
+      <title>Romias #Robotics Builds Intelligent #Robot System to Support Modern Bakeries
+by @lukas_m_ziegler
+ 
+#...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046626328267386912</link>
+      <guid isPermaLink="false">2046626328267386912</guid>
+      <pubDate>Tue, 21 Apr 2026 16:25:15 +0000</pubDate>
+      <description><![CDATA[Romias #Robotics Builds Intelligent #Robot System to Support Modern Bakeries
+by @lukas_m_ziegler
+ 
+#FoodTech #Innovation #EmergingTech #TechForGood https://t.co/4lqaHVMyH0
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 52]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>MathNet
-
-a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
-
-paper: https://t.co...</title>
-      <link>https://x.com/_akhaliq/status/2046617812974592046</link>
-      <guid isPermaLink="false">2046617812974592046</guid>
-      <pubDate>Tue, 21 Apr 2026 15:51:25 +0000</pubDate>
-      <description><![CDATA[MathNet
-
-a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
-
-paper: https://t.co/fq1942UD3x https://t.co/c65kDjnZP5
+      <title>Computer is everything.</title>
+      <link>https://x.com/tunguz/status/2046622792976884099</link>
+      <guid isPermaLink="false">2046622792976884099</guid>
+      <pubDate>Tue, 21 Apr 2026 16:11:12 +0000</pubDate>
+      <description><![CDATA[Computer is everything.
 
 ---
-@_akhaliq | ❤️ 3 | 🔁 0 | 💬 1 | 👁 695]]></description>
-      <author>@_akhaliq</author>
+@tunguz | ❤️ 4 | 🔁 0 | 💬 2 | 👁 775]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>It’s a start. Vastly more will be needed to extend consciousness to the stars.</title>
-      <link>https://x.com/elonmusk/status/2046617607336329447</link>
-      <guid isPermaLink="false">2046617607336329447</guid>
-      <pubDate>Tue, 21 Apr 2026 15:50:36 +0000</pubDate>
-      <description><![CDATA[It’s a start. Vastly more will be needed to extend consciousness to the stars.
+      <title>At some point in the next few years we’ll see the crossover of the two.</title>
+      <link>https://x.com/tunguz/status/2046622224891674762</link>
+      <guid isPermaLink="false">2046622224891674762</guid>
+      <pubDate>Tue, 21 Apr 2026 16:08:57 +0000</pubDate>
+      <description><![CDATA[At some point in the next few years we’ll see the crossover of the two.
 
 ---
-@elonmusk | ❤️ 3667 | 🔁 422 | 💬 781 | 👁 282156]]></description>
-      <author>@elonmusk</author>
+@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 600]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation...</title>
-      <link>https://x.com/_akhaliq/status/2046617445171855568</link>
-      <guid isPermaLink="false">2046617445171855568</guid>
-      <pubDate>Tue, 21 Apr 2026 15:49:57 +0000</pubDate>
-      <description><![CDATA[Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation
+      <title>Binance TradFi Futures Sprint is now live.
 
-paper: https://t.co/8jpoGrAqRP https://t.co/JO0J5dkT47
+Trade Gold, Silver, and popular Stock/ETF Futures for a ...</title>
+      <link>https://x.com/binance/status/2046621201175355474</link>
+      <guid isPermaLink="false">2046621201175355474</guid>
+      <pubDate>Tue, 21 Apr 2026 16:04:53 +0000</pubDate>
+      <description><![CDATA[Binance TradFi Futures Sprint is now live.
+
+Trade Gold, Silver, and popular Stock/ETF Futures for a chance to share a prize pool of up to 1.44M USDT!
+
+Join now → https://t.co/SvACUI58HS https://t.co/Ci3IodSll6
 
 ---
-@_akhaliq | ❤️ 2 | 🔁 0 | 💬 1 | 👁 723]]></description>
-      <author>@_akhaliq</author>
+@binance | ❤️ 85 | 🔁 5 | 💬 31 | 👁 11946]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>RT @kplikethebird: Live footage of the @every consulting and editorial teams joining forces to build...</title>
-      <link>https://x.com/danshipper/status/2046617311541330317</link>
-      <guid isPermaLink="false">2046617311541330317</guid>
-      <pubDate>Tue, 21 Apr 2026 15:49:26 +0000</pubDate>
-      <description><![CDATA[RT @kplikethebird: Live footage of the @every consulting and editorial teams joining forces to build cool stuff https://t.co/YovuWoOI7e
+      <title>Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Oly...</title>
+      <link>https://x.com/MIT_CSAIL/status/2046620592980262964</link>
+      <guid isPermaLink="false">2046620592980262964</guid>
+      <pubDate>Tue, 21 Apr 2026 16:02:28 +0000</pubDate>
+      <description><![CDATA[Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Olympiad problems &amp;amp; solutions 🌍
+
+MathNet is 5x larger than previous datasets &amp;amp; is sourced from over 40 countries across 4 decades: https://t.co/vvojP7Fu9t https://t.co/qpuJOgmyfH
 
 ---
-@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: #AI in Science and Sovereignty 2026
-by @Khulood_Almani
-
-#ArtificialIntelligence ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046617207975620682</link>
-      <guid isPermaLink="false">2046617207975620682</guid>
-      <pubDate>Tue, 21 Apr 2026 15:49:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #AI in Science and Sovereignty 2026
-by @Khulood_Almani
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/oFXvu…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Hermes Agent 中 Hermes 来源：名字读作 &quot;Her Meeze&quot;（近似 /ˈhɜːrmiːz/），取自希腊神话中掌管通信、魔法和智慧的赫尔墨斯神，Nous Res...</title>
-      <link>https://x.com/dotey/status/2046617004488990760</link>
-      <guid isPermaLink="false">2046617004488990760</guid>
-      <pubDate>Tue, 21 Apr 2026 15:48:12 +0000</pubDate>
-      <description><![CDATA[Hermes Agent 中 Hermes 来源：名字读作 &quot;Her Meeze&quot;（近似 /ˈhɜːrmiːz/），取自希腊神话中掌管通信、魔法和智慧的赫尔墨斯神，Nous Research 用这个名字差不多已经三年，之前发布过 Hermes 1 到 Hermes 4 四代开源模型，Teknium 本人就是这个系列的主要作者。
-
-当然中文社区更喜欢叫“爱马仕”😂 https://t.co/HyDuOHNTSN
-
----
-@dotey | ❤️ 10 | 🔁 0 | 💬 4 | 👁 3085]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>two basic organizational architectures for agents:
-
-1. everyone has their own agent—this means agent...</title>
-      <link>https://x.com/danshipper/status/2046616336302752163</link>
-      <guid isPermaLink="false">2046616336302752163</guid>
-      <pubDate>Tue, 21 Apr 2026 15:45:33 +0000</pubDate>
-      <description><![CDATA[two basic organizational architectures for agents:
-
-1. everyone has their own agent—this means agents are specialized for the specific tasks / personalities of each person in the org. you get a parallel org chart of agents.
-
-2. one super agent for everyone—this means a single agent sits at the center of the org and does everything. 
-
-the benefit of 2 is that fewer people have to spend time maintaining the agent, but it requires someone at the center who's trying to make it good for everyone in the org. 
-
-benefit of 1 is that it's more scalable and specialized agents are better for the specific tasks they're good at. but the tradeoff is individuals in the org need to enjoy teaching their agent to do its job / developing a relationship with it.
-
----
-@danshipper | ❤️ 23 | 🔁 1 | 💬 15 | 👁 1130]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>心血来潮用了一下 Claude iOS 版本的 Code 来写代码，这个“Create PR”的按钮都点不到，你们别 Vibe 软件了行不😂 https://t.co/jBJmWxIIAQ</title>
-      <link>https://x.com/tualatrix/status/2046615228679680139</link>
-      <guid isPermaLink="false">2046615228679680139</guid>
-      <pubDate>Tue, 21 Apr 2026 15:41:09 +0000</pubDate>
-      <description><![CDATA[心血来潮用了一下 Claude iOS 版本的 Code 来写代码，这个“Create PR”的按钮都点不到，你们别 Vibe 软件了行不😂 https://t.co/jBJmWxIIAQ
-
----
-@tualatrix | ❤️ 2 | 🔁 0 | 💬 2 | 👁 831]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>one of my favorite quality of life features</title>
-      <link>https://x.com/trq212/status/2046614372311798134</link>
-      <guid isPermaLink="false">2046614372311798134</guid>
-      <pubDate>Tue, 21 Apr 2026 15:37:45 +0000</pubDate>
-      <description><![CDATA[one of my favorite quality of life features
-
----
-@trq212 | ❤️ 193 | 🔁 6 | 💬 28 | 👁 8834]]></description>
-      <author>@trq212</author>
-    </item>
-    <item>
-      <title>Remote control has a big flaw @noahzweben  - I don’t think these permission checks are visible in th...</title>
-      <link>https://x.com/petergyang/status/2046614252526653466</link>
-      <guid isPermaLink="false">2046614252526653466</guid>
-      <pubDate>Tue, 21 Apr 2026 15:37:16 +0000</pubDate>
-      <description><![CDATA[Remote control has a big flaw @noahzweben  - I don’t think these permission checks are visible in the Claude mobile app so it just looks like the agent got stuck
-
----
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 509]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>The Progress 95 cargo spacecraft is set to launch to resupply the Exp 74 crew  at 6:21pm ET on Satur...</title>
-      <link>https://x.com/Space_Station/status/2046613248045142323</link>
-      <guid isPermaLink="false">2046613248045142323</guid>
-      <pubDate>Tue, 21 Apr 2026 15:33:17 +0000</pubDate>
-      <description><![CDATA[The Progress 95 cargo spacecraft is set to launch to resupply the Exp 74 crew  at 6:21pm ET on Saturday, April 25! 🚀 Watch live coverage starting at 6pm on @NASA+. https://t.co/Z3iEU0lpS6
-
----
-@Space_Station | ❤️ 57 | 🔁 7 | 💬 5 | 👁 7890]]></description>
-      <author>@Space_Station</author>
+@MIT_CSAIL | ❤️ 36 | 🔁 13 | 💬 0 | 👁 1199]]></description>
+      <author>@MIT_CSAIL</author>
     </item>
   </channel>
 </rss>
