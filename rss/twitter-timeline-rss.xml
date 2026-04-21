@@ -5,270 +5,99 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:30:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Learn more ↓ https://t.co/rozzO8D6kQ</title>
-      <link>https://x.com/Google/status/2046393910428111109</link>
-      <guid isPermaLink="false">2046393910428111109</guid>
-      <pubDate>Tue, 21 Apr 2026 01:01:43 +0000</pubDate>
-      <description><![CDATA[Learn more ↓ https://t.co/rozzO8D6kQ
+      <title>The jump from working with a chatbot to having an agent that actually helps automate a process requi...</title>
+      <link>https://x.com/levie/status/2046397816755634340</link>
+      <guid isPermaLink="false">2046397816755634340</guid>
+      <pubDate>Tue, 21 Apr 2026 01:17:14 +0000</pubDate>
+      <description><![CDATA[The jump from working with a chatbot to having an agent that actually helps automate a process requires a real amount of work. 
+
+Most companies will need to have dedicated people that are responsible for bringing automation to their teams, instead of leaving this up to every individual employee. Partly because the work is more technical than we imagine today, and partly because it’s just hard to do this as a side project.
+
+The job spec is to map out new workflows with agents, implement new systems to deploy agents, make sure the agent has all the right (up to date) context to work with, wiring up internal systems to connect to the agents, creating evals for the agents, figuring out where the human is in the loop, managing the system when there are new upgrades, helping with the change management of the existing business process, and so on.
+
+These jobs may come from IT or engineering, or live directly in the business function itself. They’ll be called different things depending on the company, and in some sense it’s the future of software engineering that you’ll see a huge growth of in non-tech companies.
+
+Most companies will have to be hiring for this now or in the future, and it’s another example of the kind of new jobs that will be created in AI.
 
 ---
-@Google | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
+@levie | ❤️ 20 | 🔁 2 | 💬 5 | 👁 3760]]></description>
+      <author>@levie</author>
     </item>
     <item>
-      <title>Gemini in @GoogleChrome is expanding to more Asia-Pacific countries. 🌏
-
-Starting today, users in Aus...</title>
-      <link>https://x.com/Google/status/2046393908629004443</link>
-      <guid isPermaLink="false">2046393908629004443</guid>
-      <pubDate>Tue, 21 Apr 2026 01:01:42 +0000</pubDate>
-      <description><![CDATA[Gemini in @GoogleChrome is expanding to more Asia-Pacific countries. 🌏
-
-Starting today, users in Australia, Indonesia, Japan, Philippines, Singapore, South Korea, Vietnam and more can chat with their own personal browsing assistant in Chrome.
-
-Summarize pages, edit images with Nano Banana 2, use @GoogleMaps, @Gmail and more — all without ever leaving your current tab.
+      <title>🔗 https://t.co/tvzEmbtNiB</title>
+      <link>https://x.com/nvidia/status/2046396663296622961</link>
+      <guid isPermaLink="false">2046396663296622961</guid>
+      <pubDate>Tue, 21 Apr 2026 01:12:39 +0000</pubDate>
+      <description><![CDATA[🔗 https://t.co/tvzEmbtNiB
 
 ---
-@Google | ❤️ 0 | 🔁 1 | 💬 1 | 👁 25]]></description>
-      <author>@Google</author>
+@nvidia | ❤️ 1 | 🔁 1 | 💬 0 | 👁 2527]]></description>
+      <author>@nvidia</author>
     </item>
     <item>
-      <title>RT @bridgemindai: Kimi K2.6 just dropped.
+      <title>At #AdobeSummit, Shantanu Narayen and Jensen Huang sat down to discuss the next era of our partnersh...</title>
+      <link>https://x.com/nvidia/status/2046396659261743183</link>
+      <guid isPermaLink="false">2046396659261743183</guid>
+      <pubDate>Tue, 21 Apr 2026 01:12:38 +0000</pubDate>
+      <description><![CDATA[At #AdobeSummit, Shantanu Narayen and Jensen Huang sat down to discuss the next era of our partnership. We are moving beyond simple tools to a full-stack acceleration of enterprise creativity.
 
-And it crushed Claude Opus 4.6 on SWE-Bench Pro.
+Key integrations include:
 
-Kimi K2...</title>
-      <link>https://x.com/DeepLearn007/status/2046393497637232816</link>
-      <guid isPermaLink="false">2046393497637232816</guid>
-      <pubDate>Tue, 21 Apr 2026 01:00:04 +0000</pubDate>
-      <description><![CDATA[RT @bridgemindai: Kimi K2.6 just dropped.
+Generative AI Power: Deeper integration of NVIDIA OpenShell and Nemotron for custom, high-fidelity brand models.
 
-And it crushed Claude Opus 4.6 on SWE-Bench Pro.
+Industrial Digital Twins: Launching a cloud-native 3D solution to bridge the gap between design and physical reality.
 
-Kimi K2.6: 58.6
-GPT-5.4 xhigh: 57.7
-Gemini 3.1…
+Together, NVIDIA and @Adobe are providing the infrastructure for the world’s most ambitious brands to create at the speed of thought.
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 147 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@nvidia | ❤️ 22 | 🔁 2 | 💬 7 | 👁 3243]]></description>
+      <author>@nvidia</author>
     </item>
     <item>
-      <title>RT @kimmonismus: Claude Community in a nutshell right now https://t.co/SILk6Z8Xt0</title>
-      <link>https://x.com/DeepLearn007/status/2046393439667802275</link>
-      <guid isPermaLink="false">2046393439667802275</guid>
-      <pubDate>Tue, 21 Apr 2026 00:59:50 +0000</pubDate>
-      <description><![CDATA[RT @kimmonismus: Claude Community in a nutshell right now https://t.co/SILk6Z8Xt0
+      <title>RT @Ronald_vanLoon: Honda’s Innovative Wearable #Robots Help Users Walk and Climb Stairs with Ease
+b...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046394235969016047</link>
+      <guid isPermaLink="false">2046394235969016047</guid>
+      <pubDate>Tue, 21 Apr 2026 01:03:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Honda’s Innovative Wearable #Robots Help Users Walk and Climb Stairs with Ease
+by @IntEngineering
+
+#Robotics #Artificia…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 255 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @WorldLatinHoney: KLAUDIA GLAM friend “ LALA “ Who was also at the scene, explains this argument ...</title>
-      <link>https://x.com/DeepLearn007/status/2046393089045020896</link>
-      <guid isPermaLink="false">2046393089045020896</guid>
-      <pubDate>Tue, 21 Apr 2026 00:58:27 +0000</pubDate>
-      <description><![CDATA[RT @WorldLatinHoney: KLAUDIA GLAM friend “ LALA “ Who was also at the scene, explains this argument was not about a man , it was about a UN…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 166 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Sky Builders: #Drones Transform Power Grid Construction in China
-via @XH_Lee23
-
-#Technology #Innovat...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046393001203614137</link>
-      <guid isPermaLink="false">2046393001203614137</guid>
-      <pubDate>Tue, 21 Apr 2026 00:58:06 +0000</pubDate>
-      <description><![CDATA[Sky Builders: #Drones Transform Power Grid Construction in China
-via @XH_Lee23
-
-#Technology #Innovation #EmergingTech #TechForGood https://t.co/M1JxNH86IA
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 29]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>This is a beautiful piece of writing by @htaneja https://t.co/7N4AayffBf</title>
-      <link>https://x.com/lennysan/status/2046391391606186492</link>
-      <guid isPermaLink="false">2046391391606186492</guid>
-      <pubDate>Tue, 21 Apr 2026 00:51:42 +0000</pubDate>
-      <description><![CDATA[This is a beautiful piece of writing by @htaneja https://t.co/7N4AayffBf
+      <title>Turns out being great at navigating your computer is similar to being great at navigating slack/noti...</title>
+      <link>https://x.com/nickbaumann_/status/2046394231774998581</link>
+      <guid isPermaLink="false">2046394231774998581</guid>
+      <pubDate>Tue, 21 Apr 2026 01:02:59 +0000</pubDate>
+      <description><![CDATA[Turns out being great at navigating your computer is similar to being great at navigating slack/notion/linear
+
+Make codex your little buddy :)
+
+⬇️⬇️⬇️
 
 ---
-@lennysan | ❤️ 5 | 🔁 0 | 💬 0 | 👁 994]]></description>
-      <author>@lennysan</author>
+@nickbaumann_ | ❤️ 7 | 🔁 1 | 💬 1 | 👁 729]]></description>
+      <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>RT @Mericamemed: I hate how good this sounds https://t.co/MA7RZQMAFj</title>
-      <link>https://x.com/lennysan/status/2046390603257397620</link>
-      <guid isPermaLink="false">2046390603257397620</guid>
-      <pubDate>Tue, 21 Apr 2026 00:48:34 +0000</pubDate>
-      <description><![CDATA[RT @Mericamemed: I hate how good this sounds https://t.co/MA7RZQMAFj
+      <title>RT @OfficialLoganK: Excited to share that Google AI subscriptions (Pro and Ultra) now work with @Goo...</title>
+      <link>https://x.com/demishassabis/status/2046394036781490445</link>
+      <guid isPermaLink="false">2046394036781490445</guid>
+      <pubDate>Tue, 21 Apr 2026 01:02:13 +0000</pubDate>
+      <description><![CDATA[RT @OfficialLoganK: Excited to share that Google AI subscriptions (Pro and Ultra) now work with @GoogleAIStudio!!
+
+Come vibe code and use t…
 
 ---
-@lennysan | ❤️ 0 | 🔁 177 | 💬 0 | 👁 0]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>祝贺 Apple 选出了下一任 CEO：John Ternus。期待下一个十年的 Apple 产品线，尤其是 Mac！
-
-https://t.co/WKRTIjGEmC</title>
-      <link>https://x.com/tualatrix/status/2046390364572188719</link>
-      <guid isPermaLink="false">2046390364572188719</guid>
-      <pubDate>Tue, 21 Apr 2026 00:47:37 +0000</pubDate>
-      <description><![CDATA[祝贺 Apple 选出了下一任 CEO：John Ternus。期待下一个十年的 Apple 产品线，尤其是 Mac！
-
-https://t.co/WKRTIjGEmC
-
----
-@tualatrix | ❤️ 1 | 🔁 0 | 💬 0 | 👁 381]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>$75,794.13
-
-#Bitcoin https://t.co/QXFU09fv6S</title>
-      <link>https://x.com/Bitcoin/status/2046389589829378055</link>
-      <guid isPermaLink="false">2046389589829378055</guid>
-      <pubDate>Tue, 21 Apr 2026 00:44:32 +0000</pubDate>
-      <description><![CDATA[$75,794.13
-
-#Bitcoin https://t.co/QXFU09fv6S
-
----
-@Bitcoin | ❤️ 155 | 🔁 30 | 💬 28 | 👁 5763]]></description>
-      <author>@Bitcoin</author>
-    </item>
-    <item>
-      <title>RT @gravicle: We will discuss what world models actually mean and why most everyone is wrong about t...</title>
-      <link>https://x.com/adityaag/status/2046389453045063817</link>
-      <guid isPermaLink="false">2046389453045063817</guid>
-      <pubDate>Tue, 21 Apr 2026 00:44:00 +0000</pubDate>
-      <description><![CDATA[RT @gravicle: We will discuss what world models actually mean and why most everyone is wrong about them. Join us in person at SPC in SF.
-
----
-@adityaag | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@adityaag</author>
-    </item>
-    <item>
-      <title>give us back Sky
-
-https://t.co/YIjHaa0jMR</title>
-      <link>https://x.com/swyx/status/2046388765820661939</link>
-      <guid isPermaLink="false">2046388765820661939</guid>
-      <pubDate>Tue, 21 Apr 2026 00:41:16 +0000</pubDate>
-      <description><![CDATA[give us back Sky
-
-https://t.co/YIjHaa0jMR
-
----
-@swyx | ❤️ 0 | 🔁 0 | 💬 1 | 👁 758]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>RT @BrianRoemmele: @GreenTechWizard @elonmusk I hope this helps. If you need more help let me know:
-...</title>
-      <link>https://x.com/elonmusk/status/2046387953086140472</link>
-      <guid isPermaLink="false">2046387953086140472</guid>
-      <pubDate>Tue, 21 Apr 2026 00:38:02 +0000</pubDate>
-      <description><![CDATA[RT @BrianRoemmele: @GreenTechWizard @elonmusk I hope this helps. If you need more help let me know:
-
-Connecting OpenClaw to the X API is st…
-
----
-@elonmusk | ❤️ 0 | 🔁 97 | 💬 0 | 👁 2]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @googlechrome: Heads up! Gemini in Chrome is coming to more Asian-Pacific countries! 🎉 https://t....</title>
-      <link>https://x.com/Google/status/2046387480857894948</link>
-      <guid isPermaLink="false">2046387480857894948</guid>
-      <pubDate>Tue, 21 Apr 2026 00:36:10 +0000</pubDate>
-      <description><![CDATA[RT @googlechrome: Heads up! Gemini in Chrome is coming to more Asian-Pacific countries! 🎉 https://t.co/kZ9fYXlgnP
-
----
-@Google | ❤️ 0 | 🔁 74 | 💬 0 | 👁 9]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>RT @wholemars: It hit me yesterday when I was going to pick up lunch.
-
-I pre-cooled the Tesla Model ...</title>
-      <link>https://x.com/elonmusk/status/2046387188535861419</link>
-      <guid isPermaLink="false">2046387188535861419</guid>
-      <pubDate>Tue, 21 Apr 2026 00:35:00 +0000</pubDate>
-      <description><![CDATA[RT @wholemars: It hit me yesterday when I was going to pick up lunch.
-
-I pre-cooled the Tesla Model 3 from my phone, and set the destinatio…
-
----
-@elonmusk | ❤️ 0 | 🔁 172 | 💬 0 | 👁 17]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>品味不是天赋，是可以练出来的肌肉
-
-很多人说设计品味很重要，但听起来就像是个玄学的东西。Erik D. Kennedy 在《How to Develop Taste》里给了一个很实在的答案：品味就是反...</title>
-      <link>https://x.com/bearliu/status/2046384681608675365</link>
-      <guid isPermaLink="false">2046384681608675365</guid>
-      <pubDate>Tue, 21 Apr 2026 00:25:02 +0000</pubDate>
-      <description><![CDATA[品味不是天赋，是可以练出来的肌肉
-
-很多人说设计品味很重要，但听起来就像是个玄学的东西。Erik D. Kennedy 在《How to Develop Taste》里给了一个很实在的答案：品味就是反复问&quot;为什么&quot;，然后验证自己的假设。
-
-方法很简单。找一个你觉得顺眼的设计，不管是网站、海报还是字体排版。然后强制自己写下来：这个东西哪里吸引我？是色彩？是留白？是某种节奏感？别用专业术语，就用自己的话。接着继续深挖，问五次&quot;为什么&quot;，把隐藏在直觉背后的规则挖出来。最后关键的一步：改掉你认为关键的那个元素，看设计是否还好看。这个过程就是在实际操作中建立自己的审美假设库。
-
-我最近在用这套方法集中训练字体搭配的感知力。这东西看似细微，但决定了整个页面的气质，又特别难通过&quot;看&quot;来学。只有通过&quot;拆&quot;和&quot;改&quot;，才能慢慢感受到字体选择背后的逻辑。品味就像蹲马步，不是装上什么工具就行，得反复练基本功。
-
-原文链接：mailto:reader-forwarded-email/6e413e06323a448b5f05353c3f0040d1
-
----
-@bearliu | ❤️ 3 | 🔁 1 | 💬 0 | 👁 465]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: How To Make #Data Governance A Competitive Advantage
-by @Forbes
-
-Learn more: htt...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046384673199108447</link>
-      <guid isPermaLink="false">2046384673199108447</guid>
-      <pubDate>Tue, 21 Apr 2026 00:25:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: How To Make #Data Governance A Competitive Advantage
-by @Forbes
-
-Learn more: https://t.co/dntovhQDVM
-
-#DataScience #Big…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>World’s First Soft #3D Hydrogel Semiconductor That Mimics Living Tissue
-by @tweetciiiim
-
-#EmergingTe...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046383427461509479</link>
-      <guid isPermaLink="false">2046383427461509479</guid>
-      <pubDate>Tue, 21 Apr 2026 00:20:03 +0000</pubDate>
-      <description><![CDATA[World’s First Soft #3D Hydrogel Semiconductor That Mimics Living Tissue
-by @tweetciiiim
-
-#EmergingTech #Innovation #Technology https://t.co/va8SZaZejg
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 206]]></description>
-      <author>@Ronald_vanLoon</author>
+@demishassabis | ❤️ 0 | 🔁 103 | 💬 0 | 👁 0]]></description>
+      <author>@demishassabis</author>
     </item>
   </channel>
 </rss>
