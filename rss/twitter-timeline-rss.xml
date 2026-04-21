@@ -5,204 +5,216 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:01:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>When you build with the Deep Research agent, you’re tapping into the same autonomous infrastructure ...</title>
-      <link>https://x.com/Google/status/2046627656477610323</link>
-      <guid isPermaLink="false">2046627656477610323</guid>
-      <pubDate>Tue, 21 Apr 2026 16:30:32 +0000</pubDate>
-      <description><![CDATA[When you build with the Deep Research agent, you’re tapping into the same autonomous infrastructure that powers Google’s most popular products, like the @GeminiApp, @NotebookLM, Search and Google Finance.
+      <title>RT @googleaidevs: Introducing one of our biggest updates to the Gemini Deep Research Agent, now avai...</title>
+      <link>https://x.com/Google/status/2046635091636396178</link>
+      <guid isPermaLink="false">2046635091636396178</guid>
+      <pubDate>Tue, 21 Apr 2026 17:00:05 +0000</pubDate>
+      <description><![CDATA[RT @googleaidevs: Introducing one of our biggest updates to the Gemini Deep Research Agent, now available via the Interactions API!
 
-Both agents are available starting today in public preview via the Gemini API (coming soon to startups and enterprises via @GoogleCloud).
-
-Learn more ↓ https://t.co/77kO6fBZ5p
+Trigge…
 
 ---
-@Google | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+@Google | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
       <author>@Google</author>
     </item>
     <item>
-      <title>We’ve expanded the capabilities of Deep Research and Deep Research Max to give you even more control...</title>
-      <link>https://x.com/Google/status/2046627652568850687</link>
-      <guid isPermaLink="false">2046627652568850687</guid>
-      <pubDate>Tue, 21 Apr 2026 16:30:31 +0000</pubDate>
-      <description><![CDATA[We’ve expanded the capabilities of Deep Research and Deep Research Max to give you even more control and transparency over the entire research process:
-
-📋 Collaborative Planning: Review and refine the agent's research plan before it executes.
-
-🛠️ Extended Tooling: Run Google Search, MCP servers, URL context, Code Execution and File Search simultaneously — or turn off web access entirely to exclusively search through your custom data.
-
-🎥 Multimodal Inputs: Base the agent's research on your own PDFs, CSVs, audio, video, and images.
-
-📊 Native Charts &amp; Infographics: Generate high-quality visuals (via HTML or Nano Banana 2) to dynamically enrich your reports.
-
-💭 Real-Time Streaming: Track the agent's live reasoning steps, and receive text and image outputs as they’re generated.
+      <title>They are using their workers to train their AI and replace them. Utterly cringe and dystopian.</title>
+      <link>https://x.com/tunguz/status/2046633446609486178</link>
+      <guid isPermaLink="false">2046633446609486178</guid>
+      <pubDate>Tue, 21 Apr 2026 16:53:32 +0000</pubDate>
+      <description><![CDATA[They are using their workers to train their AI and replace them. Utterly cringe and dystopian.
 
 ---
-@Google | ❤️ 0 | 🔁 0 | 💬 1 | 👁 0]]></description>
+@tunguz | ❤️ 10 | 🔁 2 | 💬 1 | 👁 482]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>RT @mdancho84: 🚨 BREAKING: Microsoft launches a free Python library that converts ANY document to Ma...</title>
+      <link>https://x.com/DeepLearn007/status/2046632952088420735</link>
+      <guid isPermaLink="false">2046632952088420735</guid>
+      <pubDate>Tue, 21 Apr 2026 16:51:35 +0000</pubDate>
+      <description><![CDATA[RT @mdancho84: 🚨 BREAKING: Microsoft launches a free Python library that converts ANY document to Markdown
+
+Introducing Markitdown. Let me…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 30 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @DeepLearn007: Pair this with advanced AI 5 years from now and …</title>
+      <link>https://x.com/DeepLearn007/status/2046632924590510553</link>
+      <guid isPermaLink="false">2046632924590510553</guid>
+      <pubDate>Tue, 21 Apr 2026 16:51:28 +0000</pubDate>
+      <description><![CDATA[RT @DeepLearn007: Pair this with advanced AI 5 years from now and …
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @sundarpichai: We are launching two powerful updates to Deep Research in the Gemini API, now with...</title>
+      <link>https://x.com/Google/status/2046632806919315549</link>
+      <guid isPermaLink="false">2046632806919315549</guid>
+      <pubDate>Tue, 21 Apr 2026 16:51:00 +0000</pubDate>
+      <description><![CDATA[RT @sundarpichai: We are launching two powerful updates to Deep Research in the Gemini API, now with better quality, MCP support, and nativ…
+
+---
+@Google | ❤️ 0 | 🔁 89 | 💬 0 | 👁 0]]></description>
       <author>@Google</author>
     </item>
     <item>
-      <title>The next evolution of our autonomous research agent is here. Today, we’re introducing Deep Research ...</title>
-      <link>https://x.com/Google/status/2046627647208259835</link>
-      <guid isPermaLink="false">2046627647208259835</guid>
-      <pubDate>Tue, 21 Apr 2026 16:30:30 +0000</pubDate>
-      <description><![CDATA[The next evolution of our autonomous research agent is here. Today, we’re introducing Deep Research and Deep Research Max via the Gemini API.
+      <title>RT @_A_khalifa: The Iranian regime is executing
+8 Women just for protesting..
 
-Powered by Gemini 3.1 Pro, you can now trigger comprehensive research workflows with unprecedented control and transparency, featuring:
+Why has Iranian blood...</title>
+      <link>https://x.com/DeepLearn007/status/2046632717068963980</link>
+      <guid isPermaLink="false">2046632717068963980</guid>
+      <pubDate>Tue, 21 Apr 2026 16:50:39 +0000</pubDate>
+      <description><![CDATA[RT @_A_khalifa: The Iranian regime is executing
+8 Women just for protesting..
 
-🔌 Arbitrary MCP support
-📊 Native infographic &amp; chart generation
-🌐 Fully cited reports grounded in the open web + your own files and data
-
-All from a single API call. Meet the new agent 🧵↓
+Why has Iranian blood
+become so cheap? No talks with
+these c…
 
 ---
-@Google | ❤️ 0 | 🔁 0 | 💬 1 | 👁 0]]></description>
-      <author>@Google</author>
+@DeepLearn007 | ❤️ 0 | 🔁 324 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Cloud computer?</title>
-      <link>https://x.com/gregpr07/status/2046627537498120496</link>
-      <guid isPermaLink="false">2046627537498120496</guid>
-      <pubDate>Tue, 21 Apr 2026 16:30:04 +0000</pubDate>
-      <description><![CDATA[Cloud computer?
+      <title>RT @War_Radar2: ‼️🇪🇺🇺🇸🇩🇪 “Europe can’t defend itself alone”, Merz reveals reliance on Trump
+
+German ...</title>
+      <link>https://x.com/DeepLearn007/status/2046632656557760782</link>
+      <guid isPermaLink="false">2046632656557760782</guid>
+      <pubDate>Tue, 21 Apr 2026 16:50:24 +0000</pubDate>
+      <description><![CDATA[RT @War_Radar2: ‼️🇪🇺🇺🇸🇩🇪 “Europe can’t defend itself alone”, Merz reveals reliance on Trump
+
+German Chancellor Friedrich Merz admits Europe…
 
 ---
-@gregpr07 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 7]]></description>
-      <author>@gregpr07</author>
+@DeepLearn007 | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>✨ Integrated Hoodmaps now into my new site https://t.co/kSbsCmuvBO 
+      <title>new image model coming with some real magic within, to unlock new use cases in productivity and crea...</title>
+      <link>https://x.com/gdb/status/2046632580527554572</link>
+      <guid isPermaLink="false">2046632580527554572</guid>
+      <pubDate>Tue, 21 Apr 2026 16:50:06 +0000</pubDate>
+      <description><![CDATA[new image model coming with some real magic within, to unlock new use cases in productivity and creativity
 
-I started it 2 years ago but fi...</title>
-      <link>https://x.com/levelsio/status/2046627357285359667</link>
-      <guid isPermaLink="false">2046627357285359667</guid>
-      <pubDate>Tue, 21 Apr 2026 16:29:21 +0000</pubDate>
-      <description><![CDATA[✨ Integrated Hoodmaps now into my new site https://t.co/kSbsCmuvBO 
-
-I started it 2 years ago but finally working on it again
-
-It's a hotel booking site with hotels rated by AI to avoid all the fake reviews and paid listings of modern booking sites
-
-Any way, if you zoom in to any city, it'll pull the Hoodmaps neighborhood data, so you can stay in the cool area, not the tourist area or the crime area!
-
-Let me know what you think 😊
+livestream noon today
 
 ---
-@levelsio | ❤️ 3 | 🔁 0 | 💬 0 | 👁 280]]></description>
-      <author>@levelsio</author>
+@gdb | ❤️ 289 | 🔁 13 | 💬 34 | 👁 8396]]></description>
+      <author>@gdb</author>
     </item>
     <item>
-      <title>Deep Research now includes arbitrary MCP support to securely connect and analyze your own or third p...</title>
-      <link>https://x.com/GoogleDeepMind/status/2046627049045967175</link>
-      <guid isPermaLink="false">2046627049045967175</guid>
-      <pubDate>Tue, 21 Apr 2026 16:28:07 +0000</pubDate>
-      <description><![CDATA[Deep Research now includes arbitrary MCP support to securely connect and analyze your own or third party data.
+      <title>RT @GWR: Dr. Howard Tucker has been awarded the record title for the oldest doctor ever after workin...</title>
+      <link>https://x.com/DeepLearn007/status/2046632474290127078</link>
+      <guid isPermaLink="false">2046632474290127078</guid>
+      <pubDate>Tue, 21 Apr 2026 16:49:41 +0000</pubDate>
+      <description><![CDATA[RT @GWR: Dr. Howard Tucker has been awarded the record title for the oldest doctor ever after working until the age of 103.
 
-Plus, it’s our first research agent to natively generate presentation-ready visuals that bring data to life.
-
-Start building via the Gemini API → https://t.co/1GnisEFViA
+He was continu…
 
 ---
-@GoogleDeepMind | ❤️ 7 | 🔁 0 | 💬 0 | 👁 753]]></description>
-      <author>@GoogleDeepMind</author>
+@DeepLearn007 | ❤️ 0 | 🔁 519 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>🔵 Deep Research: Optimized for speed and efficiency. Perfect for interactive apps needing quicker re...</title>
-      <link>https://x.com/GoogleDeepMind/status/2046627044453134389</link>
-      <guid isPermaLink="false">2046627044453134389</guid>
-      <pubDate>Tue, 21 Apr 2026 16:28:06 +0000</pubDate>
-      <description><![CDATA[🔵 Deep Research: Optimized for speed and efficiency. Perfect for interactive apps needing quicker responses.
-
-🔵 Deep Research Max: It uses extra time to search and reason. Ideal for exhaustive context gathering and tasks happening in the background. https://t.co/FFM4xOPdAi
+      <title>RT @NiohBerg: Bita Hemmati
+Ghazal Ghalandari
+Golnaz Naraghi
+Venus Hossein Nejad
+Panah Movahedi
+Ensie...</title>
+      <link>https://x.com/DeepLearn007/status/2046632422012280993</link>
+      <guid isPermaLink="false">2046632422012280993</guid>
+      <pubDate>Tue, 21 Apr 2026 16:49:28 +0000</pubDate>
+      <description><![CDATA[RT @NiohBerg: Bita Hemmati
+Ghazal Ghalandari
+Golnaz Naraghi
+Venus Hossein Nejad
+Panah Movahedi
+Ensieh Nejati
+Mahboubeh Shabani
+Diana Taher…
 
 ---
-@GoogleDeepMind | ❤️ 12 | 🔁 1 | 💬 1 | 👁 955]]></description>
-      <author>@GoogleDeepMind</author>
+@DeepLearn007 | ❤️ 0 | 🔁 1594 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Deep Research and Deep Research Max are our latest autonomous research agents powered by Gemini 3.1 ...</title>
-      <link>https://x.com/GoogleDeepMind/status/2046627042335060342</link>
-      <guid isPermaLink="false">2046627042335060342</guid>
-      <pubDate>Tue, 21 Apr 2026 16:28:06 +0000</pubDate>
-      <description><![CDATA[Deep Research and Deep Research Max are our latest autonomous research agents powered by Gemini 3.1 Pro.
+      <title>RT @homegymcoop: This is called the HyperDrive and it’s a new Korean invention for building speed.
 
-They can safely navigate both the web and your custom data, like internal docs and specialized financial information, to create professional-grade, fully cited reports. 🧵
+...</title>
+      <link>https://x.com/DeepLearn007/status/2046632384376746003</link>
+      <guid isPermaLink="false">2046632384376746003</guid>
+      <pubDate>Tue, 21 Apr 2026 16:49:19 +0000</pubDate>
+      <description><![CDATA[RT @homegymcoop: This is called the HyperDrive and it’s a new Korean invention for building speed.
+
+It’s unique for allowing incremental lo…
 
 ---
-@GoogleDeepMind | ❤️ 61 | 🔁 7 | 💬 4 | 👁 1221]]></description>
-      <author>@GoogleDeepMind</author>
+@DeepLearn007 | ❤️ 0 | 🔁 113 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Romias #Robotics Builds Intelligent #Robot System to Support Modern Bakeries
-by @lukas_m_ziegler
- 
-#...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046626328267386912</link>
-      <guid isPermaLink="false">2046626328267386912</guid>
-      <pubDate>Tue, 21 Apr 2026 16:25:15 +0000</pubDate>
-      <description><![CDATA[Romias #Robotics Builds Intelligent #Robot System to Support Modern Bakeries
-by @lukas_m_ziegler
- 
-#FoodTech #Innovation #EmergingTech #TechForGood https://t.co/4lqaHVMyH0
+      <title>RT @Realneo101: 🔴DON’T LOOK AWAY  
+
+The Islamic regime is going to hang Diana Taherabadi because she...</title>
+      <link>https://x.com/DeepLearn007/status/2046632253531234323</link>
+      <guid isPermaLink="false">2046632253531234323</guid>
+      <pubDate>Tue, 21 Apr 2026 16:48:48 +0000</pubDate>
+      <description><![CDATA[RT @Realneo101: 🔴DON’T LOOK AWAY  
+
+The Islamic regime is going to hang Diana Taherabadi because she participated in the January protests.…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 52]]></description>
+@DeepLearn007 | ❤️ 0 | 🔁 20214 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Physical #AI and #Robotics will bring about the next industrial revolution
+by @n...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046631802589098352</link>
+      <guid isPermaLink="false">2046631802589098352</guid>
+      <pubDate>Tue, 21 Apr 2026 16:47:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Physical #AI and #Robotics will bring about the next industrial revolution
+by @nvidiaomniverse
+  
+#Innovation #Emerging…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Computer is everything.</title>
-      <link>https://x.com/tunguz/status/2046622792976884099</link>
-      <guid isPermaLink="false">2046622792976884099</guid>
-      <pubDate>Tue, 21 Apr 2026 16:11:12 +0000</pubDate>
-      <description><![CDATA[Computer is everything.
+      <title>Not a screenshot BTW. https://t.co/RWkDJv6pso</title>
+      <link>https://x.com/tunguz/status/2046630101283123344</link>
+      <guid isPermaLink="false">2046630101283123344</guid>
+      <pubDate>Tue, 21 Apr 2026 16:40:15 +0000</pubDate>
+      <description><![CDATA[Not a screenshot BTW. https://t.co/RWkDJv6pso
 
 ---
-@tunguz | ❤️ 4 | 🔁 0 | 💬 2 | 👁 775]]></description>
+@tunguz | ❤️ 13 | 🔁 0 | 💬 1 | 👁 625]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>At some point in the next few years we’ll see the crossover of the two.</title>
-      <link>https://x.com/tunguz/status/2046622224891674762</link>
-      <guid isPermaLink="false">2046622224891674762</guid>
-      <pubDate>Tue, 21 Apr 2026 16:08:57 +0000</pubDate>
-      <description><![CDATA[At some point in the next few years we’ll see the crossover of the two.
+      <title>Here an explanation how it works https://t.co/cShezX2kqF</title>
+      <link>https://x.com/levelsio/status/2046628662074605947</link>
+      <guid isPermaLink="false">2046628662074605947</guid>
+      <pubDate>Tue, 21 Apr 2026 16:34:32 +0000</pubDate>
+      <description><![CDATA[Here an explanation how it works https://t.co/cShezX2kqF
 
 ---
-@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 600]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Binance TradFi Futures Sprint is now live.
-
-Trade Gold, Silver, and popular Stock/ETF Futures for a ...</title>
-      <link>https://x.com/binance/status/2046621201175355474</link>
-      <guid isPermaLink="false">2046621201175355474</guid>
-      <pubDate>Tue, 21 Apr 2026 16:04:53 +0000</pubDate>
-      <description><![CDATA[Binance TradFi Futures Sprint is now live.
-
-Trade Gold, Silver, and popular Stock/ETF Futures for a chance to share a prize pool of up to 1.44M USDT!
-
-Join now → https://t.co/SvACUI58HS https://t.co/Ci3IodSll6
-
----
-@binance | ❤️ 85 | 🔁 5 | 💬 31 | 👁 11946]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Oly...</title>
-      <link>https://x.com/MIT_CSAIL/status/2046620592980262964</link>
-      <guid isPermaLink="false">2046620592980262964</guid>
-      <pubDate>Tue, 21 Apr 2026 16:02:28 +0000</pubDate>
-      <description><![CDATA[Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Olympiad problems &amp;amp; solutions 🌍
-
-MathNet is 5x larger than previous datasets &amp;amp; is sourced from over 40 countries across 4 decades: https://t.co/vvojP7Fu9t https://t.co/qpuJOgmyfH
-
----
-@MIT_CSAIL | ❤️ 36 | 🔁 13 | 💬 0 | 👁 1199]]></description>
-      <author>@MIT_CSAIL</author>
+@levelsio | ❤️ 15 | 🔁 0 | 💬 2 | 👁 3362]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
