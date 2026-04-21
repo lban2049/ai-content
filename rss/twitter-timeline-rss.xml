@@ -5,216 +5,197 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:31:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @googleaidevs: Introducing one of our biggest updates to the Gemini Deep Research Agent, now avai...</title>
-      <link>https://x.com/Google/status/2046635091636396178</link>
-      <guid isPermaLink="false">2046635091636396178</guid>
-      <pubDate>Tue, 21 Apr 2026 17:00:05 +0000</pubDate>
-      <description><![CDATA[RT @googleaidevs: Introducing one of our biggest updates to the Gemini Deep Research Agent, now available via the Interactions API!
+      <title>Google 今天把 Gemini Deep Research 升级成了两个版本：Deep Research 和 Deep Research Max。https://t.co/bCBIknoYmZ
 
-Trigge…
+...</title>
+      <link>https://x.com/dotey/status/2046642837333422450</link>
+      <guid isPermaLink="false">2046642837333422450</guid>
+      <pubDate>Tue, 21 Apr 2026 17:30:51 +0000</pubDate>
+      <description><![CDATA[Google 今天把 Gemini Deep Research 升级成了两个版本：Deep Research 和 Deep Research Max。https://t.co/bCBIknoYmZ
+
+Deep Research 走速度和成本优先的路线，适合做成即问即答的研究助手嵌到用户界面里。
+
+Max 版则反过来：跑更长时间、烧更多算力，
+
+反复搜索、反复推理、反复打磨报告。官方给的典型场景是分析师晚上下班前触发一个尽调任务，第二天早上上班，一份完整报告已经躺在邮箱里。
+
+两个版本背后都是 Gemini 3.1 Pro，就是 Google 今年 2 月发布的那个推理能力相比 3 Pro 翻倍的模型。
+
+【1】能插上自己的数据了
+
+过去的 Deep Research 只能搜开放的互联网。这次最关键的变化是支持了 MCP。
+
+开发者现在可以把 FactSet、S&amp;P、PitchBook 这类专业付费数据源接进来，让 Deep Research 在这些金融和市场数据库里翻找资料，而不是只能靠公开网页。Google 已经在和这三家合作设计 MCP 接口。
+
+此外还能把 PDF、CSV、图片、音频、视频当成研究素材直接喂进去；可以让它同时调用 Google Search、URL Context、代码执行、File Search，也可以把联网完全关掉，只在内部数据里查。
+
+报告里现在会直接生成图表和信息图。图表用 HTML 渲染，信息图调用 Nano Banana。研究过程支持流式输出，能实时看到数字智能体当前在想什么、搜到了什么。
+
+还有一个叫“协同规划”的功能：数字智能体先给出一份研究计划，用户可以在它开跑之前调整范围。对那些容易跑偏、需要人工把关的研究任务挺实用。
+
+从今天起在 Gemini API 的付费档里以公开预览版提供，通过 Interactions API 调用。Google Cloud 上的企业版本即将上线。
+
+官方没有公布具体定价。
 
 ---
-@Google | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>They are using their workers to train their AI and replace them. Utterly cringe and dystopian.</title>
-      <link>https://x.com/tunguz/status/2046633446609486178</link>
-      <guid isPermaLink="false">2046633446609486178</guid>
-      <pubDate>Tue, 21 Apr 2026 16:53:32 +0000</pubDate>
-      <description><![CDATA[They are using their workers to train their AI and replace them. Utterly cringe and dystopian.
+      <title>I for one would be delighted to see OpenAI commit to maintaining a tool like this in the long-term, ...</title>
+      <link>https://x.com/simonw/status/2046642204006031666</link>
+      <guid isPermaLink="false">2046642204006031666</guid>
+      <pubDate>Tue, 21 Apr 2026 17:28:20 +0000</pubDate>
+      <description><![CDATA[I for one would be delighted to see OpenAI commit to maintaining a tool like this in the long-term, I'm already nervous about mine going stale
 
 ---
-@tunguz | ❤️ 10 | 🔁 2 | 💬 1 | 👁 482]]></description>
+@simonw | ❤️ 2 | 🔁 0 | 💬 1 | 👁 266]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>OneVL
+
+One-Step Latent Reasoning and Planning with Vision-Language Explanation
+
+paper: https://t.co/...</title>
+      <link>https://x.com/_akhaliq/status/2046641517696037039</link>
+      <guid isPermaLink="false">2046641517696037039</guid>
+      <pubDate>Tue, 21 Apr 2026 17:25:37 +0000</pubDate>
+      <description><![CDATA[OneVL
+
+One-Step Latent Reasoning and Planning with Vision-Language Explanation
+
+paper: https://t.co/cqbBDdrNZc https://t.co/u21uFYIxhb
+
+---
+@_akhaliq | ❤️ 2 | 🔁 0 | 💬 1 | 👁 427]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>Eurocrats standing in the way of small business innovation again.</title>
+      <link>https://x.com/tunguz/status/2046641489778745502</link>
+      <guid isPermaLink="false">2046641489778745502</guid>
+      <pubDate>Tue, 21 Apr 2026 17:25:30 +0000</pubDate>
+      <description><![CDATA[Eurocrats standing in the way of small business innovation again.
+
+---
+@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 354]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @mdancho84: 🚨 BREAKING: Microsoft launches a free Python library that converts ANY document to Ma...</title>
-      <link>https://x.com/DeepLearn007/status/2046632952088420735</link>
-      <guid isPermaLink="false">2046632952088420735</guid>
-      <pubDate>Tue, 21 Apr 2026 16:51:35 +0000</pubDate>
-      <description><![CDATA[RT @mdancho84: 🚨 BREAKING: Microsoft launches a free Python library that converts ANY document to Markdown
-
-Introducing Markitdown. Let me…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 30 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @DeepLearn007: Pair this with advanced AI 5 years from now and …</title>
-      <link>https://x.com/DeepLearn007/status/2046632924590510553</link>
-      <guid isPermaLink="false">2046632924590510553</guid>
-      <pubDate>Tue, 21 Apr 2026 16:51:28 +0000</pubDate>
-      <description><![CDATA[RT @DeepLearn007: Pair this with advanced AI 5 years from now and …
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @sundarpichai: We are launching two powerful updates to Deep Research in the Gemini API, now with...</title>
-      <link>https://x.com/Google/status/2046632806919315549</link>
-      <guid isPermaLink="false">2046632806919315549</guid>
-      <pubDate>Tue, 21 Apr 2026 16:51:00 +0000</pubDate>
-      <description><![CDATA[RT @sundarpichai: We are launching two powerful updates to Deep Research in the Gemini API, now with better quality, MCP support, and nativ…
-
----
-@Google | ❤️ 0 | 🔁 89 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>RT @_A_khalifa: The Iranian regime is executing
-8 Women just for protesting..
-
-Why has Iranian blood...</title>
-      <link>https://x.com/DeepLearn007/status/2046632717068963980</link>
-      <guid isPermaLink="false">2046632717068963980</guid>
-      <pubDate>Tue, 21 Apr 2026 16:50:39 +0000</pubDate>
-      <description><![CDATA[RT @_A_khalifa: The Iranian regime is executing
-8 Women just for protesting..
-
-Why has Iranian blood
-become so cheap? No talks with
-these c…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 324 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @War_Radar2: ‼️🇪🇺🇺🇸🇩🇪 “Europe can’t defend itself alone”, Merz reveals reliance on Trump
-
-German ...</title>
-      <link>https://x.com/DeepLearn007/status/2046632656557760782</link>
-      <guid isPermaLink="false">2046632656557760782</guid>
-      <pubDate>Tue, 21 Apr 2026 16:50:24 +0000</pubDate>
-      <description><![CDATA[RT @War_Radar2: ‼️🇪🇺🇺🇸🇩🇪 “Europe can’t defend itself alone”, Merz reveals reliance on Trump
-
-German Chancellor Friedrich Merz admits Europe…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>new image model coming with some real magic within, to unlock new use cases in productivity and crea...</title>
-      <link>https://x.com/gdb/status/2046632580527554572</link>
-      <guid isPermaLink="false">2046632580527554572</guid>
-      <pubDate>Tue, 21 Apr 2026 16:50:06 +0000</pubDate>
-      <description><![CDATA[new image model coming with some real magic within, to unlock new use cases in productivity and creativity
-
-livestream noon today
-
----
-@gdb | ❤️ 289 | 🔁 13 | 💬 34 | 👁 8396]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>RT @GWR: Dr. Howard Tucker has been awarded the record title for the oldest doctor ever after workin...</title>
-      <link>https://x.com/DeepLearn007/status/2046632474290127078</link>
-      <guid isPermaLink="false">2046632474290127078</guid>
-      <pubDate>Tue, 21 Apr 2026 16:49:41 +0000</pubDate>
-      <description><![CDATA[RT @GWR: Dr. Howard Tucker has been awarded the record title for the oldest doctor ever after working until the age of 103.
-
-He was continu…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 519 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @NiohBerg: Bita Hemmati
-Ghazal Ghalandari
-Golnaz Naraghi
-Venus Hossein Nejad
-Panah Movahedi
-Ensie...</title>
-      <link>https://x.com/DeepLearn007/status/2046632422012280993</link>
-      <guid isPermaLink="false">2046632422012280993</guid>
-      <pubDate>Tue, 21 Apr 2026 16:49:28 +0000</pubDate>
-      <description><![CDATA[RT @NiohBerg: Bita Hemmati
-Ghazal Ghalandari
-Golnaz Naraghi
-Venus Hossein Nejad
-Panah Movahedi
-Ensieh Nejati
-Mahboubeh Shabani
-Diana Taher…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 1594 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @homegymcoop: This is called the HyperDrive and it’s a new Korean invention for building speed.
-
-...</title>
-      <link>https://x.com/DeepLearn007/status/2046632384376746003</link>
-      <guid isPermaLink="false">2046632384376746003</guid>
-      <pubDate>Tue, 21 Apr 2026 16:49:19 +0000</pubDate>
-      <description><![CDATA[RT @homegymcoop: This is called the HyperDrive and it’s a new Korean invention for building speed.
-
-It’s unique for allowing incremental lo…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 113 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @Realneo101: 🔴DON’T LOOK AWAY  
-
-The Islamic regime is going to hang Diana Taherabadi because she...</title>
-      <link>https://x.com/DeepLearn007/status/2046632253531234323</link>
-      <guid isPermaLink="false">2046632253531234323</guid>
-      <pubDate>Tue, 21 Apr 2026 16:48:48 +0000</pubDate>
-      <description><![CDATA[RT @Realneo101: 🔴DON’T LOOK AWAY  
-
-The Islamic regime is going to hang Diana Taherabadi because she participated in the January protests.…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 20214 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Physical #AI and #Robotics will bring about the next industrial revolution
-by @n...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046631802589098352</link>
-      <guid isPermaLink="false">2046631802589098352</guid>
-      <pubDate>Tue, 21 Apr 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Physical #AI and #Robotics will bring about the next industrial revolution
-by @nvidiaomniverse
+      <title>This Kinetic Screen Brings Visuals to Life with Motion and Texture
+by @IntEngineering
   
-#Innovation #Emerging…
+#TechForGoo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046640889414525233</link>
+      <guid isPermaLink="false">2046640889414525233</guid>
+      <pubDate>Tue, 21 Apr 2026 17:23:07 +0000</pubDate>
+      <description><![CDATA[This Kinetic Screen Brings Visuals to Life with Motion and Texture
+by @IntEngineering
+  
+#TechForGood #Innovation #Tech #Technology https://t.co/lQfxoT0rom
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 77]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Not a screenshot BTW. https://t.co/RWkDJv6pso</title>
-      <link>https://x.com/tunguz/status/2046630101283123344</link>
-      <guid isPermaLink="false">2046630101283123344</guid>
-      <pubDate>Tue, 21 Apr 2026 16:40:15 +0000</pubDate>
-      <description><![CDATA[Not a screenshot BTW. https://t.co/RWkDJv6pso
+      <title>OpenAI's new Euphony tool works almost exactly the same way as my Codex transcript viewer https://t....</title>
+      <link>https://x.com/simonw/status/2046640420311142540</link>
+      <guid isPermaLink="false">2046640420311142540</guid>
+      <pubDate>Tue, 21 Apr 2026 17:21:15 +0000</pubDate>
+      <description><![CDATA[OpenAI's new Euphony tool works almost exactly the same way as my Codex transcript viewer https://t.co/lUQQds4Nvj
 
 ---
-@tunguz | ❤️ 13 | 🔁 0 | 💬 1 | 👁 625]]></description>
+@simonw | ❤️ 19 | 🔁 1 | 💬 4 | 👁 1965]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>Another Indian doing a job that Americans don’t want to do any more.</title>
+      <link>https://x.com/tunguz/status/2046639725629362292</link>
+      <guid isPermaLink="false">2046639725629362292</guid>
+      <pubDate>Tue, 21 Apr 2026 17:18:29 +0000</pubDate>
+      <description><![CDATA[Another Indian doing a job that Americans don’t want to do any more.
+
+---
+@tunguz | ❤️ 12 | 🔁 0 | 💬 0 | 👁 592]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>Here an explanation how it works https://t.co/cShezX2kqF</title>
-      <link>https://x.com/levelsio/status/2046628662074605947</link>
-      <guid isPermaLink="false">2046628662074605947</guid>
-      <pubDate>Tue, 21 Apr 2026 16:34:32 +0000</pubDate>
-      <description><![CDATA[Here an explanation how it works https://t.co/cShezX2kqF
+      <title>Tokenize Physical and #Digital Assets Unlock Fractional Ownership and Liquidity
+by @antgrasso
+
+#Inno...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046639014506033323</link>
+      <guid isPermaLink="false">2046639014506033323</guid>
+      <pubDate>Tue, 21 Apr 2026 17:15:40 +0000</pubDate>
+      <description><![CDATA[Tokenize Physical and #Digital Assets Unlock Fractional Ownership and Liquidity
+by @antgrasso
+
+#Innovation #EmergingTech #Technology https://t.co/Xw3yFPIYIC
 
 ---
-@levelsio | ❤️ 15 | 🔁 0 | 💬 2 | 👁 3362]]></description>
-      <author>@levelsio</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 89]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>@petergyang We're taking a look!</title>
+      <link>https://x.com/noahzweben/status/2046638495947735209</link>
+      <guid isPermaLink="false">2046638495947735209</guid>
+      <pubDate>Tue, 21 Apr 2026 17:13:36 +0000</pubDate>
+      <description><![CDATA[@petergyang We're taking a look!
+
+---
+@noahzweben | ❤️ 1 | 🔁 0 | 💬 0 | 👁 29]]></description>
+      <author>@noahzweben</author>
+    </item>
+    <item>
+      <title>RT @nomadicai: The future of computer vision is agentic.
+
+1/ We built Nomadic around a gap we kept s...</title>
+      <link>https://x.com/JeffDean/status/2046638377278242978</link>
+      <guid isPermaLink="false">2046638377278242978</guid>
+      <pubDate>Tue, 21 Apr 2026 17:13:08 +0000</pubDate>
+      <description><![CDATA[RT @nomadicai: The future of computer vision is agentic.
+
+1/ We built Nomadic around a gap we kept seeing in video understanding: VLMs gene…
+
+---
+@JeffDean | ❤️ 0 | 🔁 7 | 💬 0 | 👁 4]]></description>
+      <author>@JeffDean</author>
+    </item>
+    <item>
+      <title>Agent-World
+
+Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
+
+paper...</title>
+      <link>https://x.com/_akhaliq/status/2046638236450054155</link>
+      <guid isPermaLink="false">2046638236450054155</guid>
+      <pubDate>Tue, 21 Apr 2026 17:12:34 +0000</pubDate>
+      <description><![CDATA[Agent-World
+
+Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
+
+paper: https://t.co/H7xNRtOfjw https://t.co/mHbHhYAPMf
+
+---
+@_akhaliq | ❤️ 6 | 🔁 0 | 💬 1 | 👁 918]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>Those Slavic genes are super powerful.</title>
+      <link>https://x.com/tunguz/status/2046635854345445800</link>
+      <guid isPermaLink="false">2046635854345445800</guid>
+      <pubDate>Tue, 21 Apr 2026 17:03:06 +0000</pubDate>
+      <description><![CDATA[Those Slavic genes are super powerful.
+
+---
+@tunguz | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1875]]></description>
+      <author>@tunguz</author>
     </item>
   </channel>
 </rss>
