@@ -5,233 +5,415 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 23:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 23:32:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>yes</title>
-      <link>https://x.com/steipete/status/2046724963550306498</link>
-      <guid isPermaLink="false">2046724963550306498</guid>
-      <pubDate>Tue, 21 Apr 2026 22:57:12 +0000</pubDate>
-      <description><![CDATA[yes
+      <title>语言发生意义的时刻，是发生在语言和世界交互的时刻。
+
+维特根斯坦也后来推翻了自己。</title>
+      <link>https://x.com/oran_ge/status/2046733556173643896</link>
+      <guid isPermaLink="false">2046733556173643896</guid>
+      <pubDate>Tue, 21 Apr 2026 23:31:20 +0000</pubDate>
+      <description><![CDATA[语言发生意义的时刻，是发生在语言和世界交互的时刻。
+
+维特根斯坦也后来推翻了自己。
 
 ---
-@steipete | ❤️ 9 | 🔁 1 | 💬 1 | 👁 1111]]></description>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>RT @larroumecj: SAUVER LA FRANCE ET L'EUROPE EN FAISANT LE SEUL PARI QUI VAILLE
+(série banane rouge)...</title>
+      <link>https://x.com/ylecun/status/2046733203877044638</link>
+      <guid isPermaLink="false">2046733203877044638</guid>
+      <pubDate>Tue, 21 Apr 2026 23:29:56 +0000</pubDate>
+      <description><![CDATA[RT @larroumecj: SAUVER LA FRANCE ET L'EUROPE EN FAISANT LE SEUL PARI QUI VAILLE
+(série banane rouge)
+
+I. COMME BONAPARTE : CONCENTRER LES F…
+
+---
+@ylecun | ❤️ 0 | 🔁 73 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>“Cursor has also given SpaceX the right to acquire Cursor later this year for $60 billion or pay $10...</title>
+      <link>https://x.com/swyx/status/2046733194448216409</link>
+      <guid isPermaLink="false">2046733194448216409</guid>
+      <pubDate>Tue, 21 Apr 2026 23:29:54 +0000</pubDate>
+      <description><![CDATA[“Cursor has also given SpaceX the right to acquire Cursor later this year for $60 billion or pay $10 billion for our work together.”
+
+personally this is the most exciting option pricing deal of the year, wow, kudos to both sides!!
+
+---
+@swyx | ❤️ 2 | 🔁 0 | 💬 1 | 👁 76]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>RT @mntruell: Excited to partner with the SpaceX team to scale up Composer. A meaningful step on our...</title>
+      <link>https://x.com/elonmusk/status/2046732434352357617</link>
+      <guid isPermaLink="false">2046732434352357617</guid>
+      <pubDate>Tue, 21 Apr 2026 23:26:53 +0000</pubDate>
+      <description><![CDATA[RT @mntruell: Excited to partner with the SpaceX team to scale up Composer. A meaningful step on our path to build the best place to code w…
+
+---
+@elonmusk | ❤️ 0 | 🔁 139 | 💬 0 | 👁 14]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Wait is this part of an A/B test!?</title>
+      <link>https://x.com/simonw/status/2046732420205228279</link>
+      <guid isPermaLink="false">2046732420205228279</guid>
+      <pubDate>Tue, 21 Apr 2026 23:26:50 +0000</pubDate>
+      <description><![CDATA[Wait is this part of an A/B test!?
+
+---
+@simonw | ❤️ 6 | 🔁 0 | 💬 1 | 👁 567]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>This is so confusing. Did Anthropic really just drop Claude Code from their $20/month plan?
+
+Why wou...</title>
+      <link>https://x.com/simonw/status/2046732056995205620</link>
+      <guid isPermaLink="false">2046732056995205620</guid>
+      <pubDate>Tue, 21 Apr 2026 23:25:23 +0000</pubDate>
+      <description><![CDATA[This is so confusing. Did Anthropic really just drop Claude Code from their $20/month plan?
+
+Why would they do that through a pricing page update without making a proper announcement?
+
+Plus, $20/month still gets you Cowork, which is just Claude Code wearing a non-threatening hat! https://t.co/2bzcRVbOyT
+
+---
+@simonw | ❤️ 39 | 🔁 3 | 💬 6 | 👁 1385]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>Anthropic 悄悄在定价页面上把 Claude Code 从 20 美元的 Pro 套餐中移除了，没有发任何公告。
+
+有人发现 https://t.co/ZLYrIIieA5 的功能对比表里，P...</title>
+      <link>https://x.com/dotey/status/2046731062643249454</link>
+      <guid isPermaLink="false">2046731062643249454</guid>
+      <pubDate>Tue, 21 Apr 2026 23:21:26 +0000</pubDate>
+      <description><![CDATA[Anthropic 悄悄在定价页面上把 Claude Code 从 20 美元的 Pro 套餐中移除了，没有发任何公告。
+
+有人发现 https://t.co/ZLYrIIieA5 的功能对比表里，Pro 套餐对应的 Claude Code 一栏变成了叉号。与此同时，多篇帮助文档也已经删掉了&quot;Pro 套餐包含 Claude Code&quot;的表述，老版本在 Wayback Machine 上还能看到。
+
+但 Anthropic 自己的 Claude Code 产品页面还写着&quot;Pro 套餐包含&quot;，客服机器人也坚持说包含。一个公司网站上同时存在两种相互矛盾的说法，这本身就是个问题。目前已有 Pro 用户反馈 Claude Code 仍然可以正常使用，但不清楚这是还没切换完，还是老用户被&quot;祖父条款&quot;保护了。
+
+如果这个变更属实，开发者要用 Claude Code 的最低门槛就从每月 20 美元跳到了 100 美元。
+
+这件事放在更大的背景下看就不意外了。过去两个月，Anthropic 一直在收紧算力供给：先是限制第三方工具（比如 OpenClaw）使用订阅额度，然后是高峰期削减配额，再加上 Opus 4.7 的 Token 消耗比前代高出不少，很多 Pro 用户反映周三就把一周的额度用光了。种种迹象指向同一个结论：Anthropic 的推理算力不够用了，正在把有限的计算资源往高付费用户和企业客户身上集中。
+
+Hacker News 上的开发者反应激烈。不少人表示准备转向 OpenAI 的 Codex（20 美元套餐仍包含），或者干脆用中国的模型，像 Kimi、GLM、MiniMax 这些，价格更低，额度更多。也有人提到 Cursor 的 20 美元套餐用 Composer 2 体验不错。还有一种声音认为，Anthropic 本来就在 Pro 套餐上亏钱，砍掉也合理，只是操作方式太难看——悄悄改页面、不发公告、客服机器人还在说反话。
+
+一个花 200 美元套餐的用户算了笔账：他每个月实际消耗大约 3000 美元的 API 成本。这解释了为什么 Anthropic 扛不住，但也说明高价用户同样不是忠诚客户——&quot;OpenAI 那边模型更好我立马就走。&quot;
+
+对 Anthropic 来说，最棘手的问题可能不是短期收入，而是个人开发者在公司里的传播效应。很多企业引入 Claude，最初就是因为有开发者自己先用上了，觉得好，再推动公司采购。把这群人推走，长期的企业订单管道也可能受损。
+
+当然，也有人指出 OpenAI 现在的慷慨未必持久——Codex 在 20 美元套餐上的烧钱力度同样不可持续。Anthropic 现在做的事，OpenAI 以后未必不会做。真正的悬念是：谁的算力撑得更久，谁就能在价格战里活到最后。
+
+https://t.co/AY99t0LDDh
+
+---
+@dotey | ❤️ 6 | 🔁 0 | 💬 4 | 👁 1639]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>SPLC funded a large number of false flag “right wing” organizations and events. Total scam.</title>
+      <link>https://x.com/elonmusk/status/2046731041545601106</link>
+      <guid isPermaLink="false">2046731041545601106</guid>
+      <pubDate>Tue, 21 Apr 2026 23:21:21 +0000</pubDate>
+      <description><![CDATA[SPLC funded a large number of false flag “right wing” organizations and events. Total scam.
+
+---
+@elonmusk | ❤️ 5892 | 🔁 1114 | 💬 513 | 👁 264541]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>中国人一直在阅读
+
+刚发布的第 23 次国民阅读调查数据显示：2025 年，中国成年国民综合阅读率是 82.3%，人均阅读量 8.39 本。
+
+其中，手机阅读率 79%，人们每天花在手机上的阅读时长是...</title>
+      <link>https://x.com/lifesinger/status/2046730606458052701</link>
+      <guid isPermaLink="false">2046730606458052701</guid>
+      <pubDate>Tue, 21 Apr 2026 23:19:37 +0000</pubDate>
+      <description><![CDATA[中国人一直在阅读
+
+刚发布的第 23 次国民阅读调查数据显示：2025 年，中国成年国民综合阅读率是 82.3%，人均阅读量 8.39 本。
+
+其中，手机阅读率 79%，人们每天花在手机上的阅读时长是 109 分钟，和短视频（168 分钟）、长视频（110 分钟）在同一个量级。
+
+还有个新闻是，番茄小说，字节跳动旗下的一款阅读产品，日活突破 1 亿。月活 2.2 亿，超过了小红书。
+
+阅读需求从来没萎缩，只是不断在换合适的形态。
+
+每一代人都在阅读。还记得在被窝里打着手电筒翻完一本本武侠小说。还记得泡在论坛和博客里，一篇篇看各种文章。如今，很多阅读发生在番茄、微信阅读等移动端，一章接一章看，停不下来。
+
+阅读从未停止。
+
+最后看个数据。番茄签约了 60 多万作者，年收入超过 10 万的，有 3000 多人。这数据，你怎么看。
+
+明天是世界读书日。阅读起来。
+
+---
+@lifesinger | ❤️ 2 | 🔁 0 | 💬 0 | 👁 102]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>GPT Image 2 Prompt：Kids’ Crayon Travel Journal Illustration Prompt
+
+This prompt generates a vibrant,...</title>
+      <link>https://x.com/dotey/status/2046730012242444465</link>
+      <guid isPermaLink="false">2046730012242444465</guid>
+      <pubDate>Tue, 21 Apr 2026 23:17:15 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt：Kids’ Crayon Travel Journal Illustration Prompt
+
+This prompt generates a vibrant, child-like crayon-style vertical (9:16) travel-journal illustration for a {City Name} trip, automatically creating a winding route with daily recommended attractions, cute doodles, local landmarks, foods, and playful handwritten notes. The tone is warm, fun, and full of childlike curiosity.
+
+--- Prompt ---
+
+Please create a vibrant, child-like crayon-style vertical (9:16) illustration titled “{City Name} Travel Journal.”  
+The artwork should look as if it were drawn by a curious child using colorful crayons, featuring a soft, warm light-toned background (such as pale yellow), combined with bright reds, blues, greens, and other cheerful colors to create a cozy, playful travel atmosphere.
+
+I. Main Scene: Travel-Journal Style Route Map
+
+In the center of the illustration, draw a “winding, zigzagging travel route” with arrows and dotted lines connecting multiple locations.  
+The route should automatically generate recommended attractions based on {Number of Days}:
+
+Example structure (auto-filled with {City Name}-related content):
+
+- “Stop 1: {Attraction 1 + short fun description}”
+- “Stop 2: {Attraction 2 + short fun description}”
+- “Stop 3: {Attraction 3 + short fun description}”
+- …
+- “Final Stop: {Local signature food or souvenir + warm closing remark}”
+
+Rules:
+- If no number of days is provided, default to a 1-day highlight itinerary.
+
+II. Surrounding Playful Elements (Auto-adapt to the City)
+
+Add many cute doodles and child-like decorative elements around the route, such as:
+
+1. Adorable travel characters
+   - A child holding a local snack  
+   - A little adventurer with a backpack
+
+2. Q-style hand-drawn iconic landmarks
+   - “{City Landmark 1}”
+   - “{City Landmark 2}”
+   - “{City Landmark 3}”
+
+3. Funny signboards
+   - “Don’t get lost!”
+   - “Crowds ahead!”
+   - “Yummy food this way!”  
+   (Auto-adjust contextually for the city)
+
+4. Sticker-style short phrases
+   - “{City Name} travel memories unlocked!”
+   - “{City Name} food adventure!”
+   - “Where to next?”
+
+5. Cute icons of local foods
+   - “{Local Food 1}”
+   - “{Local Food 2}”
+   - “{Local Food 3}”
+
+6. Childlike exclamations
+   - “I didn’t know {City Name} was so fun!”
+   - “I want to come again!”
+
+III. Overall Art Style Requirements
+
+- Crayon / children’s hand-drawn travel diary style  
+- Bright, warm, colorful palette  
+- Cozy but full and lively composition  
+- Emphasize the joy of exploring  
+- All text should be in a cute handwritten font  
+- Make the entire page feel like a young child’s fun travel-journal entry  
+
+---
+
+Input :
+Chicago 7-Day Trip, English
+
+---
+@dotey | ❤️ 8 | 🔁 1 | 💬 1 | 👁 996]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Schweeb Racer: New Zealand’s One-of-a-Kind Pedal-Powered Monorail Experience
+by @MarchUnofficial
+
+#E...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046729727189074034</link>
+      <guid isPermaLink="false">2046729727189074034</guid>
+      <pubDate>Tue, 21 Apr 2026 23:16:08 +0000</pubDate>
+      <description><![CDATA[Schweeb Racer: New Zealand’s One-of-a-Kind Pedal-Powered Monorail Experience
+by @MarchUnofficial
+
+#EmergingTech #Innovation #Tech #Technology https://t.co/YKP5OsFu6j
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 87]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @cherry_mx_reds: OpenClaw 2026.4.20 🦞 A few other things in this release that didn’t make the mai...</title>
+      <link>https://x.com/steipete/status/2046729332563841164</link>
+      <guid isPermaLink="false">2046729332563841164</guid>
+      <pubDate>Tue, 21 Apr 2026 23:14:33 +0000</pubDate>
+      <description><![CDATA[RT @cherry_mx_reds: OpenClaw 2026.4.20 🦞 A few other things in this release that didn’t make the main tweet:
+
+🧠 GPT-5 / Codex is better at…
+
+---
+@steipete | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
       <author>@steipete</author>
     </item>
     <item>
-      <title>Opus 4.7 这个升级确实是有点失败
-应该是新tokenizer下的第一个尝试
-看 4.8 的表现吧
-其他家也赶紧追一追</title>
-      <link>https://x.com/oran_ge/status/2046724811553161628</link>
-      <guid isPermaLink="false">2046724811553161628</guid>
-      <pubDate>Tue, 21 Apr 2026 22:56:36 +0000</pubDate>
-      <description><![CDATA[Opus 4.7 这个升级确实是有点失败
-应该是新tokenizer下的第一个尝试
-看 4.8 的表现吧
-其他家也赶紧追一追
+      <title>GPT Image 2 Prompt: Convert your article/content to a black chalkboard-style infographic
 
----
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 95]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>https://t.co/HmxPPdkXkg</title>
-      <link>https://x.com/lennysan/status/2046723130950115434</link>
-      <guid isPermaLink="false">2046723130950115434</guid>
-      <pubDate>Tue, 21 Apr 2026 22:49:55 +0000</pubDate>
-      <description><![CDATA[https://t.co/HmxPPdkXkg
-
----
-@lennysan | ❤️ 0 | 🔁 0 | 💬 1 | 👁 443]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>The greatest bundle in history https://t.co/IGzZqR6p9B</title>
-      <link>https://x.com/lennysan/status/2046723091959861615</link>
-      <guid isPermaLink="false">2046723091959861615</guid>
-      <pubDate>Tue, 21 Apr 2026 22:49:46 +0000</pubDate>
-      <description><![CDATA[The greatest bundle in history https://t.co/IGzZqR6p9B
-
----
-@lennysan | ❤️ 5 | 🔁 0 | 💬 2 | 👁 922]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>GPT Image 2 Prompt：Tang Dynasty Queen &amp; Her Minion Squad
+--- Prompt...</title>
+      <link>https://x.com/dotey/status/2046728763535167972</link>
+      <guid isPermaLink="false">2046728763535167972</guid>
+      <pubDate>Tue, 21 Apr 2026 23:12:18 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt: Convert your article/content to a black chalkboard-style infographic
 
 --- Prompt ---
 
-A traditional Chinese ...</title>
-      <link>https://x.com/dotey/status/2046723051895800086</link>
-      <guid isPermaLink="false">2046723051895800086</guid>
-      <pubDate>Tue, 21 Apr 2026 22:49:36 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt：Tang Dynasty Queen &amp; Her Minion Squad
+Please create an infographic based on the input content, highlighting key themes and essential points:
 
---- Prompt ---
+- Simplify information, emphasizing keywords and core concepts, leaving ample whitespace for clarity.
 
-A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. 
+- Include minimalistic cartoon elements, icons, or simple portraits of famous figures to enhance engagement and visual recall.
 
-Three 小黄人 dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. 
+- All text and images should strictly use colored chalk style without realistic illustrations.
 
-Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
+- Unless specifically requested, maintain the original language of the input content.
+
+- Use a horizontal layout (16:9) with a black chalkboard background and colorful chalk drawing style.
+
+Please create the illustration based on the input provided.
+
+---  
+
+{Your conent}
 
 ---
-@dotey | ❤️ 3 | 🔁 0 | 💬 0 | 👁 1091]]></description>
+@dotey | ❤️ 11 | 🔁 1 | 💬 0 | 👁 1235]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>https://t.co/lL8sbtP7Ff</title>
-      <link>https://x.com/levelsio/status/2046722088468164642</link>
-      <guid isPermaLink="false">2046722088468164642</guid>
-      <pubDate>Tue, 21 Apr 2026 22:45:46 +0000</pubDate>
-      <description><![CDATA[https://t.co/lL8sbtP7Ff
+      <title>RT @steipete: Since this is blowing up on hacker news.
+
+Boris said that CLI usage is allowed. Thus w...</title>
+      <link>https://x.com/jeremyphoward/status/2046728514565746721</link>
+      <guid isPermaLink="false">2046728514565746721</guid>
+      <pubDate>Tue, 21 Apr 2026 23:11:18 +0000</pubDate>
+      <description><![CDATA[RT @steipete: Since this is blowing up on hacker news.
+
+Boris said that CLI usage is allowed. Thus we added support for it, only to find ou…
 
 ---
-@levelsio | ❤️ 78 | 🔁 0 | 💬 15 | 👁 4287]]></description>
-      <author>@levelsio</author>
+@jeremyphoward | ❤️ 0 | 🔁 65 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
     </item>
     <item>
-      <title>GPT Image 2 的 API 价格低得离谱
-比 banana 便宜很多就不说了
-它甚至比上一代 GPT Image 都便宜
-OpenAI 这是在做慈善啊 https://t.co/NCUWyZ5...</title>
-      <link>https://x.com/oran_ge/status/2046722061872283814</link>
-      <guid isPermaLink="false">2046722061872283814</guid>
-      <pubDate>Tue, 21 Apr 2026 22:45:40 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 的 API 价格低得离谱
-比 banana 便宜很多就不说了
-它甚至比上一代 GPT Image 都便宜
-OpenAI 这是在做慈善啊 https://t.co/NCUWyZ5xUW
+      <title>RT @BoyuanChen0: This is what I’ve been cooking in the past 4 months . GPT Image 2 is over a massive...</title>
+      <link>https://x.com/jeremyphoward/status/2046728283602239955</link>
+      <guid isPermaLink="false">2046728283602239955</guid>
+      <pubDate>Tue, 21 Apr 2026 23:10:23 +0000</pubDate>
+      <description><![CDATA[RT @BoyuanChen0: This is what I’ve been cooking in the past 4 months . GPT Image 2 is over a massive 240 elo jump over the second place mod…
 
 ---
-@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 217]]></description>
-      <author>@oran_ge</author>
+@jeremyphoward | ❤️ 0 | 🔁 20 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
     </item>
     <item>
-      <title>I love it how just based on this info it’s easy to figure out which county in New Mexico this is. ht...</title>
-      <link>https://x.com/tunguz/status/2046721939989823620</link>
-      <guid isPermaLink="false">2046721939989823620</guid>
-      <pubDate>Tue, 21 Apr 2026 22:45:11 +0000</pubDate>
-      <description><![CDATA[I love it how just based on this info it’s easy to figure out which county in New Mexico this is. https://t.co/s3SsoZB2DM
+      <title>GPT Image 2 Prompt： Convert your article/content to a cartoon-style infographic
+
+--- prompt ---
+
+Ple...</title>
+      <link>https://x.com/dotey/status/2046727976470090081</link>
+      <guid isPermaLink="false">2046727976470090081</guid>
+      <pubDate>Tue, 21 Apr 2026 23:09:10 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt： Convert your article/content to a cartoon-style infographic
+
+--- prompt ---
+
+Please create a cartoon-style infographic based on the provided content, following these guidelines:  
+- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).  
+- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.  
+- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.  
+- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.  
+- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.  
+- Unless otherwise specified, use the same language as the provided content.  
+
+Please create the illustration based on the input provided.
 
 ---
-@tunguz | ❤️ 1 | 🔁 0 | 💬 1 | 👁 561]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @Teknium: You can now scale depth as well as width with subagents!
 
-Just uncapped Hermes Agents' ...</title>
-      <link>https://x.com/NousResearch/status/2046721845261652066</link>
-      <guid isPermaLink="false">2046721845261652066</guid>
-      <pubDate>Tue, 21 Apr 2026 22:44:48 +0000</pubDate>
-      <description><![CDATA[RT @Teknium: You can now scale depth as well as width with subagents!
-
-Just uncapped Hermes Agents' sub-agent spawn width, and enabled spaw…
+{Your conent}
 
 ---
-@NousResearch | ❤️ 0 | 🔁 16 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>RT @ti_guo_: Interesting local agent pattern: Hermes Agent (@NousResearch) + orchestrator and sub-ag...</title>
-      <link>https://x.com/MiniMax_AI/status/2046721574024126918</link>
-      <guid isPermaLink="false">2046721574024126918</guid>
-      <pubDate>Tue, 21 Apr 2026 22:43:44 +0000</pubDate>
-      <description><![CDATA[RT @ti_guo_: Interesting local agent pattern: Hermes Agent (@NousResearch) + orchestrator and sub-agents on different local LLMs.
-
-@loktar0…
-
----
-@MiniMax_AI | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@MiniMax_AI</author>
-    </item>
-    <item>
-      <title>https://t.co/STkhC1xOS8</title>
-      <link>https://x.com/levelsio/status/2046721299083382897</link>
-      <guid isPermaLink="false">2046721299083382897</guid>
-      <pubDate>Tue, 21 Apr 2026 22:42:38 +0000</pubDate>
-      <description><![CDATA[https://t.co/STkhC1xOS8
-
----
-@levelsio | ❤️ 17 | 🔁 0 | 💬 5 | 👁 4137]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>oof</title>
-      <link>https://x.com/tunguz/status/2046720307294011435</link>
-      <guid isPermaLink="false">2046720307294011435</guid>
-      <pubDate>Tue, 21 Apr 2026 22:38:42 +0000</pubDate>
-      <description><![CDATA[oof
-
----
-@tunguz | ❤️ 14 | 🔁 0 | 💬 3 | 👁 1981]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Meta https://t.co/jpl5QH0HCD</title>
-      <link>https://x.com/dotey/status/2046719217290891325</link>
-      <guid isPermaLink="false">2046719217290891325</guid>
-      <pubDate>Tue, 21 Apr 2026 22:34:22 +0000</pubDate>
-      <description><![CDATA[Meta https://t.co/jpl5QH0HCD
-
----
-@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 473]]></description>
+@dotey | ❤️ 7 | 🔁 1 | 💬 0 | 👁 1101]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Pretty wild</title>
-      <link>https://x.com/petergyang/status/2046719135527424421</link>
-      <guid isPermaLink="false">2046719135527424421</guid>
-      <pubDate>Tue, 21 Apr 2026 22:34:02 +0000</pubDate>
-      <description><![CDATA[Pretty wild
+      <title>RT @Sciences_Avenir: En 2021, les opposants à la vaccination craignaient &quot;une hécatombe&quot; d...</title>
+      <link>https://x.com/ylecun/status/2046727750120063185</link>
+      <guid isPermaLink="false">2046727750120063185</guid>
+      <pubDate>Tue, 21 Apr 2026 23:08:16 +0000</pubDate>
+      <description><![CDATA[RT @Sciences_Avenir: En 2021, les opposants à la vaccination craignaient &quot;une hécatombe&quot; dans les années à venir.
+
+Nous sommes 5 ans plus t…
 
 ---
-@petergyang | ❤️ 9 | 🔁 0 | 💬 5 | 👁 1705]]></description>
-      <author>@petergyang</author>
+@ylecun | ❤️ 0 | 🔁 209 | 💬 0 | 👁 1]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>GPT Image 2 Prompt：Isometric Miniature Stock Scene
-
-Enter a company name or stock ticker to generate...</title>
-      <link>https://x.com/dotey/status/2046718861337051217</link>
-      <guid isPermaLink="false">2046718861337051217</guid>
-      <pubDate>Tue, 21 Apr 2026 22:32:57 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt：Isometric Miniature Stock Scene
-
-Enter a company name or stock ticker to generate an exquisite, miniature isometric 3D scene integrating real-time stock data for the specified date.
-
---- Prompt ---
-
-Present an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.
-
-Place the company's most iconic building or campus prominently at the center, complemented by proportionally-sized icons of its key products, charming cartoon-style figures, vehicles, and other elements illustrating everyday company activities. The scene should be detailed, finely crafted, and playful.
-
-Rendered with Cinema 4D, the modeling should be refined, smoothly rounded, and rich in texture, accurately capturing realistic PBR materials. Gentle, lifelike lighting and soft shadows should create a warm, comfortable ambiance.
-
-Creatively integrate the company's real-time stock market data for the user-specified date (or automatically retrieved current date) into the scene, maintaining a clean, minimalist layout and a solid-color background to highlight the primary content.
-
-At the top-center of the scene, prominently display the company name or stock ticker in a large font size, followed by the specified date in extra-small font, and the stock price range in a medium-sized font. Include clear, intuitive stock trend icons and charts.
-
-All texts should be displayed in the language specified or entered by the user, without any background, and may subtly overlap with the scene elements to enhance overall design integration.
-
-Very Important:
-Before generating, ensure accurate and up-to-date stock market data based on the user-inputted company name or stock ticker and the specified date. If such data is unavailable, notify the user immediately and stop the generation process.
-
-Parameters:
-
-* Aspect ratio: {User input, default 4:3}
-* Date: {User input, current date}
-* Company name or stock ticker: {User input}
+      <title>RT @OrganicGPT: after months of denial, I've now realized @steipete was right: this feature of Codex...</title>
+      <link>https://x.com/steipete/status/2046727445512900658</link>
+      <guid isPermaLink="false">2046727445512900658</guid>
+      <pubDate>Tue, 21 Apr 2026 23:07:04 +0000</pubDate>
+      <description><![CDATA[RT @OrganicGPT: after months of denial, I've now realized @steipete was right: this feature of Codex is such a great unlock ↓ Claude casual…
 
 ---
+@steipete | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Boston Dynamics Legged #Robot Hits 20 MPH Powered by a Two-Stroke Engine
+by @Vir...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046727431365464352</link>
+      <guid isPermaLink="false">2046727431365464352</guid>
+      <pubDate>Tue, 21 Apr 2026 23:07:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Boston Dynamics Legged #Robot Hits 20 MPH Powered by a Two-Stroke Engine
+by @ViralRushX
 
-Company Name: Google
+#Robotics #Engineering #Innova…
 
 ---
-@dotey | ❤️ 15 | 🔁 2 | 💬 2 | 👁 1697]]></description>
-      <author>@dotey</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Biotech research exploring blood stem cells and DNA-inspired nano-therapies to treat space-caused ai...</title>
+      <link>https://x.com/Space_Station/status/2046727248430948641</link>
+      <guid isPermaLink="false">2046727248430948641</guid>
+      <pubDate>Tue, 21 Apr 2026 23:06:17 +0000</pubDate>
+      <description><![CDATA[Biotech research exploring blood stem cells and DNA-inspired nano-therapies to treat space-caused ailments and Earthbound illnesses topped Tuesday's science schedule. https://t.co/8cEJUgC2KU
+
+---
+@Space_Station | ❤️ 53 | 🔁 8 | 💬 8 | 👁 6896]]></description>
+      <author>@Space_Station</author>
     </item>
   </channel>
 </rss>
