@@ -5,197 +5,166 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 00:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 00:30:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>For the &quot;small test&quot; they've modified their docs to remove mention of Claude Code in Claud...</title>
-      <link>https://x.com/jeremyphoward/status/2046741451040751836</link>
-      <guid isPermaLink="false">2046741451040751836</guid>
-      <pubDate>Wed, 22 Apr 2026 00:02:43 +0000</pubDate>
-      <description><![CDATA[For the &quot;small test&quot; they've modified their docs to remove mention of Claude Code in Claude Pro: https://t.co/cG75PWlZyj
+      <title>Browser Use (open source) library makes big labs $250 Million per year.
 
-It's been a shock to see Anthropic's integrity collapse in the face of commercial pressure. Would love a renewed commitment to straightforward honesty.
+We make 0.</title>
+      <link>https://x.com/gregpr07/status/2046748314121740695</link>
+      <guid isPermaLink="false">2046748314121740695</guid>
+      <pubDate>Wed, 22 Apr 2026 00:29:59 +0000</pubDate>
+      <description><![CDATA[Browser Use (open source) library makes big labs $250 Million per year.
+
+We make 0.
 
 ---
-@jeremyphoward | ❤️ 7 | 🔁 0 | 💬 1 | 👁 436]]></description>
-      <author>@jeremyphoward</author>
+@gregpr07 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 4]]></description>
+      <author>@gregpr07</author>
     </item>
     <item>
-      <title>The most puzzling thing about this: if they want people to spend $100/month on Claude Code surely th...</title>
-      <link>https://x.com/simonw/status/2046741210170314917</link>
-      <guid isPermaLink="false">2046741210170314917</guid>
-      <pubDate>Wed, 22 Apr 2026 00:01:45 +0000</pubDate>
-      <description><![CDATA[The most puzzling thing about this: if they want people to spend $100/month on Claude Code surely those people need a $20/month option to try it out first?
+      <title>discrawl 0.3.0 is out.
 
-Who's going to drop $100 just to try it?
+This release adds Git-backed archive sync, so a Discord archive can be publi...</title>
+      <link>https://x.com/steipete/status/2046748122928263345</link>
+      <guid isPermaLink="false">2046748122928263345</guid>
+      <pubDate>Wed, 22 Apr 2026 00:29:13 +0000</pubDate>
+      <description><![CDATA[discrawl 0.3.0 is out.
 
----
-@simonw | ❤️ 9 | 🔁 0 | 💬 1 | 👁 675]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>autocorrect when? https://t.co/rJCrGMAznf</title>
-      <link>https://x.com/binance/status/2046740899590242653</link>
-      <guid isPermaLink="false">2046740899590242653</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:31 +0000</pubDate>
-      <description><![CDATA[autocorrect when? https://t.co/rJCrGMAznf
+This release adds Git-backed archive sync, so a Discord archive can be published to a private repo and queried locally without every user needing bot credentials.
+
+Also: auto-refresh, activity reports, field notes, faster imports. https://t.co/ZFGgZEFtFQ
 
 ---
-@binance | ❤️ 49 | 🔁 3 | 💬 54 | 👁 3404]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>OK, here's a resolution - I managed to get it to think using these settings:
-
-&quot;thinking&quot;: ...</title>
-      <link>https://x.com/simonw/status/2046740570140508252</link>
-      <guid isPermaLink="false">2046740570140508252</guid>
-      <pubDate>Tue, 21 Apr 2026 23:59:13 +0000</pubDate>
-      <description><![CDATA[OK, here's a resolution - I managed to get it to think using these settings:
-
-&quot;thinking&quot;: {
-    &quot;type&quot;: &quot;adaptive&quot;, &quot;display&quot;: &quot;summarized&quot;
-},
-&quot;output_config&quot;: {
-    &quot;effort&quot;: &quot;max&quot;
-}
-
-Without &quot;display&quot;: &quot;summarized&quot; I couldn't tell if it thought or not
-https://t.co/243TqqBTDC
-
----
-@simonw | ❤️ 7 | 🔁 0 | 💬 0 | 👁 712]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>RT @ClementDelangue: I’m hearing there’s renewed lobbying in DC and in state legislatures to ban or ...</title>
-      <link>https://x.com/steipete/status/2046740514775409148</link>
-      <guid isPermaLink="false">2046740514775409148</guid>
-      <pubDate>Tue, 21 Apr 2026 23:58:59 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: I’m hearing there’s renewed lobbying in DC and in state legislatures to ban or severely restrict open-source.
-
-Like a…
-
----
-@steipete | ❤️ 0 | 🔁 193 | 💬 0 | 👁 1]]></description>
+@steipete | ❤️ 6 | 🔁 0 | 💬 0 | 👁 400]]></description>
       <author>@steipete</author>
     </item>
     <item>
-      <title>澄清了</title>
-      <link>https://x.com/dotey/status/2046739939518185644</link>
-      <guid isPermaLink="false">2046739939518185644</guid>
-      <pubDate>Tue, 21 Apr 2026 23:56:42 +0000</pubDate>
-      <description><![CDATA[澄清了
+      <title>RT @Ronald_vanLoon: Wheeled Bipedal #Robot That Can Combine and Separate on Demand
+via @ZappyZappy7
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046747062448922635</link>
+      <guid isPermaLink="false">2046747062448922635</guid>
+      <pubDate>Wed, 22 Apr 2026 00:25:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Wheeled Bipedal #Robot That Can Combine and Separate on Demand
+via @ZappyZappy7
+
+#ArtificialIntelligence #Robotics #Mac…
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 2 | 👁 936]]></description>
-      <author>@dotey</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @chatgpt21: GPT Image-2 creates the biggest Gap in imagen history 🤯 https://t.co/yYE832JbGj</title>
-      <link>https://x.com/steipete/status/2046739927505772815</link>
-      <guid isPermaLink="false">2046739927505772815</guid>
-      <pubDate>Tue, 21 Apr 2026 23:56:39 +0000</pubDate>
-      <description><![CDATA[RT @chatgpt21: GPT Image-2 creates the biggest Gap in imagen history 🤯 https://t.co/yYE832JbGj
+      <title>60年来首次范式转移，AI改变的不只是能力
+
+你有没有想过，从命令行到图形界面，计算机和人的交互方式其实60年没有本质变化？点点点、输入输入，本质上还是在告诉机器&quot;做什么&quot;。
+
+N...</title>
+      <link>https://x.com/bearliu/status/2046747062566277421</link>
+      <guid isPermaLink="false">2046747062566277421</guid>
+      <pubDate>Wed, 22 Apr 2026 00:25:01 +0000</pubDate>
+      <description><![CDATA[60年来首次范式转移，AI改变的不只是能力
+
+你有没有想过，从命令行到图形界面，计算机和人的交互方式其实60年没有本质变化？点点点、输入输入，本质上还是在告诉机器&quot;做什么&quot;。
+
+Nielsen的这篇文章戳中了一个关键点：AI代表的第三个UI范式，根本上反转了控制权。你不再需要拆解步骤去命令机器执行，而是直接告诉它你想要什么结果。从&quot;how&quot;到&quot;what&quot;，看似简单的转变，其实是交互设计60年来最大的转折。
+
+但这里有个现实的问题。Nielsen观察到大约50%的人其实说不清自己真正需要什么。所以AI系统的竞争力，逐渐演变成了能否&quot;猜对&quot;用户的隐性意图——不仅仅听你说了什么，还要理解你想要什么。这也解释了为什么目前的混合式界面（既保留点击交互，又加入意图识别）成了现阶段的最优方案。
+
+我在做设计时，越来越觉得这个洞察很实用。好的AI产品设计，要在两个范式之间找到平衡：让意图表达更自然，但不放弃用户对过程的可见性和掌控感。这可能是未来AI界面设计的核心竞争力所在。
+
+原文链接：https://t.co/2Uh2lFfvzK
 
 ---
-@steipete | ❤️ 0 | 🔁 40 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 65]]></description>
+      <author>@bearliu</author>
     </item>
     <item>
-      <title>RT @pedroh96: OpenClaw is the fastest-growing open source project, but there are no stories of runni...</title>
-      <link>https://x.com/steipete/status/2046737502359224537</link>
-      <guid isPermaLink="false">2046737502359224537</guid>
-      <pubDate>Tue, 21 Apr 2026 23:47:01 +0000</pubDate>
-      <description><![CDATA[RT @pedroh96: OpenClaw is the fastest-growing open source project, but there are no stories of running it safely in production at scale. As…
+      <title>General-Purpose #Robots With Superhuman Hands Are Coming Fast
+by @TheHumanoidHub
+
+#Robotics #Artific...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046745880959615272</link>
+      <guid isPermaLink="false">2046745880959615272</guid>
+      <pubDate>Wed, 22 Apr 2026 00:20:19 +0000</pubDate>
+      <description><![CDATA[General-Purpose #Robots With Superhuman Hands Are Coming Fast
+by @TheHumanoidHub
+
+#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/x7TPKXFHMF
 
 ---
-@steipete | ❤️ 0 | 🔁 78 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 69]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @soumitrashukla9: Anthropic: Keeps limiting compute and lying to playing customers / nerfing mode...</title>
-      <link>https://x.com/steipete/status/2046737254215778658</link>
-      <guid isPermaLink="false">2046737254215778658</guid>
-      <pubDate>Tue, 21 Apr 2026 23:46:02 +0000</pubDate>
-      <description><![CDATA[RT @soumitrashukla9: Anthropic: Keeps limiting compute and lying to playing customers / nerfing models.
+      <title>good analysis. rumors had pegged the fundraise at $50B so this basically values Cursor at $50B premo...</title>
+      <link>https://x.com/swyx/status/2046744203409989918</link>
+      <guid isPermaLink="false">2046744203409989918</guid>
+      <pubDate>Wed, 22 Apr 2026 00:13:39 +0000</pubDate>
+      <description><![CDATA[good analysis. rumors had pegged the fundraise at $50B so this basically values Cursor at $50B premoney with a $10B revenue (11 figures!) exclusive model contract with xai.
 
-OpenAI: 
-
-- 10 min downtime? Limit…
+https://t.co/KTydy5jUF2
 
 ---
-@steipete | ❤️ 0 | 🔁 26 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>RT @ScottWu46: here we go again</title>
-      <link>https://x.com/swyx/status/2046736674973987200</link>
-      <guid isPermaLink="false">2046736674973987200</guid>
-      <pubDate>Tue, 21 Apr 2026 23:43:44 +0000</pubDate>
-      <description><![CDATA[RT @ScottWu46: here we go again
-
----
-@swyx | ❤️ 0 | 🔁 32 | 💬 0 | 👁 2]]></description>
+@swyx | ❤️ 3 | 🔁 0 | 💬 1 | 👁 957]]></description>
       <author>@swyx</author>
     </item>
     <item>
-      <title>这个有点愚蠢了…
-做好自己的事儿吧
-卸载不送</title>
-      <link>https://x.com/oran_ge/status/2046735906594512947</link>
-      <guid isPermaLink="false">2046735906594512947</guid>
-      <pubDate>Tue, 21 Apr 2026 23:40:41 +0000</pubDate>
-      <description><![CDATA[这个有点愚蠢了…
-做好自己的事儿吧
-卸载不送
+      <title>RT @thsottiaux: I don't know what they are doing over there, but Codex will continue to be available...</title>
+      <link>https://x.com/nickbaumann_/status/2046743147804549258</link>
+      <guid isPermaLink="false">2046743147804549258</guid>
+      <pubDate>Wed, 22 Apr 2026 00:09:27 +0000</pubDate>
+      <description><![CDATA[RT @thsottiaux: I don't know what they are doing over there, but Codex will continue to be available both in the FREE and PLUS ($20) plans.…
 
 ---
-@oran_ge | ❤️ 1 | 🔁 0 | 💬 3 | 👁 1186]]></description>
-      <author>@oran_ge</author>
+@nickbaumann_ | ❤️ 0 | 🔁 88 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>RT @Mayank_022: I tested @huggingface  ml-intern, given the prompt
-
-&quot;Fine-tune a Segment Anythi...</title>
-      <link>https://x.com/_akhaliq/status/2046735735969984630</link>
-      <guid isPermaLink="false">2046735735969984630</guid>
-      <pubDate>Tue, 21 Apr 2026 23:40:00 +0000</pubDate>
-      <description><![CDATA[RT @Mayank_022: I tested @huggingface  ml-intern, given the prompt
-
-&quot;Fine-tune a Segment Anything Model (SAM) on a useful medical dataset.…
+      <title>RT @embirico: You can use Codex on these plans:
+- Plus: $20
+-- Go: $8
+--- Free: $0!</title>
+      <link>https://x.com/nickbaumann_/status/2046743022914974061</link>
+      <guid isPermaLink="false">2046743022914974061</guid>
+      <pubDate>Wed, 22 Apr 2026 00:08:57 +0000</pubDate>
+      <description><![CDATA[RT @embirico: You can use Codex on these plans:
+- Plus: $20
+-- Go: $8
+--- Free: $0!
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 21 | 💬 0 | 👁 0]]></description>
+@nickbaumann_ | ❤️ 0 | 🔁 45 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>RT @_lewtun: OpenAI's first AI intern is expected by the end of this year, but we got impatient and ...</title>
+      <link>https://x.com/_akhaliq/status/2046742613928075549</link>
+      <guid isPermaLink="false">2046742613928075549</guid>
+      <pubDate>Wed, 22 Apr 2026 00:07:20 +0000</pubDate>
+      <description><![CDATA[RT @_lewtun: OpenAI's first AI intern is expected by the end of this year, but we got impatient and decided to build it ourselves :)
+
+&amp;gt; Run…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
       <author>@_akhaliq</author>
     </item>
     <item>
-      <title>My hunch for now is that this was an ill-considered test which they didn't anticipate would be insta...</title>
-      <link>https://x.com/simonw/status/2046735565555630512</link>
-      <guid isPermaLink="false">2046735565555630512</guid>
-      <pubDate>Tue, 21 Apr 2026 23:39:19 +0000</pubDate>
-      <description><![CDATA[My hunch for now is that this was an ill-considered test which they didn't anticipate would be instantly spotted and cause (justified) uproar - here's hoping they decide that the &quot;test&quot; isn't a good idea!
+      <title>RT @Thom_Wolf: Love this work from Aksel and the post-training team at Hugging Face!
 
-If they do go ahead I expect OpenAI Codex to catch Claude Code very fast
+Turns out the ...</title>
+      <link>https://x.com/_akhaliq/status/2046742590179938554</link>
+      <guid isPermaLink="false">2046742590179938554</guid>
+      <pubDate>Wed, 22 Apr 2026 00:07:14 +0000</pubDate>
+      <description><![CDATA[RT @Thom_Wolf: Love this work from Aksel and the post-training team at Hugging Face!
 
----
-@simonw | ❤️ 101 | 🔁 4 | 💬 12 | 👁 4266]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>📸 GPT-Image-2 is now live on https://t.co/1vEawpI5vb 
-
-And it's great for photos of people (too) htt...</title>
-      <link>https://x.com/levelsio/status/2046735438128333096</link>
-      <guid isPermaLink="false">2046735438128333096</guid>
-      <pubDate>Tue, 21 Apr 2026 23:38:49 +0000</pubDate>
-      <description><![CDATA[📸 GPT-Image-2 is now live on https://t.co/1vEawpI5vb 
-
-And it's great for photos of people (too) https://t.co/SVezBonGIs
+Turns out the HF ecosystem (papers, datasets, models…
 
 ---
-@levelsio | ❤️ 35 | 🔁 0 | 💬 2 | 👁 6095]]></description>
-      <author>@levelsio</author>
+@_akhaliq | ❤️ 0 | 🔁 16 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
   </channel>
 </rss>
