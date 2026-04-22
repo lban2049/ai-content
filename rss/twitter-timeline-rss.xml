@@ -5,369 +5,78 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 15:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:31:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>我说做《控制》的这个团队，是很懂设计的，其中一个原因是他们的整个游戏的文件 UI 界面用的是 Swiss 风格。
+      <title>RT @threeaus: Anthropic 的哲学家@AmandaAskell 最近参加了一个访谈，在访谈中她分享了自己探索好奇领域的一个方法。
 
-Swiss 是一种非常常见的正式设计风格，比如说银行、政府就经常使用。大量使用非衬线...</title>
-      <link>https://x.com/bearliu/status/2046968787094651132</link>
-      <guid isPermaLink="false">2046968787094651132</guid>
-      <pubDate>Wed, 22 Apr 2026 15:06:04 +0000</pubDate>
-      <description><![CDATA[我说做《控制》的这个团队，是很懂设计的，其中一个原因是他们的整个游戏的文件 UI 界面用的是 Swiss 风格。
+提示词大概是：… https://t.co/f0...</title>
+      <link>https://x.com/dotey/status/2046973169785823260</link>
+      <guid isPermaLink="false">2046973169785823260</guid>
+      <pubDate>Wed, 22 Apr 2026 15:23:29 +0000</pubDate>
+      <description><![CDATA[RT @threeaus: Anthropic 的哲学家@AmandaAskell 最近参加了一个访谈，在访谈中她分享了自己探索好奇领域的一个方法。
 
-Swiss 是一种非常常见的正式设计风格，比如说银行、政府就经常使用。大量使用非衬线字体，讲究简洁规范，冷静理性，非常有秩序感。
-
-这一风格很适合游戏里的联邦控制局的设定，而且和重要建筑 The Oldest House 的风格也是互相吻合的。
-
-最诡异的是，所有在这个空间和设定里发生的事情都是超自然和非理性的。于是就形成了一种用最理性、最官僚、最保守的 Swiss 设计，去解释非理性和超现实的东西。
-
-怪不得这个游戏的名字叫做《控制》。控制不只是玩法是控制物体，还有一种想用科学的理性去控制超自然的非理性。但人类真能有这样的能力去解释自己稍微真正理解的事物吗？
-
-有意思啊，比 AI 有意思多了。
+提示词大概是：… https://t.co/f0EvgfpAnM
 
 ---
-@bearliu | ❤️ 3 | 🔁 0 | 💬 0 | 👁 156]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>RT @josephcohen: We designed Olto to be the ultimate bike lane vehicle. Two passengers. 40 miles of ...</title>
-      <link>https://x.com/danshipper/status/2046967578241757234</link>
-      <guid isPermaLink="false">2046967578241757234</guid>
-      <pubDate>Wed, 22 Apr 2026 15:01:16 +0000</pubDate>
-      <description><![CDATA[RT @josephcohen: We designed Olto to be the ultimate bike lane vehicle. Two passengers. 40 miles of range. Cargo capacity. Theft proof. No…
-
----
-@danshipper | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>The bigger shift is this:
-
-AI is compressing the creative production loop.
-
-Prompt → 3D scene → refi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046967420166815772</link>
-      <guid isPermaLink="false">2046967420166815772</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:38 +0000</pubDate>
-      <description><![CDATA[The bigger shift is this:
-
-AI is compressing the creative production loop.
-
-Prompt → 3D scene → refine → ship.
-
-I break down how Autodesk Flow Studio enables this workflow in the video.
-
-Don't miss out on the latest AI advancements! Sign up here to stay informed! https://t.co/f2DCNN4jK4
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 60]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Another important piece is interoperability.
-
-Once the AI generates the scene, it can export via USD...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046967416228290590</link>
-      <guid isPermaLink="false">2046967416228290590</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:37 +0000</pubDate>
-      <description><![CDATA[Another important piece is interoperability.
-
-Once the AI generates the scene, it can export via USD into tools like:
-
-→ Maya
-→ Blender
-→ Unreal Engine
-→ 3ds Max
-
-AI becomes the scene creation layer, while traditional tools remain the refinement layer.
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 56]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>What if a single text prompt could generate an entire animated 3D scene?
-
-Not a concept.
-
-A real sce...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046967405977411887</link>
-      <guid isPermaLink="false">2046967405977411887</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:35 +0000</pubDate>
-      <description><![CDATA[What if a single text prompt could generate an entire animated 3D scene?
-
-Not a concept.
-
-A real scene you can edit and export into production tools.
-
-AI is starting to compress what used to be an entire VFX pipeline into one step.
-
-I recently explored how this works with @autodesk.
-
-And the implications for creative production are huge.
-
-Let’s break it down.
-
----
-@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 2 | 👁 75]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>codex 可以使用 gpt image 2 的话，wanman 就有了原生的设计师能力，甚至稍微改造一下就可以在任务运行中生成对应产品网页和 app 的各种视图（在编码之前）在这方面 claude ...</title>
-      <link>https://x.com/turingou/status/2046966745345499272</link>
-      <guid isPermaLink="false">2046966745345499272</guid>
-      <pubDate>Wed, 22 Apr 2026 14:57:57 +0000</pubDate>
-      <description><![CDATA[codex 可以使用 gpt image 2 的话，wanman 就有了原生的设计师能力，甚至稍微改造一下就可以在任务运行中生成对应产品网页和 app 的各种视图（在编码之前）在这方面 claude 可以说这一轮败在了下风。
-
----
-@turingou | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1878]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>帮转招人信息</title>
-      <link>https://x.com/dotey/status/2046966432257167502</link>
-      <guid isPermaLink="false">2046966432257167502</guid>
-      <pubDate>Wed, 22 Apr 2026 14:56:42 +0000</pubDate>
-      <description><![CDATA[帮转招人信息
-
----
-@dotey | ❤️ 2 | 🔁 1 | 💬 0 | 👁 1305]]></description>
+@dotey | ❤️ 0 | 🔁 22 | 💬 0 | 👁 2]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Laser engraving creating stunning detail on cloth
-by @amazingthings_
-  
-#Innovat...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046965500924555435</link>
-      <guid isPermaLink="false">2046965500924555435</guid>
-      <pubDate>Wed, 22 Apr 2026 14:53:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Laser engraving creating stunning detail on cloth
-by @amazingthings_
-  
-#Innovation #EmergingTech #Tech #Technology https…
+      <title>Tesla Tests Full Self-Driving with Model Y on Japanese Roads
+by @Kenmaeda77
+ 
+#SelfDrivingCars #Auto...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046973090425430086</link>
+      <guid isPermaLink="false">2046973090425430086</guid>
+      <pubDate>Wed, 22 Apr 2026 15:23:10 +0000</pubDate>
+      <description><![CDATA[Tesla Tests Full Self-Driving with Model Y on Japanese Roads
+by @Kenmaeda77
+ 
+#SelfDrivingCars #AutonomousVehicles #AI #ArtificialIntelligence #Automation #Automotive #Transport https://t.co/Pv13iWLLWo
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 81]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>God these people are annoying. Obnoxious comment and the guy can’t be bothered to notice the front t...</title>
-      <link>https://x.com/GaryMarcus/status/2046964883485319479</link>
-      <guid isPermaLink="false">2046964883485319479</guid>
-      <pubDate>Wed, 22 Apr 2026 14:50:33 +0000</pubDate>
-      <description><![CDATA[God these people are annoying. Obnoxious comment and the guy can’t be bothered to notice the front tire that is labeled as a fork 🙄 
-
-Or to notice the front brake that’s lost its cable and is hovering unattached to the frame. 
-
-Have fun riding this one!
+      <title>RT @pmarca: Some SPLC donors were tricked into funding white nationalist hate groups. That’s bad. So...</title>
+      <link>https://x.com/elonmusk/status/2046973012507832393</link>
+      <guid isPermaLink="false">2046973012507832393</guid>
+      <pubDate>Wed, 22 Apr 2026 15:22:51 +0000</pubDate>
+      <description><![CDATA[RT @pmarca: Some SPLC donors were tricked into funding white nationalist hate groups. That’s bad. Some SPLC donors knew they were funding w…
 
 ---
-@GaryMarcus | ❤️ 6 | 🔁 1 | 💬 4 | 👁 1285]]></description>
-      <author>@GaryMarcus</author>
+@elonmusk | ❤️ 0 | 🔁 320 | 💬 0 | 👁 2]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>I got that little Home Assistant box https://t.co/q6afmz6k14
-
-I can highly recommend Home Assistant ...</title>
-      <link>https://x.com/levelsio/status/2046964105739657564</link>
-      <guid isPermaLink="false">2046964105739657564</guid>
-      <pubDate>Wed, 22 Apr 2026 14:47:28 +0000</pubDate>
-      <description><![CDATA[I got that little Home Assistant box https://t.co/q6afmz6k14
-
-I can highly recommend Home Assistant in general, I was recommended it by @johnonolan and @daniellockyer I remember
-
-When I bought my house I hated home automation and didn't want any, cause I had so many bad experiences with some app you have to install in a hotel room or Airbnb and it always sucked so bad with some stupid iPad and there's no light swtiches, gladly F off
-
-99% of home automation is just terrible
-
-Home Assistant is open source and it's cool because everyone else with it makes plugins (integrations) to connect any device to it
-
-Which solves the biggest problem in home automation, there's many different walled gardens: Amazon has Alexa, Apple has Homepod, Google has Google Home, and when you buy a smart device, it'll only work with a few of them or only one
-
-That's where Home Assistant comes in, because it's open source, people hack all these devices to work on Home Assistant, so you can actually control EVERYTHING and I mean EVERYTHING
-
-Our house came with a KNX system installed by the electricians, KNX is some more low level home automation system but also quite open, and last week he helped me export his KNX project file and add it my Home Assistant and it's great because everything still has regular light buttons
-
-But now I can fix tiny annoyances in this house easily with AI talking to Home Assistant, like shut off the annoying toilet vent that people forget to switch off and just auto switch off after 15 min, or make the lights red at 10pm, or kill those ugly Portugal white LED spots permanently
-
-Home automation is best when it gets into the background and just does things and doesn't annoy you like I said that 99% of home automation integrations in hotels and Airbnb do
-
-It should be analog by default (analog switches) and then customizable on top of that
+      <title>GPT 5.5 will be another GPT 5.4 moment.</title>
+      <link>https://x.com/tunguz/status/2046971981715665227</link>
+      <guid isPermaLink="false">2046971981715665227</guid>
+      <pubDate>Wed, 22 Apr 2026 15:18:45 +0000</pubDate>
+      <description><![CDATA[GPT 5.5 will be another GPT 5.4 moment.
 
 ---
-@levelsio | ❤️ 60 | 🔁 4 | 💬 14 | 👁 8222]]></description>
-      <author>@levelsio</author>
+@tunguz | ❤️ 12 | 🔁 0 | 💬 2 | 👁 608]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>There seems to be some excitement around “ChatGPT’s powerful new image engine”, but as ever, its fun...</title>
-      <link>https://x.com/GaryMarcus/status/2046963740310937730</link>
-      <guid isPermaLink="false">2046963740310937730</guid>
-      <pubDate>Wed, 22 Apr 2026 14:46:01 +0000</pubDate>
-      <description><![CDATA[There seems to be some excitement around “ChatGPT’s powerful new image engine”, but as ever, its functional understanding of the world seems limited. 
-
-I first learned about the new system when some some smart aleck on X sent me an example of the new system trying to label a bike (an example I have considered before), with the caption “Uh oh”, apparently believing that my longstanding challenges to image generation had been solved. 
-￼
-It does look impressive on first inspection, better than some examples I showed here before. 
-
-But if you look closely, there are several errors, and those errors are revealing. For example, the rear center-pull (?) brake was mislabeled as the seat stay, and the big gear on the back was mislabeled as the rear brake. There was a label for a spoke that is pointing to blank space.
-
-In many modern bikes, of course, a rear brake can be found back there, but not in this diagram. Instead this system has combined a typical position for a modern disc brake system with a diagram of an older (though still in use) caliper (or similar) system. The system doesn’t actually understand how the various parts function.
-
-And of course there are literally hundreds of labeled bikes on the internet as a quick Google Image Search would reveal. (Which is why my usual test here has been a tandem bike, to make things a little more challenging.)
-
-To up the degree of difficulty, I asked ChatGPT to “please draw a taller than average tandem bike, and include a bike rack and panniers”, which is not something you could readily find on the internet, and not something I used here before, and got the bike-wreck of a picture I include below.
-
-Bike nuts would have a field day finding problems with it. (Feel free to drop your favorite error in the comments). 
-
-Suffice to say that most people don’t stuff their rear derailleur in the back wheel. And I don’t even know what to say about that “rear brake lever”, or the saddle-shaped rear handlebar, let alone the “rear brake” that is somehow part of the rear rack. 
-
-As in the first example, the lack of functional understanding is manifest.
-
-Of course, to be fair, the average human couldn’t complete this task, either. 
-
-But anybody knowledgeable about bikes (racers, mechanics, designers etc) would immediately see numerous problems. 
-
-And honestly is anybody tall enough to ride in the front?
+      <title>GPT-Image-2 正式登陆 ListenHub
+24小时限时福利:  
+每位用户均可享100 张免费生图额度
+数量有限，先到先得，送完为止</title>
+      <link>https://x.com/oran_ge/status/2046971642245775732</link>
+      <guid isPermaLink="false">2046971642245775732</guid>
+      <pubDate>Wed, 22 Apr 2026 15:17:25 +0000</pubDate>
+      <description><![CDATA[GPT-Image-2 正式登陆 ListenHub
+24小时限时福利:  
+每位用户均可享100 张免费生图额度
+数量有限，先到先得，送完为止
 
 ---
-@GaryMarcus | ❤️ 13 | 🔁 4 | 💬 3 | 👁 1276]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>刚体验了下 GPT Images 2，水平完全可以替代 claude design ...</title>
-      <link>https://x.com/turingou/status/2046963191130013958</link>
-      <guid isPermaLink="false">2046963191130013958</guid>
-      <pubDate>Wed, 22 Apr 2026 14:43:50 +0000</pubDate>
-      <description><![CDATA[刚体验了下 GPT Images 2，水平完全可以替代 claude design ...
-
----
-@turingou | ❤️ 20 | 🔁 0 | 💬 4 | 👁 3843]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>RT @MrEwanMorrison: Why do no &quot;AI safety&quot; people ever say how LLM AIs failed to live up to...</title>
-      <link>https://x.com/GaryMarcus/status/2046963186558017935</link>
-      <guid isPermaLink="false">2046963186558017935</guid>
-      <pubDate>Wed, 22 Apr 2026 14:43:49 +0000</pubDate>
-      <description><![CDATA[RT @MrEwanMorrison: Why do no &quot;AI safety&quot; people ever say how LLM AIs failed to live up to the hype?
-
-Why do the safety people never share…
-
----
-@GaryMarcus | ❤️ 0 | 🔁 22 | 💬 0 | 👁 0]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>RT @MIT_CSAIL: Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of Interna...</title>
-      <link>https://x.com/MIT_CSAIL/status/2046962780213854461</link>
-      <guid isPermaLink="false">2046962780213854461</guid>
-      <pubDate>Wed, 22 Apr 2026 14:42:12 +0000</pubDate>
-      <description><![CDATA[RT @MIT_CSAIL: Today, MIT &amp;amp; the IMO released MathNet, the world’s largest dataset of International Math Olympiad problems &amp;amp; solutions 🌍
-
-Ma…
-
----
-@MIT_CSAIL | ❤️ 0 | 🔁 481 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
-    </item>
-    <item>
-      <title>把 Mac mini 当 CI/CD 这么久了，今天才学会怎么让它更好的跑 Xcode 的 UI 自动化测试，那就是要先执行这条命令：
-
-sudo automationmodetool enable-...</title>
-      <link>https://x.com/tualatrix/status/2046962674639282540</link>
-      <guid isPermaLink="false">2046962674639282540</guid>
-      <pubDate>Wed, 22 Apr 2026 14:41:47 +0000</pubDate>
-      <description><![CDATA[把 Mac mini 当 CI/CD 这么久了，今天才学会怎么让它更好的跑 Xcode 的 UI 自动化测试，那就是要先执行这条命令：
-
-sudo automationmodetool enable-automationmode-without-authentication
-
-不然 UI 测试前会让你输入密码。
-
----
-@tualatrix | ❤️ 8 | 🔁 1 | 💬 0 | 👁 1092]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>Also available on:
-
-Spotify: https://t.co/110HZoHaLI
-
-Apple: https://t.co/shNRmPP2Wb
-
-Newsletter: ht...</title>
-      <link>https://x.com/petergyang/status/2046961532983193691</link>
-      <guid isPermaLink="false">2046961532983193691</guid>
-      <pubDate>Wed, 22 Apr 2026 14:37:14 +0000</pubDate>
-      <description><![CDATA[Also available on:
-
-Spotify: https://t.co/110HZoHaLI
-
-Apple: https://t.co/shNRmPP2Wb
-
-Newsletter: https://t.co/t7w4L5uDfp
-
----
-@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 568]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>&quot;In the 1950s, we met users at a bank. In the 70s, an ATM. In the 90s and 2000s, a website and ...</title>
-      <link>https://x.com/petergyang/status/2046961520970777029</link>
-      <guid isPermaLink="false">2046961520970777029</guid>
-      <pubDate>Wed, 22 Apr 2026 14:37:11 +0000</pubDate>
-      <description><![CDATA[&quot;In the 1950s, we met users at a bank. In the 70s, an ATM. In the 90s and 2000s, a website and a mobile app. Today, it's APIs and MCPs.&quot;
-
-Here's my new episode with @rywiggs (Mercury's VP of Product) where he shares:
-
-✅ How to build great APIs + MCPs for agents
-
-✅ How to create a Claude Code second brain to 2x your productivity at work
-
-✅ What @mercury's data reveals about OpenAI and Anthropic's race for the enterprise
-
-Some quotes from Ryan:
-
-&quot;Don't start with the MCP. Start with the foundation. Build great APIs first.&quot;
-
-&quot;I pulled 5M words from my last 5 years of PM work into Claude Code (using QMD search). That's the base of my second brain.&quot;
-
-&quot;After meetings, Claude tells me when I did something from my performance review. It keeps me accountable daily.&quot;
-
-📌 Watch now: https://t.co/mr2ZwGFHm4
-
-Thanks to our sponsors:
-
-@WisprFlow: Don't type, just speak https://t.co/oqHJ8bN3ll
-
-@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs
-
----
-@petergyang | ❤️ 5 | 🔁 0 | 💬 2 | 👁 1136]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>会话管理功能优化，批量删除、自动标题、搜索高亮以及性能优化 https://t.co/zymdQ49kPp</title>
-      <link>https://x.com/Jason_Young1231/status/2046961230620119282</link>
-      <guid isPermaLink="false">2046961230620119282</guid>
-      <pubDate>Wed, 22 Apr 2026 14:36:02 +0000</pubDate>
-      <description><![CDATA[会话管理功能优化，批量删除、自动标题、搜索高亮以及性能优化 https://t.co/zymdQ49kPp
-
----
-@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 140]]></description>
-      <author>@Jason_Young1231</author>
-    </item>
-    <item>
-      <title>优化用量统计，更新模型价格、路由模式去重以及更细的数据查询粒度 https://t.co/UgS6RxrRZ6</title>
-      <link>https://x.com/Jason_Young1231/status/2046960551902019650</link>
-      <guid isPermaLink="false">2046960551902019650</guid>
-      <pubDate>Wed, 22 Apr 2026 14:33:20 +0000</pubDate>
-      <description><![CDATA[优化用量统计，更新模型价格、路由模式去重以及更细的数据查询粒度 https://t.co/UgS6RxrRZ6
-
----
-@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 1 | 👁 172]]></description>
-      <author>@Jason_Young1231</author>
+@oran_ge | ❤️ 3 | 🔁 0 | 💬 0 | 👁 1002]]></description>
+      <author>@oran_ge</author>
     </item>
   </channel>
 </rss>
