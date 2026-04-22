@@ -5,65 +5,63 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 06:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:31:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @touchgrassklub: Friendly Machines is happening next Tuesday!
-
-We’re exploring how Hermes by @Nou...</title>
-      <link>https://x.com/NousResearch/status/2046831610356539730</link>
-      <guid isPermaLink="false">2046831610356539730</guid>
-      <pubDate>Wed, 22 Apr 2026 06:00:58 +0000</pubDate>
-      <description><![CDATA[RT @touchgrassklub: Friendly Machines is happening next Tuesday!
-
-We’re exploring how Hermes by @NousResearch and Claude are used to build…
+      <title>True</title>
+      <link>https://x.com/elonmusk/status/2046839153787089295</link>
+      <guid isPermaLink="false">2046839153787089295</guid>
+      <pubDate>Wed, 22 Apr 2026 06:30:57 +0000</pubDate>
+      <description><![CDATA[True
 
 ---
-@NousResearch | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
+@elonmusk | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>Drop the funniest WiFi name you’ve come across 👇</title>
-      <link>https://x.com/binance/status/2046831455733530922</link>
-      <guid isPermaLink="false">2046831455733530922</guid>
-      <pubDate>Wed, 22 Apr 2026 06:00:21 +0000</pubDate>
-      <description><![CDATA[Drop the funniest WiFi name you’ve come across 👇
+      <title>Land-Air Dual-Use Variable-Form #Drone: A Shape-Shifting Hybrid for Ground and Sky Mobility
+via @Zap...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046837197890822418</link>
+      <guid isPermaLink="false">2046837197890822418</guid>
+      <pubDate>Wed, 22 Apr 2026 06:23:11 +0000</pubDate>
+      <description><![CDATA[Land-Air Dual-Use Variable-Form #Drone: A Shape-Shifting Hybrid for Ground and Sky Mobility
+via @ZappyZappy7
+
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/fGv3qDCjIX
 
 ---
-@binance | ❤️ 16 | 🔁 3 | 💬 19 | 👁 516]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: AGIBOT Unveils Genie G2: Next-Generation Wheeled Humanoid #Robot
-by @CyberRobooo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046830611952771076</link>
-      <guid isPermaLink="false">2046830611952771076</guid>
-      <pubDate>Wed, 22 Apr 2026 05:57:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: AGIBOT Unveils Genie G2: Next-Generation Wheeled Humanoid #Robot
-by @CyberRobooo
-  
-#Robotics #EmergingTech #Innovation…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 55]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Enhancing #SupplyChain Operations with Intelligent Process #Automation
-by @antgrasso
+      <title>What do builders and leaders need to learn to thrive in the Agentforce transformation? #Sponsored
 
-#DigitalTransf...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046828853939572905</link>
-      <guid isPermaLink="false">2046828853939572905</guid>
-      <pubDate>Wed, 22 Apr 2026 05:50:01 +0000</pubDate>
-      <description><![CDATA[Enhancing #SupplyChain Operations with Intelligent Process #Automation
-by @antgrasso
+A...</title>
+      <link>https://x.com/YuHelenYu/status/2046835074101059664</link>
+      <guid isPermaLink="false">2046835074101059664</guid>
+      <pubDate>Wed, 22 Apr 2026 06:14:44 +0000</pubDate>
+      <description><![CDATA[What do builders and leaders need to learn to thrive in the Agentforce transformation? #Sponsored
 
-#DigitalTransformation #Logistics #EmergingTech #Innovation #Technology https://t.co/6GR15257rT
+At @Salesforce TDX, Joe Inzerillo made a clear point: we’re not just adding AI; we’re onboarding a new kind of labor.
+
+That changes everything about how we build software.
+I used to design → build → test → deploy.
+In the agentic world, you shape behavior, not just ship code.
+
+In this conversation (streamed on @Salesforceplus1), we break down:
+• Why agents aren’t traditional software
+• The 4-layer enterprise AI architecture
+• What this shift means for developers + CIOs
+
+👉 Watch the full conversation: https://t.co/mxVeP9eDgh - https://t.co/Fs4X62pGai
+
+Or check out our conversation on #CXOSpice  https://t.co/nvd5gbZdYx
+
+#SalesforcePartner #Agentforce #Developers #TDX26
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 1 | 👁 77]]></description>
-      <author>@Ronald_vanLoon</author>
+@YuHelenYu | ❤️ 3 | 🔁 1 | 💬 0 | 👁 37]]></description>
+      <author>@YuHelenYu</author>
     </item>
   </channel>
 </rss>
