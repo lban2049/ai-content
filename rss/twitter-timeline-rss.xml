@@ -5,35 +5,71 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:01:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Construction #Robot Prints Building Plans Directly on the Floor
-by @lukas_m_ziegler
+      <title>#AI And The New Game Of Human Flourishing
+via Wade Hang Song @Forbes
 
-#Robotics #Engi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046896353217790191</link>
-      <guid isPermaLink="false">2046896353217790191</guid>
-      <pubDate>Wed, 22 Apr 2026 10:18:14 +0000</pubDate>
-      <description><![CDATA[Construction #Robot Prints Building Plans Directly on the Floor
-by @lukas_m_ziegler
+Learn more: https://t.co/k9KYI...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046905859368690055</link>
+      <guid isPermaLink="false">2046905859368690055</guid>
+      <pubDate>Wed, 22 Apr 2026 10:56:01 +0000</pubDate>
+      <description><![CDATA[#AI And The New Game Of Human Flourishing
+via Wade Hang Song @Forbes
 
-#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/HTrhFDRfyk
+Learn more: https://t.co/k9KYIbOwYm
+ 
+#ArtificialIntelligence #MachineLearning #ML https://t.co/MeCrJ2bhNB
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 104]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 35]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>大多数AI工作者的日常：我们并不创造新的东西，我们只是 AI 的搬运工</title>
-      <link>https://x.com/bearliu/status/2046892043440447688</link>
-      <guid isPermaLink="false">2046892043440447688</guid>
-      <pubDate>Wed, 22 Apr 2026 10:01:07 +0000</pubDate>
-      <description><![CDATA[大多数AI工作者的日常：我们并不创造新的东西，我们只是 AI 的搬运工
+      <title>这本书，也是我非常喜欢的
+
+在 YouMind 中的生成提示词：
+搜索《禅与摩托车维修艺术》这本书的信息，为其也生成一张推荐图，用 GPT Image 2 模型
+
+太喜欢了
+不仅是生图，也是一种重新学...</title>
+      <link>https://x.com/lifesinger/status/2046903238818140590</link>
+      <guid isPermaLink="false">2046903238818140590</guid>
+      <pubDate>Wed, 22 Apr 2026 10:45:36 +0000</pubDate>
+      <description><![CDATA[这本书，也是我非常喜欢的
+
+在 YouMind 中的生成提示词：
+搜索《禅与摩托车维修艺术》这本书的信息，为其也生成一张推荐图，用 GPT Image 2 模型
+
+太喜欢了
+不仅是生图，也是一种重新学习 https://t.co/yiscRtzmoD
 
 ---
-@bearliu | ❤️ 3 | 🔁 0 | 💬 1 | 👁 421]]></description>
+@lifesinger | ❤️ 6 | 🔁 0 | 💬 1 | 👁 406]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>@lifesinger 比起 AI 产品，游戏的设计太精妙了，主要是个人感兴趣，哈哈</title>
+      <link>https://x.com/bearliu/status/2046902699174826214</link>
+      <guid isPermaLink="false">2046902699174826214</guid>
+      <pubDate>Wed, 22 Apr 2026 10:43:27 +0000</pubDate>
+      <description><![CDATA[@lifesinger 比起 AI 产品，游戏的设计太精妙了，主要是个人感兴趣，哈哈
+
+---
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 50]]></description>
       <author>@bearliu</author>
+    </item>
+    <item>
+      <title>RT @dhh: I've been a K2.5 superfan since it came out. These new numbers for the next version look in...</title>
+      <link>https://x.com/Kimi_Moonshot/status/2046901882724184275</link>
+      <guid isPermaLink="false">2046901882724184275</guid>
+      <pubDate>Wed, 22 Apr 2026 10:40:13 +0000</pubDate>
+      <description><![CDATA[RT @dhh: I've been a K2.5 superfan since it came out. These new numbers for the next version look incredible. You gotta love competition!
+
+---
+@Kimi_Moonshot | ❤️ 0 | 🔁 62 | 💬 0 | 👁 1]]></description>
+      <author>@Kimi_Moonshot</author>
     </item>
   </channel>
 </rss>
