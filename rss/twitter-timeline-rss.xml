@@ -5,179 +5,189 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 01:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:08:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Mum, can we have the SpaceX IDE?”
+      <title>Good to see @openclaw back in action.
+Small flex: MiniMax is the only lab with subs for both sides o...</title>
+      <link>https://x.com/MiniMax_AI/status/2046772123054538909</link>
+      <guid isPermaLink="false">2046772123054538909</guid>
+      <pubDate>Wed, 22 Apr 2026 02:04:35 +0000</pubDate>
+      <description><![CDATA[Good to see @openclaw back in action.
+Small flex: MiniMax is the only lab with subs for both sides of the stack — OpenClaw, and Hermes agent by @NousResearch.
 
-“No we have a space IDE at home”
+🛠️ Self-host → Token Plan, from $10/mo https://t.co/EGaTAp9qMI
 
-Space IDE at home: https://t.c...</title>
-      <link>https://x.com/amasad/status/2046763507639783745</link>
-      <guid isPermaLink="false">2046763507639783745</guid>
-      <pubDate>Wed, 22 Apr 2026 01:30:21 +0000</pubDate>
-      <description><![CDATA[“Mum, can we have the SpaceX IDE?”
-
-“No we have a space IDE at home”
-
-Space IDE at home: https://t.co/kRXv26iY3j
+☁️ Cloud-hosted (MaxClaw / MaxHermes) → MiniMax Agent https://t.co/lUlPrLRzzL
+BYO rig or one-click cloud. Pick your loop.
 
 ---
-@amasad | ❤️ 0 | 🔁 0 | 💬 0 | 👁 59]]></description>
+@MiniMax_AI | ❤️ 3 | 🔁 0 | 💬 1 | 👁 303]]></description>
+      <author>@MiniMax_AI</author>
+    </item>
+    <item>
+      <title>RT @Replit: Meet Replit Security Agent - providing comprehensive app security reviews in minutes
+
+An...</title>
+      <link>https://x.com/amasad/status/2046770604888756531</link>
+      <guid isPermaLink="false">2046770604888756531</guid>
+      <pubDate>Wed, 22 Apr 2026 01:58:34 +0000</pubDate>
+      <description><![CDATA[RT @Replit: Meet Replit Security Agent - providing comprehensive app security reviews in minutes
+
+And you get $5 in credits to try it for a…
+
+---
+@amasad | ❤️ 0 | 🔁 16 | 💬 0 | 👁 1]]></description>
       <author>@amasad</author>
     </item>
     <item>
-      <title>RT @markspall: #TheUnfolding: When things get too complicated in Cursor, get Claude Desktop to write...</title>
-      <link>https://x.com/levelsio/status/2046762967228621183</link>
-      <guid isPermaLink="false">2046762967228621183</guid>
-      <pubDate>Wed, 22 Apr 2026 01:28:13 +0000</pubDate>
-      <description><![CDATA[RT @markspall: #TheUnfolding: When things get too complicated in Cursor, get Claude Desktop to write you a little helper in html that you c…
+      <title>The Six Pillars of True Sovereign #AI 
+by @ingliguori
+
+#ArtificialIntelligence #MachineLearning #ML ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046770470058332579</link>
+      <guid isPermaLink="false">2046770470058332579</guid>
+      <pubDate>Wed, 22 Apr 2026 01:58:01 +0000</pubDate>
+      <description><![CDATA[The Six Pillars of True Sovereign #AI 
+by @ingliguori
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/wEffBGbA4a
 
 ---
-@levelsio | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@levelsio</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 64]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>GPT Image 2 Prompt： Create a hand-drawn style infographic card for a topic.
-
---- Prompt ---
-
-Create ...</title>
-      <link>https://x.com/dotey/status/2046762567805387100</link>
-      <guid isPermaLink="false">2046762567805387100</guid>
-      <pubDate>Wed, 22 Apr 2026 01:26:37 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt： Create a hand-drawn style infographic card for a topic.
-
---- Prompt ---
-
-Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a warm, organic look, with a beige or off-white background featuring subtle paper texture, conveying a friendly and handcrafted aesthetic.
-
-At the top of the card, use a large, expressive brush-stroke lettering style (similar to bold brush calligraphy in English) with strong contrast—primarily in red and black—to highlight the title and draw immediate attention. All text on the card should be written in a flowing hand-painted script style, maintaining an artistic rhythm while ensuring legibility.
-
-Organize the layout into 2 to 4 clearly defined sections, each containing short, concise phrases that express the key ideas. The handwritten script should feel dynamic and natural, enhancing the overall visual harmony.
-
-Add small, simple, and engaging hand-drawn illustrations or symbolic icons—such as characters, objects, or conceptual symbols—to reinforce the message and enhance visual interest. Maintain balanced composition and adequate breathing room, ensuring the design remains clean, readable, and visually appealing.
-Theme: {topic}
+      <title>The fact that @cursor_ai  had to post-train its own model and now partner with xAI for compute I ass...</title>
+      <link>https://x.com/petergyang/status/2046766548359258412</link>
+      <guid isPermaLink="false">2046766548359258412</guid>
+      <pubDate>Wed, 22 Apr 2026 01:42:26 +0000</pubDate>
+      <description><![CDATA[The fact that @cursor_ai  had to post-train its own model and now partner with xAI for compute I assume shows how hard it is to succeed in the ultra competitive AI coding (or just general knowledge work) space without owning full stack.
 
 ---
+@petergyang | ❤️ 19 | 🔁 1 | 💬 3 | 👁 1078]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>GPT Image 2 Prompt： Create a mesmerizing passage of time with this prompt, seamlessly blending all f...</title>
+      <link>https://x.com/dotey/status/2046766282989502777</link>
+      <guid isPermaLink="false">2046766282989502777</guid>
+      <pubDate>Wed, 22 Apr 2026 01:41:23 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt： Create a mesmerizing passage of time with this prompt, seamlessly blending all four seasons—from Winter’s snow to Autumn’s gold—into a single, unified masterpiece. ❄️🌸☀️🍁
 
-topic: “If you can't explain it simply, you don't understand it well enough.” — Feynman
+---- Prompt ----
+
+Hyper-realistic digital illustration of {Scene}, presented as a single continuous composition showcasing the cycle of seasons. The scene flows seamlessly from left to right in a natural progression: Winter, Spring, Summer, and Autumn. 
+
+The left side features cold snowy winter elements, gradually thawing into the fresh green buds and blooms of spring, then morphing into the lush vibrant vegetation and bright sunlight of summer, and finally transitioning into the golden, orange, and red hues of autumn on the far right. 
+
+There are no visible dividing lines between seasons; the weather, lighting, and vegetation blend smoothly to create a unified and harmonious panorama. Rich in detail, symbolic of the passage of time, cinematic lighting, 8k resolution, highly detailed textures. --ar 4:3
+
+----
+
+Scene：the historic Shanghai Bund waterfront looking across the Huangpu River to the futuristic Lujiazui district
 
 ---
-@dotey | ❤️ 4 | 🔁 0 | 💬 0 | 👁 328]]></description>
+@dotey | ❤️ 9 | 🔁 1 | 💬 1 | 👁 1997]]></description>
       <author>@dotey</author>
-    </item>
-    <item>
-      <title>Replit testified in support of the BASED Act: Stopping Big Tech from rigging software marketplaces (...</title>
-      <link>https://x.com/amasad/status/2046762468199071765</link>
-      <guid isPermaLink="false">2046762468199071765</guid>
-      <pubDate>Wed, 22 Apr 2026 01:26:14 +0000</pubDate>
-      <description><![CDATA[Replit testified in support of the BASED Act: Stopping Big Tech from rigging software marketplaces (very unbased). https://t.co/ZZwIzxgAVb
-
----
-@amasad | ❤️ 9 | 🔁 0 | 💬 1 | 👁 541]]></description>
-      <author>@amasad</author>
     </item>
     <item>
       <title>8 agents. 1 city. this is what M2.7's long-horizon tool use was built for 🔥
 
 Thank you @AlexanderKni...</title>
-      <link>https://x.com/MiniMax_AI/status/2046762094159098049</link>
-      <guid isPermaLink="false">2046762094159098049</guid>
-      <pubDate>Wed, 22 Apr 2026 01:24:44 +0000</pubDate>
+      <link>https://x.com/MiniMax_AI/status/2046765204751499746</link>
+      <guid isPermaLink="false">2046765204751499746</guid>
+      <pubDate>Wed, 22 Apr 2026 01:37:06 +0000</pubDate>
       <description><![CDATA[8 agents. 1 city. this is what M2.7's long-horizon tool use was built for 🔥
 
-Thank you @AlexanderKnigge !
+Thank you @AlexanderKnigge for building this, and thank you @ti_guo_ for discovering!
 
 ---
-@MiniMax_AI | ❤️ 5 | 🔁 0 | 💬 0 | 👁 313]]></description>
+@MiniMax_AI | ❤️ 13 | 🔁 0 | 💬 1 | 👁 1202]]></description>
       <author>@MiniMax_AI</author>
     </item>
     <item>
-      <title>用了一下 ChatGPT 新的图片生成工具，提示词是：「帮我生成一张 PasteNow 在 macOS 使用中的截图」，然后对比 Gemini 的效果。ChatGPT 版本的似乎更强大一点，Gemin...</title>
-      <link>https://x.com/tualatrix/status/2046761203784200450</link>
-      <guid isPermaLink="false">2046761203784200450</guid>
-      <pubDate>Wed, 22 Apr 2026 01:21:12 +0000</pubDate>
-      <description><![CDATA[用了一下 ChatGPT 新的图片生成工具，提示词是：「帮我生成一张 PasteNow 在 macOS 使用中的截图」，然后对比 Gemini 的效果。ChatGPT 版本的似乎更强大一点，Gemini 的美观程度更好（用上了透明界面）。 https://t.co/FmrLZsKxAM
+      <title>No More Parking Stress: This #Robot Valet Handles It All
+by @IntEngineering
+ 
+#Robotics #Engineering...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046765201672831265</link>
+      <guid isPermaLink="false">2046765201672831265</guid>
+      <pubDate>Wed, 22 Apr 2026 01:37:05 +0000</pubDate>
+      <description><![CDATA[No More Parking Stress: This #Robot Valet Handles It All
+by @IntEngineering
+ 
+#Robotics #Engineering #Innovation #Technology https://t.co/mN4c8e6t8f
 
 ---
-@tualatrix | ❤️ 2 | 🔁 0 | 💬 2 | 👁 638]]></description>
-      <author>@tualatrix</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 226]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @HiTw93: 👷 Kami is now open source. Your AI writes well. Now your docs can look good too.
+      <title>GPT Image 2 Prompt： 手绘风格的信息图卡片提示词（主题可以自由替换）
 
-A desi...</title>
-      <link>https://x.com/dotey/status/2046760832285991406</link>
-      <guid isPermaLink="false">2046760832285991406</guid>
-      <pubDate>Wed, 22 Apr 2026 01:19:44 +0000</pubDate>
-      <description><![CDATA[RT @HiTw93: 👷 Kami is now open source. Your AI writes well. Now your docs can look good too.
+----
 
-A design system for AI-native docs: one-pager…
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，...</title>
+      <link>https://x.com/dotey/status/2046765093883662706</link>
+      <guid isPermaLink="false">2046765093883662706</guid>
+      <pubDate>Wed, 22 Apr 2026 01:36:40 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt： 手绘风格的信息图卡片提示词（主题可以自由替换）
+
+----
+
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
+
+卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
+
+卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
+
+主题是：“做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。”
 
 ---
-@dotey | ❤️ 0 | 🔁 199 | 💬 0 | 👁 0]]></description>
+@dotey | ❤️ 19 | 🔁 1 | 💬 2 | 👁 2766]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Cursor 值这个钱
-为 @cursor_ai 开心
-
-如果不是因为 Cursor 打样
-我可能不会出来创业</title>
-      <link>https://x.com/lifesinger/status/2046760246589444303</link>
-      <guid isPermaLink="false">2046760246589444303</guid>
-      <pubDate>Wed, 22 Apr 2026 01:17:24 +0000</pubDate>
-      <description><![CDATA[Cursor 值这个钱
-为 @cursor_ai 开心
-
-如果不是因为 Cursor 打样
-我可能不会出来创业
+      <title>Multi-model workflows are the real frontier pattern in 2026 — pick the right model for the right job...</title>
+      <link>https://x.com/MiniMax_AI/status/2046764864446628220</link>
+      <guid isPermaLink="false">2046764864446628220</guid>
+      <pubDate>Wed, 22 Apr 2026 01:35:45 +0000</pubDate>
+      <description><![CDATA[Multi-model workflows are the real frontier pattern in 2026 — pick the right model for the right job, not one model for everything.
+@apolmig using M2.7 for &quot;cost-efficient iteration&quot; on 6.4M views of synthetic data is exactly the shape of workload we built it for. Beautiful work. 
+And thanks @ti_guo_ for discover the project!
 
 ---
-@lifesinger | ❤️ 2 | 🔁 0 | 💬 0 | 👁 245]]></description>
-      <author>@lifesinger</author>
+@MiniMax_AI | ❤️ 16 | 🔁 2 | 💬 2 | 👁 1645]]></description>
+      <author>@MiniMax_AI</author>
     </item>
     <item>
-      <title>Does anyone from @OpenAI want to share some tips on how to get image 2 to generate good infographics...</title>
-      <link>https://x.com/petergyang/status/2046759299066814681</link>
-      <guid isPermaLink="false">2046759299066814681</guid>
-      <pubDate>Wed, 22 Apr 2026 01:13:38 +0000</pubDate>
-      <description><![CDATA[Does anyone from @OpenAI want to share some tips on how to get image 2 to generate good infographics or have it match your brand style?
+      <title>RT @TejuAdeyinka: @saranormous @erikbryn @Stanford Thanks for coming in today, and for sharing your ...</title>
+      <link>https://x.com/erikbryn/status/2046763867892756784</link>
+      <guid isPermaLink="false">2046763867892756784</guid>
+      <pubDate>Wed, 22 Apr 2026 01:31:47 +0000</pubDate>
+      <description><![CDATA[RT @TejuAdeyinka: @saranormous @erikbryn @Stanford Thanks for coming in today, and for sharing your feedback on my team’s idea!
 
-I haven't had any luck either.
+Your optim…
 
 ---
-@petergyang | ❤️ 2 | 🔁 1 | 💬 2 | 👁 1869]]></description>
-      <author>@petergyang</author>
+@erikbryn | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@erikbryn</author>
     </item>
     <item>
-      <title>Asking Claude Code to make an HTML visualizing its current context window is a pretty wild way to le...</title>
-      <link>https://x.com/zarazhangrui/status/2046758723998425433</link>
-      <guid isPermaLink="false">2046758723998425433</guid>
-      <pubDate>Wed, 22 Apr 2026 01:11:21 +0000</pubDate>
-      <description><![CDATA[Asking Claude Code to make an HTML visualizing its current context window is a pretty wild way to learn about how context window works https://t.co/sIlNlJy748
+      <title>Welcome to Europe, Pomelli!
+
+Pomelli is one of our newer Labs experiments, and SMBs are running with...</title>
+      <link>https://x.com/joshwoodward/status/2046763674199794061</link>
+      <guid isPermaLink="false">2046763674199794061</guid>
+      <pubDate>Wed, 22 Apr 2026 01:31:01 +0000</pubDate>
+      <description><![CDATA[Welcome to Europe, Pomelli!
+
+Pomelli is one of our newer Labs experiments, and SMBs are running with it
 
 ---
-@zarazhangrui | ❤️ 18 | 🔁 1 | 💬 2 | 👁 804]]></description>
-      <author>@zarazhangrui</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: How time savings from #AI are used
-by @Gartner_inc
-
-#MachineLearning #Artificial...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046756623427715351</link>
-      <guid isPermaLink="false">2046756623427715351</guid>
-      <pubDate>Wed, 22 Apr 2026 01:03:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: How time savings from #AI are used
-by @Gartner_inc
-
-#MachineLearning #ArtificialIntelligence #ML https://t.co/wNc2yCzNKM
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@joshwoodward | ❤️ 19 | 🔁 0 | 💬 2 | 👁 1450]]></description>
+      <author>@joshwoodward</author>
     </item>
   </channel>
 </rss>
