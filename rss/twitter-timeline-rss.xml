@@ -5,189 +5,209 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:31:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Good to see @openclaw back in action.
-Small flex: MiniMax is the only lab with subs for both sides o...</title>
-      <link>https://x.com/MiniMax_AI/status/2046772123054538909</link>
-      <guid isPermaLink="false">2046772123054538909</guid>
-      <pubDate>Wed, 22 Apr 2026 02:04:35 +0000</pubDate>
-      <description><![CDATA[Good to see @openclaw back in action.
-Small flex: MiniMax is the only lab with subs for both sides of the stack — OpenClaw, and Hermes agent by @NousResearch.
-
-🛠️ Self-host → Token Plan, from $10/mo https://t.co/EGaTAp9qMI
-
-☁️ Cloud-hosted (MaxClaw / MaxHermes) → MiniMax Agent https://t.co/lUlPrLRzzL
-BYO rig or one-click cloud. Pick your loop.
+      <title>Making a birthday party invite website with my soon to be 8 year old it's gonna be dope (thanks Chat...</title>
+      <link>https://x.com/petergyang/status/2046778557528170824</link>
+      <guid isPermaLink="false">2046778557528170824</guid>
+      <pubDate>Wed, 22 Apr 2026 02:30:10 +0000</pubDate>
+      <description><![CDATA[Making a birthday party invite website with my soon to be 8 year old it's gonna be dope (thanks ChatGPT image) https://t.co/smRmUlf6Xf
 
 ---
-@MiniMax_AI | ❤️ 3 | 🔁 0 | 💬 1 | 👁 303]]></description>
-      <author>@MiniMax_AI</author>
-    </item>
-    <item>
-      <title>RT @Replit: Meet Replit Security Agent - providing comprehensive app security reviews in minutes
-
-An...</title>
-      <link>https://x.com/amasad/status/2046770604888756531</link>
-      <guid isPermaLink="false">2046770604888756531</guid>
-      <pubDate>Wed, 22 Apr 2026 01:58:34 +0000</pubDate>
-      <description><![CDATA[RT @Replit: Meet Replit Security Agent - providing comprehensive app security reviews in minutes
-
-And you get $5 in credits to try it for a…
-
----
-@amasad | ❤️ 0 | 🔁 16 | 💬 0 | 👁 1]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>The Six Pillars of True Sovereign #AI 
-by @ingliguori
-
-#ArtificialIntelligence #MachineLearning #ML ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046770470058332579</link>
-      <guid isPermaLink="false">2046770470058332579</guid>
-      <pubDate>Wed, 22 Apr 2026 01:58:01 +0000</pubDate>
-      <description><![CDATA[The Six Pillars of True Sovereign #AI 
-by @ingliguori
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/wEffBGbA4a
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 64]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>The fact that @cursor_ai  had to post-train its own model and now partner with xAI for compute I ass...</title>
-      <link>https://x.com/petergyang/status/2046766548359258412</link>
-      <guid isPermaLink="false">2046766548359258412</guid>
-      <pubDate>Wed, 22 Apr 2026 01:42:26 +0000</pubDate>
-      <description><![CDATA[The fact that @cursor_ai  had to post-train its own model and now partner with xAI for compute I assume shows how hard it is to succeed in the ultra competitive AI coding (or just general knowledge work) space without owning full stack.
-
----
-@petergyang | ❤️ 19 | 🔁 1 | 💬 3 | 👁 1078]]></description>
+@petergyang | ❤️ 1 | 🔁 0 | 💬 1 | 👁 73]]></description>
       <author>@petergyang</author>
     </item>
     <item>
-      <title>GPT Image 2 Prompt： Create a mesmerizing passage of time with this prompt, seamlessly blending all f...</title>
-      <link>https://x.com/dotey/status/2046766282989502777</link>
-      <guid isPermaLink="false">2046766282989502777</guid>
-      <pubDate>Wed, 22 Apr 2026 01:41:23 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt： Create a mesmerizing passage of time with this prompt, seamlessly blending all four seasons—from Winter’s snow to Autumn’s gold—into a single, unified masterpiece. ❄️🌸☀️🍁
+      <title>GPT Image 2 Prompt：Chinese comic
+Source：https://t.co/WqqaQVfIll
 
----- Prompt ----
+-- prompt ---
 
-Hyper-realistic digital illustration of {Scene}, presented as a single continuous composition showcasing the cycle of seasons. The scene flows seamlessly from left to right in a natural progression: Winter, Spring, Summer, and Autumn. 
+Generate a full colo...</title>
+      <link>https://x.com/dotey/status/2046778077905056068</link>
+      <guid isPermaLink="false">2046778077905056068</guid>
+      <pubDate>Wed, 22 Apr 2026 02:28:15 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt：Chinese comic
+Source：https://t.co/WqqaQVfIll
 
-The left side features cold snowy winter elements, gradually thawing into the fresh green buds and blooms of spring, then morphing into the lush vibrant vegetation and bright sunlight of summer, and finally transitioning into the golden, orange, and red hues of autumn on the far right. 
+-- prompt ---
 
-There are no visible dividing lines between seasons; the weather, lighting, and vegetation blend smoothly to create a unified and harmonious panorama. Rich in detail, symbolic of the passage of time, cinematic lighting, 8k resolution, highly detailed textures. --ar 4:3
+Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈博远 (first picture), who works on improving the text rendering capability of ChatGPT Image 2 model for the upcoming release. (in the background there is boba tea and a banana taped to the wall with a single slice of duct tape). The model can render insanely small Chinese text when he tried generating some detailed and beautiful multilingual infographics handdrawn-style poster about his hometown, 无锡 on his computer screen. His hard work pays off and the team was impressed by the absurdly good quality of multilingual text performance of his model, seeing all the languages it can write. When he takes a break with one hand holding his phone, he received a translated text message from Sam Altman on his phone (avatar attached as second picture), asking him to take a look at the rendered multilingual text in an image he just generated to congrat the team, since Sam only knows English. However, make it funny by let Boyuan outrage (typical manga style) at the end by seeing Sam's generated image contains a &quot;稳稳地接住你&quot; phrase at the central location in an otherwise perfectly rendered image that's used to congrat the team, because this sentence has been memed as an unnatural but funny Chinese sentence GPT likes to use on Chinese internet. Boyuan should rage &quot;天呐! 它又学会了接住!&quot; (with teammates as tiny heads on the side, sweating and saying in Chinese&quot;we are working hard to fix it！&quot;). At the very bottom of the manga, add a tiny line of footnote (very tiny)in Chinese that &quot;note: the entire manga, including this footnote and picture in picture, are all generated with gpt image 2 at once without editing or multiple steps。&quot;
 
-----
-
-Scene：the historic Shanghai Bund waterfront looking across the Huangpu River to the futuristic Lujiazui district
+Additional Instructions: Use vertical 1440x2560 image layout, with first row about this researcher working hard, second row about his result on 无锡 with multiple languages, third row shows the team excitement, fourth row split into left and right where left shows he takes a break and the phone received a message, right panel shows Sam's text message, and fifth row shows Sam's picture and 陈博远's reaction. No narration except for the first row. Avoid Chinese map. All characters should be in manga style. The banana background should only appear in the first panel and the tape should be a single slice of tape, not a cross tape. The banana and tape decoration should be small as a insignificant easter egg for people to find. OpenAI logo shall only appear on 陈博远's cloth, not elsewhere. No mugs in the scene since we already have the boba. Sam should only appear in the text message panel. The entire manga should be appear as a professional photo of a physical page in a manga book. In the lower right most corner of the poster there is a small “极小中文也清晰可读：” with a paragraph of much smaller Chinese that begins with “（此处为极小字号测试）无锡是作者的故乡，所以做了这幅海报，中文总算是修好了。很多年没回家了，好想吃大闸蟹啊！” (ultra small).
 
 ---
-@dotey | ❤️ 9 | 🔁 1 | 💬 1 | 👁 1997]]></description>
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 307]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>8 agents. 1 city. this is what M2.7's long-horizon tool use was built for 🔥
+      <title>The #Robot Vacuum That Defies Stairs
+via @ZappyZappy7
 
-Thank you @AlexanderKni...</title>
-      <link>https://x.com/MiniMax_AI/status/2046765204751499746</link>
-      <guid isPermaLink="false">2046765204751499746</guid>
-      <pubDate>Wed, 22 Apr 2026 01:37:06 +0000</pubDate>
-      <description><![CDATA[8 agents. 1 city. this is what M2.7's long-horizon tool use was built for 🔥
+#AI #Robotics #Innovation #TechForGood #Emerg...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046777043728171238</link>
+      <guid isPermaLink="false">2046777043728171238</guid>
+      <pubDate>Wed, 22 Apr 2026 02:24:09 +0000</pubDate>
+      <description><![CDATA[The #Robot Vacuum That Defies Stairs
+via @ZappyZappy7
 
-Thank you @AlexanderKnigge for building this, and thank you @ti_guo_ for discovering!
-
----
-@MiniMax_AI | ❤️ 13 | 🔁 0 | 💬 1 | 👁 1202]]></description>
-      <author>@MiniMax_AI</author>
-    </item>
-    <item>
-      <title>No More Parking Stress: This #Robot Valet Handles It All
-by @IntEngineering
- 
-#Robotics #Engineering...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2046765201672831265</link>
-      <guid isPermaLink="false">2046765201672831265</guid>
-      <pubDate>Wed, 22 Apr 2026 01:37:05 +0000</pubDate>
-      <description><![CDATA[No More Parking Stress: This #Robot Valet Handles It All
-by @IntEngineering
- 
-#Robotics #Engineering #Innovation #Technology https://t.co/mN4c8e6t8f
+#AI #Robotics #Innovation #TechForGood #EmergingTech #Technology https://t.co/RgGwdzu8AY
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 226]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 66]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>GPT Image 2 Prompt： 手绘风格的信息图卡片提示词（主题可以自由替换）
-
-----
-
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，...</title>
-      <link>https://x.com/dotey/status/2046765093883662706</link>
-      <guid isPermaLink="false">2046765093883662706</guid>
-      <pubDate>Wed, 22 Apr 2026 01:36:40 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt： 手绘风格的信息图卡片提示词（主题可以自由替换）
-
-----
-
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
-
-卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
-
-卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
-
-主题是：“做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。”
+      <title>现在沉浸式翻译最好的平替是___
+评论区的朋友们来回答一下</title>
+      <link>https://x.com/oran_ge/status/2046777019279766011</link>
+      <guid isPermaLink="false">2046777019279766011</guid>
+      <pubDate>Wed, 22 Apr 2026 02:24:03 +0000</pubDate>
+      <description><![CDATA[现在沉浸式翻译最好的平替是___
+评论区的朋友们来回答一下
 
 ---
-@dotey | ❤️ 19 | 🔁 1 | 💬 2 | 👁 2766]]></description>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 208]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>My favorite part of this launch is that a (very technical) PM built it with Claude. The cycle time b...</title>
+      <link>https://x.com/angjiang/status/2046776926308851900</link>
+      <guid isPermaLink="false">2046776926308851900</guid>
+      <pubDate>Wed, 22 Apr 2026 02:23:41 +0000</pubDate>
+      <description><![CDATA[My favorite part of this launch is that a (very technical) PM built it with Claude. The cycle time between user insight and product delivery is massively shortening.
+
+---
+@angjiang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 199]]></description>
+      <author>@angjiang</author>
+    </item>
+    <item>
+      <title>我已经针对 Codex 调整过了，会直接调用 Codex 内置的画图工具，如果你有多个画图工具/技能，会让你选择
+
+https://t.co/3zUKvkoOyt</title>
+      <link>https://x.com/dotey/status/2046776632380104986</link>
+      <guid isPermaLink="false">2046776632380104986</guid>
+      <pubDate>Wed, 22 Apr 2026 02:22:31 +0000</pubDate>
+      <description><![CDATA[我已经针对 Codex 调整过了，会直接调用 Codex 内置的画图工具，如果你有多个画图工具/技能，会让你选择
+
+https://t.co/3zUKvkoOyt
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 1 | 👁 507]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Multi-model workflows are the real frontier pattern in 2026 — pick the right model for the right job...</title>
-      <link>https://x.com/MiniMax_AI/status/2046764864446628220</link>
-      <guid isPermaLink="false">2046764864446628220</guid>
-      <pubDate>Wed, 22 Apr 2026 01:35:45 +0000</pubDate>
-      <description><![CDATA[Multi-model workflows are the real frontier pattern in 2026 — pick the right model for the right job, not one model for everything.
-@apolmig using M2.7 for &quot;cost-efficient iteration&quot; on 6.4M views of synthetic data is exactly the shape of workload we built it for. Beautiful work. 
-And thanks @ti_guo_ for discover the project!
+      <title>RT @Ronald_vanLoon: This Video Proves It: Shenzhen Is the World’s Robotics Hub
+by @Robo_Tuo
+  
+#Robo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2046776503916999001</link>
+      <guid isPermaLink="false">2046776503916999001</guid>
+      <pubDate>Wed, 22 Apr 2026 02:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: This Video Proves It: Shenzhen Is the World’s Robotics Hub
+by @Robo_Tuo
+  
+#Robotics #MachineLearning #ArtificialIntell…
 
 ---
-@MiniMax_AI | ❤️ 16 | 🔁 2 | 💬 2 | 👁 1645]]></description>
-      <author>@MiniMax_AI</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 23 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @TejuAdeyinka: @saranormous @erikbryn @Stanford Thanks for coming in today, and for sharing your ...</title>
-      <link>https://x.com/erikbryn/status/2046763867892756784</link>
-      <guid isPermaLink="false">2046763867892756784</guid>
-      <pubDate>Wed, 22 Apr 2026 01:31:47 +0000</pubDate>
-      <description><![CDATA[RT @TejuAdeyinka: @saranormous @erikbryn @Stanford Thanks for coming in today, and for sharing your feedback on my team’s idea!
-
-Your optim…
+      <title>又让 ChatGPT 和 Gemini 生成了两张古典时代 iOS 上用 Twitter 的图片：ChatGPT 整体观感不错，但是少了转发等按钮（最早版本时间线上有转发按钮吗？）；Gemini 则犯...</title>
+      <link>https://x.com/tualatrix/status/2046776266364518411</link>
+      <guid isPermaLink="false">2046776266364518411</guid>
+      <pubDate>Wed, 22 Apr 2026 02:21:03 +0000</pubDate>
+      <description><![CDATA[又让 ChatGPT 和 Gemini 生成了两张古典时代 iOS 上用 Twitter 的图片：ChatGPT 整体观感不错，但是少了转发等按钮（最早版本时间线上有转发按钮吗？）；Gemini 则犯了明显错误，左边有个多余的 Refresh 按钮，文本末尾又有重复的时间戳了。 https://t.co/QSz4N1ti7R
 
 ---
-@erikbryn | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@erikbryn</author>
+@tualatrix | ❤️ 0 | 🔁 0 | 💬 0 | 👁 190]]></description>
+      <author>@tualatrix</author>
     </item>
     <item>
-      <title>Welcome to Europe, Pomelli!
-
-Pomelli is one of our newer Labs experiments, and SMBs are running with...</title>
-      <link>https://x.com/joshwoodward/status/2046763674199794061</link>
-      <guid isPermaLink="false">2046763674199794061</guid>
-      <pubDate>Wed, 22 Apr 2026 01:31:01 +0000</pubDate>
-      <description><![CDATA[Welcome to Europe, Pomelli!
-
-Pomelli is one of our newer Labs experiments, and SMBs are running with it
+      <title>Has anyone seen ANY official communication from Anthropic or an Anthropic staff member about the fac...</title>
+      <link>https://x.com/simonw/status/2046775873442111892</link>
+      <guid isPermaLink="false">2046775873442111892</guid>
+      <pubDate>Wed, 22 Apr 2026 02:19:30 +0000</pubDate>
+      <description><![CDATA[Has anyone seen ANY official communication from Anthropic or an Anthropic staff member about the fact that the checkbox for Claude Code on Pro is back to being checked again, or is the only evidence that they've reversed course on this that one box on https://t.co/sQo2xC72cX?
 
 ---
-@joshwoodward | ❤️ 19 | 🔁 0 | 💬 2 | 👁 1450]]></description>
-      <author>@joshwoodward</author>
+@simonw | ❤️ 20 | 🔁 1 | 💬 2 | 👁 1304]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>GPT Image 2 Prompt：Magazine collage
+
+Source: https://t.co/WqqaQVfIll
+
+--- Prompt ---
+
+I am creating ...</title>
+      <link>https://x.com/dotey/status/2046775660182385070</link>
+      <guid isPermaLink="false">2046775660182385070</guid>
+      <pubDate>Wed, 22 Apr 2026 02:18:39 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt：Magazine collage
+
+Source: https://t.co/WqqaQVfIll
+
+--- Prompt ---
+
+I am creating a magazine page with the theme of &quot;visual polyglot&quot;. 
+
+The title in the center of the image should be &quot;Create Everything at Once&quot;. 
+
+Create a piece of art celebrating visual creations, not limited to beautiful photographs but also across the full breadth of human visual culture and natural visual elements. 
+
+There should be curated collage representing the diverse distribution: scientific diagrams, the periodic table, the solar system, medieval manuscript pages, botanical illustrations, anatomical drawings, old maps, climate charts, engineering schematics, transit signage, multilingual text, comic panels, UI screenshots, a camera photo, a butterfly specimen, pie charts, architectural blueprints, and façade drawings. 
+
+The text frames the model as fluent across languages, notation systems, interfaces, cultural forms, and visual conventions—able to move from utility to beauty, from document understanding to artistic generation. Also feature artistic elements like pixel art, styles, history, sculpture, nature, photography, paintings, and all art forms. 
+
+These are just examples, I need you to actively think about other elements / styles that may fit in a good design that's not limited to these concepts. The overall effect is that of a premium research announcement or museum-style manifesto: elegant, ambitious, and designed to argue that image intelligence should be trained on the whole visual world, not just polished aesthetics. 
+
+Use an unstructured, creative and artistic layout, such as but not limited to fan out, avoid grid-like layouts. Portrait 4:5 aspect ratio. Don't add any content text beside the &quot;Create Everything at Once&quot; title. Text as part of the art is okay. 
+
+Avoid a beige tint of the overall style, since we want vibrant elements to be vibrant.
+
+---
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 767]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Wrote up Anthropic's self-own about Claude Code pricing from this afternoon on my blog - it turned o...</title>
+      <link>https://x.com/simonw/status/2046774737683325028</link>
+      <guid isPermaLink="false">2046774737683325028</guid>
+      <pubDate>Wed, 22 Apr 2026 02:14:59 +0000</pubDate>
+      <description><![CDATA[Wrote up Anthropic's self-own about Claude Code pricing from this afternoon on my blog - it turned out they'd reversed course just as I hit publish, so I've tried to update it to reflect the current state
+https://t.co/uv6zTExj4q
+
+---
+@simonw | ❤️ 56 | 🔁 3 | 💬 6 | 👁 3547]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>RT @pmddomingos: One union spends more on political contributions in Washington than the entire tech...</title>
+      <link>https://x.com/naval/status/2046774504404443567</link>
+      <guid isPermaLink="false">2046774504404443567</guid>
+      <pubDate>Wed, 22 Apr 2026 02:14:03 +0000</pubDate>
+      <description><![CDATA[RT @pmddomingos: One union spends more on political contributions in Washington than the entire tech industry. https://t.co/9050zkyiel
+
+---
+@naval | ❤️ 0 | 🔁 338 | 💬 0 | 👁 3]]></description>
+      <author>@naval</author>
+    </item>
+    <item>
+      <title>RT @ClementDelangue: I’m hearing there’s renewed lobbying in DC and in state legislatures to ban or ...</title>
+      <link>https://x.com/_akhaliq/status/2046774461802615124</link>
+      <guid isPermaLink="false">2046774461802615124</guid>
+      <pubDate>Wed, 22 Apr 2026 02:13:53 +0000</pubDate>
+      <description><![CDATA[RT @ClementDelangue: I’m hearing there’s renewed lobbying in DC and in state legislatures to ban or severely restrict open-source.
+
+Like a…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 233 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
   </channel>
 </rss>
