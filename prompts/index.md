@@ -40,6 +40,10 @@
 
 | 预览 | 标题 |
 |------|------|
+| <img src="./others/images/geekcat-food-infographic.jpg" width="120"> | [食物的一生](./others/geekcat-food-infographic.md) |
+| <img src="./others/images/geekcat-steampunk-anatomy.jpg" width="120"> | [蒸汽朋克解剖](./others/geekcat-steampunk-anatomy.md) |
+| <img src="./others/images/geekcat-woodcut-ticket.jpg" width="120"> | [木刻电影票](./others/geekcat-woodcut-ticket.md) |
+| <img src="./others/images/geekcat-dk-encyclopedia.jpg" width="120"> | [DK百科风格](./others/geekcat-dk-encyclopedia.md) |
 | <img src="./others/images/chinese-ink-landscape.jpg" width="120"> | [水墨山水国风](./others/chinese-ink-landscape.md) |
 | <img src="./others/images/ghibli-style.jpg" width="120"> | [吉卜力风格](./others/ghibli-style.md) |
 | <img src="./others/images/kawaii-cartoon.jpg" width="120"> | [可爱卡通](./others/kawaii-cartoon.md) |
