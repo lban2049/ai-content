@@ -5,213 +5,287 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 21:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:34:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @clairevo: GPT-5.5 solved my boring, hard problems (giant chunk of tech debt) and my fun problems...</title>
-      <link>https://x.com/danshipper/status/2047420559642767526</link>
-      <guid isPermaLink="false">2047420559642767526</guid>
-      <pubDate>Thu, 23 Apr 2026 21:01:15 +0000</pubDate>
-      <description><![CDATA[RT @clairevo: GPT-5.5 solved my boring, hard problems (giant chunk of tech debt) and my fun problems (hacking into a bluetooth connected sc…
+      <title>Clarification: rolling out soon!</title>
+      <link>https://x.com/levie/status/2047428766390157688</link>
+      <guid isPermaLink="false">2047428766390157688</guid>
+      <pubDate>Thu, 23 Apr 2026 21:33:51 +0000</pubDate>
+      <description><![CDATA[Clarification: rolling out soon!
 
 ---
-@danshipper | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+@levie | ❤️ 0 | 🔁 0 | 💬 0 | 👁 48]]></description>
+      <author>@levie</author>
+    </item>
+    <item>
+      <title>Anthropic 今天为 Claude Managed Agents（托管智能体）上线了记忆功能，目前处于公测阶段。简单说，你部署的 AI 智能体现在能在多次会话之间积累经验，下次干活时不用从零开始...</title>
+      <link>https://x.com/dotey/status/2047428669325590816</link>
+      <guid isPermaLink="false">2047428669325590816</guid>
+      <pubDate>Thu, 23 Apr 2026 21:33:28 +0000</pubDate>
+      <description><![CDATA[Anthropic 今天为 Claude Managed Agents（托管智能体）上线了记忆功能，目前处于公测阶段。简单说，你部署的 AI 智能体现在能在多次会话之间积累经验，下次干活时不用从零开始。
+
+这个记忆系统的设计思路挺实用主义的：记忆以文件形式存储在文件系统上，而不是搞一套专门的数据库或向量检索。好处是智能体可以直接用已有的 bash 和代码执行能力来读写记忆，开发者也能通过 API 导出、管理、甚至回滚到历史版本。
+
+在权限设计上，记忆存储可以在多个智能体之间共享，并设置不同的访问范围。比如全公司级别的知识库设成只读，用户级别的存储允许读写。多个智能体可以并发访问同一个存储，不会互相覆盖。所有变更都有审计日志，能追溯到具体是哪个智能体、哪次会话产生的记忆。
+
+从已经在用的团队来看，效果比较直观：Rakuten 的智能体通过记住过去犯过的错，把首次出错率降了 97%；Wisedocs 用跨会话记忆让文档验证流程提速 30%；Netflix 的智能体能把多轮对话中挖掘出的洞察和人工纠正带到下一次会话，不用再手动更新提示词。
+
+对做智能体开发的团队来说，记忆一直是个痛点。大多数人要么自己搭一套 RAG 检索系统，要么每次会话手动塞上下文。Anthropic 把这层直接做进平台里，而且选了文件系统这个最朴素的方案，算是降低了不少工程复杂度。现在公测已经开放，可以在 Claude Console 里直接部署带记忆的智能体。
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 15]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>RT @aaronsebesta: Incredible insights from @every per usual</title>
+      <link>https://x.com/danshipper/status/2047428424151531534</link>
+      <guid isPermaLink="false">2047428424151531534</guid>
+      <pubDate>Thu, 23 Apr 2026 21:32:30 +0000</pubDate>
+      <description><![CDATA[RT @aaronsebesta: Incredible insights from @every per usual
+
+---
+@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@danshipper</author>
     </item>
     <item>
-      <title>Read now or save for later ↓ https://t.co/KP50Y50wTU</title>
-      <link>https://x.com/binance/status/2047420244772458931</link>
-      <guid isPermaLink="false">2047420244772458931</guid>
-      <pubDate>Thu, 23 Apr 2026 21:00:00 +0000</pubDate>
-      <description><![CDATA[Read now or save for later ↓ https://t.co/KP50Y50wTU
+      <title>RT @ClementDelangue: 3,000 people are testing the ml-intern! https://t.co/KubvrjHCSY</title>
+      <link>https://x.com/_akhaliq/status/2047428406673895611</link>
+      <guid isPermaLink="false">2047428406673895611</guid>
+      <pubDate>Thu, 23 Apr 2026 21:32:26 +0000</pubDate>
+      <description><![CDATA[RT @ClementDelangue: 3,000 people are testing the ml-intern! https://t.co/KubvrjHCSY
 
 ---
-@binance | ❤️ 1 | 🔁 0 | 💬 1 | 👁 809]]></description>
-      <author>@binance</author>
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>@jeremyphoward You might enjoy my new llm-openai-via-codex plugin! https://t.co/7gCGr0TmG4</title>
-      <link>https://x.com/simonw/status/2047420188564570473</link>
-      <guid isPermaLink="false">2047420188564570473</guid>
-      <pubDate>Thu, 23 Apr 2026 20:59:46 +0000</pubDate>
-      <description><![CDATA[@jeremyphoward You might enjoy my new llm-openai-via-codex plugin! https://t.co/7gCGr0TmG4
+      <title>Thanks @lennysan for a great conversation about how Claude Code maintains product velocity, how the ...</title>
+      <link>https://x.com/_catwu/status/2047427510091366533</link>
+      <guid isPermaLink="false">2047427510091366533</guid>
+      <pubDate>Thu, 23 Apr 2026 21:28:52 +0000</pubDate>
+      <description><![CDATA[Thanks @lennysan for a great conversation about how Claude Code maintains product velocity, how the product management role is shifting in the AI era, and the future of work!
+
+https://t.co/Qp7aAuHIqJ
 
 ---
-@simonw | ❤️ 0 | 🔁 0 | 💬 0 | 👁 34]]></description>
-      <author>@simonw</author>
+@_catwu | ❤️ 15 | 🔁 3 | 💬 0 | 👁 824]]></description>
+      <author>@_catwu</author>
     </item>
     <item>
-      <title>Team Blue is going full green ahead.</title>
-      <link>https://x.com/tunguz/status/2047419951837831446</link>
-      <guid isPermaLink="false">2047419951837831446</guid>
-      <pubDate>Thu, 23 Apr 2026 20:58:50 +0000</pubDate>
-      <description><![CDATA[Team Blue is going full green ahead.
+      <title>RT @soleio: The cultural currency of San Francisco is possibility. 
+
+@adityaag describes it so well:</title>
+      <link>https://x.com/adityaag/status/2047425380739678673</link>
+      <guid isPermaLink="false">2047425380739678673</guid>
+      <pubDate>Thu, 23 Apr 2026 21:20:24 +0000</pubDate>
+      <description><![CDATA[RT @soleio: The cultural currency of San Francisco is possibility. 
+
+@adityaag describes it so well:
 
 ---
-@tunguz | ❤️ 2 | 🔁 0 | 💬 0 | 👁 133]]></description>
-      <author>@tunguz</author>
+@adityaag | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@adityaag</author>
     </item>
     <item>
-      <title>Here are the #AI developments that #Finance pros should be tracking
-by Betsy Vereckey @MITSloan
+      <title>RT @ziv_ravid: Do you want to know why LLMs feel sharp on surface semantics but hollow on the fine-g...</title>
+      <link>https://x.com/ylecun/status/2047425365539234303</link>
+      <guid isPermaLink="false">2047425365539234303</guid>
+      <pubDate>Thu, 23 Apr 2026 21:20:21 +0000</pubDate>
+      <description><![CDATA[RT @ziv_ravid: Do you want to know why LLMs feel sharp on surface semantics but hollow on the fine-grained stuff?
 
-Lea...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047419748045017317</link>
-      <guid isPermaLink="false">2047419748045017317</guid>
-      <pubDate>Thu, 23 Apr 2026 20:58:01 +0000</pubDate>
-      <description><![CDATA[Here are the #AI developments that #Finance pros should be tracking
-by Betsy Vereckey @MITSloan
-
-Learn more: https://t.co/nnD77Z7ail
-
-#MachineLearning #ArtificialIntelligence #ML https://t.co/kOfvqheC89
+“From Tokens to Thoughts…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 40]]></description>
+@ylecun | ❤️ 0 | 🔁 7 | 💬 0 | 👁 2]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>Droidup #Robotics Unveils Moya, a Next-Gen Lifelike Humanoid
+by @CyberRobooo
+
+#AI #Robots #MachineLe...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047425303023173695</link>
+      <guid isPermaLink="false">2047425303023173695</guid>
+      <pubDate>Thu, 23 Apr 2026 21:20:06 +0000</pubDate>
+      <description><![CDATA[Droidup #Robotics Unveils Moya, a Next-Gen Lifelike Humanoid
+by @CyberRobooo
+
+#AI #Robots #MachineLearning #ArtificialIntelligence #ML https://t.co/hfLVUIDSuZ
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 100]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @Teknium: GPT-5.5 is now accessible in Hermes Agent through the ChatGPT/Codex OAuth provider.
-
-Ru...</title>
-      <link>https://x.com/NousResearch/status/2047419680672088299</link>
-      <guid isPermaLink="false">2047419680672088299</guid>
-      <pubDate>Thu, 23 Apr 2026 20:57:45 +0000</pubDate>
-      <description><![CDATA[RT @Teknium: GPT-5.5 is now accessible in Hermes Agent through the ChatGPT/Codex OAuth provider.
-
-Run `hermes update` to access now or lear…
+      <title>RT @mmbronstein: illustrious researchers interested in MD ⁦@ylecun⁩ https://t.co/iiwfTKymmx</title>
+      <link>https://x.com/ylecun/status/2047425268499820913</link>
+      <guid isPermaLink="false">2047425268499820913</guid>
+      <pubDate>Thu, 23 Apr 2026 21:19:57 +0000</pubDate>
+      <description><![CDATA[RT @mmbronstein: illustrious researchers interested in MD ⁦@ylecun⁩ https://t.co/iiwfTKymmx
 
 ---
-@NousResearch | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>RT @phosphenq: This 2 hour lecture by Yann LeCun (Turing Award winner) will teach you why the next t...</title>
-      <link>https://x.com/ylecun/status/2047419156992020660</link>
-      <guid isPermaLink="false">2047419156992020660</guid>
-      <pubDate>Thu, 23 Apr 2026 20:55:40 +0000</pubDate>
-      <description><![CDATA[RT @phosphenq: This 2 hour lecture by Yann LeCun (Turing Award winner) will teach you why the next trillion dollar AI company won't be buil…
-
----
-@ylecun | ❤️ 0 | 🔁 36 | 💬 0 | 👁 0]]></description>
+@ylecun | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
       <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @rohanpaul_ai: Yann LeCun (@ylecun ): Sillion Valley is &quot;completely LLM-pilled&quot; 
+      <title>RT @omarsar0: GPT-5.5 in Codex is a delight to work with:
 
-&quot...</title>
-      <link>https://x.com/ylecun/status/2047418909809086676</link>
-      <guid isPermaLink="false">2047418909809086676</guid>
-      <pubDate>Thu, 23 Apr 2026 20:54:41 +0000</pubDate>
-      <description><![CDATA[RT @rohanpaul_ai: Yann LeCun (@ylecun ): Sillion Valley is &quot;completely LLM-pilled&quot; 
+- Super sharp with responses
+- It underst...</title>
+      <link>https://x.com/dair_ai/status/2047425156637692178</link>
+      <guid isPermaLink="false">2047425156637692178</guid>
+      <pubDate>Thu, 23 Apr 2026 21:19:31 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: GPT-5.5 in Codex is a delight to work with:
 
-&quot;In the end, if you’re interested in building systems…
+- Super sharp with responses
+- It understands intent better than any model
+- Gre…
 
 ---
-@ylecun | ❤️ 0 | 🔁 16 | 💬 0 | 👁 0]]></description>
+@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>RT @albfresco: easily missed https://t.co/magnGiRpLG</title>
+      <link>https://x.com/steipete/status/2047424850243833897</link>
+      <guid isPermaLink="false">2047424850243833897</guid>
+      <pubDate>Thu, 23 Apr 2026 21:18:18 +0000</pubDate>
+      <description><![CDATA[RT @albfresco: easily missed https://t.co/magnGiRpLG
+
+---
+@steipete | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @xeophon: The most important one first:
+
+IT DOES NOT CODE DEFENSIVELY AS MUCH!!!
+
+No more nested ...</title>
+      <link>https://x.com/steipete/status/2047424835668660386</link>
+      <guid isPermaLink="false">2047424835668660386</guid>
+      <pubDate>Thu, 23 Apr 2026 21:18:14 +0000</pubDate>
+      <description><![CDATA[RT @xeophon: The most important one first:
+
+IT DOES NOT CODE DEFENSIVELY AS MUCH!!!
+
+No more nested try/catch blocks that would only trigge…
+
+---
+@steipete | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @ylecun: @SiGallagher @Dan_Jeffries1 Actually, AI already saves lives. 
+In several countries, mam...</title>
+      <link>https://x.com/ylecun/status/2047424497934819524</link>
+      <guid isPermaLink="false">2047424497934819524</guid>
+      <pubDate>Thu, 23 Apr 2026 21:16:54 +0000</pubDate>
+      <description><![CDATA[RT @ylecun: @SiGallagher @Dan_Jeffries1 Actually, AI already saves lives. 
+In several countries, mammograms are examined by AI and radiolog…
+
+---
+@ylecun | ❤️ 0 | 🔁 6 | 💬 0 | 👁 1]]></description>
       <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @MIT_CSAIL: This week, MIT CSAIL will join other top ML researchers at ICLR to tackle a shift in ...</title>
-      <link>https://x.com/MIT_CSAIL/status/2047417827750027762</link>
-      <guid isPermaLink="false">2047417827750027762</guid>
-      <pubDate>Thu, 23 Apr 2026 20:50:23 +0000</pubDate>
-      <description><![CDATA[RT @MIT_CSAIL: This week, MIT CSAIL will join other top ML researchers at ICLR to tackle a shift in focus from more powerful AI to more rel…
+      <title>RT @theworldlabs: 2 Weeks. New Tools. Infinite Worlds🚀
+
+The World Jam is LIVE. Build the future of i...</title>
+      <link>https://x.com/drfeifei/status/2047424493208195302</link>
+      <guid isPermaLink="false">2047424493208195302</guid>
+      <pubDate>Thu, 23 Apr 2026 21:16:53 +0000</pubDate>
+      <description><![CDATA[RT @theworldlabs: 2 Weeks. New Tools. Infinite Worlds🚀
+
+The World Jam is LIVE. Build the future of interactive 3D with Marble 1.1 + Spark L…
 
 ---
-@MIT_CSAIL | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
+@drfeifei | ❤️ 0 | 🔁 12 | 💬 0 | 👁 0]]></description>
+      <author>@drfeifei</author>
     </item>
     <item>
-      <title>RT @MIT_CSAIL: How do top reasoning models become overconfident?
+      <title>Two years since Replit left SF.
 
-MIT found that RL rewards correct ...</title>
-      <link>https://x.com/MIT_CSAIL/status/2047417809466982543</link>
-      <guid isPermaLink="false">2047417809466982543</guid>
-      <pubDate>Thu, 23 Apr 2026 20:50:19 +0000</pubDate>
-      <description><![CDATA[RT @MIT_CSAIL: How do top reasoning models become overconfident?
+10x valuation and 200x ARR later we’ve taken over much of the old I...</title>
+      <link>https://x.com/amasad/status/2047424463113785654</link>
+      <guid isPermaLink="false">2047424463113785654</guid>
+      <pubDate>Thu, 23 Apr 2026 21:16:45 +0000</pubDate>
+      <description><![CDATA[Two years since Replit left SF.
 
-MIT found that RL rewards correct answers w/o considering how sure the mo…
+10x valuation and 200x ARR later we’ve taken over much of the old IBM campus in Foster City and we’re still expanding.
+
+There’s something poetic about it: IBM helped create the industry. We’re helping reinvent how people create software.
+
+San Francisco is a beautiful city. But it wasn’t the right place for us to focus and rebuild. To transform both our company, and the future of programming itself.
+
+We went from worrying about employee safety to designing a campus people actually want to spend time in.
+
+Better problems.
+
+Foster City gave us space both literally and figuratively. Open horizons, fewer distractions, and more room to think long-term.
+
+It’s a hidden gem in Silicon Valley.
+
+And we’re just getting started.
 
 ---
-@MIT_CSAIL | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
+@amasad | ❤️ 55 | 🔁 2 | 💬 7 | 👁 4446]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>RT @linear: New: MCP support for Linear Agent
-
-Connect tools like Granola, Notion, PostHog, and many...</title>
-      <link>https://x.com/thenanyu/status/2047417683675598868</link>
-      <guid isPermaLink="false">2047417683675598868</guid>
-      <pubDate>Thu, 23 Apr 2026 20:49:49 +0000</pubDate>
-      <description><![CDATA[RT @linear: New: MCP support for Linear Agent
-
-Connect tools like Granola, Notion, PostHog, and many others to pull in context for creating…
+      <title>RIP Tesla.</title>
+      <link>https://x.com/tunguz/status/2047423649188024793</link>
+      <guid isPermaLink="false">2047423649188024793</guid>
+      <pubDate>Thu, 23 Apr 2026 21:13:31 +0000</pubDate>
+      <description><![CDATA[RIP Tesla.
 
 ---
-@thenanyu | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@thenanyu</author>
+@tunguz | ❤️ 14 | 🔁 0 | 💬 1 | 👁 984]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>For the most part, life gives you so many decisions to make and so many opportunities to recover fro...</title>
-      <link>https://x.com/RayDalio/status/2047415211699654767</link>
-      <guid isPermaLink="false">2047415211699654767</guid>
-      <pubDate>Thu, 23 Apr 2026 20:40:00 +0000</pubDate>
-      <description><![CDATA[For the most part, life gives you so many decisions to make and so many opportunities to recover from your mistakes that, if you handle them well, you can have a terrific life. Of course, sometimes there are major influences on the quality of our lives that come from things beyond our control—the circumstances we are born into, accidents and illnesses, and so forth—but for the most part even the worst circumstances can be made better with the right approach. For example, a friend of mine dove into a swimming pool, hit his head, and became a quadriplegic. But he approached his situation well and became as happy as anybody else, because there are many paths to happiness. #principleoftheday
+      <title>RT @OpenRouter: The new Hy3-Preview model from @TencentHunyuan is live for free on OpenRouter!
+
+It’s...</title>
+      <link>https://x.com/steipete/status/2047423217422184798</link>
+      <guid isPermaLink="false">2047423217422184798</guid>
+      <pubDate>Thu, 23 Apr 2026 21:11:48 +0000</pubDate>
+      <description><![CDATA[RT @OpenRouter: The new Hy3-Preview model from @TencentHunyuan is live for free on OpenRouter!
+
+It’s a 295B MoE model (21B active) with con…
 
 ---
-@RayDalio | ❤️ 86 | 🔁 10 | 💬 10 | 👁 10617]]></description>
-      <author>@RayDalio</author>
+@steipete | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>Claude Code's Head of Product: &quot;The hardest PM skill right now is how to be the right amount of...</title>
-      <link>https://x.com/lennysan/status/2047414687084740742</link>
-      <guid isPermaLink="false">2047414687084740742</guid>
-      <pubDate>Thu, 23 Apr 2026 20:37:55 +0000</pubDate>
-      <description><![CDATA[Claude Code's Head of Product: &quot;The hardest PM skill right now is how to be the right amount of AGI-pilled.&quot; https://t.co/03Y9AmmRu7
+      <title>Memories are stored as files, so developers can export them, manage them via the API, and keep full ...</title>
+      <link>https://x.com/claudeai/status/2047421846463623579</link>
+      <guid isPermaLink="false">2047421846463623579</guid>
+      <pubDate>Thu, 23 Apr 2026 21:06:22 +0000</pubDate>
+      <description><![CDATA[Memories are stored as files, so developers can export them, manage them via the API, and keep full control over what agents retain.
+
+Read more: https://t.co/PcfYg5sFxe
 
 ---
-@lennysan | ❤️ 18 | 🔁 2 | 💬 3 | 👁 2768]]></description>
-      <author>@lennysan</author>
+@claudeai | ❤️ 112 | 🔁 3 | 💬 5 | 👁 15572]]></description>
+      <author>@claudeai</author>
     </item>
     <item>
-      <title>RT @SherryYanJiang: stoked that we'll have the legend @thsottiaux speaking at @aiDotEngineer singapo...</title>
-      <link>https://x.com/swyx/status/2047414281445233029</link>
-      <guid isPermaLink="false">2047414281445233029</guid>
-      <pubDate>Thu, 23 Apr 2026 20:36:18 +0000</pubDate>
-      <description><![CDATA[RT @SherryYanJiang: stoked that we'll have the legend @thsottiaux speaking at @aiDotEngineer singapore!
+      <title>Memory on Claude Managed Agents is now in public beta.
 
-@thsottiaux is the engineering lea…
+Your agents can now learn from every session...</title>
+      <link>https://x.com/claudeai/status/2047421844311949513</link>
+      <guid isPermaLink="false">2047421844311949513</guid>
+      <pubDate>Thu, 23 Apr 2026 21:06:21 +0000</pubDate>
+      <description><![CDATA[Memory on Claude Managed Agents is now in public beta.
 
----
-@swyx | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>@OpenAI 🔗 https://t.co/6OIQMiHfQ1</title>
-      <link>https://x.com/nvidia/status/2047414016503341213</link>
-      <guid isPermaLink="false">2047414016503341213</guid>
-      <pubDate>Thu, 23 Apr 2026 20:35:15 +0000</pubDate>
-      <description><![CDATA[@OpenAI 🔗 https://t.co/6OIQMiHfQ1
+Your agents can now learn from every session, using an intelligence-optimized memory layer that balances performance with flexibility. https://t.co/P7GjOYPqCz
 
 ---
-@nvidia | ❤️ 7 | 🔁 0 | 💬 0 | 👁 3552]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>Efficiency isn't just about speed anymore — it's about the massive reduction in the cost of intellig...</title>
-      <link>https://x.com/nvidia/status/2047414012934082751</link>
-      <guid isPermaLink="false">2047414012934082751</guid>
-      <pubDate>Thu, 23 Apr 2026 20:35:14 +0000</pubDate>
-      <description><![CDATA[Efficiency isn't just about speed anymore — it's about the massive reduction in the cost of intelligence. 
-
-NVIDIA and @OpenAI's partnership leverages the GB200 NVL72 to deliver a 35x reduction in token costs, bringing enterprise-grade AI to an unprecedented scale.
-
-Trained and served on NVIDIA GB200 NVL72 systems, GPT-5.5 delivers the sustained performance required for execution-heavy, multi-step work — and at NVIDIA, that means teams are now scaling human ingenuity with OpenAI Codex Agents.
-
----
-@nvidia | ❤️ 71 | 🔁 9 | 💬 15 | 👁 4913]]></description>
-      <author>@nvidia</author>
+@claudeai | ❤️ 1346 | 🔁 86 | 💬 104 | 👁 47845]]></description>
+      <author>@claudeai</author>
     </item>
   </channel>
 </rss>
