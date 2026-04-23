@@ -5,211 +5,219 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 20:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 20:31:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>First, let's talk about TPU 8t, which is designed for large-scale training and inference throughput....</title>
-      <link>https://x.com/JeffDean/status/2047405389856297387</link>
-      <guid isPermaLink="false">2047405389856297387</guid>
-      <pubDate>Thu, 23 Apr 2026 20:00:58 +0000</pubDate>
-      <description><![CDATA[First, let's talk about TPU 8t, which is designed for large-scale training and inference throughput.
+      <title>RT @HuggingPapers: Meta just released Sapiens2 on Hugging Face
 
-The pod size is increased slightly to 9600 chips, and provides ~3X the FP4 performance per pod vs. Ironwood (8t has 121 exaflops/pod vs. 42.5 exaflops/pod for Ironwood).  In addition, the ICI network bandwidth is 2X higher per chip and the scale out datacenter networking is 4X higher per chip.
+High-resolution vision transformers ...</title>
+      <link>https://x.com/_akhaliq/status/2047411679042912568</link>
+      <guid isPermaLink="false">2047411679042912568</guid>
+      <pubDate>Thu, 23 Apr 2026 20:25:58 +0000</pubDate>
+      <description><![CDATA[RT @HuggingPapers: Meta just released Sapiens2 on Hugging Face
 
-Importantly, this system also offers 2X the performance / watt, continuing the trend of significant energy effiency improvements that we've had for many generations of TPUs (8t offers ~60X the performance/watt as TPU v2).
+High-resolution vision transformers pretrained on 1 billion human images,
+f…
 
 ---
-@JeffDean | ❤️ 0 | 🔁 0 | 💬 0 | 👁 74]]></description>
-      <author>@JeffDean</author>
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: How To Ensure #Digital Twins Deliver Real #Business Value
-by @Forbes
+      <title>RT @ajambrosino: New in the Codex app:
 
-Learn more...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047405276475576649</link>
-      <guid isPermaLink="false">2047405276475576649</guid>
-      <pubDate>Thu, 23 Apr 2026 20:00:31 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: How To Ensure #Digital Twins Deliver Real #Business Value
-by @Forbes
+- GPT-5.5
+- Browser control
+- Sheets &amp;amp; Slides
+- Docs...</title>
+      <link>https://x.com/nickbaumann_/status/2047411551456698776</link>
+      <guid isPermaLink="false">2047411551456698776</guid>
+      <pubDate>Thu, 23 Apr 2026 20:25:27 +0000</pubDate>
+      <description><![CDATA[RT @ajambrosino: New in the Codex app:
 
-Learn more: https://t.co/NR1nQVKjAx
-
-#ArtificialI…
+- GPT-5.5
+- Browser control
+- Sheets &amp;amp; Slides
+- Docs &amp;amp; PDFs
+- OS-wide dictation
+- Auto-review mode…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@nickbaumann_ | ❤️ 0 | 🔁 103 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>Test your app on iOS and Android devices with one-click.</title>
-      <link>https://x.com/amasad/status/2047404836811853965</link>
-      <guid isPermaLink="false">2047404836811853965</guid>
-      <pubDate>Thu, 23 Apr 2026 19:58:46 +0000</pubDate>
-      <description><![CDATA[Test your app on iOS and Android devices with one-click.
+      <title>We showed the world what agents could do to software development in 2024 with Replit Agent, and now ...</title>
+      <link>https://x.com/amasad/status/2047411405171708349</link>
+      <guid isPermaLink="false">2047411405171708349</guid>
+      <pubDate>Thu, 23 Apr 2026 20:24:52 +0000</pubDate>
+      <description><![CDATA[We showed the world what agents could do to software development in 2024 with Replit Agent, and now we’re demonstrating how AI can transform application monitoring, security, and upkeep. More to come!
 
 ---
-@amasad | ❤️ 3 | 🔁 0 | 💬 3 | 👁 496]]></description>
+@amasad | ❤️ 2 | 🔁 0 | 💬 0 | 👁 447]]></description>
       <author>@amasad</author>
     </item>
     <item>
-      <title>I had a good time discussing yesterday's Google TPU v8t and v8i announcement at Cloud Next with Amin...</title>
-      <link>https://x.com/JeffDean/status/2047403921912873257</link>
-      <guid isPermaLink="false">2047403921912873257</guid>
-      <pubDate>Thu, 23 Apr 2026 19:55:08 +0000</pubDate>
-      <description><![CDATA[I had a good time discussing yesterday's Google TPU v8t and v8i announcement at Cloud Next with Amin Vahdat along with @AcquiredFM hosts @gilbert
-and @djrosent.
+      <title>AI ate most of the software development lifecycle but maintaining live apps is still manual. 
 
-The blog post announcement has lots of details about these new chips:
+“DevS...</title>
+      <link>https://x.com/amasad/status/2047411360993034262</link>
+      <guid isPermaLink="false">2047411360993034262</guid>
+      <pubDate>Thu, 23 Apr 2026 20:24:42 +0000</pubDate>
+      <description><![CDATA[AI ate most of the software development lifecycle but maintaining live apps is still manual. 
 
-https://t.co/fbpUOvC3e3
+“DevSecOps” is the new bottleneck as software creation explodes.
 
-Here's a thread of some particular things I'm excited about:
+Introducing Replit Auto-Protect: a 24x7 vulnerability scanner for your live apps. https://t.co/MuulnIPBLV
 
 ---
-@JeffDean | ❤️ 13 | 🔁 0 | 💬 2 | 👁 897]]></description>
-      <author>@JeffDean</author>
+@amasad | ❤️ 16 | 🔁 2 | 💬 4 | 👁 847]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>&quot;don't retweet this, don't retweet this, don't retweet this...&quot;
+      <title>World’s Smallest Pacemaker Heals the Heart
+by @pascal_bornet
 
-ah fuck it, life imitates...</title>
-      <link>https://x.com/sama/status/2047403771416940715</link>
-      <guid isPermaLink="false">2047403771416940715</guid>
-      <pubDate>Thu, 23 Apr 2026 19:54:32 +0000</pubDate>
-      <description><![CDATA[&quot;don't retweet this, don't retweet this, don't retweet this...&quot;
+#HealthTech #Innovation #EmergingTech ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047410009881862385</link>
+      <guid isPermaLink="false">2047410009881862385</guid>
+      <pubDate>Thu, 23 Apr 2026 20:19:20 +0000</pubDate>
+      <description><![CDATA[World’s Smallest Pacemaker Heals the Heart
+by @pascal_bornet
 
-ah fuck it, life imitates art.
-
----
-@sama | ❤️ 385 | 🔁 30 | 💬 80 | 👁 19679]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>Unpredictable AGI may resist full control, making diverse #AI safer
-by Gaby Clark @TechXplore_com
-
-L...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047403683197940126</link>
-      <guid isPermaLink="false">2047403683197940126</guid>
-      <pubDate>Thu, 23 Apr 2026 19:54:11 +0000</pubDate>
-      <description><![CDATA[Unpredictable AGI may resist full control, making diverse #AI safer
-by Gaby Clark @TechXplore_com
-
-Learn more: https://t.co/LNmGlFjKb9
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/B9HJ3ZH0dm
+#HealthTech #Innovation #EmergingTech #Tech #Technology #TechForGood https://t.co/jx5gR3C3T2
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 66]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 90]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Codex 已经可以支持 GPT-5.5 了，同时一口气推了五个能力升级，大方向是让 Codex 从“写代码的工具”变成“帮你干活的智能体”。
-
-最大的变化是浏览器操控。Codex 现在可以直接操作网...</title>
-      <link>https://x.com/dotey/status/2047403459717320819</link>
-      <guid isPermaLink="false">2047403459717320819</guid>
-      <pubDate>Thu, 23 Apr 2026 19:53:18 +0000</pubDate>
-      <description><![CDATA[Codex 已经可以支持 GPT-5.5 了，同时一口气推了五个能力升级，大方向是让 Codex 从“写代码的工具”变成“帮你干活的智能体”。
-
-最大的变化是浏览器操控。Codex 现在可以直接操作网页应用，点击页面、填写表单、截图查看结果，然后根据看到的内容自己迭代，直到任务完成。比如你让它测一个注册流程，它能自己走完全程并告诉你哪一步有问题。
-
-文档能力也升级了。Codex 现在能直接在 Microsoft Office 和 Google Drive 里生成电子表格、幻灯片和文档，质量比之前好不少。应用内还加了一个文件预览器，改完可以直接看效果、反复调整，不用来回切换。
-
-电脑操控（Computer Use）跟着 GPT-5.5 一起增强，能看屏幕内容、点击、打字、在不同应用之间传递上下文。这个方向 Anthropic 去年率先推出，OpenAI 现在也跟上了。
-
-比较有意思的是新增的“自动审查”（Auto-review）模式。以前 Codex 每走一步都要你点确认，现在它可以连续执行更长的任务链，遇到高风险操作时会启动一个独立的审查智能体来检查，通过了才继续。相当于自带了一个安全审计员，减少人工干预的同时控制风险。
-
-另外，上周发布的图像生成模型 gpt-image-2 也整合进了 Codex，做应用原型、演示文稿的时候可以顺手生成配图，不用再切到别的工具。
+      <title>RT @clairevo: GPT-5.5 solved my boring, hard problems (giant chunk of tech debt) and my fun problems...</title>
+      <link>https://x.com/lennysan/status/2047410002252730415</link>
+      <guid isPermaLink="false">2047410002252730415</guid>
+      <pubDate>Thu, 23 Apr 2026 20:19:18 +0000</pubDate>
+      <description><![CDATA[RT @clairevo: GPT-5.5 solved my boring, hard problems (giant chunk of tech debt) and my fun problems (hacking into a bluetooth connected sc…
 
 ---
-@dotey | ❤️ 4 | 🔁 0 | 💬 2 | 👁 512]]></description>
-      <author>@dotey</author>
+@lennysan | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>Gary Marcus in shambles.</title>
-      <link>https://x.com/tunguz/status/2047402755698860275</link>
-      <guid isPermaLink="false">2047402755698860275</guid>
-      <pubDate>Thu, 23 Apr 2026 19:50:30 +0000</pubDate>
-      <description><![CDATA[Gary Marcus in shambles.
+      <title>RT @ClementDelangue: 5B tokens in ml-intern in 48h 😅😅😅</title>
+      <link>https://x.com/_akhaliq/status/2047409813240344684</link>
+      <guid isPermaLink="false">2047409813240344684</guid>
+      <pubDate>Thu, 23 Apr 2026 20:18:33 +0000</pubDate>
+      <description><![CDATA[RT @ClementDelangue: 5B tokens in ml-intern in 48h 😅😅😅
 
 ---
-@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 636]]></description>
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @akseljoonas: we burned through 5 billion tokens in 48h. 
+
+turns out giving everyone unlimited ac...</title>
+      <link>https://x.com/_akhaliq/status/2047409766901711027</link>
+      <guid isPermaLink="false">2047409766901711027</guid>
+      <pubDate>Thu, 23 Apr 2026 20:18:22 +0000</pubDate>
+      <description><![CDATA[RT @akseljoonas: we burned through 5 billion tokens in 48h. 
+
+turns out giving everyone unlimited access to the most expensive model on the…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>It's worth pointing out that we have been pushing on large-scale training and asynchronous technique...</title>
+      <link>https://x.com/JeffDean/status/2047408945950802186</link>
+      <guid isPermaLink="false">2047408945950802186</guid>
+      <pubDate>Thu, 23 Apr 2026 20:15:06 +0000</pubDate>
+      <description><![CDATA[It's worth pointing out that we have been pushing on large-scale training and asynchronous techniques for the last ~14 years.  Here's our NeurIPS 2012 paper where we demonstrated that this approach could be used to train very large neural networks (for the time: 30X larger than any previous neural network), and to spread the training out across thousands of machines in a fault-tolerant manner.
+
+PDF: https://t.co/UK1GlSt91h
+
+https://t.co/UK1GlSt91h
+
+(This paper doesn't get as much attention because we neglected to put it on Arxiv at the time: oops!)
+
+---
+@JeffDean | ❤️ 5 | 🔁 0 | 💬 0 | 👁 1156]]></description>
+      <author>@JeffDean</author>
+    </item>
+    <item>
+      <title>The @github folks are amazing!</title>
+      <link>https://x.com/steipete/status/2047408665888432579</link>
+      <guid isPermaLink="false">2047408665888432579</guid>
+      <pubDate>Thu, 23 Apr 2026 20:13:59 +0000</pubDate>
+      <description><![CDATA[The @github folks are amazing!
+
+---
+@steipete | ❤️ 68 | 🔁 7 | 💬 10 | 👁 6296]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>@sama Wait is this GPT 5.5 or Sam.. 
+
+When did I miss the memo on uppercase Sam?</title>
+      <link>https://x.com/nikunj/status/2047408285071106079</link>
+      <guid isPermaLink="false">2047408285071106079</guid>
+      <pubDate>Thu, 23 Apr 2026 20:12:28 +0000</pubDate>
+      <description><![CDATA[@sama Wait is this GPT 5.5 or Sam.. 
+
+When did I miss the memo on uppercase Sam?
+
+---
+@nikunj | ❤️ 2 | 🔁 0 | 💬 0 | 👁 123]]></description>
+      <author>@nikunj</author>
+    </item>
+    <item>
+      <title>@sama People are already excited to jump in! 💚 https://t.co/jatYaDtnjc</title>
+      <link>https://x.com/nvidia/status/2047408116418200035</link>
+      <guid isPermaLink="false">2047408116418200035</guid>
+      <pubDate>Thu, 23 Apr 2026 20:11:48 +0000</pubDate>
+      <description><![CDATA[@sama People are already excited to jump in! 💚 https://t.co/jatYaDtnjc
+
+---
+@nvidia | ❤️ 21 | 🔁 0 | 💬 2 | 👁 1400]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>TPU 8i is co-designed with our Gemini research team to support low latency inference.  Among the att...</title>
+      <link>https://x.com/JeffDean/status/2047407537566495033</link>
+      <guid isPermaLink="false">2047407537566495033</guid>
+      <pubDate>Thu, 23 Apr 2026 20:09:30 +0000</pubDate>
+      <description><![CDATA[TPU 8i is co-designed with our Gemini research team to support low latency inference.  Among the attributes that support this are large amounts of on-chip SRAM, enabling more computations to be done on chip without having to go to HBM for weights or KVCache state as often.
+
+The boardfly network topology (see image below) offers a much lower diameter network to connect all 1152 chips in an 8i pod, by fully connecting all 4 chips on the board together, fully connecting groups of 8 boards together, and then fully connecting 36 groups of 8 boards together.  In addition, there is specialized Collectives Acceleration Engine (CAE) circuitry on each chip to offload various kinds of reductions and other global operations from the main computational portion of each chip, reducing on-chip latency by up to 5x.
+
+Together, these features will offer very high throughput for large-scale models (including MoEs, which often require mapping onto many chips for inference), and will do so at very low latency.  This will make agentic workloads and interactive usage really shine on the TPU 8i.
+
+---
+@JeffDean | ❤️ 19 | 🔁 2 | 💬 1 | 👁 1610]]></description>
+      <author>@JeffDean</author>
+    </item>
+    <item>
+      <title>RT @tunguz: This is a stunning new discovery in science, challenging the “fundamental dogma” of biol...</title>
+      <link>https://x.com/tunguz/status/2047407200025354287</link>
+      <guid isPermaLink="false">2047407200025354287</guid>
+      <pubDate>Thu, 23 Apr 2026 20:08:10 +0000</pubDate>
+      <description><![CDATA[RT @tunguz: This is a stunning new discovery in science, challenging the “fundamental dogma” of biology. This is the kind of non-trivial fu…
+
+---
+@tunguz | ❤️ 0 | 🔁 21 | 💬 0 | 👁 0]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>Yup. This is particularly true if you are working on something completely outside the scope of most ...</title>
-      <link>https://x.com/tunguz/status/2047400589651308751</link>
-      <guid isPermaLink="false">2047400589651308751</guid>
-      <pubDate>Thu, 23 Apr 2026 19:41:54 +0000</pubDate>
-      <description><![CDATA[Yup. This is particularly true if you are working on something completely outside the scope of most labs.
+      <title>RT @tunguz: They are using their workers to train their AI and replace them. Utterly cringe and dyst...</title>
+      <link>https://x.com/tunguz/status/2047407141619740832</link>
+      <guid isPermaLink="false">2047407141619740832</guid>
+      <pubDate>Thu, 23 Apr 2026 20:07:56 +0000</pubDate>
+      <description><![CDATA[RT @tunguz: They are using their workers to train their AI and replace them. Utterly cringe and dystopian.
 
 ---
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 715]]></description>
+@tunguz | ❤️ 0 | 🔁 34 | 💬 0 | 👁 0]]></description>
       <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @omarsar0: Things have been degrading super fast in Claude Code.
-
-I still use Claude Code, but my...</title>
-      <link>https://x.com/dair_ai/status/2047400009193214114</link>
-      <guid isPermaLink="false">2047400009193214114</guid>
-      <pubDate>Thu, 23 Apr 2026 19:39:35 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: Things have been degrading super fast in Claude Code.
-
-I still use Claude Code, but my default is now Codex. I still prefer O…
-
----
-@dair_ai | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>RT @omarsar0: Build your own harness, folks. You won't regret it.
-
-These days, you just have to fix ...</title>
-      <link>https://x.com/dair_ai/status/2047400001584632252</link>
-      <guid isPermaLink="false">2047400001584632252</guid>
-      <pubDate>Thu, 23 Apr 2026 19:39:33 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: Build your own harness, folks. You won't regret it.
-
-These days, you just have to fix things yourself.
-
-It's doable, and it w…
-
----
-@dair_ai | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>we're rolling codex out to whole companies/enterprises. ping me gdb@openai.com if of interest!</title>
-      <link>https://x.com/gdb/status/2047398726856245623</link>
-      <guid isPermaLink="false">2047398726856245623</guid>
-      <pubDate>Thu, 23 Apr 2026 19:34:29 +0000</pubDate>
-      <description><![CDATA[we're rolling codex out to whole companies/enterprises. ping me gdb@openai.com if of interest!
-
----
-@gdb | ❤️ 206 | 🔁 11 | 💬 22 | 👁 15316]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>Here is the new game mode for https://t.co/q1vYLwMP2u
-
-You start as a soldier but then you press F a...</title>
-      <link>https://x.com/levelsio/status/2047398523717706142</link>
-      <guid isPermaLink="false">2047398523717706142</guid>
-      <pubDate>Thu, 23 Apr 2026 19:33:41 +0000</pubDate>
-      <description><![CDATA[Here is the new game mode for https://t.co/q1vYLwMP2u
-
-You start as a soldier but then you press F and you switch to one of the 3 drones in your backpack
-
-It helps you attack places where you can't go easily yourself (like high roofs etc) to neutralize enemies
-
-But of course you yourself are also targeted by enemy drones all the time 😲
-
----
-@levelsio | ❤️ 15 | 🔁 0 | 💬 10 | 👁 7259]]></description>
-      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
