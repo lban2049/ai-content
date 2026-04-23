@@ -26,12 +26,20 @@
 | <img src="./images/product-photography-ad.jpg" width="120"> | [产品广告摄影](./product-photography-ad.md) | @Salmaaboukarr | 产品摄影 |
 | <img src="./images/japanese-crane-art.jpg" width="120"> | [日式鹤与菊图案](./japanese-crane-art.md) | @dotey | 传统艺术 |
 | <img src="./images/emotional-split-face.jpg" width="120"> | [情感分裂面部艺术](./emotional-split-face.md) | @dotey | 艺术创作 |
+| <img src="./images/geekcat-dk-encyclopedia.jpg" width="120"> | [DK 百科博物馆风格](./geekcat-dk-encyclopedia.md) | @GeekCatX | 信息图 |
+| <img src="./images/geekcat-chinese-scroll.jpg" width="120"> | [国风卷轴插画](./geekcat-chinese-scroll.md) | @GeekCatX | 国风插画 |
+| <img src="./images/geekcat-steampunk-anatomy.jpg" width="120"> | [蒸汽朋克解剖图](./geekcat-steampunk-anatomy.md) | @GeekCatX | 复古科学 |
+| <img src="./images/geekcat-stick-figure.jpg" width="120"> | [火柴人复古工程手稿](./geekcat-stick-figure.md) | @GeekCatX | 信息图 |
+| <img src="./images/geekcat-food-infographic.jpg" width="120"> | [食物的一生信息图](./geekcat-food-infographic.md) | @GeekCatX | 美食科普 |
+| <img src="./images/geekcat-isometric-pixel.jpg" width="120"> | [像素等距演进博物馆](./geekcat-isometric-pixel.md) | @GeekCatX | 像素艺术 |
+| <img src="./images/geekcat-woodcut-ticket.jpg" width="120"> | [复古黑白木刻电影票](./geekcat-woodcut-ticket.md) | @GeekCatX | 复古印刷 |
 
 ## 分类索引
 
 ### 国风/东方美学
 - [水墨山水国风插画](./chinese-ink-landscape.md)
 - [日式鹤与菊图案](./japanese-crane-art.md)
+- [国风卷轴插画](./geekcat-chinese-scroll.md)
 
 ### 插画风格
 - [可爱卡通插画](./kawaii-cartoon.md)
@@ -46,12 +54,16 @@
 ### 信息图/可视化
 - [物体信息图](./infographics.md)
 - [视觉信息设计风格集](./gpt-image-2-visual-styles.md)
+- [DK 百科博物馆风格](./geekcat-dk-encyclopedia.md)
+- [火柴人复古工程手稿](./geekcat-stick-figure.md)
+- [食物的一生信息图](./geekcat-food-infographic.md)
 
 ### 创意内容
 - [AI 实验室海报](./ai-poster.md)
 - [美式漫画分镜](./comic-panels.md)
 - [GPT 漫画](./manga-gpt.md)
 - [像素艺术网格](./pixel-art.md)
+- [像素等距演进博物馆](./geekcat-isometric-pixel.md)
 
 ### 产品展示
 - [产品包装盒](./product-box.md)
@@ -63,6 +75,10 @@
 ### 摄影风格
 - [杂志肖像编辑风](./editorial-portrait.md)
 - [复古胶片摄影风](./vintage-film-photography.md)
+
+### 复古科学/印刷
+- [蒸汽朋克解剖图](./geekcat-steampunk-anatomy.md)
+- [复古黑白木刻电影票](./geekcat-woodcut-ticket.md)
 
 ### 环境/体验
 - [360 全景图](./panorama.md)
