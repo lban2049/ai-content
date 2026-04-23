@@ -5,7 +5,9 @@
 - **日期**: 2026-04-23
 - **作者**: @dotey (宝玉)
 - **推文链接**: https://x.com/dotey/status/2047114473253838969
-- **图片链接**: https://pbs.twimg.com/media/HGjPrWPW0AAb789.jpg
+![草帽海贼团](./images/HGjPrWPW0AAb789.jpg)
+
+- **原始图片**: https://pbs.twimg.com/media/HGjPrWPW0AAb789.jpg
 
 ## 提示词
 

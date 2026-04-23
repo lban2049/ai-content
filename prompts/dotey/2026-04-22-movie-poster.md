@@ -5,7 +5,9 @@
 - **日期**: 2026-04-22
 - **作者**: @dotey (宝玉)
 - **推文链接**: https://x.com/dotey/status/2046783507511287906
-- **图片链接**: https://pbs.twimg.com/media/HGeimRSXoAA6X6k.jpg
+![法国新浪潮电影海报](./images/HGeimRSXoAA6X6k.jpg)
+
+- **原始图片**: https://pbs.twimg.com/media/HGeimRSXoAA6X6k.jpg
 
 ## 提示词
 

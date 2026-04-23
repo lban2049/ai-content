@@ -5,7 +5,9 @@
 - **日期**: 2026-04-23
 - **作者**: @dotey (宝玉)
 - **推文链接**: https://x.com/dotey/status/2047185615955918962
-- **图片链接**: https://pbs.twimg.com/media/HGkQdflXMAAvMOh.jpg
+![中式山水国风](./images/HGkQdflXMAAvMOh.jpg)
+
+- **原始图片**: https://pbs.twimg.com/media/HGkQdflXMAAvMOh.jpg
 
 ## 提示词
 

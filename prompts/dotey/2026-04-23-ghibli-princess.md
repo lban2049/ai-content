@@ -5,7 +5,9 @@
 - **日期**: 2026-04-23
 - **作者**: @dotey (宝玉)
 - **推文链接**: https://x.com/dotey/status/2047111812664197284
-- **图片链接**: https://pbs.twimg.com/media/HGjNSBlXUAE6cN5.jpg
+![吉卜力公主](./images/HGjNSBlXUAE6cN5.jpg)
+
+- **原始图片**: https://pbs.twimg.com/media/HGjNSBlXUAE6cN5.jpg
 
 ## 提示词
 

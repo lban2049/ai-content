@@ -5,7 +5,9 @@
 - **日期**: 2026-04-23
 - **作者**: @dotey (宝玉)
 - **推文链接**: https://x.com/dotey/status/2047056202266554780
-- **图片链接**: https://pbs.twimg.com/media/HGiaw6rWIAAM0P5.jpg
+![咖啡熊猫](./images/HGiaw6rWIAAM0P5.jpg)
+
+- **原始图片**: https://pbs.twimg.com/media/HGiaw6rWIAAM0P5.jpg
 
 ## 提示词
 

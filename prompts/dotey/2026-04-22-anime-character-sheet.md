@@ -5,7 +5,9 @@
 - **日期**: 2026-04-22
 - **作者**: @dotey (宝玉)
 - **推文链接**: https://x.com/dotey/status/2046785225783431447
-- **图片链接**: https://pbs.twimg.com/media/HGekLBvW8AAbjfk.jpg
+![动漫角色卡](./images/HGekLBvW8AAbjfk.jpg)
+
+- **原始图片**: https://pbs.twimg.com/media/HGekLBvW8AAbjfk.jpg
 
 ## 提示词
 
