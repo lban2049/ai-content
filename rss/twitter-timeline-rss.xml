@@ -5,137 +5,306 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 13:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:31:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>If you’re not making many mistakes, you must not be learning much. Mistakes and failures are ultimat...</title>
-      <link>https://x.com/RayDalio/status/2047307085977661830</link>
-      <guid isPermaLink="false">2047307085977661830</guid>
-      <pubDate>Thu, 23 Apr 2026 13:30:21 +0000</pubDate>
-      <description><![CDATA[If you’re not making many mistakes, you must not be learning much. Mistakes and failures are ultimately more valuable to you than successes because they provide the best learning.
-
-I detailed some of my biggest mistakes—and what I learned from them—as part of the new MasterClass Executive program. At this stage in my life, I believe the most important thing I can do is to pass along everything I’ve learned to others, hoping that they find value in it and can avoid making the same mistakes I’ve made.
-
-If you’re interested in the program, you can apply for one of the limited spots here:
-https://t.co/9wMKPLsuTY
+      <title>想在 Claude 桌面版 app 使用 CC Switch 管理的供应商的朋友，可以先参考这篇文章，写的非常详细，后续我会研究能不能简化中间的操作 https://t.co/gXqFD0O6UR</title>
+      <link>https://x.com/Jason_Young1231/status/2047321978646999071</link>
+      <guid isPermaLink="false">2047321978646999071</guid>
+      <pubDate>Thu, 23 Apr 2026 14:29:31 +0000</pubDate>
+      <description><![CDATA[想在 Claude 桌面版 app 使用 CC Switch 管理的供应商的朋友，可以先参考这篇文章，写的非常详细，后续我会研究能不能简化中间的操作 https://t.co/gXqFD0O6UR
 
 ---
-@RayDalio | ❤️ 10 | 🔁 3 | 💬 1 | 👁 1060]]></description>
-      <author>@RayDalio</author>
+@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 7]]></description>
+      <author>@Jason_Young1231</author>
     </item>
     <item>
-      <title>Read the full story: https://t.co/7NMXkdiesz</title>
-      <link>https://x.com/nvidia/status/2047307007909151141</link>
-      <guid isPermaLink="false">2047307007909151141</guid>
-      <pubDate>Thu, 23 Apr 2026 13:30:02 +0000</pubDate>
-      <description><![CDATA[Read the full story: https://t.co/7NMXkdiesz
+      <title>@tunguz You can tell the agent in the initial prompt to “create hello world” python app. Or simply a...</title>
+      <link>https://x.com/amasad/status/2047321699700342829</link>
+      <guid isPermaLink="false">2047321699700342829</guid>
+      <pubDate>Thu, 23 Apr 2026 14:28:25 +0000</pubDate>
+      <description><![CDATA[@tunguz You can tell the agent in the initial prompt to “create hello world” python app. Or simply an empty whatever language environment and from there just go into the editor through the filetree on the right side
 
 ---
-@nvidia | ❤️ 0 | 🔁 0 | 💬 0 | 👁 343]]></description>
-      <author>@nvidia</author>
+@amasad | ❤️ 0 | 🔁 0 | 💬 0 | 👁 31]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>The universe is constantly unfolding—sending back more data and imagery than any team of scientists ...</title>
-      <link>https://x.com/nvidia/status/2047307002406203787</link>
-      <guid isPermaLink="false">2047307002406203787</guid>
-      <pubDate>Thu, 23 Apr 2026 13:30:01 +0000</pubDate>
-      <description><![CDATA[The universe is constantly unfolding—sending back more data and imagery than any team of scientists could ever interpret alone. AI and accelerated computing are changing that, helping researchers unlock discoveries at a scale and speed that wasn't possible before.
-
-🔭 This #AstronomyDay, we're celebrating the scientists from @UCSC, Brant Robertson and his colleagues are turning cosmic complexity into real discovery, and making it available to everyone.
+      <title>That’s a lot of compute.</title>
+      <link>https://x.com/tunguz/status/2047321553486959097</link>
+      <guid isPermaLink="false">2047321553486959097</guid>
+      <pubDate>Thu, 23 Apr 2026 14:27:50 +0000</pubDate>
+      <description><![CDATA[That’s a lot of compute.
 
 ---
-@nvidia | ❤️ 1 | 🔁 0 | 💬 5 | 👁 382]]></description>
-      <author>@nvidia</author>
+@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 200]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @KieraDiss: Do these guys work for you? @Deliveroo https://t.co/t3UtazoUtj</title>
-      <link>https://x.com/DeepLearn007/status/2047306926317302263</link>
-      <guid isPermaLink="false">2047306926317302263</guid>
-      <pubDate>Thu, 23 Apr 2026 13:29:43 +0000</pubDate>
-      <description><![CDATA[RT @KieraDiss: Do these guys work for you? @Deliveroo https://t.co/t3UtazoUtj
+      <title>@amasad Hey my kid was using Replit to learn *manual* coding, but it seems like now it’s only possib...</title>
+      <link>https://x.com/tunguz/status/2047321228315148748</link>
+      <guid isPermaLink="false">2047321228315148748</guid>
+      <pubDate>Thu, 23 Apr 2026 14:26:32 +0000</pubDate>
+      <description><![CDATA[@amasad Hey my kid was using Replit to learn *manual* coding, but it seems like now it’s only possible to create GenAI projects. Is that true?
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 1840 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@tunguz | ❤️ 1 | 🔁 0 | 💬 1 | 👁 64]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @NiohBerg: Delete your food apps.
+      <title>Here's @rywiggs (VP Mercury) walking through how he built his Claude Code second brain at work:
 
-Don't give these men access to your home. You DO NOT know who ...</title>
-      <link>https://x.com/DeepLearn007/status/2047306889457774782</link>
-      <guid isPermaLink="false">2047306889457774782</guid>
-      <pubDate>Thu, 23 Apr 2026 13:29:34 +0000</pubDate>
-      <description><![CDATA[RT @NiohBerg: Delete your food apps.
+&qu...</title>
+      <link>https://x.com/petergyang/status/2047320679889162321</link>
+      <guid isPermaLink="false">2047320679889162321</guid>
+      <pubDate>Thu, 23 Apr 2026 14:24:22 +0000</pubDate>
+      <description><![CDATA[Here's @rywiggs (VP Mercury) walking through how he built his Claude Code second brain at work:
 
-Don't give these men access to your home. You DO NOT know who they are. Cook your own dinners. https:…
+&quot;I pulled together almost 5M words from my five years at Mercury and built that as a knowledge base.
+
+At the start of everyday, I get a brief of what's on my calendar, Linear, Slack and at the end of the day it summarizes [everything].&quot;
+
+📌 Watch him talk more about it here: https://t.co/fPwEWehcaq
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 1535 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 453]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>The Future of #Data: 5TB Stored in a Tiny Glass Slab
-by @BladudX
+      <title>What Happens When Design Leaves the Screen?
+by @Fabriziobustama
 
-#Innovation #EmergingTech #Technol...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047302276683874635</link>
-      <guid isPermaLink="false">2047302276683874635</guid>
-      <pubDate>Thu, 23 Apr 2026 13:11:14 +0000</pubDate>
-      <description><![CDATA[The Future of #Data: 5TB Stored in a Tiny Glass Slab
-by @BladudX
+#AR #AugmentedReality #VirtualReali...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047320363638337554</link>
+      <guid isPermaLink="false">2047320363638337554</guid>
+      <pubDate>Thu, 23 Apr 2026 14:23:06 +0000</pubDate>
+      <description><![CDATA[What Happens When Design Leaves the Screen?
+by @Fabriziobustama
 
-#Innovation #EmergingTech #Technology #Tech https://t.co/QVVLRRXHw8
+#AR #AugmentedReality #VirtualReality #DigitalTransformation https://t.co/5tCusVSFYu
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 148]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 61]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>太阳镜架在帽子上忘了，一低头掉下来，我快速伸手接住。
-
-那一瞬间感觉自己像超人。
-
-然后立刻惋惜：怎么没有人看到。</title>
-      <link>https://x.com/bearliu/status/2047301971808235635</link>
-      <guid isPermaLink="false">2047301971808235635</guid>
-      <pubDate>Thu, 23 Apr 2026 13:10:01 +0000</pubDate>
-      <description><![CDATA[太阳镜架在帽子上忘了，一低头掉下来，我快速伸手接住。
-
-那一瞬间感觉自己像超人。
-
-然后立刻惋惜：怎么没有人看到。
+      <title>RT @csa_asc: 25 years ago, Canadian Space Agency astronaut Chris Hadfield became the first Canadian ...</title>
+      <link>https://x.com/Space_Station/status/2047318197020315807</link>
+      <guid isPermaLink="false">2047318197020315807</guid>
+      <pubDate>Thu, 23 Apr 2026 14:14:30 +0000</pubDate>
+      <description><![CDATA[RT @csa_asc: 25 years ago, Canadian Space Agency astronaut Chris Hadfield became the first Canadian to perform a spacewalk. He helped insta…
 
 ---
-@bearliu | ❤️ 1 | 🔁 0 | 💬 1 | 👁 323]]></description>
-      <author>@bearliu</author>
+@Space_Station | ❤️ 0 | 🔁 234 | 💬 0 | 👁 1]]></description>
+      <author>@Space_Station</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Meet the #Robot That Collects Tolls
-by @BrianRoemmele
+      <title>This is a lot of fun to try out - https://t.co/3Rr8qQHQ0U</title>
+      <link>https://x.com/simonw/status/2047317849811955728</link>
+      <guid isPermaLink="false">2047317849811955728</guid>
+      <pubDate>Thu, 23 Apr 2026 14:13:07 +0000</pubDate>
+      <description><![CDATA[This is a lot of fun to try out - https://t.co/3Rr8qQHQ0U
+
+---
+@simonw | ❤️ 23 | 🔁 0 | 💬 0 | 👁 1943]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>CC Switch 已发布 v3.14.1，主要集中在 codex 反代稳定性和缓存命中率修复、系统托盘显示用量、skills 导入相关稳定性修复，以及 @tison1096 大佬带来的 Gemini...</title>
+      <link>https://x.com/Jason_Young1231/status/2047316488332399082</link>
+      <guid isPermaLink="false">2047316488332399082</guid>
+      <pubDate>Thu, 23 Apr 2026 14:07:42 +0000</pubDate>
+      <description><![CDATA[CC Switch 已发布 v3.14.1，主要集中在 codex 反代稳定性和缓存命中率修复、系统托盘显示用量、skills 导入相关稳定性修复，以及 @tison1096 大佬带来的 Gemini cli 相关修复，建议更新！ https://t.co/ICgcvKqXGq
+
+---
+@Jason_Young1231 | ❤️ 9 | 🔁 0 | 💬 3 | 👁 805]]></description>
+      <author>@Jason_Young1231</author>
+    </item>
+    <item>
+      <title>oof</title>
+      <link>https://x.com/tunguz/status/2047315151670358473</link>
+      <guid isPermaLink="false">2047315151670358473</guid>
+      <pubDate>Thu, 23 Apr 2026 14:02:24 +0000</pubDate>
+      <description><![CDATA[oof
+
+---
+@tunguz | ❤️ 6 | 🔁 0 | 💬 0 | 👁 1249]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Kerecis Shield: Fish-Skin Graft with Silicone Layer for Faster Wound Healing
+by ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047315154673512578</link>
+      <guid isPermaLink="false">2047315154673512578</guid>
+      <pubDate>Thu, 23 Apr 2026 14:02:24 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Kerecis Shield: Fish-Skin Graft with Silicone Layer for Faster Wound Healing
+by @IntEngineering
   
-#EmergingTech #Innovati...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047300726242648537</link>
-      <guid isPermaLink="false">2047300726242648537</guid>
-      <pubDate>Thu, 23 Apr 2026 13:05:04 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Meet the #Robot That Collects Tolls
-by @BrianRoemmele
-  
-#EmergingTech #Innovation #TechForGood #Technology https://t.c…
+#MedTech #HealthTech…
 
 ---
 @Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Forget that, I say we implement a fully direct democracy. We have the technology now.</title>
-      <link>https://x.com/tunguz/status/2047300209835757712</link>
-      <guid isPermaLink="false">2047300209835757712</guid>
-      <pubDate>Thu, 23 Apr 2026 13:03:01 +0000</pubDate>
-      <description><![CDATA[Forget that, I say we implement a fully direct democracy. We have the technology now.
+      <title>RT @neilzegh: I'm old enough to remember staring at those GAN bedrooms in awe when the paper dropped...</title>
+      <link>https://x.com/mattturck/status/2047315043230814276</link>
+      <guid isPermaLink="false">2047315043230814276</guid>
+      <pubDate>Thu, 23 Apr 2026 14:01:58 +0000</pubDate>
+      <description><![CDATA[RT @neilzegh: I'm old enough to remember staring at those GAN bedrooms in awe when the paper dropped in 2016. Felt like the first time play…
 
 ---
-@tunguz | ❤️ 12 | 🔁 0 | 💬 3 | 👁 1106]]></description>
+@mattturck | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>Today’s read ⤵ https://t.co/6SFMQFYVtR</title>
+      <link>https://x.com/binance/status/2047314978202407298</link>
+      <guid isPermaLink="false">2047314978202407298</guid>
+      <pubDate>Thu, 23 Apr 2026 14:01:42 +0000</pubDate>
+      <description><![CDATA[Today’s read ⤵ https://t.co/6SFMQFYVtR
+
+---
+@binance | ❤️ 75 | 🔁 10 | 💬 28 | 👁 11357]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>World Book Day 📚
+
+Some read books.
+Some read charts.
+
+The best do both.</title>
+      <link>https://x.com/binance/status/2047314907738095652</link>
+      <guid isPermaLink="false">2047314907738095652</guid>
+      <pubDate>Thu, 23 Apr 2026 14:01:25 +0000</pubDate>
+      <description><![CDATA[World Book Day 📚
+
+Some read books.
+Some read charts.
+
+The best do both.
+
+---
+@binance | ❤️ 191 | 🔁 29 | 💬 98 | 👁 15393]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>This is how to do engagement farming on X with ragebait. https://t.co/9MDDwpFVB4</title>
+      <link>https://x.com/tunguz/status/2047314558226739699</link>
+      <guid isPermaLink="false">2047314558226739699</guid>
+      <pubDate>Thu, 23 Apr 2026 14:00:02 +0000</pubDate>
+      <description><![CDATA[This is how to do engagement farming on X with ragebait. https://t.co/9MDDwpFVB4
+
+---
+@tunguz | ❤️ 17 | 🔁 1 | 💬 1 | 👁 1687]]></description>
       <author>@tunguz</author>
+    </item>
+    <item>
+      <title>Within two years you'll be able to prompt inject an entire country</title>
+      <link>https://x.com/simonw/status/2047314343956795779</link>
+      <guid isPermaLink="false">2047314343956795779</guid>
+      <pubDate>Thu, 23 Apr 2026 13:59:11 +0000</pubDate>
+      <description><![CDATA[Within two years you'll be able to prompt inject an entire country
+
+---
+@simonw | ❤️ 86 | 🔁 7 | 💬 11 | 👁 5671]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>✨ I open sourced my first Chrome extension 🚀 SuperLevels
+
+https://t.co/88Sw1HPfCk
+
+I vibe coded it t...</title>
+      <link>https://x.com/levelsio/status/2047313968708898999</link>
+      <guid isPermaLink="false">2047313968708898999</guid>
+      <pubDate>Thu, 23 Apr 2026 13:57:42 +0000</pubDate>
+      <description><![CDATA[✨ I open sourced my first Chrome extension 🚀 SuperLevels
+
+https://t.co/88Sw1HPfCk
+
+I vibe coded it to replace all my Chrome extensions that are increasingly being bought up by spyware and malware companies who sell your data or worse hack your accounts and steal your stuff/money/data, which I'd call one of the top security risks right now
+
+For example: Chrome extensions can read your cookies or localStorage data, including session tokens, then login to your web or email accounts and hack you, they can inject code into any site to pull data form any site you browse, then break into your crypto accounts, drain your wallets, and selling your browsing history to ad companies, but that'd actually be the most favorable thing to happen of all these! Chrome extensions are just very very very unsafe
+
+So I coded my own, that I can trust because I made it, and I can read the source code: my extension is called 🚀SuperLevels and has all the features that the Chrome extensions I used to use have but all built into one safe one
+
+The cool thing is it's 100% open source and free, and you can audit the code first with AI yourself before installing it, and then if you do install it, customize it to your liking again with AI
+
+It has these features that improve my daily workflow while browsing the web:
+
+🚮 Tab Cleaner
+Automatically closes inactive tabs after a configurable timeout (default: 5 minutes). Set excluded hosts to keep important tabs alive. View and re-open recently closed tabs.
+
+🍪 Cookie Editor
+Full cookie manager for the current site. View, edit, add, and delete cookies. Export cookies as JSON. Expand any cookie to see and modify all fields including domain, path, SameSite, secure, and httpOnly flags.
+
+🔀 Redirect Tracer
+See every redirect hop your browser took to reach the current page. Shows status codes (301, 302, 307, etc.) with a visual chain. Copy the full redirect chain to clipboard.
+
+🌙 Dark Mode
+Instant dark mode for any website using CSS filter inversion. Adjustable brightness. Toggle per-site or globally. Images and videos are automatically re-inverted so they look normal.
+
+𝕏 X Dim Mode
+Custom dim theme for X/Twitter with 7 color palettes: Dim, Slate, Jade, Plum, Dusk, Ember, or a custom hue. Live preview in the popup.
+
+⚡ JS Toggle
+Disable JavaScript per-site with one click. Useful for debugging, reading articles without popups, or testing progressive enhancement. Page reloads automatically.
+
+🚫 GDPR Cookie Consent Dismisser
+Auto-hides and auto-clicks cookie consent banners. Supports OneTrust, CookieBot, Didomi, Quantcast, GDPR plugins, and dozens more frameworks. Toggle off if a site breaks.
+
+🎨 Live CSS Editor
+Write custom CSS for any website, applied in real-time as you type. Saved per-domain. Supports tab key for indentation.
+
+📺 YouTube Unhook
+Removes YouTube distractions: no homepage feed, no sidebar suggestions, no end screen overlays, no Shorts. Search still works — just no algorithmic recommendations.
+
+🎵 Music Recognizer
+Shazam-like music identification for any tab. Captures 10 seconds of audio and identifies the song via ACRCloud (free signup, bring your own API key). Results link to YouTube. History of recognized songs.
+
+🖼 Picture-in-Picture
+Pop the largest video on the current tab into a floating PiP window with one click.
+
+🗺 Google Maps Links
+Re-adds clickable Maps links and map preview cards to Google Search results.
+
+🖼 View Image
+Adds a &quot;View Image&quot; button back to Google Images, linking directly to the full-size original image.
+
+{} JSON Formatter
+Auto-detects pure JSON response pages and formats them with syntax highlighting, collapsible sections, and a dark theme. Copy or view raw with one click. Never triggers on regular HTML pages.
+
+---
+@levelsio | ❤️ 206 | 🔁 13 | 💬 19 | 👁 16209]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>RT @j_dekoninck: Kimi K2.6 becomes the #1 open model on MathArena! https://t.co/0WTQDU18l9</title>
+      <link>https://x.com/Kimi_Moonshot/status/2047311312196448425</link>
+      <guid isPermaLink="false">2047311312196448425</guid>
+      <pubDate>Thu, 23 Apr 2026 13:47:08 +0000</pubDate>
+      <description><![CDATA[RT @j_dekoninck: Kimi K2.6 becomes the #1 open model on MathArena! https://t.co/0WTQDU18l9
+
+---
+@Kimi_Moonshot | ❤️ 0 | 🔁 4 | 💬 0 | 👁 1]]></description>
+      <author>@Kimi_Moonshot</author>
+    </item>
+    <item>
+      <title>It’s always @Deliveroo riders in London who are super aggressive on their bikes. 
+
+Jump red lights, ...</title>
+      <link>https://x.com/DeepLearn007/status/2047310979210281228</link>
+      <guid isPermaLink="false">2047310979210281228</guid>
+      <pubDate>Thu, 23 Apr 2026 13:45:49 +0000</pubDate>
+      <description><![CDATA[It’s always @Deliveroo riders in London who are super aggressive on their bikes. 
+
+Jump red lights, go wrong way on one way streets and cycle too fast on pavements where people are walking. @SadiqKhan
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 111]]></description>
+      <author>@DeepLearn007</author>
     </item>
   </channel>
 </rss>
