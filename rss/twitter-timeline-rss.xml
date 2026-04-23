@@ -5,159 +5,239 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:30:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @noahzweben: You can now /schedule one-time tasks from the CLI or the Routines UI via the Schedul...</title>
-      <link>https://x.com/trq212/status/2047435237358223807</link>
-      <guid isPermaLink="false">2047435237358223807</guid>
-      <pubDate>Thu, 23 Apr 2026 21:59:34 +0000</pubDate>
-      <description><![CDATA[RT @noahzweben: You can now /schedule one-time tasks from the CLI or the Routines UI via the Schedule -&amp;gt; Once Trigger. 
+      <title>With my @anduriltech-style see-through-wall vision I can find enemies in building
 
-Use it to:
-* /sche…
+And then launch m...</title>
+      <link>https://x.com/levelsio/status/2047442819967578613</link>
+      <guid isPermaLink="false">2047442819967578613</guid>
+      <pubDate>Thu, 23 Apr 2026 22:29:42 +0000</pubDate>
+      <description><![CDATA[With my @anduriltech-style see-through-wall vision I can find enemies in building
+
+And then launch my drone to neutralize them!
+
+https://t.co/jtocKZuIiE https://t.co/oUO1ePtKX3
 
 ---
-@trq212 | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
-      <author>@trq212</author>
+@levelsio | ❤️ 2 | 🔁 0 | 💬 1 | 👁 223]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>That browser version of LiteParse is available here: https://t.co/CGI64y1oMI
-
-Detailed notes on how ...</title>
-      <link>https://x.com/simonw/status/2047435105107656714</link>
-      <guid isPermaLink="false">2047435105107656714</guid>
-      <pubDate>Thu, 23 Apr 2026 21:59:03 +0000</pubDate>
-      <description><![CDATA[That browser version of LiteParse is available here: https://t.co/CGI64y1oMI
-
-Detailed notes on how I built it using Claude Code (running for an hour) on my blog: https://t.co/J0BSpgwHfl
+      <title>Interesting thread</title>
+      <link>https://x.com/elonmusk/status/2047442415968268438</link>
+      <guid isPermaLink="false">2047442415968268438</guid>
+      <pubDate>Thu, 23 Apr 2026 22:28:06 +0000</pubDate>
+      <description><![CDATA[Interesting thread
 
 ---
-@simonw | ❤️ 0 | 🔁 0 | 💬 0 | 👁 129]]></description>
-      <author>@simonw</author>
+@elonmusk | ❤️ 787 | 🔁 123 | 💬 207 | 👁 74806]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>LiteParse is really neat! It does a great job of extracting text from annoying layouts in PDFs (mult...</title>
-      <link>https://x.com/simonw/status/2047434783962354130</link>
-      <guid isPermaLink="false">2047434783962354130</guid>
-      <pubDate>Thu, 23 Apr 2026 21:57:46 +0000</pubDate>
-      <description><![CDATA[LiteParse is really neat! It does a great job of extracting text from annoying layouts in PDFs (multiple columns for example)
-
-It's only available as a Node.js CLI app, so I vibe-coded up this version that runs in a browser https://t.co/xdawwDV7Kq
+      <title>@sama gpt 5.5 is awesome thank you</title>
+      <link>https://x.com/oran_ge/status/2047440682164633763</link>
+      <guid isPermaLink="false">2047440682164633763</guid>
+      <pubDate>Thu, 23 Apr 2026 22:21:12 +0000</pubDate>
+      <description><![CDATA[@sama gpt 5.5 is awesome thank you
 
 ---
-@simonw | ❤️ 8 | 🔁 2 | 💬 4 | 👁 579]]></description>
-      <author>@simonw</author>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 106]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>@simonw Already fully supported in Lisette - but thanks anyway! :D https://t.co/r7cAhMxXEG</title>
-      <link>https://x.com/jeremyphoward/status/2047434612859920712</link>
-      <guid isPermaLink="false">2047434612859920712</guid>
-      <pubDate>Thu, 23 Apr 2026 21:57:05 +0000</pubDate>
-      <description><![CDATA[@simonw Already fully supported in Lisette - but thanks anyway! :D https://t.co/r7cAhMxXEG
+      <title>If you're currently subscribed to any tiers including Free, you can stay on your current plan, or up...</title>
+      <link>https://x.com/NousResearch/status/2047439873305416125</link>
+      <guid isPermaLink="false">2047439873305416125</guid>
+      <pubDate>Thu, 23 Apr 2026 22:18:00 +0000</pubDate>
+      <description><![CDATA[If you're currently subscribed to any tiers including Free, you can stay on your current plan, or upgrade to receive bonus credits.
+
+If you're already on Plus ($20) or Super ($100, formerly Max), you'll receive bonus credits when your subscription renews.
 
 ---
-@jeremyphoward | ❤️ 0 | 🔁 0 | 💬 0 | 👁 45]]></description>
-      <author>@jeremyphoward</author>
+@NousResearch | ❤️ 11 | 🔁 0 | 💬 0 | 👁 687]]></description>
+      <author>@NousResearch</author>
     </item>
     <item>
-      <title>Wheels Meet Legs: The Hybrid Bipedal #Robot Conquering Rough Terrain and Human Spaces
-via @ZappyZapp...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047432865197986289</link>
-      <guid isPermaLink="false">2047432865197986289</guid>
-      <pubDate>Thu, 23 Apr 2026 21:50:09 +0000</pubDate>
-      <description><![CDATA[Wheels Meet Legs: The Hybrid Bipedal #Robot Conquering Rough Terrain and Human Spaces
-via @ZappyZappy7
+      <title>New subscription tiers are live on Nous Portal
 
-#Robotics #Engineering #Innovation #Technology https://t.co/D3vuSjXShi
+→ Plus ($20)
+→ Super ($100)
+→ Ultra ($200)
+
+Bonus cr...</title>
+      <link>https://x.com/NousResearch/status/2047439871917068467</link>
+      <guid isPermaLink="false">2047439871917068467</guid>
+      <pubDate>Thu, 23 Apr 2026 22:17:59 +0000</pubDate>
+      <description><![CDATA[New subscription tiers are live on Nous Portal
+
+→ Plus ($20)
+→ Super ($100)
+→ Ultra ($200)
+
+Bonus credits on signups, upgrades, and renewals: +$2 on Plus / +$10 on Super / +$20 on Ultra
+
+All tiers include access to:
+→ 300+ models
+→ Bundled tool usage
+
+https://t.co/R6H1nIpuzO https://t.co/gy5L3QFNcE
 
 ---
-@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 0 | 👁 83]]></description>
+@NousResearch | ❤️ 78 | 🔁 6 | 💬 14 | 👁 2671]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Small Machines, Massive Power: The Future of #Robotic Swarms
+via @IlirAliu_
+ 
+#Robots #Engineering #...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047439370719043812</link>
+      <guid isPermaLink="false">2047439370719043812</guid>
+      <pubDate>Thu, 23 Apr 2026 22:16:00 +0000</pubDate>
+      <description><![CDATA[Small Machines, Massive Power: The Future of #Robotic Swarms
+via @IlirAliu_
+ 
+#Robots #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/AhtqZhHoSR
+
+---
+@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 0 | 👁 69]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>As part of @NASA’s @SpaceX Crew-13 mission, four crew members from three space agencies will launch ...</title>
-      <link>https://x.com/Space_Station/status/2047432539048939950</link>
-      <guid isPermaLink="false">2047432539048939950</guid>
-      <pubDate>Thu, 23 Apr 2026 21:48:51 +0000</pubDate>
-      <description><![CDATA[As part of @NASA’s @SpaceX Crew-13 mission, four crew members from three space agencies will launch no earlier than mid-September to the International Space Station for a long-duration science expedition.
+      <title>RT @Ronald_vanLoon: 15 Types of Cyber Attacks
+by @ingliguori
 
-NASA astronauts Jessica Watkins and Luke Delaney will serve as spacecraft commander and pilot, respectively. They will be joined by CSA (Canadian Space Agency) astronaut Joshua Kutryk and Roscosmos cosmonaut Sergey Teteryatnikov, who will serve as mission specialists. https://t.co/Qg4yFq89sb
+#CyberSecurity #Infosec #IT #Technolog...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047438366040285350</link>
+      <guid isPermaLink="false">2047438366040285350</guid>
+      <pubDate>Thu, 23 Apr 2026 22:12:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: 15 Types of Cyber Attacks
+by @ingliguori
+
+#CyberSecurity #Infosec #IT #Technology https://t.co/AOLjzxnoAJ
 
 ---
-@Space_Station | ❤️ 54 | 🔁 12 | 💬 4 | 👁 11282]]></description>
-      <author>@Space_Station</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>gpt5.5 纸面指标没得说，确实是旗舰，何况还有 5.5 pro
-跟 gpt image 2 一起训练，生图直接免费，把谷歌那边也搞了
-这次 openai 真的要翻盘了 https://t.co/R...</title>
-      <link>https://x.com/oran_ge/status/2047432432102920448</link>
-      <guid isPermaLink="false">2047432432102920448</guid>
-      <pubDate>Thu, 23 Apr 2026 21:48:25 +0000</pubDate>
-      <description><![CDATA[gpt5.5 纸面指标没得说，确实是旗舰，何况还有 5.5 pro
-跟 gpt image 2 一起训练，生图直接免费，把谷歌那边也搞了
-这次 openai 真的要翻盘了 https://t.co/RDlTodEvGH
+      <title>RT @dingyi: 就是前不久那个 Sky 团队，联合创始人 Ari Weinstein 和 Conrad Kramer 是著名 iOS 自动化应用 Workflow（Shortcuts 前身） ...</title>
+      <link>https://x.com/dotey/status/2047438159915393362</link>
+      <guid isPermaLink="false">2047438159915393362</guid>
+      <pubDate>Thu, 23 Apr 2026 22:11:11 +0000</pubDate>
+      <description><![CDATA[RT @dingyi: 就是前不久那个 Sky 团队，联合创始人 Ari Weinstein 和 Conrad Kramer 是著名 iOS 自动化应用 Workflow（Shortcuts 前身） 的开发者。当时 Sky 刚发布一个 demo 就让全网高潮了。
+https:/…
 
 ---
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 211]]></description>
+@dotey | ❤️ 0 | 🔁 3 | 💬 0 | 👁 1]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>RT @dillonrolnick: @hecubian_devil damn, someone leaked our hermes agent update</title>
+      <link>https://x.com/NousResearch/status/2047437873079583189</link>
+      <guid isPermaLink="false">2047437873079583189</guid>
+      <pubDate>Thu, 23 Apr 2026 22:10:03 +0000</pubDate>
+      <description><![CDATA[RT @dillonrolnick: @hecubian_devil damn, someone leaked our hermes agent update
+
+---
+@NousResearch | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Claude 降智的原因终于找到了
+是SDK 的 harness 出了问题
+所有基于 claude SDK 的  agent 受到了影响
+官方已经发了更新解决
+这查了得一个月吧…
+真不容易，关键时刻还...</title>
+      <link>https://x.com/oran_ge/status/2047437283293536653</link>
+      <guid isPermaLink="false">2047437283293536653</guid>
+      <pubDate>Thu, 23 Apr 2026 22:07:42 +0000</pubDate>
+      <description><![CDATA[Claude 降智的原因终于找到了
+是SDK 的 harness 出了问题
+所有基于 claude SDK 的  agent 受到了影响
+官方已经发了更新解决
+这查了得一个月吧…
+真不容易，关键时刻还得靠人类
+
+---
+@oran_ge | ❤️ 7 | 🔁 0 | 💬 2 | 👁 1625]]></description>
       <author>@oran_ge</author>
     </item>
     <item>
-      <title>If you can’t bet them, have them join you.</title>
-      <link>https://x.com/tunguz/status/2047432318336307258</link>
-      <guid isPermaLink="false">2047432318336307258</guid>
-      <pubDate>Thu, 23 Apr 2026 21:47:58 +0000</pubDate>
-      <description><![CDATA[If you can’t bet them, have them join you.
+      <title>RT @Mukesh_tweeets: @cryptopunk7213 the 'dethroned' framing doesn't hold up when you look at what cl...</title>
+      <link>https://x.com/DeepLearn007/status/2047436569645060577</link>
+      <guid isPermaLink="false">2047436569645060577</guid>
+      <pubDate>Thu, 23 Apr 2026 22:04:52 +0000</pubDate>
+      <description><![CDATA[RT @Mukesh_tweeets: @cryptopunk7213 the 'dethroned' framing doesn't hold up when you look at what claude still leads on. GPT-5.5 wins 14 be…
 
 ---
-@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 586]]></description>
-      <author>@tunguz</author>
+@DeepLearn007 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>gpt5.5 最大的进步竟然是学会了说人话，opus 4.7 却变得不会说人话了…
-并且 gpt 5.5 编程能力更强了，这证明说人话和编程能力并不矛盾…
-并且 gpt 5.5 速度也很快，这证明了，...</title>
-      <link>https://x.com/oran_ge/status/2047429801137590290</link>
-      <guid isPermaLink="false">2047429801137590290</guid>
-      <pubDate>Thu, 23 Apr 2026 21:37:58 +0000</pubDate>
-      <description><![CDATA[gpt5.5 最大的进步竟然是学会了说人话，opus 4.7 却变得不会说人话了…
-并且 gpt 5.5 编程能力更强了，这证明说人话和编程能力并不矛盾…
-并且 gpt 5.5 速度也很快，这证明了，模型大不要紧，显卡好就行（就像 kimi 海外版速度是国内的2倍）
-A 社这波把 Mythos 包装成神秘核弹、却在 opus 4.7 翻车，也许就是 OpenAI 的翻盘点了
-
-最后 gpt5.5 大幅涨价了，相比 gpt 5.4 价格直接翻倍，超越 opus 4.7 成为当下最贵模型
-gpt5.4: 我依然是性价比之王，只有我能稳稳地接住你 🖐️
+      <title>RT @bygregorr: @cryptopunk7213 The benchmark that matters is production code shipping, not 20-hour S...</title>
+      <link>https://x.com/DeepLearn007/status/2047436342129222032</link>
+      <guid isPermaLink="false">2047436342129222032</guid>
+      <pubDate>Thu, 23 Apr 2026 22:03:58 +0000</pubDate>
+      <description><![CDATA[RT @bygregorr: @cryptopunk7213 The benchmark that matters is production code shipping, not 20-hour SE tasks that 0.01% of devs actually run.
 
 ---
-@oran_ge | ❤️ 4 | 🔁 0 | 💬 3 | 👁 895]]></description>
-      <author>@oran_ge</author>
+@DeepLearn007 | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Fine-Tuning Diffusion Models via Intermediate Distribution Shaping
+      <title>RT @SahilPanhotra: @cryptopunk7213 not really 
 
-paper: https://t.co/XbWLf5uN3O h...</title>
-      <link>https://x.com/_akhaliq/status/2047429644660429202</link>
-      <guid isPermaLink="false">2047429644660429202</guid>
-      <pubDate>Thu, 23 Apr 2026 21:37:21 +0000</pubDate>
-      <description><![CDATA[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping
+its 2x costlier than Gpt 5.4 now 
 
-paper: https://t.co/XbWLf5uN3O https://t.co/C85LBFOOSc
+making it almost ...</title>
+      <link>https://x.com/DeepLearn007/status/2047436302388224293</link>
+      <guid isPermaLink="false">2047436302388224293</guid>
+      <pubDate>Thu, 23 Apr 2026 22:03:48 +0000</pubDate>
+      <description><![CDATA[RT @SahilPanhotra: @cryptopunk7213 not really 
+
+its 2x costlier than Gpt 5.4 now 
+
+making it almost of same cost as Opus 4.7 
+
+still loosin…
 
 ---
-@_akhaliq | ❤️ 4 | 🔁 0 | 💬 2 | 👁 866]]></description>
-      <author>@_akhaliq</author>
+@DeepLearn007 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>@_catwu Cat = At the center of the future of AI + PM = Listen to Cat</title>
-      <link>https://x.com/lennysan/status/2047428953267437955</link>
-      <guid isPermaLink="false">2047428953267437955</guid>
-      <pubDate>Thu, 23 Apr 2026 21:34:36 +0000</pubDate>
-      <description><![CDATA[@_catwu Cat = At the center of the future of AI + PM = Listen to Cat
+      <title>RT @theo: $5 per mil in, $30 per mil out.
+
+GPT-5.5 is smart. I've been using it for a bit. It's also...</title>
+      <link>https://x.com/DeepLearn007/status/2047436176244568171</link>
+      <guid isPermaLink="false">2047436176244568171</guid>
+      <pubDate>Thu, 23 Apr 2026 22:03:18 +0000</pubDate>
+      <description><![CDATA[RT @theo: $5 per mil in, $30 per mil out.
+
+GPT-5.5 is smart. I've been using it for a bit. It's also weird, hard to wrangle, and too expens…
 
 ---
-@lennysan | ❤️ 6 | 🔁 0 | 💬 1 | 👁 366]]></description>
-      <author>@lennysan</author>
+@DeepLearn007 | ❤️ 0 | 🔁 41 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @OpenAI: GPT-5.5 delivers this step up in intelligence without compromising on speed.
+
+GPT-5.5 ma...</title>
+      <link>https://x.com/DeepLearn007/status/2047436097710428656</link>
+      <guid isPermaLink="false">2047436097710428656</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:59 +0000</pubDate>
+      <description><![CDATA[RT @OpenAI: GPT-5.5 delivers this step up in intelligence without compromising on speed.
+
+GPT-5.5 matches GPT-5.4 per-token latency in real…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 246 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
   </channel>
 </rss>
