@@ -2,6 +2,10 @@
 
 来源：https://x.com/op7418
 
+## 预览图册
+
+![SBTI 测试](./images/HGb0uY5acAARYUg.jpg)
+
 ## 提示词列表
 
 | 日期 | 标题 | 类型 |
