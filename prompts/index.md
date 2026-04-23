@@ -6,6 +6,7 @@
 
 - [@dotey (宝玉)](dotey/index.md) - GPT Image 2 提示词分享
 - [@op7418 (歸藏)](op7418/index.md) - 图片生成工具与方法
+- [其他账号收集](others/index.md) - X 上收集的各种风格
 
 ## 快速预览
 
@@ -34,3 +35,18 @@
 | 预览 | 标题 |
 |------|------|
 | <img src="./op7418/images/HGb0uY5acAARYUg.jpg" width="120"> | [SBTI 测试](./op7418/2026-04-21-sbti-test.md) |
+
+### 其他账号
+
+| 预览 | 标题 |
+|------|------|
+| <img src="./others/images/brand-kit.jpg" width="120"> | [品牌套件](./others/brand-kit.md) |
+| <img src="./others/images/panorama.jpg" width="120"> | [360 全景图](./others/panorama.md) |
+| <img src="./others/images/restaurant-brand.jpg" width="120"> | [餐厅品牌指南](./others/restaurant-brand.md) |
+| <img src="./others/images/product-box.jpg" width="120"> | [产品包装盒](./others/product-box.md) |
+| <img src="./others/images/infographics.jpg" width="120"> | [物体信息图](./others/infographics.md) |
+| <img src="./others/images/comic-panels.jpg" width="120"> | [美式漫画分镜](./others/comic-panels.md) |
+| <img src="./others/images/ai-poster.jpg" width="120"> | [AI 实验室海报](./others/ai-poster.md) |
+| <img src="./others/images/pixel-art.jpg" width="120"> | [像素艺术网格](./others/pixel-art.md) |
+| <img src="./others/images/email-marketing.jpg" width="120"> | [邮件营销图片](./others/email-marketing.md) |
+| <img src="./others/images/manga-gpt.jpg" width="120"> | [GPT 漫画](./others/manga-gpt.md) |
