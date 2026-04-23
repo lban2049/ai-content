@@ -40,13 +40,19 @@
 
 | 预览 | 标题 |
 |------|------|
+| <img src="./others/images/chinese-ink-landscape.jpg" width="120"> | [水墨山水国风](./others/chinese-ink-landscape.md) |
+| <img src="./others/images/ghibli-style.jpg" width="120"> | [吉卜力风格](./others/ghibli-style.md) |
+| <img src="./others/images/kawaii-cartoon.jpg" width="120"> | [可爱卡通](./others/kawaii-cartoon.md) |
+| <img src="./others/images/childrens-book-illustration.jpg" width="120"> | [儿童绘本](./others/childrens-book-illustration.md) |
+| <img src="./others/images/editorial-portrait.jpg" width="120"> | [杂志肖像](./others/editorial-portrait.md) |
+| <img src="./others/images/vintage-film-photography.jpg" width="120"> | [复古胶片](./others/vintage-film-photography.md) |
+| <img src="./others/images/japanese-crane-art.jpg" width="120"> | [日式鹤菊](./others/japanese-crane-art.md) |
+| <img src="./others/images/emotional-split-face.jpg" width="120"> | [情感分裂](./others/emotional-split-face.md) |
 | <img src="./others/images/brand-kit.jpg" width="120"> | [品牌套件](./others/brand-kit.md) |
-| <img src="./others/images/panorama.jpg" width="120"> | [360 全景图](./others/panorama.md) |
-| <img src="./others/images/restaurant-brand.jpg" width="120"> | [餐厅品牌指南](./others/restaurant-brand.md) |
 | <img src="./others/images/product-box.jpg" width="120"> | [产品包装盒](./others/product-box.md) |
 | <img src="./others/images/infographics.jpg" width="120"> | [物体信息图](./others/infographics.md) |
-| <img src="./others/images/comic-panels.jpg" width="120"> | [美式漫画分镜](./others/comic-panels.md) |
+| <img src="./others/images/medical-infographic.jpg" width="120"> | [信息设计风格集](./others/gpt-image-2-visual-styles.md) |
 | <img src="./others/images/ai-poster.jpg" width="120"> | [AI 实验室海报](./others/ai-poster.md) |
 | <img src="./others/images/pixel-art.jpg" width="120"> | [像素艺术网格](./others/pixel-art.md) |
-| <img src="./others/images/email-marketing.jpg" width="120"> | [邮件营销图片](./others/email-marketing.md) |
 | <img src="./others/images/manga-gpt.jpg" width="120"> | [GPT 漫画](./others/manga-gpt.md) |
+| <img src="./others/images/comic-panels.jpg" width="120"> | [美式漫画分镜](./others/comic-panels.md) |

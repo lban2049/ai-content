@@ -16,3 +16,53 @@
 | <img src="./images/pixel-art.jpg" width="120"> | [像素艺术网格](./pixel-art.md) | @ProperPrompter | 像素艺术 |
 | <img src="./images/email-marketing.jpg" width="120"> | [邮件营销图片](./email-marketing.md) | @Salmaaboukarr | 营销 |
 | <img src="./images/manga-gpt.jpg" width="120"> | [GPT 漫画](./manga-gpt.md) | @venturetwins | 漫画 |
+| <img src="./images/medical-infographic.jpg" width="120"> | [视觉信息设计风格集](./gpt-image-2-visual-styles.md) | @LudovicCreator 等 | 信息设计 |
+| <img src="./images/chinese-ink-landscape.jpg" width="120"> | [水墨山水国风插画](./chinese-ink-landscape.md) | @dotey | 国风插画 |
+| <img src="./images/kawaii-cartoon.jpg" width="120"> | [可爱卡通插画](./kawaii-cartoon.md) | @dotey | 卡通插画 |
+| <img src="./images/childrens-book-illustration.jpg" width="120"> | [儿童绘本插画](./childrens-book-illustration.md) | @dotey | 绘本插画 |
+| <img src="./images/editorial-portrait.jpg" width="120"> | [杂志肖像编辑风](./editorial-portrait.md) | @BubbleBrain | 肖像摄影 |
+| <img src="./images/vintage-film-photography.jpg" width="120"> | [复古胶片摄影风](./vintage-film-photography.md) | @BubbleBrain | 摄影风格 |
+| <img src="./images/ghibli-style.jpg" width="120"> | [吉卜力风格插画](./ghibli-style.md) | @dotey | 动漫插画 |
+| <img src="./images/product-photography-ad.jpg" width="120"> | [产品广告摄影](./product-photography-ad.md) | @Salmaaboukarr | 产品摄影 |
+| <img src="./images/japanese-crane-art.jpg" width="120"> | [日式鹤与菊图案](./japanese-crane-art.md) | @dotey | 传统艺术 |
+| <img src="./images/emotional-split-face.jpg" width="120"> | [情感分裂面部艺术](./emotional-split-face.md) | @dotey | 艺术创作 |
+
+## 分类索引
+
+### 国风/东方美学
+- [水墨山水国风插画](./chinese-ink-landscape.md)
+- [日式鹤与菊图案](./japanese-crane-art.md)
+
+### 插画风格
+- [可爱卡通插画](./kawaii-cartoon.md)
+- [儿童绘本插画](./childrens-book-illustration.md)
+- [吉卜力风格插画](./ghibli-style.md)
+- [情感分裂面部艺术](./emotional-split-face.md)
+
+### 品牌设计
+- [品牌套件](./brand-kit.md)
+- [餐厅品牌指南](./restaurant-brand.md)
+
+### 信息图/可视化
+- [物体信息图](./infographics.md)
+- [视觉信息设计风格集](./gpt-image-2-visual-styles.md)
+
+### 创意内容
+- [AI 实验室海报](./ai-poster.md)
+- [美式漫画分镜](./comic-panels.md)
+- [GPT 漫画](./manga-gpt.md)
+- [像素艺术网格](./pixel-art.md)
+
+### 产品展示
+- [产品包装盒](./product-box.md)
+- [产品广告摄影](./product-photography-ad.md)
+
+### 营销/运营
+- [邮件营销图片](./email-marketing.md)
+
+### 摄影风格
+- [杂志肖像编辑风](./editorial-portrait.md)
+- [复古胶片摄影风](./vintage-film-photography.md)
+
+### 环境/体验
+- [360 全景图](./panorama.md)
