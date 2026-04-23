@@ -5,287 +5,159 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 21:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:00:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Clarification: rolling out soon!</title>
-      <link>https://x.com/levie/status/2047428766390157688</link>
-      <guid isPermaLink="false">2047428766390157688</guid>
-      <pubDate>Thu, 23 Apr 2026 21:33:51 +0000</pubDate>
-      <description><![CDATA[Clarification: rolling out soon!
+      <title>RT @noahzweben: You can now /schedule one-time tasks from the CLI or the Routines UI via the Schedul...</title>
+      <link>https://x.com/trq212/status/2047435237358223807</link>
+      <guid isPermaLink="false">2047435237358223807</guid>
+      <pubDate>Thu, 23 Apr 2026 21:59:34 +0000</pubDate>
+      <description><![CDATA[RT @noahzweben: You can now /schedule one-time tasks from the CLI or the Routines UI via the Schedule -&amp;gt; Once Trigger. 
+
+Use it to:
+* /sche…
 
 ---
-@levie | ❤️ 0 | 🔁 0 | 💬 0 | 👁 48]]></description>
-      <author>@levie</author>
+@trq212 | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
+      <author>@trq212</author>
     </item>
     <item>
-      <title>Anthropic 今天为 Claude Managed Agents（托管智能体）上线了记忆功能，目前处于公测阶段。简单说，你部署的 AI 智能体现在能在多次会话之间积累经验，下次干活时不用从零开始...</title>
-      <link>https://x.com/dotey/status/2047428669325590816</link>
-      <guid isPermaLink="false">2047428669325590816</guid>
-      <pubDate>Thu, 23 Apr 2026 21:33:28 +0000</pubDate>
-      <description><![CDATA[Anthropic 今天为 Claude Managed Agents（托管智能体）上线了记忆功能，目前处于公测阶段。简单说，你部署的 AI 智能体现在能在多次会话之间积累经验，下次干活时不用从零开始。
+      <title>That browser version of LiteParse is available here: https://t.co/CGI64y1oMI
 
-这个记忆系统的设计思路挺实用主义的：记忆以文件形式存储在文件系统上，而不是搞一套专门的数据库或向量检索。好处是智能体可以直接用已有的 bash 和代码执行能力来读写记忆，开发者也能通过 API 导出、管理、甚至回滚到历史版本。
+Detailed notes on how ...</title>
+      <link>https://x.com/simonw/status/2047435105107656714</link>
+      <guid isPermaLink="false">2047435105107656714</guid>
+      <pubDate>Thu, 23 Apr 2026 21:59:03 +0000</pubDate>
+      <description><![CDATA[That browser version of LiteParse is available here: https://t.co/CGI64y1oMI
 
-在权限设计上，记忆存储可以在多个智能体之间共享，并设置不同的访问范围。比如全公司级别的知识库设成只读，用户级别的存储允许读写。多个智能体可以并发访问同一个存储，不会互相覆盖。所有变更都有审计日志，能追溯到具体是哪个智能体、哪次会话产生的记忆。
-
-从已经在用的团队来看，效果比较直观：Rakuten 的智能体通过记住过去犯过的错，把首次出错率降了 97%；Wisedocs 用跨会话记忆让文档验证流程提速 30%；Netflix 的智能体能把多轮对话中挖掘出的洞察和人工纠正带到下一次会话，不用再手动更新提示词。
-
-对做智能体开发的团队来说，记忆一直是个痛点。大多数人要么自己搭一套 RAG 检索系统，要么每次会话手动塞上下文。Anthropic 把这层直接做进平台里，而且选了文件系统这个最朴素的方案，算是降低了不少工程复杂度。现在公测已经开放，可以在 Claude Console 里直接部署带记忆的智能体。
+Detailed notes on how I built it using Claude Code (running for an hour) on my blog: https://t.co/J0BSpgwHfl
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 15]]></description>
-      <author>@dotey</author>
+@simonw | ❤️ 0 | 🔁 0 | 💬 0 | 👁 129]]></description>
+      <author>@simonw</author>
     </item>
     <item>
-      <title>RT @aaronsebesta: Incredible insights from @every per usual</title>
-      <link>https://x.com/danshipper/status/2047428424151531534</link>
-      <guid isPermaLink="false">2047428424151531534</guid>
-      <pubDate>Thu, 23 Apr 2026 21:32:30 +0000</pubDate>
-      <description><![CDATA[RT @aaronsebesta: Incredible insights from @every per usual
+      <title>LiteParse is really neat! It does a great job of extracting text from annoying layouts in PDFs (mult...</title>
+      <link>https://x.com/simonw/status/2047434783962354130</link>
+      <guid isPermaLink="false">2047434783962354130</guid>
+      <pubDate>Thu, 23 Apr 2026 21:57:46 +0000</pubDate>
+      <description><![CDATA[LiteParse is really neat! It does a great job of extracting text from annoying layouts in PDFs (multiple columns for example)
+
+It's only available as a Node.js CLI app, so I vibe-coded up this version that runs in a browser https://t.co/xdawwDV7Kq
 
 ---
-@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
+@simonw | ❤️ 8 | 🔁 2 | 💬 4 | 👁 579]]></description>
+      <author>@simonw</author>
     </item>
     <item>
-      <title>RT @ClementDelangue: 3,000 people are testing the ml-intern! https://t.co/KubvrjHCSY</title>
-      <link>https://x.com/_akhaliq/status/2047428406673895611</link>
-      <guid isPermaLink="false">2047428406673895611</guid>
-      <pubDate>Thu, 23 Apr 2026 21:32:26 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: 3,000 people are testing the ml-intern! https://t.co/KubvrjHCSY
+      <title>@simonw Already fully supported in Lisette - but thanks anyway! :D https://t.co/r7cAhMxXEG</title>
+      <link>https://x.com/jeremyphoward/status/2047434612859920712</link>
+      <guid isPermaLink="false">2047434612859920712</guid>
+      <pubDate>Thu, 23 Apr 2026 21:57:05 +0000</pubDate>
+      <description><![CDATA[@simonw Already fully supported in Lisette - but thanks anyway! :D https://t.co/r7cAhMxXEG
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
+@jeremyphoward | ❤️ 0 | 🔁 0 | 💬 0 | 👁 45]]></description>
+      <author>@jeremyphoward</author>
     </item>
     <item>
-      <title>Thanks @lennysan for a great conversation about how Claude Code maintains product velocity, how the ...</title>
-      <link>https://x.com/_catwu/status/2047427510091366533</link>
-      <guid isPermaLink="false">2047427510091366533</guid>
-      <pubDate>Thu, 23 Apr 2026 21:28:52 +0000</pubDate>
-      <description><![CDATA[Thanks @lennysan for a great conversation about how Claude Code maintains product velocity, how the product management role is shifting in the AI era, and the future of work!
+      <title>Wheels Meet Legs: The Hybrid Bipedal #Robot Conquering Rough Terrain and Human Spaces
+via @ZappyZapp...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047432865197986289</link>
+      <guid isPermaLink="false">2047432865197986289</guid>
+      <pubDate>Thu, 23 Apr 2026 21:50:09 +0000</pubDate>
+      <description><![CDATA[Wheels Meet Legs: The Hybrid Bipedal #Robot Conquering Rough Terrain and Human Spaces
+via @ZappyZappy7
 
-https://t.co/Qp7aAuHIqJ
-
----
-@_catwu | ❤️ 15 | 🔁 3 | 💬 0 | 👁 824]]></description>
-      <author>@_catwu</author>
-    </item>
-    <item>
-      <title>RT @soleio: The cultural currency of San Francisco is possibility. 
-
-@adityaag describes it so well:</title>
-      <link>https://x.com/adityaag/status/2047425380739678673</link>
-      <guid isPermaLink="false">2047425380739678673</guid>
-      <pubDate>Thu, 23 Apr 2026 21:20:24 +0000</pubDate>
-      <description><![CDATA[RT @soleio: The cultural currency of San Francisco is possibility. 
-
-@adityaag describes it so well:
+#Robotics #Engineering #Innovation #Technology https://t.co/D3vuSjXShi
 
 ---
-@adityaag | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@adityaag</author>
-    </item>
-    <item>
-      <title>RT @ziv_ravid: Do you want to know why LLMs feel sharp on surface semantics but hollow on the fine-g...</title>
-      <link>https://x.com/ylecun/status/2047425365539234303</link>
-      <guid isPermaLink="false">2047425365539234303</guid>
-      <pubDate>Thu, 23 Apr 2026 21:20:21 +0000</pubDate>
-      <description><![CDATA[RT @ziv_ravid: Do you want to know why LLMs feel sharp on surface semantics but hollow on the fine-grained stuff?
-
-“From Tokens to Thoughts…
-
----
-@ylecun | ❤️ 0 | 🔁 7 | 💬 0 | 👁 2]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>Droidup #Robotics Unveils Moya, a Next-Gen Lifelike Humanoid
-by @CyberRobooo
-
-#AI #Robots #MachineLe...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047425303023173695</link>
-      <guid isPermaLink="false">2047425303023173695</guid>
-      <pubDate>Thu, 23 Apr 2026 21:20:06 +0000</pubDate>
-      <description><![CDATA[Droidup #Robotics Unveils Moya, a Next-Gen Lifelike Humanoid
-by @CyberRobooo
-
-#AI #Robots #MachineLearning #ArtificialIntelligence #ML https://t.co/hfLVUIDSuZ
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 100]]></description>
+@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 0 | 👁 83]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @mmbronstein: illustrious researchers interested in MD ⁦@ylecun⁩ https://t.co/iiwfTKymmx</title>
-      <link>https://x.com/ylecun/status/2047425268499820913</link>
-      <guid isPermaLink="false">2047425268499820913</guid>
-      <pubDate>Thu, 23 Apr 2026 21:19:57 +0000</pubDate>
-      <description><![CDATA[RT @mmbronstein: illustrious researchers interested in MD ⁦@ylecun⁩ https://t.co/iiwfTKymmx
+      <title>As part of @NASA’s @SpaceX Crew-13 mission, four crew members from three space agencies will launch ...</title>
+      <link>https://x.com/Space_Station/status/2047432539048939950</link>
+      <guid isPermaLink="false">2047432539048939950</guid>
+      <pubDate>Thu, 23 Apr 2026 21:48:51 +0000</pubDate>
+      <description><![CDATA[As part of @NASA’s @SpaceX Crew-13 mission, four crew members from three space agencies will launch no earlier than mid-September to the International Space Station for a long-duration science expedition.
+
+NASA astronauts Jessica Watkins and Luke Delaney will serve as spacecraft commander and pilot, respectively. They will be joined by CSA (Canadian Space Agency) astronaut Joshua Kutryk and Roscosmos cosmonaut Sergey Teteryatnikov, who will serve as mission specialists. https://t.co/Qg4yFq89sb
 
 ---
-@ylecun | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
-      <author>@ylecun</author>
+@Space_Station | ❤️ 54 | 🔁 12 | 💬 4 | 👁 11282]]></description>
+      <author>@Space_Station</author>
     </item>
     <item>
-      <title>RT @omarsar0: GPT-5.5 in Codex is a delight to work with:
-
-- Super sharp with responses
-- It underst...</title>
-      <link>https://x.com/dair_ai/status/2047425156637692178</link>
-      <guid isPermaLink="false">2047425156637692178</guid>
-      <pubDate>Thu, 23 Apr 2026 21:19:31 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: GPT-5.5 in Codex is a delight to work with:
-
-- Super sharp with responses
-- It understands intent better than any model
-- Gre…
+      <title>gpt5.5 纸面指标没得说，确实是旗舰，何况还有 5.5 pro
+跟 gpt image 2 一起训练，生图直接免费，把谷歌那边也搞了
+这次 openai 真的要翻盘了 https://t.co/R...</title>
+      <link>https://x.com/oran_ge/status/2047432432102920448</link>
+      <guid isPermaLink="false">2047432432102920448</guid>
+      <pubDate>Thu, 23 Apr 2026 21:48:25 +0000</pubDate>
+      <description><![CDATA[gpt5.5 纸面指标没得说，确实是旗舰，何况还有 5.5 pro
+跟 gpt image 2 一起训练，生图直接免费，把谷歌那边也搞了
+这次 openai 真的要翻盘了 https://t.co/RDlTodEvGH
 
 ---
-@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 211]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>RT @albfresco: easily missed https://t.co/magnGiRpLG</title>
-      <link>https://x.com/steipete/status/2047424850243833897</link>
-      <guid isPermaLink="false">2047424850243833897</guid>
-      <pubDate>Thu, 23 Apr 2026 21:18:18 +0000</pubDate>
-      <description><![CDATA[RT @albfresco: easily missed https://t.co/magnGiRpLG
+      <title>If you can’t bet them, have them join you.</title>
+      <link>https://x.com/tunguz/status/2047432318336307258</link>
+      <guid isPermaLink="false">2047432318336307258</guid>
+      <pubDate>Thu, 23 Apr 2026 21:47:58 +0000</pubDate>
+      <description><![CDATA[If you can’t bet them, have them join you.
 
 ---
-@steipete | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>RT @xeophon: The most important one first:
-
-IT DOES NOT CODE DEFENSIVELY AS MUCH!!!
-
-No more nested ...</title>
-      <link>https://x.com/steipete/status/2047424835668660386</link>
-      <guid isPermaLink="false">2047424835668660386</guid>
-      <pubDate>Thu, 23 Apr 2026 21:18:14 +0000</pubDate>
-      <description><![CDATA[RT @xeophon: The most important one first:
-
-IT DOES NOT CODE DEFENSIVELY AS MUCH!!!
-
-No more nested try/catch blocks that would only trigge…
-
----
-@steipete | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>RT @ylecun: @SiGallagher @Dan_Jeffries1 Actually, AI already saves lives. 
-In several countries, mam...</title>
-      <link>https://x.com/ylecun/status/2047424497934819524</link>
-      <guid isPermaLink="false">2047424497934819524</guid>
-      <pubDate>Thu, 23 Apr 2026 21:16:54 +0000</pubDate>
-      <description><![CDATA[RT @ylecun: @SiGallagher @Dan_Jeffries1 Actually, AI already saves lives. 
-In several countries, mammograms are examined by AI and radiolog…
-
----
-@ylecun | ❤️ 0 | 🔁 6 | 💬 0 | 👁 1]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>RT @theworldlabs: 2 Weeks. New Tools. Infinite Worlds🚀
-
-The World Jam is LIVE. Build the future of i...</title>
-      <link>https://x.com/drfeifei/status/2047424493208195302</link>
-      <guid isPermaLink="false">2047424493208195302</guid>
-      <pubDate>Thu, 23 Apr 2026 21:16:53 +0000</pubDate>
-      <description><![CDATA[RT @theworldlabs: 2 Weeks. New Tools. Infinite Worlds🚀
-
-The World Jam is LIVE. Build the future of interactive 3D with Marble 1.1 + Spark L…
-
----
-@drfeifei | ❤️ 0 | 🔁 12 | 💬 0 | 👁 0]]></description>
-      <author>@drfeifei</author>
-    </item>
-    <item>
-      <title>Two years since Replit left SF.
-
-10x valuation and 200x ARR later we’ve taken over much of the old I...</title>
-      <link>https://x.com/amasad/status/2047424463113785654</link>
-      <guid isPermaLink="false">2047424463113785654</guid>
-      <pubDate>Thu, 23 Apr 2026 21:16:45 +0000</pubDate>
-      <description><![CDATA[Two years since Replit left SF.
-
-10x valuation and 200x ARR later we’ve taken over much of the old IBM campus in Foster City and we’re still expanding.
-
-There’s something poetic about it: IBM helped create the industry. We’re helping reinvent how people create software.
-
-San Francisco is a beautiful city. But it wasn’t the right place for us to focus and rebuild. To transform both our company, and the future of programming itself.
-
-We went from worrying about employee safety to designing a campus people actually want to spend time in.
-
-Better problems.
-
-Foster City gave us space both literally and figuratively. Open horizons, fewer distractions, and more room to think long-term.
-
-It’s a hidden gem in Silicon Valley.
-
-And we’re just getting started.
-
----
-@amasad | ❤️ 55 | 🔁 2 | 💬 7 | 👁 4446]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>RIP Tesla.</title>
-      <link>https://x.com/tunguz/status/2047423649188024793</link>
-      <guid isPermaLink="false">2047423649188024793</guid>
-      <pubDate>Thu, 23 Apr 2026 21:13:31 +0000</pubDate>
-      <description><![CDATA[RIP Tesla.
-
----
-@tunguz | ❤️ 14 | 🔁 0 | 💬 1 | 👁 984]]></description>
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 586]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @OpenRouter: The new Hy3-Preview model from @TencentHunyuan is live for free on OpenRouter!
+      <title>gpt5.5 最大的进步竟然是学会了说人话，opus 4.7 却变得不会说人话了…
+并且 gpt 5.5 编程能力更强了，这证明说人话和编程能力并不矛盾…
+并且 gpt 5.5 速度也很快，这证明了，...</title>
+      <link>https://x.com/oran_ge/status/2047429801137590290</link>
+      <guid isPermaLink="false">2047429801137590290</guid>
+      <pubDate>Thu, 23 Apr 2026 21:37:58 +0000</pubDate>
+      <description><![CDATA[gpt5.5 最大的进步竟然是学会了说人话，opus 4.7 却变得不会说人话了…
+并且 gpt 5.5 编程能力更强了，这证明说人话和编程能力并不矛盾…
+并且 gpt 5.5 速度也很快，这证明了，模型大不要紧，显卡好就行（就像 kimi 海外版速度是国内的2倍）
+A 社这波把 Mythos 包装成神秘核弹、却在 opus 4.7 翻车，也许就是 OpenAI 的翻盘点了
 
-It’s...</title>
-      <link>https://x.com/steipete/status/2047423217422184798</link>
-      <guid isPermaLink="false">2047423217422184798</guid>
-      <pubDate>Thu, 23 Apr 2026 21:11:48 +0000</pubDate>
-      <description><![CDATA[RT @OpenRouter: The new Hy3-Preview model from @TencentHunyuan is live for free on OpenRouter!
-
-It’s a 295B MoE model (21B active) with con…
+最后 gpt5.5 大幅涨价了，相比 gpt 5.4 价格直接翻倍，超越 opus 4.7 成为当下最贵模型
+gpt5.4: 我依然是性价比之王，只有我能稳稳地接住你 🖐️
 
 ---
-@steipete | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@oran_ge | ❤️ 4 | 🔁 0 | 💬 3 | 👁 895]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>Memories are stored as files, so developers can export them, manage them via the API, and keep full ...</title>
-      <link>https://x.com/claudeai/status/2047421846463623579</link>
-      <guid isPermaLink="false">2047421846463623579</guid>
-      <pubDate>Thu, 23 Apr 2026 21:06:22 +0000</pubDate>
-      <description><![CDATA[Memories are stored as files, so developers can export them, manage them via the API, and keep full control over what agents retain.
+      <title>Fine-Tuning Diffusion Models via Intermediate Distribution Shaping
 
-Read more: https://t.co/PcfYg5sFxe
+paper: https://t.co/XbWLf5uN3O h...</title>
+      <link>https://x.com/_akhaliq/status/2047429644660429202</link>
+      <guid isPermaLink="false">2047429644660429202</guid>
+      <pubDate>Thu, 23 Apr 2026 21:37:21 +0000</pubDate>
+      <description><![CDATA[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping
+
+paper: https://t.co/XbWLf5uN3O https://t.co/C85LBFOOSc
 
 ---
-@claudeai | ❤️ 112 | 🔁 3 | 💬 5 | 👁 15572]]></description>
-      <author>@claudeai</author>
+@_akhaliq | ❤️ 4 | 🔁 0 | 💬 2 | 👁 866]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>Memory on Claude Managed Agents is now in public beta.
-
-Your agents can now learn from every session...</title>
-      <link>https://x.com/claudeai/status/2047421844311949513</link>
-      <guid isPermaLink="false">2047421844311949513</guid>
-      <pubDate>Thu, 23 Apr 2026 21:06:21 +0000</pubDate>
-      <description><![CDATA[Memory on Claude Managed Agents is now in public beta.
-
-Your agents can now learn from every session, using an intelligence-optimized memory layer that balances performance with flexibility. https://t.co/P7GjOYPqCz
+      <title>@_catwu Cat = At the center of the future of AI + PM = Listen to Cat</title>
+      <link>https://x.com/lennysan/status/2047428953267437955</link>
+      <guid isPermaLink="false">2047428953267437955</guid>
+      <pubDate>Thu, 23 Apr 2026 21:34:36 +0000</pubDate>
+      <description><![CDATA[@_catwu Cat = At the center of the future of AI + PM = Listen to Cat
 
 ---
-@claudeai | ❤️ 1346 | 🔁 86 | 💬 104 | 👁 47845]]></description>
-      <author>@claudeai</author>
+@lennysan | ❤️ 6 | 🔁 0 | 💬 1 | 👁 366]]></description>
+      <author>@lennysan</author>
     </item>
   </channel>
 </rss>
