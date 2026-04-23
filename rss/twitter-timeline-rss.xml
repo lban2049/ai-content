@@ -5,142 +5,92 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Apr 2026 06:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:01:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Available on @ollama ! 🤝🤝</title>
-      <link>https://x.com/Alibaba_Qwen/status/2047201376518930904</link>
-      <guid isPermaLink="false">2047201376518930904</guid>
-      <pubDate>Thu, 23 Apr 2026 06:30:17 +0000</pubDate>
-      <description><![CDATA[Available on @ollama ! 🤝🤝
+      <title>之前我想在 Reddit 上做一些自己内容的推广，随时被封贴，随时被警告，感觉这是个什么鬼地方。
+
+现在开始在上面发一些游戏的感受，完全没有什么想要增长、推广的动机，却突然发现它的魅力了。上面都是各种...</title>
+      <link>https://x.com/bearliu/status/2047208972160037041</link>
+      <guid isPermaLink="false">2047208972160037041</guid>
+      <pubDate>Thu, 23 Apr 2026 07:00:28 +0000</pubDate>
+      <description><![CDATA[之前我想在 Reddit 上做一些自己内容的推广，随时被封贴，随时被警告，感觉这是个什么鬼地方。
+
+现在开始在上面发一些游戏的感受，完全没有什么想要增长、推广的动机，却突然发现它的魅力了。上面都是各种同好，极其友善，而且非常好玩，充满人味，完全没有 AI 的感觉，怪不得大家喜欢。 https://t.co/xMQ2LP66N9
 
 ---
-@Alibaba_Qwen | ❤️ 5 | 🔁 0 | 💬 0 | 👁 74]]></description>
-      <author>@Alibaba_Qwen</author>
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 3]]></description>
+      <author>@bearliu</author>
     </item>
     <item>
-      <title>⚡️⚡️Run Qwen3.6-27B locally! @UnslothAI</title>
-      <link>https://x.com/Alibaba_Qwen/status/2047201183987900648</link>
-      <guid isPermaLink="false">2047201183987900648</guid>
-      <pubDate>Thu, 23 Apr 2026 06:29:32 +0000</pubDate>
-      <description><![CDATA[⚡️⚡️Run Qwen3.6-27B locally! @UnslothAI
+      <title>China Deploys Solar #Robot to De-Ice Power Lines in Extreme Mountain Conditions
+by @IntEngineering
+
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047208118723936306</link>
+      <guid isPermaLink="false">2047208118723936306</guid>
+      <pubDate>Thu, 23 Apr 2026 06:57:05 +0000</pubDate>
+      <description><![CDATA[China Deploys Solar #Robot to De-Ice Power Lines in Extreme Mountain Conditions
+by @IntEngineering
+
+#Robotics #Engineering #Innovation #Technology https://t.co/3ybuMcX1vk
 
 ---
-@Alibaba_Qwen | ❤️ 3 | 🔁 0 | 💬 1 | 👁 110]]></description>
-      <author>@Alibaba_Qwen</author>
-    </item>
-    <item>
-      <title>Day 0 vLLM support for Qwen3.6-27B! @vllm_project  ♥️❤️</title>
-      <link>https://x.com/Alibaba_Qwen/status/2047200782009991377</link>
-      <guid isPermaLink="false">2047200782009991377</guid>
-      <pubDate>Thu, 23 Apr 2026 06:27:56 +0000</pubDate>
-      <description><![CDATA[Day 0 vLLM support for Qwen3.6-27B! @vllm_project  ♥️❤️
-
----
-@Alibaba_Qwen | ❤️ 18 | 🔁 0 | 💬 0 | 👁 399]]></description>
-      <author>@Alibaba_Qwen</author>
-    </item>
-    <item>
-      <title>Thanks to @lmsysorg  ！ Try it on SGLang now!🚀🚀</title>
-      <link>https://x.com/Alibaba_Qwen/status/2047200510986613145</link>
-      <guid isPermaLink="false">2047200510986613145</guid>
-      <pubDate>Thu, 23 Apr 2026 06:26:51 +0000</pubDate>
-      <description><![CDATA[Thanks to @lmsysorg  ！ Try it on SGLang now!🚀🚀
-
----
-@Alibaba_Qwen | ❤️ 10 | 🔁 0 | 💬 0 | 👁 418]]></description>
-      <author>@Alibaba_Qwen</author>
-    </item>
-    <item>
-      <title>Treventus Scan #Robot Digitizes Up to 2,500 Pages Per Hour
-by @AadityaAnand_11
-
-#Robotics #Innovatio...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047199600872665579</link>
-      <guid isPermaLink="false">2047199600872665579</guid>
-      <pubDate>Thu, 23 Apr 2026 06:23:14 +0000</pubDate>
-      <description><![CDATA[Treventus Scan #Robot Digitizes Up to 2,500 Pages Per Hour
-by @AadityaAnand_11
-
-#Robotics #Innovation #EmergingTech #Technology https://t.co/SyEMJ7Wmcy
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 38]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 33]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @OldeWorldOrder: The SPLC was basically a window repair service that went around smashing windows...</title>
-      <link>https://x.com/elonmusk/status/2047198355630260373</link>
-      <guid isPermaLink="false">2047198355630260373</guid>
-      <pubDate>Thu, 23 Apr 2026 06:18:17 +0000</pubDate>
-      <description><![CDATA[RT @OldeWorldOrder: The SPLC was basically a window repair service that went around smashing windows, to boost their sales.
+      <title>GPT Image 2 Prompt：
 
-They created t…
+The painting contains only one face: that of an elegant young female model with...</title>
+      <link>https://x.com/dotey/status/2047202015307067412</link>
+      <guid isPermaLink="false">2047202015307067412</guid>
+      <pubDate>Thu, 23 Apr 2026 06:32:50 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt：
+
+The painting contains only one face: that of an elegant young female model with little grin. The line that runs from her hair parting to seamlessly split her face in half is designed to look like violently torn paper. The painting is perfectly, completely and forcibly divided into two parts by one flowing lines that resemble tears in the paper:
+—Left side: Futuristic elegant pop art style with strategic cutie smile subtly.
+—Right side: Hyper realistic beautiful natural style with smiling subtly.
+—Right side: Her beautiful natural upper-body is drowned by totally beautiful marine-blue geometric halftone circles. style.
+
+The background is futuristic dreamy. The entire screen is effectively bright and maintains natural vividness. The high resolution, fine details, and soft blur are reminiscent of an electron microscope.
 
 ---
-@elonmusk | ❤️ 0 | 🔁 559 | 💬 0 | 👁 2]]></description>
-      <author>@elonmusk</author>
+@dotey | ❤️ 5 | 🔁 0 | 💬 1 | 👁 1542]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>RT @romainhuet: Late night Slack threads with the team when we’re all cooking with our models are th...</title>
-      <link>https://x.com/nickbaumann_/status/2047198260604076078</link>
-      <guid isPermaLink="false">2047198260604076078</guid>
-      <pubDate>Thu, 23 Apr 2026 06:17:55 +0000</pubDate>
-      <description><![CDATA[RT @romainhuet: Late night Slack threads with the team when we’re all cooking with our models are the best threads!
+      <title>👀👀</title>
+      <link>https://x.com/Alibaba_Qwen/status/2047201919110988127</link>
+      <guid isPermaLink="false">2047201919110988127</guid>
+      <pubDate>Thu, 23 Apr 2026 06:32:27 +0000</pubDate>
+      <description><![CDATA[👀👀
 
 ---
-@nickbaumann_ | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@nickbaumann_</author>
+@Alibaba_Qwen | ❤️ 84 | 🔁 2 | 💬 4 | 👁 4079]]></description>
+      <author>@Alibaba_Qwen</author>
     </item>
     <item>
-      <title>@dotey 哇 这个色调好清爽</title>
-      <link>https://x.com/stark_nico99/status/2047197989853421990</link>
-      <guid isPermaLink="false">2047197989853421990</guid>
-      <pubDate>Thu, 23 Apr 2026 06:16:50 +0000</pubDate>
-      <description><![CDATA[@dotey 哇 这个色调好清爽
+      <title>@Alibaba_Qwen 🤝🤝🤝。❤️❤️❤️❤️❤️❤️</title>
+      <link>https://x.com/ollama/status/2047201727037002216</link>
+      <guid isPermaLink="false">2047201727037002216</guid>
+      <pubDate>Thu, 23 Apr 2026 06:31:41 +0000</pubDate>
+      <description><![CDATA[@Alibaba_Qwen 🤝🤝🤝。❤️❤️❤️❤️❤️❤️
 
 ---
-@stark_nico99 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 21]]></description>
-      <author>@stark_nico99</author>
+@ollama | ❤️ 3 | 🔁 0 | 💬 0 | 👁 269]]></description>
+      <author>@ollama</author>
     </item>
     <item>
-      <title>RT @BowTiedTrance: Scott Adams nailed the prediction six years ago.
-
-&quot;The SPLC is not a legitim...</title>
-      <link>https://x.com/elonmusk/status/2047197498218021198</link>
-      <guid isPermaLink="false">2047197498218021198</guid>
-      <pubDate>Thu, 23 Apr 2026 06:14:53 +0000</pubDate>
-      <description><![CDATA[RT @BowTiedTrance: Scott Adams nailed the prediction six years ago.
-
-&quot;The SPLC is not a legitimate organization,&quot; he said.
-
-And then he pre…
+      <title>🐦🐦‍⬛🐤</title>
+      <link>https://x.com/Alibaba_Qwen/status/2047201597089050741</link>
+      <guid isPermaLink="false">2047201597089050741</guid>
+      <pubDate>Thu, 23 Apr 2026 06:31:10 +0000</pubDate>
+      <description><![CDATA[🐦🐦‍⬛🐤
 
 ---
-@elonmusk | ❤️ 0 | 🔁 908 | 💬 0 | 👁 8]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @SpaceX: Falcon 9 launches 24 @Starlink satellites from California https://t.co/7xQnl6v1Jb</title>
-      <link>https://x.com/elonmusk/status/2047197306408276330</link>
-      <guid isPermaLink="false">2047197306408276330</guid>
-      <pubDate>Thu, 23 Apr 2026 06:14:07 +0000</pubDate>
-      <description><![CDATA[RT @SpaceX: Falcon 9 launches 24 @Starlink satellites from California https://t.co/7xQnl6v1Jb
-
----
-@elonmusk | ❤️ 0 | 🔁 223 | 💬 0 | 👁 9]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Hey, get up and stretch your legs. You’ve been sitting a while. https://t.co/mx0K1oc63R</title>
-      <link>https://x.com/binance/status/2047194169500684306</link>
-      <guid isPermaLink="false">2047194169500684306</guid>
-      <pubDate>Thu, 23 Apr 2026 06:01:39 +0000</pubDate>
-      <description><![CDATA[Hey, get up and stretch your legs. You’ve been sitting a while. https://t.co/mx0K1oc63R
-
----
-@binance | ❤️ 214 | 🔁 24 | 💬 131 | 👁 8529]]></description>
-      <author>@binance</author>
+@Alibaba_Qwen | ❤️ 32 | 🔁 1 | 💬 0 | 👁 1970]]></description>
+      <author>@Alibaba_Qwen</author>
     </item>
   </channel>
 </rss>
