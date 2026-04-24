@@ -5,120 +5,35 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:30:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: Sports Store Uses #AI #Robots to Model Clothes in Real Motion
-by @amazingthings_...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047601549447229732</link>
-      <guid isPermaLink="false">2047601549447229732</guid>
-      <pubDate>Fri, 24 Apr 2026 09:00:26 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Sports Store Uses #AI #Robots to Model Clothes in Real Motion
-by @amazingthings_
+      <title>Jetson Thor–Powered Humanoid #Robot Achieves Fully #Autonomous Wheeled Mobility
+via @ZappyZappy7
 
-#EmergingTech #Technology #Innovation h…
+#R...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047606272510365783</link>
+      <guid isPermaLink="false">2047606272510365783</guid>
+      <pubDate>Fri, 24 Apr 2026 09:19:12 +0000</pubDate>
+      <description><![CDATA[Jetson Thor–Powered Humanoid #Robot Achieves Fully #Autonomous Wheeled Mobility
+via @ZappyZappy7
+
+#Robotics #ArtificialIntelligence #MI #ML #Tech #Innovation https://t.co/JiPMI9kctT
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 73]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Model page for more information and integrations: 
-https://t.co/Z4u6ruZJhg</title>
-      <link>https://x.com/ollama/status/2047598972924227788</link>
-      <guid isPermaLink="false">2047598972924227788</guid>
-      <pubDate>Fri, 24 Apr 2026 08:50:12 +0000</pubDate>
-      <description><![CDATA[Model page for more information and integrations: 
-https://t.co/Z4u6ruZJhg
+      <title>原来 Xcode 的 Agent 功能是 SwiftUI 写的，难怪对话一长滚动起来就卡成幻灯片。SwiftUI 的性能还是不行，毕竟 Apple 自己也优化不好。 https://t.co/4fxb...</title>
+      <link>https://x.com/tualatrix/status/2047604615198408742</link>
+      <guid isPermaLink="false">2047604615198408742</guid>
+      <pubDate>Fri, 24 Apr 2026 09:12:37 +0000</pubDate>
+      <description><![CDATA[原来 Xcode 的 Agent 功能是 SwiftUI 写的，难怪对话一长滚动起来就卡成幻灯片。SwiftUI 的性能还是不行，毕竟 Apple 自己也优化不好。 https://t.co/4fxbhForD0
 
 ---
-@ollama | ❤️ 1 | 🔁 0 | 💬 0 | 👁 459]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>deepseek-v4-flash is now available on Ollama's cloud! Hosted in the US. 
-
-Try it with Claude Code: 
-...</title>
-      <link>https://x.com/ollama/status/2047598971435290992</link>
-      <guid isPermaLink="false">2047598971435290992</guid>
-      <pubDate>Fri, 24 Apr 2026 08:50:11 +0000</pubDate>
-      <description><![CDATA[deepseek-v4-flash is now available on Ollama's cloud! Hosted in the US. 
-
-Try it with Claude Code: 
-ollama launch claude --model deepseek-v4-flash:cloud 
-
-Try it with OpenClaw: 
-ollama launch openclaw --model deepseek-v4-flash:cloud
-
-Try it with Hermes:
-ollama launch hermes --model deepseek-v4-flash:cloud
-
-Try it with chat: 
-ollama run deepseek-v4-flash:cloud
-
-(DeepSeek V4 Pro is coming shortly) 
-🧵
-
----
-@ollama | ❤️ 39 | 🔁 6 | 💬 11 | 👁 1403]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>怎么用 agent 谈 ai native 恋爱呢...
-我也很好奇... https://t.co/krDn9Fmmkh</title>
-      <link>https://x.com/oran_ge/status/2047598919409078744</link>
-      <guid isPermaLink="false">2047598919409078744</guid>
-      <pubDate>Fri, 24 Apr 2026 08:49:59 +0000</pubDate>
-      <description><![CDATA[怎么用 agent 谈 ai native 恋爱呢...
-我也很好奇... https://t.co/krDn9Fmmkh
-
----
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 599]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>怎么用 agent 谈 ai native 恋爱呢...
-我也很好奇... https://t.co/SxWhJhHi0Q</title>
-      <link>https://x.com/oran_ge/status/2047598539711336551</link>
-      <guid isPermaLink="false">2047598539711336551</guid>
-      <pubDate>Fri, 24 Apr 2026 08:48:29 +0000</pubDate>
-      <description><![CDATA[怎么用 agent 谈 ai native 恋爱呢...
-我也很好奇... https://t.co/SxWhJhHi0Q
-
----
-@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 504]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>@aiDotEngineer also if you are in sg next week there's a big launch on apr 29 i'll be there for. com...</title>
-      <link>https://x.com/swyx/status/2047598167026483275</link>
-      <guid isPermaLink="false">2047598167026483275</guid>
-      <pubDate>Fri, 24 Apr 2026 08:47:00 +0000</pubDate>
-      <description><![CDATA[@aiDotEngineer also if you are in sg next week there's a big launch on apr 29 i'll be there for. come by
-
-https://t.co/O4oBOFdCsC
-
----
-@swyx | ❤️ 2 | 🔁 0 | 💬 1 | 👁 212]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>What Changes from #5G to 5.5G
-by @antgrasso
-
-#Network #EmergingTech #Tech #Innovation https://t.co/A...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047597678012342598</link>
-      <guid isPermaLink="false">2047597678012342598</guid>
-      <pubDate>Fri, 24 Apr 2026 08:45:03 +0000</pubDate>
-      <description><![CDATA[What Changes from #5G to 5.5G
-by @antgrasso
-
-#Network #EmergingTech #Tech #Innovation https://t.co/AcLLSkWN1N
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 69]]></description>
-      <author>@Ronald_vanLoon</author>
+@tualatrix | ❤️ 2 | 🔁 0 | 💬 1 | 👁 634]]></description>
+      <author>@tualatrix</author>
     </item>
   </channel>
 </rss>
