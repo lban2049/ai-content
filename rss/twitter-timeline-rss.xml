@@ -5,133 +5,168 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 01:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 02:01:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>添加 &quot;flat anime coloring, no shadows&quot; 的效果
-https://t.co/1wv3GsHRu1</title>
-      <link>https://x.com/dotey/status/2047488179809161333</link>
-      <guid isPermaLink="false">2047488179809161333</guid>
-      <pubDate>Fri, 24 Apr 2026 01:29:57 +0000</pubDate>
-      <description><![CDATA[添加 &quot;flat anime coloring, no shadows&quot; 的效果
-https://t.co/1wv3GsHRu1
+      <title>Full Release Notes: https://t.co/qnQVjegcYy
+
+Run 'hermes update' to enjoy https://t.co/uAX0fzMrSy</title>
+      <link>https://x.com/NousResearch/status/2047495679249949058</link>
+      <guid isPermaLink="false">2047495679249949058</guid>
+      <pubDate>Fri, 24 Apr 2026 01:59:45 +0000</pubDate>
+      <description><![CDATA[Full Release Notes: https://t.co/qnQVjegcYy
+
+Run 'hermes update' to enjoy https://t.co/uAX0fzMrSy
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 49]]></description>
+@NousResearch | ❤️ 0 | 🔁 0 | 💬 0 | 👁 87]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Hermes Agent v0.11.0 - “The Interface Release”
+
+Full changelog below ↓ https://t.co/2jeVcP2lgB</title>
+      <link>https://x.com/NousResearch/status/2047495677651918885</link>
+      <guid isPermaLink="false">2047495677651918885</guid>
+      <pubDate>Fri, 24 Apr 2026 01:59:44 +0000</pubDate>
+      <description><![CDATA[Hermes Agent v0.11.0 - “The Interface Release”
+
+Full changelog below ↓ https://t.co/2jeVcP2lgB
+
+---
+@NousResearch | ❤️ 4 | 🔁 0 | 💬 1 | 👁 138]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>8 Types of #LLMs used in #AIAgents 
+by @ingliguori
+
+#GenerativeAI #ArtificialIntelligence #MachineLe...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047495243579134286</link>
+      <guid isPermaLink="false">2047495243579134286</guid>
+      <pubDate>Fri, 24 Apr 2026 01:58:01 +0000</pubDate>
+      <description><![CDATA[8 Types of #LLMs used in #AIAgents 
+by @ingliguori
+
+#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t.co/DNaR1MgaUk
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 20]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>@lifesinger image 3这效果太绝了 （Doge🐶）</title>
+      <link>https://x.com/stark_nico99/status/2047495032228491420</link>
+      <guid isPermaLink="false">2047495032228491420</guid>
+      <pubDate>Fri, 24 Apr 2026 01:57:10 +0000</pubDate>
+      <description><![CDATA[@lifesinger image 3这效果太绝了 （Doge🐶）
+
+---
+@stark_nico99 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 11]]></description>
+      <author>@stark_nico99</author>
+    </item>
+    <item>
+      <title>RT @HuggingPapers: TACO cuts token costs for terminal agents
+
+A self-evolving framework that compres...</title>
+      <link>https://x.com/_akhaliq/status/2047493769591669036</link>
+      <guid isPermaLink="false">2047493769591669036</guid>
+      <pubDate>Fri, 24 Apr 2026 01:52:09 +0000</pubDate>
+      <description><![CDATA[RT @HuggingPapers: TACO cuts token costs for terminal agents
+
+A self-evolving framework that compresses redundant observations by learning…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>GPT Image 2 Prompt：one-page hand-drawn educational infographic
+
+--- Prompt ---
+
+Create a one-page ha...</title>
+      <link>https://x.com/dotey/status/2047493663580659734</link>
+      <guid isPermaLink="false">2047493663580659734</guid>
+      <pubDate>Fri, 24 Apr 2026 01:51:44 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt：one-page hand-drawn educational infographic
+
+--- Prompt ---
+
+Create a one-page hand-drawn educational infographic.
+
+Style:
+Warm cream paper background (#F5F0E8), clean sketchnote style with slight hand-drawn wobble. No realistic elements. Looks like a high-quality slide summary.
+
+Color:
+Use pastel rounded cards for sections:
+light blue #A8D8EA, mint #B5E5CF, lavender #D5C6E0, peach #F4C7AB.
+Use coral red #E8655A for highlights (keywords, key data, checkmarks).
+Main text and outlines in black, annotations in warm gray #6B6B6B.
+
+Design:
+Visual-first. Use icons, doodles, simple diagrams instead of text.
+Clear structure at a glance (flow, comparison, grouped cards, etc.).
+Separate sections with rounded boxes, bubbles, or dashed frames.
+Connect sections with hand-drawn wavy arrows + short labels.
+
+Typography:
+Centered bold hand-drawn title on top.
+Inside sections: bold keywords + small gray labels (2–5 words).
+
+Details:
+Slightly imperfect color fill (not fully inside outlines).
+Add small doodles (stars, arrows, underlines).
+Keep plenty of whitespace, clean layout.
+
+Footer:
+Add one bold centered takeaway sentence at the bottom.
+
+Content:
+&lt;insert your content here&gt;
+
+---
+@dotey | ❤️ 6 | 🔁 1 | 💬 1 | 👁 758]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Harness Baby Engineer 已经出门工作了。 https://t.co/yKLScanC9I</title>
-      <link>https://x.com/tualatrix/status/2047488007398367521</link>
-      <guid isPermaLink="false">2047488007398367521</guid>
-      <pubDate>Fri, 24 Apr 2026 01:29:16 +0000</pubDate>
-      <description><![CDATA[Harness Baby Engineer 已经出门工作了。 https://t.co/yKLScanC9I
+      <title>GPT Image 3 的生图效果确实不错 https://t.co/wUFJ31Uwwi</title>
+      <link>https://x.com/lifesinger/status/2047491143924121946</link>
+      <guid isPermaLink="false">2047491143924121946</guid>
+      <pubDate>Fri, 24 Apr 2026 01:41:43 +0000</pubDate>
+      <description><![CDATA[GPT Image 3 的生图效果确实不错 https://t.co/wUFJ31Uwwi
 
 ---
-@tualatrix | ❤️ 1 | 🔁 0 | 💬 0 | 👁 36]]></description>
-      <author>@tualatrix</author>
+@lifesinger | ❤️ 3 | 🔁 0 | 💬 3 | 👁 499]]></description>
+      <author>@lifesinger</author>
     </item>
     <item>
-      <title>MCPs, CLIs, and APIs are the new distribution channels to the audience of the future: agents.</title>
-      <link>https://x.com/angjiang/status/2047484995686871098</link>
-      <guid isPermaLink="false">2047484995686871098</guid>
-      <pubDate>Fri, 24 Apr 2026 01:17:18 +0000</pubDate>
-      <description><![CDATA[MCPs, CLIs, and APIs are the new distribution channels to the audience of the future: agents.
-
----
-@angjiang | ❤️ 2 | 🔁 0 | 💬 0 | 👁 232]]></description>
-      <author>@angjiang</author>
-    </item>
-    <item>
-      <title>RT @Soph_astro: Jour 069, orbite 1071 – Le gyroscope, élément clé du contrôle de l’attitude d’un eng...</title>
-      <link>https://x.com/Space_Station/status/2047482719618105366</link>
-      <guid isPermaLink="false">2047482719618105366</guid>
-      <pubDate>Fri, 24 Apr 2026 01:08:15 +0000</pubDate>
-      <description><![CDATA[RT @Soph_astro: Jour 069, orbite 1071 – Le gyroscope, élément clé du contrôle de l’attitude d’un engin spatial 🌀
-
-L’attitude d’un engin spa…
-
----
-@Space_Station | ❤️ 0 | 🔁 331 | 💬 0 | 👁 2]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>https://t.co/HFfq0kLH1b</title>
-      <link>https://x.com/tunguz/status/2047481763597848981</link>
-      <guid isPermaLink="false">2047481763597848981</guid>
-      <pubDate>Fri, 24 Apr 2026 01:04:27 +0000</pubDate>
-      <description><![CDATA[https://t.co/HFfq0kLH1b
-
----
-@tunguz | ❤️ 4 | 🔁 1 | 💬 0 | 👁 751]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Engineering Meets Imagination: China’s #Robotic Beasts Take Shape
-by @China_Fact...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047481401096781859</link>
-      <guid isPermaLink="false">2047481401096781859</guid>
-      <pubDate>Fri, 24 Apr 2026 01:03:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Engineering Meets Imagination: China’s #Robotic Beasts Take Shape
-by @China_Fact
-
-#Robotics #MachineLearning #Artificia…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Meet the Wheel-Leg #Robot Delivering Food and Packages with Smart Vision and LiDAR
-by @IntEngineerin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047480190800998645</link>
-      <guid isPermaLink="false">2047480190800998645</guid>
-      <pubDate>Fri, 24 Apr 2026 00:58:12 +0000</pubDate>
-      <description><![CDATA[Meet the Wheel-Leg #Robot Delivering Food and Packages with Smart Vision and LiDAR
+      <title>Aerodynamic Sail Backpack Boosts Speed and Stability for Downhill Cyclists
 by @IntEngineering
 
-#AI #Robotics #EmergingTech #Innovation #Technology https://t.co/ZplPu0GcUv
+#Inno...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047489976724504928</link>
+      <guid isPermaLink="false">2047489976724504928</guid>
+      <pubDate>Fri, 24 Apr 2026 01:37:05 +0000</pubDate>
+      <description><![CDATA[Aerodynamic Sail Backpack Boosts Speed and Stability for Downhill Cyclists
+by @IntEngineering
+
+#Innovation #EmergingTech #Technology https://t.co/A5nhVnz4gA
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 133]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 139]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>And we all know what happens to his casinos ...</title>
-      <link>https://x.com/tunguz/status/2047479689023807527</link>
-      <guid isPermaLink="false">2047479689023807527</guid>
-      <pubDate>Fri, 24 Apr 2026 00:56:12 +0000</pubDate>
-      <description><![CDATA[And we all know what happens to his casinos ...
+      <title>auto-review now live in codex — using a guardian agent to evaluate the safety of proposed actions, r...</title>
+      <link>https://x.com/gdb/status/2047489218998628780</link>
+      <guid isPermaLink="false">2047489218998628780</guid>
+      <pubDate>Fri, 24 Apr 2026 01:34:04 +0000</pubDate>
+      <description><![CDATA[auto-review now live in codex — using a guardian agent to evaluate the safety of proposed actions, reducing human approvals to only when they're really needed.
 
 ---
-@tunguz | ❤️ 9 | 🔁 0 | 💬 0 | 👁 1001]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>We chatted about this in the episode</title>
-      <link>https://x.com/lennysan/status/2047475052321673556</link>
-      <guid isPermaLink="false">2047475052321673556</guid>
-      <pubDate>Fri, 24 Apr 2026 00:37:47 +0000</pubDate>
-      <description><![CDATA[We chatted about this in the episode
-
----
-@lennysan | ❤️ 3 | 🔁 0 | 💬 1 | 👁 4011]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>.@GoogleCloud CEO Thomas Kurian joined us at our booth to talk shop and sign our wall. 
-
-Incredible ...</title>
-      <link>https://x.com/nvidia/status/2047474317630357752</link>
-      <guid isPermaLink="false">2047474317630357752</guid>
-      <pubDate>Fri, 24 Apr 2026 00:34:52 +0000</pubDate>
-      <description><![CDATA[.@GoogleCloud CEO Thomas Kurian joined us at our booth to talk shop and sign our wall. 
-
-Incredible energy at #GoogleCloudNext as we continue to push the boundaries of what’s possible in the cloud. https://t.co/rRKPVgdKxM
-
----
-@nvidia | ❤️ 48 | 🔁 4 | 💬 5 | 👁 6707]]></description>
-      <author>@nvidia</author>
+@gdb | ❤️ 120 | 🔁 7 | 💬 17 | 👁 9824]]></description>
+      <author>@gdb</author>
     </item>
   </channel>
 </rss>
