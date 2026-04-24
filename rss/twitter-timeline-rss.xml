@@ -5,181 +5,249 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 19:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 19:31:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Are LLMs really more important than fire or electricity?
-
-“Honestly, a ton of what we’ve developed i...</title>
-      <link>https://x.com/GaryMarcus/status/2047751931326545953</link>
-      <guid isPermaLink="false">2047751931326545953</guid>
-      <pubDate>Fri, 24 Apr 2026 18:58:00 +0000</pubDate>
-      <description><![CDATA[Are LLMs really more important than fire or electricity?
-
-“Honestly, a ton of what we’ve developed in my lifetime amounts to scaling up the delivery of information and entertainment and the frictionlessness of certain financial transactions. These are real improvements! ... But compare them seriously to what came before and the disproportion becomes almost embarrassing. The fundamental architecture of daily material life - how we heat our homes, how we move from place to place, how we grow and store and cook food, how we build structures - has changed remarkably little since 1970. .….The cars go to the same places. The planes aren’t even marginally faster. The houses are built the same way. People still die of cancer.
-....
-
-Code cannot insulate your house; no algorithm has ever laid a water pipe; the internet has not built a single mile of high-speed rail. What our current stagnation shows, collectively, is that the improvements in material human life that matter the most - abundance in warmth, in calories, in clean water, in physical safety, in hours of freedom from labor - were all achieved by technologies that operated on atoms: steel, concrete, copper wire, chlorine, penicillin...”
-
-— Freddie deBoer
+      <title>RT @IvanLandabaso: 10 fastest-growing AI vendors by revenue per employee using  spend data from @try...</title>
+      <link>https://x.com/amasad/status/2047759941348593688</link>
+      <guid isPermaLink="false">2047759941348593688</guid>
+      <pubDate>Fri, 24 Apr 2026 19:29:50 +0000</pubDate>
+      <description><![CDATA[RT @IvanLandabaso: 10 fastest-growing AI vendors by revenue per employee using  spend data from @tryramp  (50K+ companies): https://t.co/Cf…
 
 ---
-@GaryMarcus | ❤️ 4 | 🔁 1 | 💬 0 | 👁 197]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>“The core design is about understanding, not output.”
-
-A design is an intention. Not an image or a p...</title>
-      <link>https://x.com/thenanyu/status/2047751915271020920</link>
-      <guid isPermaLink="false">2047751915271020920</guid>
-      <pubDate>Fri, 24 Apr 2026 18:57:56 +0000</pubDate>
-      <description><![CDATA[“The core design is about understanding, not output.”
-
-A design is an intention. Not an image or a prototype. Output without intention is hallucination.
-
----
-@thenanyu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 44]]></description>
-      <author>@thenanyu</author>
-    </item>
-    <item>
-      <title>gpt5.5 might be the first @openai model to challenge opus in coding vibes. interesting because it me...</title>
-      <link>https://x.com/swyx/status/2047751824942457266</link>
-      <guid isPermaLink="false">2047751824942457266</guid>
-      <pubDate>Fri, 24 Apr 2026 18:57:35 +0000</pubDate>
-      <description><![CDATA[gpt5.5 might be the first @openai model to challenge opus in coding vibes. interesting because it means swebench isn't the be-all and end-all anymore
-
----
-@swyx | ❤️ 3 | 🔁 0 | 💬 1 | 👁 206]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>如果有 GPT Image 2 的意见，可以在原推评论反馈，Boyuan 是 GPT Image 核心团队成员</title>
-      <link>https://x.com/dotey/status/2047751520297398547</link>
-      <guid isPermaLink="false">2047751520297398547</guid>
-      <pubDate>Fri, 24 Apr 2026 18:56:22 +0000</pubDate>
-      <description><![CDATA[如果有 GPT Image 2 的意见，可以在原推评论反馈，Boyuan 是 GPT Image 核心团队成员
-
----
-@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 163]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>Extreme Precision: Micro-Dispensing at the Picoliter Level Explained
-by @lukas_m_ziegler
-
-#EmergingT...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047751497832689707</link>
-      <guid isPermaLink="false">2047751497832689707</guid>
-      <pubDate>Fri, 24 Apr 2026 18:56:17 +0000</pubDate>
-      <description><![CDATA[Extreme Precision: Micro-Dispensing at the Picoliter Level Explained
-by @lukas_m_ziegler
-
-#EmergingTech #Technology #Innovation https://t.co/K77SKFloPn
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 45]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Give me someone who can be responsible for an entire area--someone who can design, hire, and sort to...</title>
-      <link>https://x.com/RayDalio/status/2047750855764701539</link>
-      <guid isPermaLink="false">2047750855764701539</guid>
-      <pubDate>Fri, 24 Apr 2026 18:53:44 +0000</pubDate>
-      <description><![CDATA[Give me someone who can be responsible for an entire area--someone who can design, hire, and sort to achieve the goal--and I can be comfortable things will go well. These are the most important people to choose and manage well. Senior managers must be capable of higher-level thinking, and understand the difference between goals and tasks-- otherwise you will have to do their jobs for them. The ability to see and value goals is largely innate, though it improves with experience. It can be tested for, though no tests are perfect. #principleoftheday
-
----
-@RayDalio | ❤️ 24 | 🔁 3 | 💬 3 | 👁 4109]]></description>
-      <author>@RayDalio</author>
-    </item>
-    <item>
-      <title>@jsconfeu @cramforce talk now live! @vercel is doing incredible AI engineering work and it comes dir...</title>
-      <link>https://x.com/swyx/status/2047749587163877668</link>
-      <guid isPermaLink="false">2047749587163877668</guid>
-      <pubDate>Fri, 24 Apr 2026 18:48:41 +0000</pubDate>
-      <description><![CDATA[@jsconfeu @cramforce talk now live! @vercel is doing incredible AI engineering work and it comes direct from the C-suite, this should be more common but it is not, even today
-
-https://t.co/B9enUKh24m
-
----
-@swyx | ❤️ 0 | 🔁 0 | 💬 2 | 👁 371]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>Import your Vercel or Lovable apps to Replit with a few clicks:</title>
-      <link>https://x.com/amasad/status/2047747978690232550</link>
-      <guid isPermaLink="false">2047747978690232550</guid>
-      <pubDate>Fri, 24 Apr 2026 18:42:18 +0000</pubDate>
-      <description><![CDATA[Import your Vercel or Lovable apps to Replit with a few clicks:
-
----
-@amasad | ❤️ 42 | 🔁 3 | 💬 2 | 👁 3301]]></description>
+@amasad | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
       <author>@amasad</author>
     </item>
     <item>
-      <title>“If AI can make employees more productive, which is widely accepted as fact, then companies are goin...</title>
-      <link>https://x.com/levie/status/2047747142308274645</link>
-      <guid isPermaLink="false">2047747142308274645</guid>
-      <pubDate>Fri, 24 Apr 2026 18:38:58 +0000</pubDate>
-      <description><![CDATA[“If AI can make employees more productive, which is widely accepted as fact, then companies are going to want as many productive units of labor as possible. This is a key reason why I am changing my mind.”
-
-This is why jevons paradox is really important to understand with AI right now. 
-
-And counterintuitively, this trend is going to increase as AI gets better. The better AI gets at performing tasks, the more companies can take on those tasks, which leads to hiring more people to do the surrounding work of those tasks.
-
-Think about the small business that can’t afford to build complex software. When AI is only a little good nothing changes for them. When it’s really good they can finally hire engineers that have the impact of 5-10X, so they can finally invest in engineering. 
-
-The sales team that can automate customer intelligence and outbound demand gen will hire more sales people because they have more leads to go after. The marketing team that can now do higher-end video production than before will hire a video editor. And so on.
-
-This is going to happen in more and more surprisingly ways.
+      <title>each piece of this week's launches is individually useful, but together, they start to feel like a n...</title>
+      <link>https://x.com/gdb/status/2047759621478314352</link>
+      <guid isPermaLink="false">2047759621478314352</guid>
+      <pubDate>Fri, 24 Apr 2026 19:28:33 +0000</pubDate>
+      <description><![CDATA[each piece of this week's launches is individually useful, but together, they start to feel like a new way to work with computers: a new interface for how people create, for how an agent can maintain necessary context, and for getting your computer to do any task you want.
 
 ---
-@levie | ❤️ 61 | 🔁 9 | 💬 12 | 👁 6788]]></description>
-      <author>@levie</author>
+@gdb | ❤️ 3 | 🔁 0 | 💬 0 | 👁 493]]></description>
+      <author>@gdb</author>
     </item>
     <item>
-      <title>Is your enterprise AI strategy sitting on a broken foundation?
-
-At #GoogleCloudNext, I spoke with Al...</title>
-      <link>https://x.com/YuHelenYu/status/2047746510008512602</link>
-      <guid isPermaLink="false">2047746510008512602</guid>
-      <pubDate>Fri, 24 Apr 2026 18:36:27 +0000</pubDate>
-      <description><![CDATA[Is your enterprise AI strategy sitting on a broken foundation?
-
-At #GoogleCloudNext, I spoke with Alan Bivens, VP of Strategic Partnership at @IBM about their partnership with @GoogleCloudTech.
-
-This is infrastructure finally catching up to AI.
-
-Watch our conversation: https://t.co/YFSP3ZM8bw
-
-Learn more about the strategic partnership : https://t.co/p1lYxWLA4n (https://t.co/i0rKfY1mc9)
-
-#EnterpriseAI #HybridCloud #AgenticAI #IBMPartner #watson @ibmconsulting
+      <title>RT @amoljain_: Vercel and Lovable spent this week disclosing breaches. We spent it shipping Security...</title>
+      <link>https://x.com/amasad/status/2047759594961957209</link>
+      <guid isPermaLink="false">2047759594961957209</guid>
+      <pubDate>Fri, 24 Apr 2026 19:28:27 +0000</pubDate>
+      <description><![CDATA[RT @amoljain_: Vercel and Lovable spent this week disclosing breaches. We spent it shipping Security Agent and Auto-Protect. Imports are fr…
 
 ---
-@YuHelenYu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 53]]></description>
-      <author>@YuHelenYu</author>
+@amasad | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>A cargo mission is scheduled for liftoff on Saturday for a Monday delivery to the station. Meanwhile...</title>
-      <link>https://x.com/Space_Station/status/2047746221154996622</link>
-      <guid isPermaLink="false">2047746221154996622</guid>
-      <pubDate>Fri, 24 Apr 2026 18:35:19 +0000</pubDate>
-      <description><![CDATA[A cargo mission is scheduled for liftoff on Saturday for a Monday delivery to the station. Meanwhile, Expedition 74 wrapped up the week with health and physics research. More... https://t.co/YKTBo6MgiF https://t.co/CpkYy39kwq
+      <title>今晚最后的工作，做 wanman 的高并发测试，以往我们使用本地 coding agent 一次只能开一个窗口 review 代码，但对于「评估项目中各种状态机的设计，稳定性和潜在风险，全面 revi...</title>
+      <link>https://x.com/turingou/status/2047759094417850726</link>
+      <guid isPermaLink="false">2047759094417850726</guid>
+      <pubDate>Fri, 24 Apr 2026 19:26:28 +0000</pubDate>
+      <description><![CDATA[今晚最后的工作，做 wanman 的高并发测试，以往我们使用本地 coding agent 一次只能开一个窗口 review 代码，但对于「评估项目中各种状态机的设计，稳定性和潜在风险，全面 review codebase 并提升测试覆盖率到 100%」这种目标，wanman takeover 会同时开启十几个不同角色的专业 agent 采用不同速度和品质的模型覆盖前端，后端，架构等层面的综合评估并相互进行事实确认。这基本上已经达到了我的核心设计目标：使编码工作可以完全自动化，以无限拓展的方式运行。
 
 ---
-@Space_Station | ❤️ 125 | 🔁 17 | 💬 9 | 👁 8055]]></description>
-      <author>@Space_Station</author>
+@turingou | ❤️ 2 | 🔁 0 | 💬 1 | 👁 172]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>just launched GPT-5.5 in our API, please enjoy!</title>
-      <link>https://x.com/gdb/status/2047745639195508754</link>
-      <guid isPermaLink="false">2047745639195508754</guid>
-      <pubDate>Fri, 24 Apr 2026 18:33:00 +0000</pubDate>
-      <description><![CDATA[just launched GPT-5.5 in our API, please enjoy!
+      <title>you are empowered to create, whether you think of yourself as a software engineer or not.
+
+you can p...</title>
+      <link>https://x.com/gdb/status/2047759012326936618</link>
+      <guid isPermaLink="false">2047759012326936618</guid>
+      <pubDate>Fri, 24 Apr 2026 19:26:08 +0000</pubDate>
+      <description><![CDATA[you are empowered to create, whether you think of yourself as a software engineer or not.
+
+you can prompt for apps and games in natural language (https://t.co/hKn40pkm3q), and can make spreadsheets, slides, diagrams, docs, marketing materials: https://t.co/tiAhtTi21d
 
 ---
-@gdb | ❤️ 233 | 🔁 8 | 💬 27 | 👁 8529]]></description>
+@gdb | ❤️ 3 | 🔁 0 | 💬 1 | 👁 1632]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>Think about how many “weather” apps and “dashboards” you saw on behance and dribbble in the pre-AI e...</title>
+      <link>https://x.com/thenanyu/status/2047758400948408831</link>
+      <guid isPermaLink="false">2047758400948408831</guid>
+      <pubDate>Fri, 24 Apr 2026 19:23:42 +0000</pubDate>
+      <description><![CDATA[Think about how many “weather” apps and “dashboards” you saw on behance and dribbble in the pre-AI era
+
+All hallucinations
+
+---
+@thenanyu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 30]]></description>
+      <author>@thenanyu</author>
+    </item>
+    <item>
+      <title>Meet Xiaoling: China’s Modular Humanoid #Robot with Swappable Heads and Multi-Role Capabilities
+by @...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047758252474052832</link>
+      <guid isPermaLink="false">2047758252474052832</guid>
+      <pubDate>Fri, 24 Apr 2026 19:23:07 +0000</pubDate>
+      <description><![CDATA[Meet Xiaoling: China’s Modular Humanoid #Robot with Swappable Heads and Multi-Role Capabilities
+by @StarSnap_1
+
+#Robotics #Engineering #ArtificialIntelligence #Technology https://t.co/T0M0PC0S66
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 52]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>@Kimi_Moonshot See the announcement thread for full details:
+
+https://t.co/u0QQAEaDdR</title>
+      <link>https://x.com/NousResearch/status/2047757460463648841</link>
+      <guid isPermaLink="false">2047757460463648841</guid>
+      <pubDate>Fri, 24 Apr 2026 19:19:58 +0000</pubDate>
+      <description><![CDATA[@Kimi_Moonshot See the announcement thread for full details:
+
+https://t.co/u0QQAEaDdR
+
+---
+@NousResearch | ❤️ 3 | 🔁 0 | 💬 0 | 👁 717]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>this has one of the most exciting launch weeks in OpenAI's history, with a goal of making agents mor...</title>
+      <link>https://x.com/gdb/status/2047757455606903178</link>
+      <guid isPermaLink="false">2047757455606903178</guid>
+      <pubDate>Fri, 24 Apr 2026 19:19:57 +0000</pubDate>
+      <description><![CDATA[this has one of the most exciting launch weeks in OpenAI's history, with a goal of making agents more real, useful, and accessible for all our users.
+
+codex can now smartly do much more on your computer, remember more of your context, and run more ongoing work independently.
+
+---
+@gdb | ❤️ 91 | 🔁 7 | 💬 14 | 👁 4101]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>Ironically, the so-called “anti-hate” groups have an incredibly strong financial incentive to stoke ...</title>
+      <link>https://x.com/elonmusk/status/2047757400866963632</link>
+      <guid isPermaLink="false">2047757400866963632</guid>
+      <pubDate>Fri, 24 Apr 2026 19:19:44 +0000</pubDate>
+      <description><![CDATA[Ironically, the so-called “anti-hate” groups have an incredibly strong financial incentive to stoke hate, so they actually AMPLIFY hate!
+
+The worst thing that could happen to them is actually ending hate, as they would cease to exist.
+
+---
+@elonmusk | ❤️ 5033 | 🔁 736 | 💬 750 | 👁 482026]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @swyx: @jacobeffron just between us https://t.co/F00l7wSPF2</title>
+      <link>https://x.com/swyx/status/2047757185908888006</link>
+      <guid isPermaLink="false">2047757185908888006</guid>
+      <pubDate>Fri, 24 Apr 2026 19:18:53 +0000</pubDate>
+      <description><![CDATA[RT @swyx: @jacobeffron just between us https://t.co/F00l7wSPF2
+
+---
+@swyx | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>RT @jacobeffron: .@swyx current thesis: 
+
+&quot;2025 was coding agents. 2026 is coding agents breaki...</title>
+      <link>https://x.com/swyx/status/2047757096486342923</link>
+      <guid isPermaLink="false">2047757096486342923</guid>
+      <pubDate>Fri, 24 Apr 2026 19:18:31 +0000</pubDate>
+      <description><![CDATA[RT @jacobeffron: .@swyx current thesis: 
+
+&quot;2025 was coding agents. 2026 is coding agents breaking containment to do everything else.&quot; https…
+
+---
+@swyx | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>@Kimi_Moonshot CORRECTION: The Hackathon has been extended to May 3rd</title>
+      <link>https://x.com/NousResearch/status/2047756972741529984</link>
+      <guid isPermaLink="false">2047756972741529984</guid>
+      <pubDate>Fri, 24 Apr 2026 19:18:02 +0000</pubDate>
+      <description><![CDATA[@Kimi_Moonshot CORRECTION: The Hackathon has been extended to May 3rd
+
+---
+@NousResearch | ❤️ 11 | 🔁 0 | 💬 1 | 👁 777]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>The Hermes Agent Creative Hackathon ends in 9 days 
+
+Build a creative project with Hermes for a chan...</title>
+      <link>https://x.com/NousResearch/status/2047755595554443682</link>
+      <guid isPermaLink="false">2047755595554443682</guid>
+      <pubDate>Fri, 24 Apr 2026 19:12:34 +0000</pubDate>
+      <description><![CDATA[The Hermes Agent Creative Hackathon ends in 9 days 
+
+Build a creative project with Hermes for a chance to win from the $26,000 prize pool sponsored by @Kimi_Moonshot!
+
+We asked Hermes Agent to generate 1000 ideas for you: https://t.co/PabKZSjWV8
+
+---
+@NousResearch | ❤️ 109 | 🔁 6 | 💬 12 | 👁 22435]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>SOTA perf from GPT-5.5 for long-running tasks:</title>
+      <link>https://x.com/gdb/status/2047755043278094837</link>
+      <guid isPermaLink="false">2047755043278094837</guid>
+      <pubDate>Fri, 24 Apr 2026 19:10:22 +0000</pubDate>
+      <description><![CDATA[SOTA perf from GPT-5.5 for long-running tasks:
+
+---
+@gdb | ❤️ 73 | 🔁 3 | 💬 9 | 👁 5635]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>gpt-5.5 unlocks a new level of possibility:</title>
+      <link>https://x.com/gdb/status/2047754848628867183</link>
+      <guid isPermaLink="false">2047754848628867183</guid>
+      <pubDate>Fri, 24 Apr 2026 19:09:36 +0000</pubDate>
+      <description><![CDATA[gpt-5.5 unlocks a new level of possibility:
+
+---
+@gdb | ❤️ 53 | 🔁 3 | 💬 7 | 👁 6405]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Implement #AI Responsibility and Protect #Privacy
+by @ingliguori
+ 
+#ArtificialIn...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047753703378022895</link>
+      <guid isPermaLink="false">2047753703378022895</guid>
+      <pubDate>Fri, 24 Apr 2026 19:05:02 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Implement #AI Responsibility and Protect #Privacy
+by @ingliguori
+ 
+#ArtificialIntelligence #MachineLearning #ML #DL htt…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>gpt-5.5 is top of cursorbench:</title>
+      <link>https://x.com/gdb/status/2047753216264396877</link>
+      <guid isPermaLink="false">2047753216264396877</guid>
+      <pubDate>Fri, 24 Apr 2026 19:03:06 +0000</pubDate>
+      <description><![CDATA[gpt-5.5 is top of cursorbench:
+
+---
+@gdb | ❤️ 122 | 🔁 2 | 💬 8 | 👁 9018]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>gpt-5.5 is a big step up in performance, give it a try:</title>
+      <link>https://x.com/gdb/status/2047753023099912393</link>
+      <guid isPermaLink="false">2047753023099912393</guid>
+      <pubDate>Fri, 24 Apr 2026 19:02:20 +0000</pubDate>
+      <description><![CDATA[gpt-5.5 is a big step up in performance, give it a try:
+
+---
+@gdb | ❤️ 199 | 🔁 1 | 💬 25 | 👁 13091]]></description>
       <author>@gdb</author>
     </item>
   </channel>
