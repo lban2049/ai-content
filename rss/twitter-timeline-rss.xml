@@ -5,73 +5,65 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:30:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Six Dimensions of #DataScience
-by @ingliguori
-
-#BigData #DataScientist https://t.co/1H79hmP2nB</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047630638073663676</link>
-      <guid isPermaLink="false">2047630638073663676</guid>
-      <pubDate>Fri, 24 Apr 2026 10:56:01 +0000</pubDate>
-      <description><![CDATA[Six Dimensions of #DataScience
-by @ingliguori
-
-#BigData #DataScientist https://t.co/1H79hmP2nB
+      <title>RT @RpsAgainstTrump: Trump: “I took a lot of heat for saying drugs were going down 500%, 600%, 700%....</title>
+      <link>https://x.com/ylecun/status/2047637740645150813</link>
+      <guid isPermaLink="false">2047637740645150813</guid>
+      <pubDate>Fri, 24 Apr 2026 11:24:15 +0000</pubDate>
+      <description><![CDATA[RT @RpsAgainstTrump: Trump: “I took a lot of heat for saying drugs were going down 500%, 600%, 700%. But we also say sometimes 50%, 60%, it…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 45]]></description>
+@ylecun | ❤️ 0 | 🔁 4830 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>RT @yongfook: The idea of &quot;one shotting&quot; an app using AI is a fugazi.
+
+If you had to descr...</title>
+      <link>https://x.com/levelsio/status/2047637023574352156</link>
+      <guid isPermaLink="false">2047637023574352156</guid>
+      <pubDate>Fri, 24 Apr 2026 11:21:24 +0000</pubDate>
+      <description><![CDATA[RT @yongfook: The idea of &quot;one shotting&quot; an app using AI is a fugazi.
+
+If you had to describe my app and all the edge cases I have solved o…
+
+---
+@levelsio | ❤️ 0 | 🔁 132 | 💬 0 | 👁 0]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>#Robotics Isn’t Boring: When #Robots Become Playmates
+by @lukas_m_ziegler
+
+#EmergingTech #Technology...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047636698062848077</link>
+      <guid isPermaLink="false">2047636698062848077</guid>
+      <pubDate>Fri, 24 Apr 2026 11:20:06 +0000</pubDate>
+      <description><![CDATA[#Robotics Isn’t Boring: When #Robots Become Playmates
+by @lukas_m_ziegler
+
+#EmergingTech #Technology #Innovation https://t.co/IIrG3fOg7y
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 90]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>目前云端 computer use 大家认为最好的方案是？</title>
-      <link>https://x.com/turingou/status/2047630453272887663</link>
-      <guid isPermaLink="false">2047630453272887663</guid>
-      <pubDate>Fri, 24 Apr 2026 10:55:17 +0000</pubDate>
-      <description><![CDATA[目前云端 computer use 大家认为最好的方案是？
+      <title>RT @Ronald_vanLoon: Generative Bionics’ Gen1 Positions AMD in the Emerging Humanoid #Robotics Race
+b...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047632146253099059</link>
+      <guid isPermaLink="false">2047632146253099059</guid>
+      <pubDate>Fri, 24 Apr 2026 11:02:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Generative Bionics’ Gen1 Positions AMD in the Emerging Humanoid #Robotics Race
+by @CyberRobooo
+
+#Robots #ArtificialInte…
 
 ---
-@turingou | ❤️ 0 | 🔁 0 | 💬 0 | 👁 473]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>我的 sandbank 东京服务器终于被 cf 解除 challage 了，做云端沙箱的 agent matrix 真的好麻烦，相比而言 local first 产品就没有这些复杂的网络问题。</title>
-      <link>https://x.com/turingou/status/2047628469899862478</link>
-      <guid isPermaLink="false">2047628469899862478</guid>
-      <pubDate>Fri, 24 Apr 2026 10:47:24 +0000</pubDate>
-      <description><![CDATA[我的 sandbank 东京服务器终于被 cf 解除 challage 了，做云端沙箱的 agent matrix 真的好麻烦，相比而言 local first 产品就没有这些复杂的网络问题。
-
----
-@turingou | ❤️ 2 | 🔁 0 | 💬 0 | 👁 594]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>新一期中文通讯出来了 🌊
-
-这期有点不一样——不是纯粹聊设计或产品，而是把最近几件事串在一起：海滩晨跑、一部科幻电影、还有 AI 时代的产品思考。
-
-早跑的时候脑子特别清醒，会想一些平时忙起来根本不去...</title>
-      <link>https://x.com/bearliu/status/2047627110034927954</link>
-      <guid isPermaLink="false">2047627110034927954</guid>
-      <pubDate>Fri, 24 Apr 2026 10:42:00 +0000</pubDate>
-      <description><![CDATA[新一期中文通讯出来了 🌊
-
-这期有点不一样——不是纯粹聊设计或产品，而是把最近几件事串在一起：海滩晨跑、一部科幻电影、还有 AI 时代的产品思考。
-
-早跑的时候脑子特别清醒，会想一些平时忙起来根本不去碰的问题——比如「当下这件事对我真正重要吗？」跑着跑着就想通了一些东西。
-
-然后看了《挽救计划》（Project Hail Mary）——是那种看完之后会坐在沙发上发呆五分钟的片子。经典作品在不同人生阶段看，感受真的不一样。这次重新认识了它想说的某些东西。
-
-还有建立剃面图带来的设计启发——这个听起来很日常，但里面藏着一个关于「可视化决策」的小洞察，我觉得做产品的朋友会有共鸣。
-
-如果你最近也在想：怎么在 AI 工具铺天盖地的时候，保持自己做产品的判断力？这期或许能给你一点燃料。
-
-👉 https://t.co/njzrisigkx
-
----
-@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 236]]></description>
-      <author>@bearliu</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
