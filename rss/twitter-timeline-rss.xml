@@ -5,184 +5,185 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:31:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Combining Cohere and Aleph Alpha is such an interesting moment.  Spending a lot of time outside the ...</title>
-      <link>https://x.com/mattturck/status/2047721904438493482</link>
-      <guid isPermaLink="false">2047721904438493482</guid>
-      <pubDate>Fri, 24 Apr 2026 16:58:41 +0000</pubDate>
-      <description><![CDATA[Combining Cohere and Aleph Alpha is such an interesting moment.  Spending a lot of time outside the US, hard to overstate how much reluctance there is to outsourcing intelligence to a handful of US platforms, given current geopolitical chaos.
+      <title>To read our write-up in full, see here: https://t.co/Myerlx5khU</title>
+      <link>https://x.com/AnthropicAI/status/2047728386148122990</link>
+      <guid isPermaLink="false">2047728386148122990</guid>
+      <pubDate>Fri, 24 Apr 2026 17:24:26 +0000</pubDate>
+      <description><![CDATA[To read our write-up in full, see here: https://t.co/Myerlx5khU
 
 ---
-@mattturck | ❤️ 1 | 🔁 0 | 💬 0 | 👁 65]]></description>
-      <author>@mattturck</author>
+@AnthropicAI | ❤️ 21 | 🔁 1 | 💬 1 | 👁 2751]]></description>
+      <author>@AnthropicAI</author>
     </item>
     <item>
-      <title>RT @thekaransinghal: Today we’re introducing two big steps for health at OpenAI:
+      <title>Markets of AI agents could provide value, but there are plenty of rough edges. Access to higher-qual...</title>
+      <link>https://x.com/AnthropicAI/status/2047728384503939464</link>
+      <guid isPermaLink="false">2047728384503939464</guid>
+      <pubDate>Fri, 24 Apr 2026 17:24:26 +0000</pubDate>
+      <description><![CDATA[Markets of AI agents could provide value, but there are plenty of rough edges. Access to higher-quality models conferred a real advantage—and participants didn’t notice. There are plenty of other ways they can go wrong.
 
-- ChatGPT for Clin...</title>
-      <link>https://x.com/OpenAI/status/2047721713195196706</link>
-      <guid isPermaLink="false">2047721713195196706</guid>
-      <pubDate>Fri, 24 Apr 2026 16:57:55 +0000</pubDate>
-      <description><![CDATA[RT @thekaransinghal: Today we’re introducing two big steps for health at OpenAI:
-
-- ChatGPT for Clinicians, a free version of ChatGPT desig…
+Policy and legal frameworks will need to adapt to keep up.
 
 ---
-@OpenAI | ❤️ 0 | 🔁 503 | 💬 0 | 👁 4]]></description>
-      <author>@OpenAI</author>
+@AnthropicAI | ❤️ 18 | 🔁 0 | 💬 2 | 👁 3014]]></description>
+      <author>@AnthropicAI</author>
     </item>
     <item>
-      <title>RT @gnoble79: Last night was the biggest disaster in the history of Tesla.
-
-Let me walk you through ...</title>
-      <link>https://x.com/GaryMarcus/status/2047721114541969893</link>
-      <guid isPermaLink="false">2047721114541969893</guid>
-      <pubDate>Fri, 24 Apr 2026 16:55:33 +0000</pubDate>
-      <description><![CDATA[RT @gnoble79: Last night was the biggest disaster in the history of Tesla.
-
-Let me walk you through what actually happened on that earnings…
+      <title>Someone obviously did not wake up a loser today.</title>
+      <link>https://x.com/tunguz/status/2047728358998327499</link>
+      <guid isPermaLink="false">2047728358998327499</guid>
+      <pubDate>Fri, 24 Apr 2026 17:24:20 +0000</pubDate>
+      <description><![CDATA[Someone obviously did not wake up a loser today.
 
 ---
-@GaryMarcus | ❤️ 0 | 🔁 1843 | 💬 0 | 👁 0]]></description>
-      <author>@GaryMarcus</author>
+@tunguz | ❤️ 9 | 🔁 0 | 💬 2 | 👁 461]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>🛜 Multiplayer for my vibe coded war/drone sim is live:
+      <title>New Anthropic research: Project Deal.
 
-https://t.co/q1vYLwMhcW
+We created a marketplace for employees in our San Francisco o...</title>
+      <link>https://x.com/AnthropicAI/status/2047728360818696302</link>
+      <guid isPermaLink="false">2047728360818696302</guid>
+      <pubDate>Fri, 24 Apr 2026 17:24:20 +0000</pubDate>
+      <description><![CDATA[New Anthropic research: Project Deal.
 
-Here's me playing w...</title>
-      <link>https://x.com/levelsio/status/2047720990315073754</link>
-      <guid isPermaLink="false">2047720990315073754</guid>
-      <pubDate>Fri, 24 Apr 2026 16:55:03 +0000</pubDate>
-      <description><![CDATA[🛜 Multiplayer for my vibe coded war/drone sim is live:
-
-https://t.co/q1vYLwMhcW
-
-Here's me playing with my server guy @DanielLockyer (D-Dog), we switch from soldier to launching drone and end up in a drone vs drone battle
-
-Everything vibe coded from start to finish, I also added AI music now, kinda Eastern European war game music
-
-It's a Node multiplayer server, it'll probably get hacked but then we add some more protections as usual!
-
-Very fun 😅😅😅
-
-(This is my entry to the #vibejam even though I can't participate and won't win)
+We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf. https://t.co/H2f6cLDlAW
 
 ---
-@levelsio | ❤️ 14 | 🔁 1 | 💬 6 | 👁 2174]]></description>
-      <author>@levelsio</author>
+@AnthropicAI | ❤️ 271 | 🔁 21 | 💬 38 | 👁 10733]]></description>
+      <author>@AnthropicAI</author>
     </item>
     <item>
-      <title>Quantum Sensing Can Transform #Healthcare Diagnostics
-by @antgrasso
+      <title>Bird-Inspired Flight #Robot Mimics Nature for Advanced Aerial Mobility
+via @ZappyZappy7
 
-#MedTech #HealthTech #Tech #Tec...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047720481332043908</link>
-      <guid isPermaLink="false">2047720481332043908</guid>
-      <pubDate>Fri, 24 Apr 2026 16:53:02 +0000</pubDate>
-      <description><![CDATA[Quantum Sensing Can Transform #Healthcare Diagnostics
-by @antgrasso
+#Robotics #...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047728086423085209</link>
+      <guid isPermaLink="false">2047728086423085209</guid>
+      <pubDate>Fri, 24 Apr 2026 17:23:15 +0000</pubDate>
+      <description><![CDATA[Bird-Inspired Flight #Robot Mimics Nature for Advanced Aerial Mobility
+via @ZappyZappy7
 
-#MedTech #HealthTech #Tech #TechForGood https://t.co/aZZRBTEayE
+#Robotics #AI #EmergingTech #Innovation #Technology https://t.co/l0ruYMpq2U
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 47]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 63]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: #LLM vs. RAG vs. #AIAgent vs. MCP
-by @Python_Dv
-  
-#GenerativeAI #ArtificialInte...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047718965825151261</link>
-      <guid isPermaLink="false">2047718965825151261</guid>
-      <pubDate>Fri, 24 Apr 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #LLM vs. RAG vs. #AIAgent vs. MCP
-by @Python_Dv
-  
-#GenerativeAI #ArtificialIntelligence #MachineLearning #ML https://t…
+      <title>Tool Attention Is All You Need</title>
+      <link>https://x.com/dair_ai/status/2047727071879668066</link>
+      <guid isPermaLink="false">2047727071879668066</guid>
+      <pubDate>Fri, 24 Apr 2026 17:19:13 +0000</pubDate>
+      <description><![CDATA[Tool Attention Is All You Need
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@dair_ai | ❤️ 6 | 🔁 0 | 💬 0 | 👁 431]]></description>
+      <author>@dair_ai</author>
     </item>
     <item>
-      <title>The task of a radiologist was to read scans. The purpose was to diagnose disease.
-
-When AI handles t...</title>
-      <link>https://x.com/nvidia/status/2047718945059156440</link>
-      <guid isPermaLink="false">2047718945059156440</guid>
-      <pubDate>Fri, 24 Apr 2026 16:46:55 +0000</pubDate>
-      <description><![CDATA[The task of a radiologist was to read scans. The purpose was to diagnose disease.
-
-When AI handles the task, the purpose doesn’t shrink. It grows.
-
-Reflecting on CEO Jensen Huang’s insights at #AdobeSummit regarding the task vs. purpose of work in the agentic era. https://t.co/5XxyV9lVEp
+      <title>https://t.co/2kDQIRmnjq</title>
+      <link>https://x.com/tunguz/status/2047727014866526714</link>
+      <guid isPermaLink="false">2047727014866526714</guid>
+      <pubDate>Fri, 24 Apr 2026 17:18:59 +0000</pubDate>
+      <description><![CDATA[https://t.co/2kDQIRmnjq
 
 ---
-@nvidia | ❤️ 24 | 🔁 6 | 💬 19 | 👁 3322]]></description>
-      <author>@nvidia</author>
+@tunguz | ❤️ 7 | 🔁 1 | 💬 0 | 👁 339]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>Pay them more</title>
-      <link>https://x.com/nickbaumann_/status/2047716305034498303</link>
-      <guid isPermaLink="false">2047716305034498303</guid>
-      <pubDate>Fri, 24 Apr 2026 16:36:26 +0000</pubDate>
-      <description><![CDATA[Pay them more
+      <title>Trigger Routines whenever a GitHub Issue is created. Great for auto-triage usecases.
+
+Get started at...</title>
+      <link>https://x.com/noahzweben/status/2047726586536091952</link>
+      <guid isPermaLink="false">2047726586536091952</guid>
+      <pubDate>Fri, 24 Apr 2026 17:17:17 +0000</pubDate>
+      <description><![CDATA[Trigger Routines whenever a GitHub Issue is created. Great for auto-triage usecases.
+
+Get started at https://t.co/QIDgEAJrRG https://t.co/50kGEYOSQ7
 
 ---
-@nickbaumann_ | ❤️ 3 | 🔁 0 | 💬 1 | 👁 256]]></description>
+@noahzweben | ❤️ 11 | 🔁 0 | 💬 0 | 👁 487]]></description>
+      <author>@noahzweben</author>
+    </item>
+    <item>
+      <title>RT @nicochristie: We have been testing GPT 5.5 on the hardest spreadsheet tasks in the world (100k-1...</title>
+      <link>https://x.com/nickbaumann_/status/2047725489595535465</link>
+      <guid isPermaLink="false">2047725489595535465</guid>
+      <pubDate>Fri, 24 Apr 2026 17:12:56 +0000</pubDate>
+      <description><![CDATA[RT @nicochristie: We have been testing GPT 5.5 on the hardest spreadsheet tasks in the world (100k-1M+ cell complex models).
+
+It is the Par…
+
+---
+@nickbaumann_ | ❤️ 0 | 🔁 68 | 💬 0 | 👁 0]]></description>
       <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>封面图 Skill：baoyu-cover-image
-内容插图 Skill：baoyu-article-illustrator （hand-drawn-edu）
-Agent：Codex
-画图模型：G...</title>
-      <link>https://x.com/dotey/status/2047715754892509634</link>
-      <guid isPermaLink="false">2047715754892509634</guid>
-      <pubDate>Fri, 24 Apr 2026 16:34:15 +0000</pubDate>
-      <description><![CDATA[封面图 Skill：baoyu-cover-image
-内容插图 Skill：baoyu-article-illustrator （hand-drawn-edu）
-Agent：Codex
-画图模型：GPT-Image-2
-
-https://t.co/YZtwkjcgME
+      <title>今天集中做了 wanman 的移动端适配，图片是我在手机上要求 wanman 接管我的一个开源项目并自动进行开发的过程。可以看到它指派了 3 个开发工程师进行工作，另外，这个版本也支持查看已授权的 A...</title>
+      <link>https://x.com/turingou/status/2047724736323695003</link>
+      <guid isPermaLink="false">2047724736323695003</guid>
+      <pubDate>Fri, 24 Apr 2026 17:09:56 +0000</pubDate>
+      <description><![CDATA[今天集中做了 wanman 的移动端适配，图片是我在手机上要求 wanman 接管我的一个开源项目并自动进行开发的过程。可以看到它指派了 3 个开发工程师进行工作，另外，这个版本也支持查看已授权的 AI 提供商模型的使用额度。wanman 会自动判断额度是否可用，并 7*24 小时持续自动运行。 https://t.co/0FBLN8HCTr
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 720]]></description>
+@turingou | ❤️ 11 | 🔁 0 | 💬 1 | 👁 1024]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>提示词：
+
+帮我画一张信息图：
+@牛叔
+ 闺女说AI 时代英语老师也有办法，他布置一个大作文，分成三次交，第一部分是你收集的素材或者研究材料摘要，第二部分交写作提纲，第三部分交正式作文。你以为完事了？...</title>
+      <link>https://x.com/dotey/status/2047723797424353505</link>
+      <guid isPermaLink="false">2047723797424353505</guid>
+      <pubDate>Fri, 24 Apr 2026 17:06:12 +0000</pubDate>
+      <description><![CDATA[提示词：
+
+帮我画一张信息图：
+@牛叔
+ 闺女说AI 时代英语老师也有办法，他布置一个大作文，分成三次交，第一部分是你收集的素材或者研究材料摘要，第二部分交写作提纲，第三部分交正式作文。你以为完事了？不，最后课上讲评，要求每个人上台介绍自己选题过程，研究素材过程，写作论证过程和心得。这谁借助了AI 老师基本上一目了然[哈哈][哈哈]
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 758]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>RT @nityeshaga: gpt-image-2 model is a step change in humanity's ability to communicate visually. 
+      <title>推荐 codex + baoyu-infographic skill 画信息图，效果真的还不错
 
-...</title>
-      <link>https://x.com/danshipper/status/2047715642657096059</link>
-      <guid isPermaLink="false">2047715642657096059</guid>
-      <pubDate>Fri, 24 Apr 2026 16:33:48 +0000</pubDate>
-      <description><![CDATA[RT @nityeshaga: gpt-image-2 model is a step change in humanity's ability to communicate visually. 
+https://t.co/oV3WUUY2lD https://t.co/2uOv1gkmBl</title>
+      <link>https://x.com/dotey/status/2047723795469725710</link>
+      <guid isPermaLink="false">2047723795469725710</guid>
+      <pubDate>Fri, 24 Apr 2026 17:06:12 +0000</pubDate>
+      <description><![CDATA[推荐 codex + baoyu-infographic skill 画信息图，效果真的还不错
 
-i had our claude code agent (Claudie) d…
+https://t.co/oV3WUUY2lD https://t.co/2uOv1gkmBl
 
 ---
-@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
+@dotey | ❤️ 17 | 🔁 2 | 💬 2 | 👁 1378]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>btw the hot skills of today become 
-the posttrain targets of tomorrow</title>
-      <link>https://x.com/swyx/status/2047715417867907539</link>
-      <guid isPermaLink="false">2047715417867907539</guid>
-      <pubDate>Fri, 24 Apr 2026 16:32:54 +0000</pubDate>
-      <description><![CDATA[btw the hot skills of today become 
-the posttrain targets of tomorrow
+      <title>RT @ollama: deepseek-v4-flash is now available on Ollama's cloud! Hosted in the US. 
+
+Try it with Cl...</title>
+      <link>https://x.com/ollama/status/2047722752191451322</link>
+      <guid isPermaLink="false">2047722752191451322</guid>
+      <pubDate>Fri, 24 Apr 2026 17:02:03 +0000</pubDate>
+      <description><![CDATA[RT @ollama: deepseek-v4-flash is now available on Ollama's cloud! Hosted in the US. 
+
+Try it with Claude Code: 
+ollama launch claude --mode…
 
 ---
-@swyx | ❤️ 1 | 🔁 0 | 💬 1 | 👁 751]]></description>
-      <author>@swyx</author>
+@ollama | ❤️ 0 | 🔁 89 | 💬 0 | 👁 0]]></description>
+      <author>@ollama</author>
     </item>
   </channel>
 </rss>
