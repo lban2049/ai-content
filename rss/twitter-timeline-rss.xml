@@ -5,183 +5,116 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 22:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 23:00:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Many are saying this.</title>
-      <link>https://x.com/tunguz/status/2047804660505886974</link>
-      <guid isPermaLink="false">2047804660505886974</guid>
-      <pubDate>Fri, 24 Apr 2026 22:27:32 +0000</pubDate>
-      <description><![CDATA[Many are saying this.
+      <title>RT @MIT_CSAIL: How do top reasoning models become overconfident?
+
+MIT found that RL rewards correct ...</title>
+      <link>https://x.com/MIT_CSAIL/status/2047812960572047484</link>
+      <guid isPermaLink="false">2047812960572047484</guid>
+      <pubDate>Fri, 24 Apr 2026 23:00:30 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: How do top reasoning models become overconfident?
+
+MIT found that RL rewards correct answers w/o considering how sure the mo…
 
 ---
-@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 181]]></description>
+@MIT_CSAIL | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
+    </item>
+    <item>
+      <title>RT @MIT_CSAIL: This week, MIT CSAIL will join other top ML researchers at ICLR to tackle a shift in ...</title>
+      <link>https://x.com/MIT_CSAIL/status/2047812947624255488</link>
+      <guid isPermaLink="false">2047812947624255488</guid>
+      <pubDate>Fri, 24 Apr 2026 23:00:27 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: This week, MIT CSAIL will join other top ML researchers at ICLR to tackle a shift in focus from more powerful AI to more rel…
+
+---
+@MIT_CSAIL | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
+    </item>
+    <item>
+      <title>RT @stevenbjohnson: Major new feature for @NotebookLM power users: in the tradition of Mind Maps, No...</title>
+      <link>https://x.com/joshwoodward/status/2047812054124540360</link>
+      <guid isPermaLink="false">2047812054124540360</guid>
+      <pubDate>Fri, 24 Apr 2026 22:56:54 +0000</pubDate>
+      <description><![CDATA[RT @stevenbjohnson: Major new feature for @NotebookLM power users: in the tradition of Mind Maps, Notebook can now auto-label your sources,…
+
+---
+@joshwoodward | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@joshwoodward</author>
+    </item>
+    <item>
+      <title>RT @mgonto: The last week OpenClaw has been A LOT more stable. Gateway restarts work and I don't nee...</title>
+      <link>https://x.com/steipete/status/2047810912526950603</link>
+      <guid isPermaLink="false">2047810912526950603</guid>
+      <pubDate>Fri, 24 Apr 2026 22:52:22 +0000</pubDate>
+      <description><![CDATA[RT @mgonto: The last week OpenClaw has been A LOT more stable. Gateway restarts work and I don't need to go to the VPS.
+
+Also GPT 5.5 is a…
+
+---
+@steipete | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @p0: We built a completely free CLI agent with @badlogicgames's Pi agent, @ollama (Gemma 4), and ...</title>
+      <link>https://x.com/ollama/status/2047809976148824503</link>
+      <guid isPermaLink="false">2047809976148824503</guid>
+      <pubDate>Fri, 24 Apr 2026 22:48:39 +0000</pubDate>
+      <description><![CDATA[RT @p0: We built a completely free CLI agent with @badlogicgames's Pi agent, @ollama (Gemma 4), and Parallel's new free web search MCP.
+
+Ch…
+
+---
+@ollama | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>RT @paraga: pi + @ollama + gemma4 + @p0 - each very useful individually, but so much better when com...</title>
+      <link>https://x.com/ollama/status/2047809929462075860</link>
+      <guid isPermaLink="false">2047809929462075860</guid>
+      <pubDate>Fri, 24 Apr 2026 22:48:28 +0000</pubDate>
+      <description><![CDATA[RT @paraga: pi + @ollama + gemma4 + @p0 - each very useful individually, but so much better when composed together!
+
+---
+@ollama | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@ollama</author>
+    </item>
+    <item>
+      <title>Exactly right.</title>
+      <link>https://x.com/tunguz/status/2047809070158012649</link>
+      <guid isPermaLink="false">2047809070158012649</guid>
+      <pubDate>Fri, 24 Apr 2026 22:45:03 +0000</pubDate>
+      <description><![CDATA[Exactly right.
+
+---
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 457]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>GPT Image 2 Prompt:
-symmetrical design featuring two elegant blue peacocks with detailed feather pat...</title>
-      <link>https://x.com/dotey/status/2047803054422901046</link>
-      <guid isPermaLink="false">2047803054422901046</guid>
-      <pubDate>Fri, 24 Apr 2026 22:21:09 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt:
-symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
+      <title>GPT Image 2 Prompt：
+传统工笔重彩风格，湖畔园林亭台。枝头牡丹盛开，画面中一对鸳鸯栖息在横向伸展的牡丹枝干上，姿态亲昵，羽毛层次细腻、色彩典雅，呈现精致的工笔勾线与淡彩晕染效果。宣纸...</title>
+      <link>https://x.com/dotey/status/2047807925519814947</link>
+      <guid isPermaLink="false">2047807925519814947</guid>
+      <pubDate>Fri, 24 Apr 2026 22:40:30 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt：
+传统工笔重彩风格，湖畔园林亭台。枝头牡丹盛开，画面中一对鸳鸯栖息在横向伸展的牡丹枝干上，姿态亲昵，羽毛层次细腻、色彩典雅，呈现精致的工笔勾线与淡彩晕染效果。宣纸质感背景，构图呈现典雅的花鸟情趣。--ar 3:2 https://t.co/xa7NzAngzV
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 200]]></description>
+@dotey | ❤️ 10 | 🔁 0 | 💬 0 | 👁 574]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>Our teams have been busyyy! Here are some key updates from the past week: 
-
-— @GoogleCloud unveiled ...</title>
-      <link>https://x.com/GoogleAI/status/2047802944188269023</link>
-      <guid isPermaLink="false">2047802944188269023</guid>
-      <pubDate>Fri, 24 Apr 2026 22:20:42 +0000</pubDate>
-      <description><![CDATA[Our teams have been busyyy! Here are some key updates from the past week: 
-
-— @GoogleCloud unveiled a suite of AI innovations at our Cloud Next event, including our eighth generation TPUs (TPUt for inference + TPUi for reasoning), Gemini Enterprise Agent Platform, Agentic Data cloud, Workspace Intelligence, and beyond
-
-— Gemini Embedding 2, our natively multimodal embedding model, became generally available via the Gemini API and in Gemini Enterprise Agent Platform (the evolution of Vertex AI)
-
-— @StitchbyGoogle open-sourced the draft specification for DESIGN.md, so it can be used across any single tool or platform
-
-— New autonomous search agents, Deep Research and Deep Research Max, launched to bring MCP support, native visualizations, and unprecedented analytical quality to research workflows across the web or custom sources
-
-— Google AI Pro and Ultra subscribers now get increased usage limits and access to Nano Banana Pro and Gemini Pro models in @GoogleAIStudio
-
-— @GoogleDeepMind introduced Decoupled DiLoCo, our new resilient and flexible way to train advanced AI models across multiple data centers
+      <title>From the main stage to the demos on the showroom floor, take a peek behind the scenes with us at #Go...</title>
+      <link>https://x.com/Google/status/2047806511326326955</link>
+      <guid isPermaLink="false">2047806511326326955</guid>
+      <pubDate>Fri, 24 Apr 2026 22:34:53 +0000</pubDate>
+      <description><![CDATA[From the main stage to the demos on the showroom floor, take a peek behind the scenes with us at #GoogleCloudNext '26 ⬇️ https://t.co/gkdsJMrN4Q
 
 ---
-@GoogleAI | ❤️ 33 | 🔁 4 | 💬 3 | 👁 1869]]></description>
-      <author>@GoogleAI</author>
-    </item>
-    <item>
-      <title>Rochu: Soft #Robotic Gripper That Gently Handles and Separates Delicate Fabric Layers
-via @WevolverA...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047801815173857510</link>
-      <guid isPermaLink="false">2047801815173857510</guid>
-      <pubDate>Fri, 24 Apr 2026 22:16:13 +0000</pubDate>
-      <description><![CDATA[Rochu: Soft #Robotic Gripper That Gently Handles and Separates Delicate Fabric Layers
-via @WevolverApp
-
-#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/bjiGCg4s70
-
----
-@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 1 | 👁 114]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>I just ordered my new @nvidia merch. https://t.co/mxpouGrOzk</title>
-      <link>https://x.com/tunguz/status/2047801376961421558</link>
-      <guid isPermaLink="false">2047801376961421558</guid>
-      <pubDate>Fri, 24 Apr 2026 22:14:29 +0000</pubDate>
-      <description><![CDATA[I just ordered my new @nvidia merch. https://t.co/mxpouGrOzk
-
----
-@tunguz | ❤️ 9 | 🔁 0 | 💬 3 | 👁 442]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @amasad: Import your Vercel or Lovable apps to Replit with a few clicks:</title>
-      <link>https://x.com/amasad/status/2047800996043321778</link>
-      <guid isPermaLink="false">2047800996043321778</guid>
-      <pubDate>Fri, 24 Apr 2026 22:12:58 +0000</pubDate>
-      <description><![CDATA[RT @amasad: Import your Vercel or Lovable apps to Replit with a few clicks:
-
----
-@amasad | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: #SupplyChain Under Geopolitical Preasure
-by @antgrasso
-
-#DigitalTransformation #...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047800755747189073</link>
-      <guid isPermaLink="false">2047800755747189073</guid>
-      <pubDate>Fri, 24 Apr 2026 22:12:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #SupplyChain Under Geopolitical Preasure
-by @antgrasso
-
-#DigitalTransformation #Logistics #Innovation https://t.co/CxXI…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>@googlecloud 🔗 https://t.co/TLeurAlip7</title>
-      <link>https://x.com/nvidia/status/2047800211540447274</link>
-      <guid isPermaLink="false">2047800211540447274</guid>
-      <pubDate>Fri, 24 Apr 2026 22:09:51 +0000</pubDate>
-      <description><![CDATA[@googlecloud 🔗 https://t.co/TLeurAlip7
-
----
-@nvidia | ❤️ 10 | 🔁 1 | 💬 12 | 👁 2530]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>What a week at #GoogleCloudNext in Las Vegas ✨
-
-From sessions to showfloor demos to networking event...</title>
-      <link>https://x.com/nvidia/status/2047800209468518851</link>
-      <guid isPermaLink="false">2047800209468518851</guid>
-      <pubDate>Fri, 24 Apr 2026 22:09:50 +0000</pubDate>
-      <description><![CDATA[What a week at #GoogleCloudNext in Las Vegas ✨
-
-From sessions to showfloor demos to networking events, we were excited to partner with @GoogleCloud to advance how the AI ecosystem can build, deploy, and innovate in the cloud.
-
-Looking forward to working together to advance AI agents, physical AI, and beyond.
-
----
-@nvidia | ❤️ 19 | 🔁 4 | 💬 3 | 👁 3566]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>Labnana 的用户对 GPT Images 2 并不满意，在人物审美方面，目前最强的 依然是 Banana Pro
-
-这是一个神奇的网站，晚上的时候用户的IP是埃及和摩洛哥
-
-没有一分钱推广预算，...</title>
-      <link>https://x.com/oran_ge/status/2047799270032765338</link>
-      <guid isPermaLink="false">2047799270032765338</guid>
-      <pubDate>Fri, 24 Apr 2026 22:06:06 +0000</pubDate>
-      <description><![CDATA[Labnana 的用户对 GPT Images 2 并不满意，在人物审美方面，目前最强的 依然是 Banana Pro
-
-这是一个神奇的网站，晚上的时候用户的IP是埃及和摩洛哥
-
-没有一分钱推广预算，但是在全世界蔓延
-
----
-@oran_ge | ❤️ 3 | 🔁 0 | 💬 0 | 👁 701]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>RT @SenSanders: Uncontrolled AI poses a severe danger to all of humanity.
-
-On Wednesday, I'll be hos...</title>
-      <link>https://x.com/ESYudkowsky/status/2047798536910356920</link>
-      <guid isPermaLink="false">2047798536910356920</guid>
-      <pubDate>Fri, 24 Apr 2026 22:03:12 +0000</pubDate>
-      <description><![CDATA[RT @SenSanders: Uncontrolled AI poses a severe danger to all of humanity.
-
-On Wednesday, I'll be hosting a discussion with leading AI scien…
-
----
-@ESYudkowsky | ❤️ 0 | 🔁 262 | 💬 0 | 👁 0]]></description>
-      <author>@ESYudkowsky</author>
-    </item>
-    <item>
-      <title>RT @bgurley: I think everyone in marketing/PR at an AI company (&amp;amp; especially at large model ...</title>
-      <link>https://x.com/lennysan/status/2047798517289414680</link>
-      <guid isPermaLink="false">2047798517289414680</guid>
-      <pubDate>Fri, 24 Apr 2026 22:03:07 +0000</pubDate>
-      <description><![CDATA[RT @bgurley: I think everyone in marketing/PR at an AI company (&amp;amp; especially at large model companies) should watch this short piece of adv…
-
----
-@lennysan | ❤️ 0 | 🔁 77 | 💬 0 | 👁 0]]></description>
-      <author>@lennysan</author>
+@Google | ❤️ 41 | 🔁 5 | 💬 7 | 👁 7873]]></description>
+      <author>@Google</author>
     </item>
   </channel>
 </rss>
