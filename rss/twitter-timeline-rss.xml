@@ -5,124 +5,93 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:00:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>My biggest takeaways from Claude Code's Head of Product @_catwu:
+      <title>GPT image 2 可以让你上报纸了
+我大学的时候是新闻报主编
+自己的照片倒是第一次上头版😆
 
-1. Anthropic’s product development...</title>
-      <link>https://x.com/lennysan/status/2047669259380383955</link>
-      <guid isPermaLink="false">2047669259380383955</guid>
-      <pubDate>Fri, 24 Apr 2026 13:29:29 +0000</pubDate>
-      <description><![CDATA[My biggest takeaways from Claude Code's Head of Product @_catwu:
+提示词：生成一张xx报纸，根据这张照片可以编一个头版头条标题，像真实的摄影，复古质感 https:/...</title>
+      <link>https://x.com/stark_nico99/status/2047675003823616001</link>
+      <guid isPermaLink="false">2047675003823616001</guid>
+      <pubDate>Fri, 24 Apr 2026 13:52:19 +0000</pubDate>
+      <description><![CDATA[GPT image 2 可以让你上报纸了
+我大学的时候是新闻报主编
+自己的照片倒是第一次上头版😆
 
-1. Anthropic’s product development timelines have gone from six months to one month, sometimes one week, sometimes one day. Part of this acceleration is access to the latest models (i.e. Mythos). Another is shipping new products into “research preview,” making clear it's early, experimental, and might not be supported forever. Another is an evergreen &quot;launch room &quot;where engineers post ready features and marketing turns around announcements the next day.
-
-2. The PM role is shifting from coordinating multi-month roadmaps to enabling teams to ship daily. As Cat puts it, “There should be less emphasis on making sure you are aligning your multi-quarter roadmaps with your partner teams and more emphasis on, OK, how can we figure out the fastest way to get something out the door?”
-
-3. The most efficient shipping unit is an engineer with great product taste. On Cat’s team, many engineers go end-to-end—from seeing user feedback on Twitter to shipping a product by the end of the week—without a PM involved. Also, almost all the PMs on the Claude Code team have either been engineers or ship code themselves, and the designers have been front-end engineers. The roles are merging, and the most valuable skill is product taste, not job title.
-
-4. Build products that are on the edge of working. Claude Code’s code review product failed multiple times because earlier models weren’t accurate enough. But because the prototype was already built, they could swap in Opus 4.5 and 4.6 and immediately test whether the gap was closed. Teams that wait for the model to be ready will always be a cycle behind.
-
-5. The most underrated skill for building AI products is asking the model to introspect on its own mistakes. Cat regularly asks the model why it made an unexpected decision. The model will explain that something in the system prompt was confusing, or that it delegated verification to a subagent that didn’t check its work. This reveals what misled the model so the team can fix the harness.
-
-6. Every model release forces their team to revisit existing products and audit their system prompt to remove features the model no longer needs. Claude Code’s to-do list was a crutch for earlier models that couldn’t track their own work. With Opus 4, the model handles it natively. Features built as scaffolding for weaker models become debt when the model catches up—so the team actively strips them.
-
-7. Anthropic employees build custom internal tools instead of buying SaaS products. A sales team member built a web app that pulls from Salesforce, Gong, and call notes to auto-customize pitch decks—work that used to take 20 to 30 minutes now takes seconds. Their core stack is Claude Code, Cowork, and Slack. No Notion, no Linear, no Figma.
-
-8. People underestimate how much Claude’s personality contributes to its success. As Cat describes it, “When you reflect on everyone you’ve worked with, there’s just some people where you’re like, I really like their energy, their vibe.” Claude is designed to be low-ego, positive, competent, and earnest—qualities that make it feel like a great coworker, not just a tool. This isn’t cosmetic; it’s what makes people want to use Claude for hours every day. The team has a dedicated person, Amanda, who “molds Claude’s character,” and it’s one of the hardest roles at the company because success is so subjective.
-
-9. The future of work is managing fleets of AI agents, not doing the work yourself. Cat sees a clear progression: first, individual tasks become successful. Then people start running multiple tasks at the same time (multi-Clauding). Next, people will run 50 or 100 tasks simultaneously, which will require new infrastructure—remote execution, better interfaces for managing tasks, agents that fully verify their work, and self-improving systems that incorporate feedback. The human role shifts from doing the work to knowing which tasks to look into, verifying outputs, and giving feedback that makes the system better over time.
-
-10. Hire people who lean into chaos and face every challenge with a smile. At Anthropic, there are weeks when a P0 on Sunday becomes a P00 by Monday and a P000 by Monday afternoon. If you get too stressed about any one thing, you’ll burn out. Their team looks for people who can look at a hard challenge and say, “Wow, that’s gonna be hard. But I’m excited to tackle it and I’m gonna do the best that I possibly can.” This mindset—optimism, resilience, and comfort with constant change—is increasingly essential as the pace of AI development accelerates.
-
-Don't miss the full conversation: https://t.co/1wOUHcdYQN
+提示词：生成一张xx报纸，根据这张照片可以编一个头版头条标题，像真实的摄影，复古质感 https://t.co/EWyNA7ojWk
 
 ---
-@lennysan | ❤️ 0 | 🔁 0 | 💬 1 | 👁 238]]></description>
-      <author>@lennysan</author>
+@stark_nico99 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 66]]></description>
+      <author>@stark_nico99</author>
     </item>
     <item>
-      <title>It’s the lowest percentage that they ever will be. In the future all economy will be AI economy.</title>
-      <link>https://x.com/tunguz/status/2047668957537058990</link>
-      <guid isPermaLink="false">2047668957537058990</guid>
-      <pubDate>Fri, 24 Apr 2026 13:28:17 +0000</pubDate>
-      <description><![CDATA[It’s the lowest percentage that they ever will be. In the future all economy will be AI economy.
+      <title>Cathedrals. Everywhere.</title>
+      <link>https://x.com/thenanyu/status/2047674913557803284</link>
+      <guid isPermaLink="false">2047674913557803284</guid>
+      <pubDate>Fri, 24 Apr 2026 13:51:58 +0000</pubDate>
+      <description><![CDATA[Cathedrals. Everywhere.
 
 ---
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 150]]></description>
-      <author>@tunguz</author>
+@thenanyu | ❤️ 4 | 🔁 0 | 💬 0 | 👁 86]]></description>
+      <author>@thenanyu</author>
     </item>
     <item>
-      <title>The Arxiv for the new Decoupled DiLoCo paper is now up: https://t.co/z6MwS6Z4Ms</title>
-      <link>https://x.com/JeffDean/status/2047665074471387456</link>
-      <guid isPermaLink="false">2047665074471387456</guid>
-      <pubDate>Fri, 24 Apr 2026 13:12:52 +0000</pubDate>
-      <description><![CDATA[The Arxiv for the new Decoupled DiLoCo paper is now up: https://t.co/z6MwS6Z4Ms
+      <title>generated in one shot with NotebookLM based on a book im reading
+
+holy fuckin shit https://t.co/xZTD...</title>
+      <link>https://x.com/danshipper/status/2047674383469093079</link>
+      <guid isPermaLink="false">2047674383469093079</guid>
+      <pubDate>Fri, 24 Apr 2026 13:49:51 +0000</pubDate>
+      <description><![CDATA[generated in one shot with NotebookLM based on a book im reading
+
+holy fuckin shit https://t.co/xZTDmaIk3T
 
 ---
-@JeffDean | ❤️ 16 | 🔁 0 | 💬 1 | 👁 1366]]></description>
-      <author>@JeffDean</author>
+@danshipper | ❤️ 10 | 🔁 0 | 💬 3 | 👁 517]]></description>
+      <author>@danshipper</author>
     </item>
     <item>
-      <title>Low-Gravity Trials: Quadruped #Robot Pushes the Limits of Off-World Mobility
-via @ZappyZappy7
- 
-#Rob...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047664659247862081</link>
-      <guid isPermaLink="false">2047664659247862081</guid>
-      <pubDate>Fri, 24 Apr 2026 13:11:13 +0000</pubDate>
-      <description><![CDATA[Low-Gravity Trials: Quadruped #Robot Pushes the Limits of Off-World Mobility
-via @ZappyZappy7
- 
-#Robotics #MachineLearning #ArtificialIntelligence #ML https://t.co/4lOOnmg7Cb
+      <title>Want to use #AI to plan your retirement? Here’s how to proceed
+by Betsy Vereckey @MITSloan
+
+Learn mo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047673208921268638</link>
+      <guid isPermaLink="false">2047673208921268638</guid>
+      <pubDate>Fri, 24 Apr 2026 13:45:11 +0000</pubDate>
+      <description><![CDATA[Want to use #AI to plan your retirement? Here’s how to proceed
+by Betsy Vereckey @MITSloan
+
+Learn more: https://t.co/950iah57tk
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/NGJF9uqj4l
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 90]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 106]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>设计师现在可以自己造工具了，而且真的不需要会写代码。
-
-我最近做了一件让自己挺兴奋的事——为播客封面设计了一个等距键盘文字生成器。这个工具市面上根本找不到，但我只用了 Claude Code，把需求描...</title>
-      <link>https://x.com/bearliu/status/2047664366846145018</link>
-      <guid isPermaLink="false">2047664366846145018</guid>
-      <pubDate>Fri, 24 Apr 2026 13:10:03 +0000</pubDate>
-      <description><![CDATA[设计师现在可以自己造工具了，而且真的不需要会写代码。
-
-我最近做了一件让自己挺兴奋的事——为播客封面设计了一个等距键盘文字生成器。这个工具市面上根本找不到，但我只用了 Claude Code，把需求描述清楚，来回迭代几轮，就有了一个能用的版本。
-
-整个过程是这样的：在 Pinterest 找到一张参考图 → 把想要的效果描述给 AI → 开始迭代，哪里不对就调哪里 → 最终拿到一个完全符合需求的工具。
-
-以前我们只能等别人来造轮子，等软件公司出新功能，等插件作者更新。现在这个逻辑变了。你脑子里有个需求，就可以直接去实现它。
-
-这对设计师来说是真正的能力扩展，不是「AI 要取代设计师」那种焦虑叙事，而是你多了一双手，可以做以前做不到的事。
-
-我把整个过程录下来了，从找参考图到最后工具跑起来，完整流程都在视频里：
-https://t.co/JqvpHJ99Fn
-
-如果你也有一个「要是有这个工具就好了」的念头，现在可以认真想想怎么把它做出来。
+      <title>RT @ylecun: @ben_j_todd 1. I never said LLMs were not useful. They are, particularly with all the be...</title>
+      <link>https://x.com/ylecun/status/2047670455016841286</link>
+      <guid isPermaLink="false">2047670455016841286</guid>
+      <pubDate>Fri, 24 Apr 2026 13:34:15 +0000</pubDate>
+      <description><![CDATA[RT @ylecun: @ben_j_todd 1. I never said LLMs were not useful. They are, particularly with all the bells and whistles that are being added t…
 
 ---
-@bearliu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 263]]></description>
-      <author>@bearliu</author>
+@ylecun | ❤️ 0 | 🔁 187 | 💬 0 | 👁 1]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: DR02: The Humanoid #Robot That Thrives Where Humans Can’t
-by @DeepRobotics_CN
-
-#...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047663108731097340</link>
-      <guid isPermaLink="false">2047663108731097340</guid>
-      <pubDate>Fri, 24 Apr 2026 13:05:03 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: DR02: The Humanoid #Robot That Thrives Where Humans Can’t
-by @DeepRobotics_CN
-
-#Robotics #ArtificialIntelligence #Innov…
+      <title>We're approaching a post-prompting world.</title>
+      <link>https://x.com/adityaag/status/2047669585667666321</link>
+      <guid isPermaLink="false">2047669585667666321</guid>
+      <pubDate>Fri, 24 Apr 2026 13:30:47 +0000</pubDate>
+      <description><![CDATA[We're approaching a post-prompting world.
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@adityaag | ❤️ 8 | 🔁 0 | 💬 1 | 👁 1457]]></description>
+      <author>@adityaag</author>
     </item>
   </channel>
 </rss>
