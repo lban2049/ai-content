@@ -5,66 +5,60 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:31:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @larsencc: The #1 request lately: &quot;let me use my own API keys.&quot;
-
-Ok, done.
-
-Bring your ...</title>
-      <link>https://x.com/gregpr07/status/2047468854482469350</link>
-      <guid isPermaLink="false">2047468854482469350</guid>
-      <pubDate>Fri, 24 Apr 2026 00:13:09 +0000</pubDate>
-      <description><![CDATA[RT @larsencc: The #1 request lately: &quot;let me use my own API keys.&quot;
-
-Ok, done.
-
-Bring your LLMs to Browser Use:
-&amp;gt; Anthropic
-&amp;gt; OpenAI
-&amp;gt; Googl…
+      <title>RT @Ronald_vanLoon: #AI Today vs AI Coming in 2026
+by @Khulood_Almani
+ 
+#MachineLearning #Artificial...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047471838259802210</link>
+      <guid isPermaLink="false">2047471838259802210</guid>
+      <pubDate>Fri, 24 Apr 2026 00:25:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: #AI Today vs AI Coming in 2026
+by @Khulood_Almani
+ 
+#MachineLearning #ArtificialIntelligence #ML #MI https://t.co/ve2Id…
 
 ---
-@gregpr07 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@gregpr07</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @kieranklaassen: work with me  + other cool people!</title>
-      <link>https://x.com/danshipper/status/2047468060911571325</link>
-      <guid isPermaLink="false">2047468060911571325</guid>
-      <pubDate>Fri, 24 Apr 2026 00:10:00 +0000</pubDate>
-      <description><![CDATA[RT @kieranklaassen: work with me  + other cool people!
+      <title>我现在看网络上大热的 GPT Image 2.0 的图，已经有点看腻了。
+
+它们处理极繁主义没问题，但基本上就像&quot;民工大餐&quot;，什么都往里面加，最后一锅乱炖。
+
+当然，如果是用这种图...</title>
+      <link>https://x.com/bearliu/status/2047471838389768494</link>
+      <guid isPermaLink="false">2047471838389768494</guid>
+      <pubDate>Fri, 24 Apr 2026 00:25:01 +0000</pubDate>
+      <description><![CDATA[我现在看网络上大热的 GPT Image 2.0 的图，已经有点看腻了。
+
+它们处理极繁主义没问题，但基本上就像&quot;民工大餐&quot;，什么都往里面加，最后一锅乱炖。
+
+当然，如果是用这种图来造假，那简直了。
 
 ---
-@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
+@bearliu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 100]]></description>
+      <author>@bearliu</author>
     </item>
     <item>
-      <title>RT @BinanceVIP: The Binance Alpha 2.0 Liquidity Providers Program is live!
-
-Qualified LPs earn volum...</title>
-      <link>https://x.com/binance/status/2047465635798454479</link>
-      <guid isPermaLink="false">2047465635798454479</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:22 +0000</pubDate>
-      <description><![CDATA[RT @BinanceVIP: The Binance Alpha 2.0 Liquidity Providers Program is live!
-
-Qualified LPs earn volume-based rebates settled hourly in USDC,…
-
----
-@binance | ❤️ 0 | 🔁 6 | 💬 0 | 👁 2]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>wow the codex app is unrecognizable… almost like it shouldve been Atlas the whole time</title>
-      <link>https://x.com/swyx/status/2047461691580195310</link>
-      <guid isPermaLink="false">2047461691580195310</guid>
-      <pubDate>Thu, 23 Apr 2026 23:44:41 +0000</pubDate>
-      <description><![CDATA[wow the codex app is unrecognizable… almost like it shouldve been Atlas the whole time
+      <title>Self-Repairing, Self-Upgrading #Robots Developed at Columbia #Engineering
+by @tweetciiiim
+  
+#AI #Ro...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047470586192879900</link>
+      <guid isPermaLink="false">2047470586192879900</guid>
+      <pubDate>Fri, 24 Apr 2026 00:20:02 +0000</pubDate>
+      <description><![CDATA[Self-Repairing, Self-Upgrading #Robots Developed at Columbia #Engineering
+by @tweetciiiim
+  
+#AI #Robotics #MachineLearning #ArtificialIntelligence #ML https://t.co/3U07MjpYDv
 
 ---
-@swyx | ❤️ 3 | 🔁 0 | 💬 2 | 👁 673]]></description>
-      <author>@swyx</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 64]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
