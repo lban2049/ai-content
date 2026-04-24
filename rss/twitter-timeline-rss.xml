@@ -5,105 +5,44 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:01:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Teknium: Just merged a built-in skill for Google's DESIGN.md
-
-A skill that lets Hermes author, l...</title>
-      <link>https://x.com/NousResearch/status/2047563064191664630</link>
-      <guid isPermaLink="false">2047563064191664630</guid>
-      <pubDate>Fri, 24 Apr 2026 06:27:31 +0000</pubDate>
-      <description><![CDATA[RT @Teknium: Just merged a built-in skill for Google's DESIGN.md
-
-A skill that lets Hermes author, lint, diff, and export DESIGN.md files,…
+      <title>Cybercab</title>
+      <link>https://x.com/elonmusk/status/2047570667030323375</link>
+      <guid isPermaLink="false">2047570667030323375</guid>
+      <pubDate>Fri, 24 Apr 2026 06:57:43 +0000</pubDate>
+      <description><![CDATA[Cybercab
 
 ---
-@NousResearch | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
+@elonmusk | ❤️ 1218 | 🔁 147 | 💬 394 | 👁 66371]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @ShaneRobinett: Hermes Kanban Bridge v1.3.0
+      <title>Smart #Robotic Hand That Grips, Holds, and Organizes Multiple Objects with Innovative Design
+by @ama...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047570509047423430</link>
+      <guid isPermaLink="false">2047570509047423430</guid>
+      <pubDate>Fri, 24 Apr 2026 06:57:06 +0000</pubDate>
+      <description><![CDATA[Smart #Robotic Hand That Grips, Holds, and Organizes Multiple Objects with Innovative Design
+by @amazingthings_
 
-Your Obsidian vault is now a command center for AI-d...</title>
-      <link>https://x.com/NousResearch/status/2047562860889596233</link>
-      <guid isPermaLink="false">2047562860889596233</guid>
-      <pubDate>Fri, 24 Apr 2026 06:26:42 +0000</pubDate>
-      <description><![CDATA[RT @ShaneRobinett: Hermes Kanban Bridge v1.3.0
-
-Your Obsidian vault is now a command center for AI-driven project management.
-
-New in v1.3.…
+#AI #Robots #Engineering #Innovation #Technology https://t.co/C8zDdRzMGW
 
 ---
-@NousResearch | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>Spider-Man’s Jaw-Dropping Stunts Are Pulled Off by a #Robot
-by @lukas_m_ziegler
-
-#Robotics #Engineer...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047561984816624088</link>
-      <guid isPermaLink="false">2047561984816624088</guid>
-      <pubDate>Fri, 24 Apr 2026 06:23:13 +0000</pubDate>
-      <description><![CDATA[Spider-Man’s Jaw-Dropping Stunts Are Pulled Off by a #Robot
-by @lukas_m_ziegler
-
-#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/kHXDIDNy6F
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 53]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 21]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Important: it has been confirmed that ChatGPT Images 2.0 added the &quot;Why are you like this&quot;...</title>
-      <link>https://x.com/simonw/status/2047558606334337531</link>
-      <guid isPermaLink="false">2047558606334337531</guid>
-      <pubDate>Fri, 24 Apr 2026 06:09:48 +0000</pubDate>
-      <description><![CDATA[Important: it has been confirmed that ChatGPT Images 2.0 added the &quot;Why are you like this&quot; sign of its own accord https://t.co/1tqYLPXQUG
+      <title>@simonw Pelican was squeezed through a token straw for efficiency— I’d be angry too!</title>
+      <link>https://x.com/amasad/status/2047564175031890379</link>
+      <guid isPermaLink="false">2047564175031890379</guid>
+      <pubDate>Fri, 24 Apr 2026 06:31:55 +0000</pubDate>
+      <description><![CDATA[@simonw Pelican was squeezed through a token straw for efficiency— I’d be angry too!
 
 ---
-@simonw | ❤️ 9 | 🔁 0 | 💬 1 | 👁 1341]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>More of my notes on DeepSeek V4 - the really big news is the pricing: both DeepSeek-V4-Flash and Dee...</title>
-      <link>https://x.com/simonw/status/2047556978831208667</link>
-      <guid isPermaLink="false">2047556978831208667</guid>
-      <pubDate>Fri, 24 Apr 2026 06:03:20 +0000</pubDate>
-      <description><![CDATA[More of my notes on DeepSeek V4 - the really big news is the pricing: both DeepSeek-V4-Flash and DeepSeek-V4-Pro are the cheapest models in their categories while benchmarking close to the frontier models from other providers
-https://t.co/QQ2iFd4BDr https://t.co/0R0DFYYpSx
-
----
-@simonw | ❤️ 24 | 🔁 1 | 💬 1 | 👁 1625]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>Ask and be rewarded! 🙌
-
-Come #AskBinance and your question could get answered... 
-
-All you need to d...</title>
-      <link>https://x.com/binance/status/2047556643802718459</link>
-      <guid isPermaLink="false">2047556643802718459</guid>
-      <pubDate>Fri, 24 Apr 2026 06:02:00 +0000</pubDate>
-      <description><![CDATA[Ask and be rewarded! 🙌
-
-Come #AskBinance and your question could get answered... 
-
-All you need to do:
-1️⃣ Like + repost
-2️⃣ Comment with your question + #AskBinance hashtag
-3️⃣ Complete survey 👉 https://t.co/5IZ1B4I1kG   
-
-200 USDC will be given to each user whose question has been chosen. 
-
-Ends 26 Apr 23:59 UTC
-
----
-@binance | ❤️ 516 | 🔁 331 | 💬 346 | 👁 17891]]></description>
-      <author>@binance</author>
+@amasad | ❤️ 0 | 🔁 0 | 💬 3 | 👁 376]]></description>
+      <author>@amasad</author>
     </item>
   </channel>
 </rss>
