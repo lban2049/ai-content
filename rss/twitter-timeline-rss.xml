@@ -5,297 +5,183 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 22:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 22:30:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Any AI knows more than any individual human 
-
-But any individual human learns faster than any AI</title>
-      <link>https://x.com/danshipper/status/2047797874600161334</link>
-      <guid isPermaLink="false">2047797874600161334</guid>
-      <pubDate>Fri, 24 Apr 2026 22:00:34 +0000</pubDate>
-      <description><![CDATA[Any AI knows more than any individual human 
-
-But any individual human learns faster than any AI
+      <title>Many are saying this.</title>
+      <link>https://x.com/tunguz/status/2047804660505886974</link>
+      <guid isPermaLink="false">2047804660505886974</guid>
+      <pubDate>Fri, 24 Apr 2026 22:27:32 +0000</pubDate>
+      <description><![CDATA[Many are saying this.
 
 ---
-@danshipper | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 181]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>🛰️ discrawl 0.6.0 is out!
-
-Biggest new feature is that it can now *read* Discord DMs without any cus...</title>
-      <link>https://x.com/steipete/status/2047797210427859450</link>
-      <guid isPermaLink="false">2047797210427859450</guid>
-      <pubDate>Fri, 24 Apr 2026 21:57:55 +0000</pubDate>
-      <description><![CDATA[🛰️ discrawl 0.6.0 is out!
-
-Biggest new feature is that it can now *read* Discord DMs without any custom login tricks that might get you blocked. No writing since it's not nice to send humans slop. https://t.co/nxGZSlAYl0
+      <title>GPT Image 2 Prompt:
+symmetrical design featuring two elegant blue peacocks with detailed feather pat...</title>
+      <link>https://x.com/dotey/status/2047803054422901046</link>
+      <guid isPermaLink="false">2047803054422901046</guid>
+      <pubDate>Fri, 24 Apr 2026 22:21:09 +0000</pubDate>
+      <description><![CDATA[GPT Image 2 Prompt:
+symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
 
 ---
-@steipete | ❤️ 16 | 🔁 2 | 💬 4 | 👁 934]]></description>
-      <author>@steipete</author>
+@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 200]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>RT @badlogicgames: this is probably the most important piece of software of the decade next to vllm ...</title>
-      <link>https://x.com/jeremyphoward/status/2047797160138469378</link>
-      <guid isPermaLink="false">2047797160138469378</guid>
-      <pubDate>Fri, 24 Apr 2026 21:57:43 +0000</pubDate>
-      <description><![CDATA[RT @badlogicgames: this is probably the most important piece of software of the decade next to vllm and sglang.
+      <title>Our teams have been busyyy! Here are some key updates from the past week: 
 
-i'm not joking.
+— @GoogleCloud unveiled ...</title>
+      <link>https://x.com/GoogleAI/status/2047802944188269023</link>
+      <guid isPermaLink="false">2047802944188269023</guid>
+      <pubDate>Fri, 24 Apr 2026 22:20:42 +0000</pubDate>
+      <description><![CDATA[Our teams have been busyyy! Here are some key updates from the past week: 
+
+— @GoogleCloud unveiled a suite of AI innovations at our Cloud Next event, including our eighth generation TPUs (TPUt for inference + TPUi for reasoning), Gemini Enterprise Agent Platform, Agentic Data cloud, Workspace Intelligence, and beyond
+
+— Gemini Embedding 2, our natively multimodal embedding model, became generally available via the Gemini API and in Gemini Enterprise Agent Platform (the evolution of Vertex AI)
+
+— @StitchbyGoogle open-sourced the draft specification for DESIGN.md, so it can be used across any single tool or platform
+
+— New autonomous search agents, Deep Research and Deep Research Max, launched to bring MCP support, native visualizations, and unprecedented analytical quality to research workflows across the web or custom sources
+
+— Google AI Pro and Ultra subscribers now get increased usage limits and access to Nano Banana Pro and Gemini Pro models in @GoogleAIStudio
+
+— @GoogleDeepMind introduced Decoupled DiLoCo, our new resilient and flexible way to train advanced AI models across multiple data centers
 
 ---
-@jeremyphoward | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@jeremyphoward</author>
+@GoogleAI | ❤️ 33 | 🔁 4 | 💬 3 | 👁 1869]]></description>
+      <author>@GoogleAI</author>
     </item>
     <item>
-      <title>This is how your Friday night email finds me https://t.co/4dM13iKt26</title>
-      <link>https://x.com/mattturck/status/2047797155805401169</link>
-      <guid isPermaLink="false">2047797155805401169</guid>
-      <pubDate>Fri, 24 Apr 2026 21:57:42 +0000</pubDate>
-      <description><![CDATA[This is how your Friday night email finds me https://t.co/4dM13iKt26
+      <title>Rochu: Soft #Robotic Gripper That Gently Handles and Separates Delicate Fabric Layers
+via @WevolverA...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047801815173857510</link>
+      <guid isPermaLink="false">2047801815173857510</guid>
+      <pubDate>Fri, 24 Apr 2026 22:16:13 +0000</pubDate>
+      <description><![CDATA[Rochu: Soft #Robotic Gripper That Gently Handles and Separates Delicate Fabric Layers
+via @WevolverApp
+
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/bjiGCg4s70
 
 ---
-@mattturck | ❤️ 0 | 🔁 0 | 💬 0 | 👁 72]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>I love open source. You can provide so much value to the world.
-
-Do competitors steal our stuff imme...</title>
-      <link>https://x.com/gregpr07/status/2047796882257424666</link>
-      <guid isPermaLink="false">2047796882257424666</guid>
-      <pubDate>Fri, 24 Apr 2026 21:56:37 +0000</pubDate>
-      <description><![CDATA[I love open source. You can provide so much value to the world.
-
-Do competitors steal our stuff immediately? Yes
-Do I really care? No
-
-We raised 17M and burned almost nothing so we can keep doing this until everyone else runs out of money. https://t.co/tH31ocILsP
-
----
-@gregpr07 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 55]]></description>
-      <author>@gregpr07</author>
-    </item>
-    <item>
-      <title>RT @cb_doge: NEWS: Grok dominates real-world voice AI benchmarks 🔥
-
-τ-voice Bench 🥇
-
-• 🏆 #1 Overall ...</title>
-      <link>https://x.com/elonmusk/status/2047796763315286503</link>
-      <guid isPermaLink="false">2047796763315286503</guid>
-      <pubDate>Fri, 24 Apr 2026 21:56:09 +0000</pubDate>
-      <description><![CDATA[RT @cb_doge: NEWS: Grok dominates real-world voice AI benchmarks 🔥
-
-τ-voice Bench 🥇
-
-• 🏆 #1 Overall → 67.3%
-• 🏆 #1 Retail → 62.3%
-• 🏆 #1 Ai…
-
----
-@elonmusk | ❤️ 0 | 🔁 121 | 💬 0 | 👁 7]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Yup</title>
-      <link>https://x.com/elonmusk/status/2047796728439734318</link>
-      <guid isPermaLink="false">2047796728439734318</guid>
-      <pubDate>Fri, 24 Apr 2026 21:56:00 +0000</pubDate>
-      <description><![CDATA[Yup
-
----
-@elonmusk | ❤️ 1623 | 🔁 205 | 💬 263 | 👁 180067]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @art_zucker: Today I re-iterate: I hate MoEs and we are wasting time on them.... Let's unite and ...</title>
-      <link>https://x.com/jeremyphoward/status/2047796636974514384</link>
-      <guid isPermaLink="false">2047796636974514384</guid>
-      <pubDate>Fri, 24 Apr 2026 21:55:39 +0000</pubDate>
-      <description><![CDATA[RT @art_zucker: Today I re-iterate: I hate MoEs and we are wasting time on them.... Let's unite and call a global ban on MoEs please.
-
-Plea…
-
----
-@jeremyphoward | ❤️ 0 | 🔁 28 | 💬 0 | 👁 0]]></description>
-      <author>@jeremyphoward</author>
-    </item>
-    <item>
-      <title>RT @KatieMiller: Signal, WhatsApp, Telegram &amp;amp; iMessage all have serious security problems:
-
-...</title>
-      <link>https://x.com/elonmusk/status/2047796518720323929</link>
-      <guid isPermaLink="false">2047796518720323929</guid>
-      <pubDate>Fri, 24 Apr 2026 21:55:10 +0000</pubDate>
-      <description><![CDATA[RT @KatieMiller: Signal, WhatsApp, Telegram &amp;amp; iMessage all have serious security problems:
-
-&amp;gt; Signal makes it easy for hackers to steal you…
-
----
-@elonmusk | ❤️ 0 | 🔁 110 | 💬 0 | 👁 6]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @catherinewong: A podcast ep I slowed down and listened to at 1x speed because it was so fantasti...</title>
-      <link>https://x.com/lennysan/status/2047796224506650702</link>
-      <guid isPermaLink="false">2047796224506650702</guid>
-      <pubDate>Fri, 24 Apr 2026 21:54:00 +0000</pubDate>
-      <description><![CDATA[RT @catherinewong: A podcast ep I slowed down and listened to at 1x speed because it was so fantastic. @nikhyl drops truth, highly recommen…
-
----
-@lennysan | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@lennysan</author>
-    </item>
-    <item>
-      <title>RT @Teknium: GPT-5.5 and GPT-5.5 Pro are now available in Hermes Agent through the Nous Portal and O...</title>
-      <link>https://x.com/NousResearch/status/2047796015982424296</link>
-      <guid isPermaLink="false">2047796015982424296</guid>
-      <pubDate>Fri, 24 Apr 2026 21:53:11 +0000</pubDate>
-      <description><![CDATA[RT @Teknium: GPT-5.5 and GPT-5.5 Pro are now available in Hermes Agent through the Nous Portal and OpenRouter providers! 
-
-(alongside the d…
-
----
-@NousResearch | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>NotebookLM can now auto-label &amp;amp; categorize sources!</title>
-      <link>https://x.com/joshwoodward/status/2047795981534847413</link>
-      <guid isPermaLink="false">2047795981534847413</guid>
-      <pubDate>Fri, 24 Apr 2026 21:53:02 +0000</pubDate>
-      <description><![CDATA[NotebookLM can now auto-label &amp;amp; categorize sources!
-
----
-@joshwoodward | ❤️ 16 | 🔁 1 | 💬 3 | 👁 457]]></description>
-      <author>@joshwoodward</author>
-    </item>
-    <item>
-      <title>I remember their craven actions</title>
-      <link>https://x.com/elonmusk/status/2047795892993019909</link>
-      <guid isPermaLink="false">2047795892993019909</guid>
-      <pubDate>Fri, 24 Apr 2026 21:52:41 +0000</pubDate>
-      <description><![CDATA[I remember their craven actions
-
----
-@elonmusk | ❤️ 2773 | 🔁 495 | 💬 396 | 👁 175561]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @SawyerMerritt: Tesla started Cybercab production 18 months after this article lol https://t.co/Z...</title>
-      <link>https://x.com/elonmusk/status/2047795651791171997</link>
-      <guid isPermaLink="false">2047795651791171997</guid>
-      <pubDate>Fri, 24 Apr 2026 21:51:44 +0000</pubDate>
-      <description><![CDATA[RT @SawyerMerritt: Tesla started Cybercab production 18 months after this article lol https://t.co/Zt4KPiRivs
-
----
-@elonmusk | ❤️ 0 | 🔁 336 | 💬 0 | 👁 13]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>ColaOS 第一时间接入 DeepSeek V4
-新用户登录，立即赠送10美金
-每天早晨还可领取10美金（限量）
-GPT Images 2.0 免费使用（限时）
-waitlist 即将全部开放
-
-这...</title>
-      <link>https://x.com/oran_ge/status/2047795335167422583</link>
-      <guid isPermaLink="false">2047795335167422583</guid>
-      <pubDate>Fri, 24 Apr 2026 21:50:28 +0000</pubDate>
-      <description><![CDATA[ColaOS 第一时间接入 DeepSeek V4
-新用户登录，立即赠送10美金
-每天早晨还可领取10美金（限量）
-GPT Images 2.0 免费使用（限时）
-waitlist 即将全部开放
-
-这是我们五月的劳动成果
-欢迎大家体验
-
----
-@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 210]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>From Rescue to Combat: Kawasaki’s Kaleido 9 Pushes #Robotic Boundaries
-by @CyberRobooo
-
-#AI #Robots ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047795234071785852</link>
-      <guid isPermaLink="false">2047795234071785852</guid>
-      <pubDate>Fri, 24 Apr 2026 21:50:04 +0000</pubDate>
-      <description><![CDATA[From Rescue to Combat: Kawasaki’s Kaleido 9 Pushes #Robotic Boundaries
-by @CyberRobooo
-
-#AI #Robots #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/uHaKEZKIgC
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 78]]></description>
+@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 1 | 👁 114]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @socialwithaayan: SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.
-
-Drop raw footage → chat with...</title>
-      <link>https://x.com/gregpr07/status/2047794076221894895</link>
-      <guid isPermaLink="false">2047794076221894895</guid>
-      <pubDate>Fri, 24 Apr 2026 21:45:28 +0000</pubDate>
-      <description><![CDATA[RT @socialwithaayan: SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.
-
-Drop raw footage → chat with Claude Code → get pro-level final. mp4…
+      <title>I just ordered my new @nvidia merch. https://t.co/mxpouGrOzk</title>
+      <link>https://x.com/tunguz/status/2047801376961421558</link>
+      <guid isPermaLink="false">2047801376961421558</guid>
+      <pubDate>Fri, 24 Apr 2026 22:14:29 +0000</pubDate>
+      <description><![CDATA[I just ordered my new @nvidia merch. https://t.co/mxpouGrOzk
 
 ---
-@gregpr07 | ❤️ 0 | 🔁 40 | 💬 0 | 👁 0]]></description>
-      <author>@gregpr07</author>
+@tunguz | ❤️ 9 | 🔁 0 | 💬 3 | 👁 442]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @DynamicWebPaige: Listening to startups like @InstalilyAI, @UnslothAI, @splinetool, @ollama, and ...</title>
-      <link>https://x.com/ollama/status/2047793836102226054</link>
-      <guid isPermaLink="false">2047793836102226054</guid>
-      <pubDate>Fri, 24 Apr 2026 21:44:31 +0000</pubDate>
-      <description><![CDATA[RT @DynamicWebPaige: Listening to startups like @InstalilyAI, @UnslothAI, @splinetool, @ollama, and more talk about how they're using Gemin…
+      <title>RT @amasad: Import your Vercel or Lovable apps to Replit with a few clicks:</title>
+      <link>https://x.com/amasad/status/2047800996043321778</link>
+      <guid isPermaLink="false">2047800996043321778</guid>
+      <pubDate>Fri, 24 Apr 2026 22:12:58 +0000</pubDate>
+      <description><![CDATA[RT @amasad: Import your Vercel or Lovable apps to Replit with a few clicks:
 
 ---
-@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@ollama</author>
+@amasad | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>RT @googlecloud: Once a hacker gets into a system, it takes just 22 seconds to hand over control.
+      <title>RT @Ronald_vanLoon: #SupplyChain Under Geopolitical Preasure
+by @antgrasso
 
-A...</title>
-      <link>https://x.com/Google/status/2047792510106284519</link>
-      <guid isPermaLink="false">2047792510106284519</guid>
-      <pubDate>Fri, 24 Apr 2026 21:39:15 +0000</pubDate>
-      <description><![CDATA[RT @googlecloud: Once a hacker gets into a system, it takes just 22 seconds to hand over control.
+#DigitalTransformation #...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047800755747189073</link>
+      <guid isPermaLink="false">2047800755747189073</guid>
+      <pubDate>Fri, 24 Apr 2026 22:12:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: #SupplyChain Under Geopolitical Preasure
+by @antgrasso
 
-At #GoogleCloudNext, Francis deSouza's t…
+#DigitalTransformation #Logistics #Innovation https://t.co/CxXI…
 
 ---
-@Google | ❤️ 0 | 🔁 9 | 💬 0 | 👁 1]]></description>
-      <author>@Google</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @omarsar0: A nice paper worth checking out.
-
-(bookmark it)
-
-For a long time, we have had machines...</title>
-      <link>https://x.com/dair_ai/status/2047792448517116354</link>
-      <guid isPermaLink="false">2047792448517116354</guid>
-      <pubDate>Fri, 24 Apr 2026 21:39:00 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: A nice paper worth checking out.
-
-(bookmark it)
-
-For a long time, we have had machines that work astonishingly well before we…
+      <title>@googlecloud 🔗 https://t.co/TLeurAlip7</title>
+      <link>https://x.com/nvidia/status/2047800211540447274</link>
+      <guid isPermaLink="false">2047800211540447274</guid>
+      <pubDate>Fri, 24 Apr 2026 22:09:51 +0000</pubDate>
+      <description><![CDATA[@googlecloud 🔗 https://t.co/TLeurAlip7
 
 ---
-@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
+@nvidia | ❤️ 10 | 🔁 1 | 💬 12 | 👁 2530]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>What a week at #GoogleCloudNext in Las Vegas ✨
+
+From sessions to showfloor demos to networking event...</title>
+      <link>https://x.com/nvidia/status/2047800209468518851</link>
+      <guid isPermaLink="false">2047800209468518851</guid>
+      <pubDate>Fri, 24 Apr 2026 22:09:50 +0000</pubDate>
+      <description><![CDATA[What a week at #GoogleCloudNext in Las Vegas ✨
+
+From sessions to showfloor demos to networking events, we were excited to partner with @GoogleCloud to advance how the AI ecosystem can build, deploy, and innovate in the cloud.
+
+Looking forward to working together to advance AI agents, physical AI, and beyond.
+
+---
+@nvidia | ❤️ 19 | 🔁 4 | 💬 3 | 👁 3566]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>Labnana 的用户对 GPT Images 2 并不满意，在人物审美方面，目前最强的 依然是 Banana Pro
+
+这是一个神奇的网站，晚上的时候用户的IP是埃及和摩洛哥
+
+没有一分钱推广预算，...</title>
+      <link>https://x.com/oran_ge/status/2047799270032765338</link>
+      <guid isPermaLink="false">2047799270032765338</guid>
+      <pubDate>Fri, 24 Apr 2026 22:06:06 +0000</pubDate>
+      <description><![CDATA[Labnana 的用户对 GPT Images 2 并不满意，在人物审美方面，目前最强的 依然是 Banana Pro
+
+这是一个神奇的网站，晚上的时候用户的IP是埃及和摩洛哥
+
+没有一分钱推广预算，但是在全世界蔓延
+
+---
+@oran_ge | ❤️ 3 | 🔁 0 | 💬 0 | 👁 701]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>RT @SenSanders: Uncontrolled AI poses a severe danger to all of humanity.
+
+On Wednesday, I'll be hos...</title>
+      <link>https://x.com/ESYudkowsky/status/2047798536910356920</link>
+      <guid isPermaLink="false">2047798536910356920</guid>
+      <pubDate>Fri, 24 Apr 2026 22:03:12 +0000</pubDate>
+      <description><![CDATA[RT @SenSanders: Uncontrolled AI poses a severe danger to all of humanity.
+
+On Wednesday, I'll be hosting a discussion with leading AI scien…
+
+---
+@ESYudkowsky | ❤️ 0 | 🔁 262 | 💬 0 | 👁 0]]></description>
+      <author>@ESYudkowsky</author>
+    </item>
+    <item>
+      <title>RT @bgurley: I think everyone in marketing/PR at an AI company (&amp;amp; especially at large model ...</title>
+      <link>https://x.com/lennysan/status/2047798517289414680</link>
+      <guid isPermaLink="false">2047798517289414680</guid>
+      <pubDate>Fri, 24 Apr 2026 22:03:07 +0000</pubDate>
+      <description><![CDATA[RT @bgurley: I think everyone in marketing/PR at an AI company (&amp;amp; especially at large model companies) should watch this short piece of adv…
+
+---
+@lennysan | ❤️ 0 | 🔁 77 | 💬 0 | 👁 0]]></description>
+      <author>@lennysan</author>
     </item>
   </channel>
 </rss>
