@@ -5,153 +5,125 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:31:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sorry to anyone who thought AI would mean we’d work less (at least for now). AI makes it easy to exp...</title>
-      <link>https://x.com/levie/status/2047540230694350958</link>
-      <guid isPermaLink="false">2047540230694350958</guid>
-      <pubDate>Fri, 24 Apr 2026 04:56:47 +0000</pubDate>
-      <description><![CDATA[Sorry to anyone who thought AI would mean we’d work less (at least for now). AI makes it easy to explore more than you did before, and so you start doing far more as a result.
+      <title>DeepSeek V4 彻底解决了 Agent 最大的痛点：贵
 
-I regularly have seemingly small things that end up quickly consuming 3 hours because the agent made it easy to get started, but you still have to do the rest of the work to complete the project.
+V4 虽然涨价了，但性价比拉满，特别是 flash，简直不要钱，人人都能用起来了
 
-This is work that I wouldn’t previously have handed out to anyone else, it’s just stuff that never got done because it took too long to do fully manually. And, counterintuitively, for some of these tasks as AI gets good enough at doing them, it even becomes economically worth it to hire someone to do it on an ongoing basis with agents. But until you could try doing them at a low cost you would never have tried.
+ColaOS 的内测也终于可以进入下一阶段
+这两天...</title>
+      <link>https://x.com/oran_ge/status/2047548768825041131</link>
+      <guid isPermaLink="false">2047548768825041131</guid>
+      <pubDate>Fri, 24 Apr 2026 05:30:42 +0000</pubDate>
+      <description><![CDATA[DeepSeek V4 彻底解决了 Agent 最大的痛点：贵
 
-This is why AI won’t automatically reduce work in the way we imagine because work isn’t static. Most companies have far more they can do than they have today, it was just hard to get started on it all because of the natural constraints of time and labor availability.
+V4 虽然涨价了，但性价比拉满，特别是 flash，简直不要钱，人人都能用起来了
 
----
-@levie | ❤️ 9 | 🔁 0 | 💬 3 | 👁 660]]></description>
-      <author>@levie</author>
-    </item>
-    <item>
-      <title>Exhibit 237 on why Silicon Valley, the TV show, is a documentary..</title>
-      <link>https://x.com/nikunj/status/2047539976766931067</link>
-      <guid isPermaLink="false">2047539976766931067</guid>
-      <pubDate>Fri, 24 Apr 2026 04:55:46 +0000</pubDate>
-      <description><![CDATA[Exhibit 237 on why Silicon Valley, the TV show, is a documentary..
+ColaOS 的内测也终于可以进入下一阶段
+这两天会把 waitlist 全部放开
 
 ---
-@nikunj | ❤️ 0 | 🔁 0 | 💬 0 | 👁 56]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>RT @op7418: https://t.co/ip9kyn2Trk</title>
-      <link>https://x.com/dotey/status/2047539540814971229</link>
-      <guid isPermaLink="false">2047539540814971229</guid>
-      <pubDate>Fri, 24 Apr 2026 04:54:02 +0000</pubDate>
-      <description><![CDATA[RT @op7418: https://t.co/ip9kyn2Trk
-
----
-@dotey | ❤️ 0 | 🔁 102 | 💬 0 | 👁 0]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @ClementDelangue: Number 1 trending after 43 mins! https://t.co/GLpscQ9SHr</title>
-      <link>https://x.com/_akhaliq/status/2047539263881785372</link>
-      <guid isPermaLink="false">2047539263881785372</guid>
-      <pubDate>Fri, 24 Apr 2026 04:52:56 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: Number 1 trending after 43 mins! https://t.co/GLpscQ9SHr
-
----
-@_akhaliq | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>https://t.co/c53sSkOPTr</title>
-      <link>https://x.com/dotey/status/2047537778959778209</link>
-      <guid isPermaLink="false">2047537778959778209</guid>
-      <pubDate>Fri, 24 Apr 2026 04:47:02 +0000</pubDate>
-      <description><![CDATA[https://t.co/c53sSkOPTr
-
----
-@dotey | ❤️ 13 | 🔁 3 | 💬 2 | 👁 1773]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>Oh no</title>
-      <link>https://x.com/simonw/status/2047537022374666644</link>
-      <guid isPermaLink="false">2047537022374666644</guid>
-      <pubDate>Fri, 24 Apr 2026 04:44:02 +0000</pubDate>
-      <description><![CDATA[Oh no
-
----
-@simonw | ❤️ 23 | 🔁 1 | 💬 2 | 👁 1580]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>i think the most underated part of today's launch is not GPT 5.5 at all
-
-https://t.co/uwJtuJwgRx</title>
-      <link>https://x.com/swyx/status/2047536499999346812</link>
-      <guid isPermaLink="false">2047536499999346812</guid>
-      <pubDate>Fri, 24 Apr 2026 04:41:57 +0000</pubDate>
-      <description><![CDATA[i think the most underated part of today's launch is not GPT 5.5 at all
-
-https://t.co/uwJtuJwgRx
-
----
-@swyx | ❤️ 0 | 🔁 0 | 💬 3 | 👁 470]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>Let's go DeepSeek v4!!! 🚗🚀</title>
-      <link>https://x.com/ollama/status/2047535182669082746</link>
-      <guid isPermaLink="false">2047535182669082746</guid>
-      <pubDate>Fri, 24 Apr 2026 04:36:43 +0000</pubDate>
-      <description><![CDATA[Let's go DeepSeek v4!!! 🚗🚀
-
----
-@ollama | ❤️ 97 | 🔁 6 | 💬 2 | 👁 4558]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>RT @NiallStanage: “In the end, the Party would announce that two and two made five, and you would ha...</title>
-      <link>https://x.com/ylecun/status/2047535118420455608</link>
-      <guid isPermaLink="false">2047535118420455608</guid>
-      <pubDate>Fri, 24 Apr 2026 04:36:28 +0000</pubDate>
-      <description><![CDATA[RT @NiallStanage: “In the end, the Party would announce that two and two made five, and you would have to believe it.” — George Orwell, “19…
-
----
-@ylecun | ❤️ 0 | 🔁 1042 | 💬 0 | 👁 2]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>RT @ziv_ravid: I have mixed feelings about it.  All this great group of researchers, who are now lea...</title>
-      <link>https://x.com/ylecun/status/2047534885439435018</link>
-      <guid isPermaLink="false">2047534885439435018</guid>
-      <pubDate>Fri, 24 Apr 2026 04:35:32 +0000</pubDate>
-      <description><![CDATA[RT @ziv_ravid: I have mixed feelings about it.  All this great group of researchers, who are now leading the field, &quot;own&quot; their success and…
-
----
-@ylecun | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>@deepseek_ai @_TobiasLee awesome！</title>
-      <link>https://x.com/oran_ge/status/2047534539480965460</link>
-      <guid isPermaLink="false">2047534539480965460</guid>
-      <pubDate>Fri, 24 Apr 2026 04:34:10 +0000</pubDate>
-      <description><![CDATA[@deepseek_ai @_TobiasLee awesome！
-
----
-@oran_ge | ❤️ 2 | 🔁 0 | 💬 0 | 👁 831]]></description>
+@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 24]]></description>
       <author>@oran_ge</author>
     </item>
     <item>
-      <title>These pelicans are kind of angry looking!
-
-Left is deepseek-v4-flash, right is deepseek-v4-pro - bot...</title>
-      <link>https://x.com/simonw/status/2047534175855759771</link>
-      <guid isPermaLink="false">2047534175855759771</guid>
-      <pubDate>Fri, 24 Apr 2026 04:32:43 +0000</pubDate>
-      <description><![CDATA[These pelicans are kind of angry looking!
-
-Left is deepseek-v4-flash, right is deepseek-v4-pro - both generated using OpenRouter via my LLM tool https://t.co/UbUUd8Rhqr
+      <title>Smart Grip Tech: A Passive Hand Exoskeleton for Multimodal Sensory Data Collection
+by @TheHumanoidHu...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047547923940978991</link>
+      <guid isPermaLink="false">2047547923940978991</guid>
+      <pubDate>Fri, 24 Apr 2026 05:27:21 +0000</pubDate>
+      <description><![CDATA[Smart Grip Tech: A Passive Hand Exoskeleton for Multimodal Sensory Data Collection
+by @TheHumanoidHub
+  
+#AI #Robotics #MachineLearning #ArtificialIntelligence #ML #MI https://t.co/e5SgP930XG
 
 ---
-@simonw | ❤️ 41 | 🔁 2 | 💬 5 | 👁 3570]]></description>
-      <author>@simonw</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 33]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>While US politicians/lobbyists are scaremongering about “Chinese distillation,” Chinese scientists a...</title>
+      <link>https://x.com/amasad/status/2047547275682214384</link>
+      <guid isPermaLink="false">2047547275682214384</guid>
+      <pubDate>Fri, 24 Apr 2026 05:24:46 +0000</pubDate>
+      <description><![CDATA[While US politicians/lobbyists are scaremongering about “Chinese distillation,” Chinese scientists are actually sharing real AI breakthroughs in the open.
+
+These kind of advances have nothing to do with data and benefit everyone, including small (and possibly big) US labs.
+
+---
+@amasad | ❤️ 29 | 🔁 5 | 💬 3 | 👁 1114]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: 8 Types of #LLMs for Next Generation #AIAgents
+by @PythonPr
+  
+#GenAI #AI #Artif...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047546578248847795</link>
+      <guid isPermaLink="false">2047546578248847795</guid>
+      <pubDate>Fri, 24 Apr 2026 05:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: 8 Types of #LLMs for Next Generation #AIAgents
+by @PythonPr
+  
+#GenAI #AI #ArtificialIntelligence #MachineLearning #ML…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 18 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>come to the most ai pilled country per capita
+
+@anthropicai we want u</title>
+      <link>https://x.com/swyx/status/2047545640180445400</link>
+      <guid isPermaLink="false">2047545640180445400</guid>
+      <pubDate>Fri, 24 Apr 2026 05:18:16 +0000</pubDate>
+      <description><![CDATA[come to the most ai pilled country per capita
+
+@anthropicai we want u
+
+---
+@swyx | ❤️ 0 | 🔁 0 | 💬 1 | 👁 340]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>We're the #1 open model in Vision and Document Arena!</title>
+      <link>https://x.com/Kimi_Moonshot/status/2047543386153140231</link>
+      <guid isPermaLink="false">2047543386153140231</guid>
+      <pubDate>Fri, 24 Apr 2026 05:09:19 +0000</pubDate>
+      <description><![CDATA[We're the #1 open model in Vision and Document Arena!
+
+---
+@Kimi_Moonshot | ❤️ 130 | 🔁 5 | 💬 5 | 👁 5515]]></description>
+      <author>@Kimi_Moonshot</author>
+    </item>
+    <item>
+      <title>RT @op7418: I built a Claude Skill that makes slides look like magazines, not PowerPoint. 
+
+Ten year...</title>
+      <link>https://x.com/dotey/status/2047541840715338026</link>
+      <guid isPermaLink="false">2047541840715338026</guid>
+      <pubDate>Fri, 24 Apr 2026 05:03:10 +0000</pubDate>
+      <description><![CDATA[RT @op7418: I built a Claude Skill that makes slides look like magazines, not PowerPoint. 
+
+Ten years of design experience, compressed into…
+
+---
+@dotey | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>RT @KenRoth: The Trump administration suppresses a study showing that Covid vaccines cut by half vis...</title>
+      <link>https://x.com/ylecun/status/2047541752899268812</link>
+      <guid isPermaLink="false">2047541752899268812</guid>
+      <pubDate>Fri, 24 Apr 2026 05:02:50 +0000</pubDate>
+      <description><![CDATA[RT @KenRoth: The Trump administration suppresses a study showing that Covid vaccines cut by half visits to emergency rooms and admissions t…
+
+---
+@ylecun | ❤️ 0 | 🔁 35 | 💬 0 | 👁 2]]></description>
+      <author>@ylecun</author>
     </item>
   </channel>
 </rss>
