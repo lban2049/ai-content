@@ -5,86 +5,182 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 18:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 19:00:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.</title>
-      <link>https://x.com/OpenAI/status/2047743592278745425</link>
-      <guid isPermaLink="false">2047743592278745425</guid>
-      <pubDate>Fri, 24 Apr 2026 18:24:52 +0000</pubDate>
-      <description><![CDATA[Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.
+      <title>Are LLMs really more important than fire or electricity?
+
+“Honestly, a ton of what we’ve developed i...</title>
+      <link>https://x.com/GaryMarcus/status/2047751931326545953</link>
+      <guid isPermaLink="false">2047751931326545953</guid>
+      <pubDate>Fri, 24 Apr 2026 18:58:00 +0000</pubDate>
+      <description><![CDATA[Are LLMs really more important than fire or electricity?
+
+“Honestly, a ton of what we’ve developed in my lifetime amounts to scaling up the delivery of information and entertainment and the frictionlessness of certain financial transactions. These are real improvements! ... But compare them seriously to what came before and the disproportion becomes almost embarrassing. The fundamental architecture of daily material life - how we heat our homes, how we move from place to place, how we grow and store and cook food, how we build structures - has changed remarkably little since 1970. .….The cars go to the same places. The planes aren’t even marginally faster. The houses are built the same way. People still die of cancer.
+....
+
+Code cannot insulate your house; no algorithm has ever laid a water pipe; the internet has not built a single mile of high-speed rail. What our current stagnation shows, collectively, is that the improvements in material human life that matter the most - abundance in warmth, in calories, in clean water, in physical safety, in hours of freedom from labor - were all achieved by technologies that operated on atoms: steel, concrete, copper wire, chlorine, penicillin...”
+
+— Freddie deBoer
 
 ---
-@OpenAI | ❤️ 544 | 🔁 34 | 💬 44 | 👁 18887]]></description>
-      <author>@OpenAI</author>
+@GaryMarcus | ❤️ 4 | 🔁 1 | 💬 0 | 👁 197]]></description>
+      <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>This #Drone Can Flip Itself Over and Take Off From Water
-by @Fabriziobustama
+      <title>“The core design is about understanding, not output.”
 
-#EmergingTech #Innovat...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047742186406465824</link>
-      <guid isPermaLink="false">2047742186406465824</guid>
-      <pubDate>Fri, 24 Apr 2026 18:19:17 +0000</pubDate>
-      <description><![CDATA[This #Drone Can Flip Itself Over and Take Off From Water
-by @Fabriziobustama
+A design is an intention. Not an image or a p...</title>
+      <link>https://x.com/thenanyu/status/2047751915271020920</link>
+      <guid isPermaLink="false">2047751915271020920</guid>
+      <pubDate>Fri, 24 Apr 2026 18:57:56 +0000</pubDate>
+      <description><![CDATA[“The core design is about understanding, not output.”
 
-#EmergingTech #Innovation #Technology #Tech https://t.co/xaOwYM76pW
+A design is an intention. Not an image or a prototype. Output without intention is hallucination.
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 77]]></description>
+@thenanyu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 44]]></description>
+      <author>@thenanyu</author>
+    </item>
+    <item>
+      <title>gpt5.5 might be the first @openai model to challenge opus in coding vibes. interesting because it me...</title>
+      <link>https://x.com/swyx/status/2047751824942457266</link>
+      <guid isPermaLink="false">2047751824942457266</guid>
+      <pubDate>Fri, 24 Apr 2026 18:57:35 +0000</pubDate>
+      <description><![CDATA[gpt5.5 might be the first @openai model to challenge opus in coding vibes. interesting because it means swebench isn't the be-all and end-all anymore
+
+---
+@swyx | ❤️ 3 | 🔁 0 | 💬 1 | 👁 206]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>如果有 GPT Image 2 的意见，可以在原推评论反馈，Boyuan 是 GPT Image 核心团队成员</title>
+      <link>https://x.com/dotey/status/2047751520297398547</link>
+      <guid isPermaLink="false">2047751520297398547</guid>
+      <pubDate>Fri, 24 Apr 2026 18:56:22 +0000</pubDate>
+      <description><![CDATA[如果有 GPT Image 2 的意见，可以在原推评论反馈，Boyuan 是 GPT Image 核心团队成员
+
+---
+@dotey | ❤️ 1 | 🔁 0 | 💬 1 | 👁 163]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Extreme Precision: Micro-Dispensing at the Picoliter Level Explained
+by @lukas_m_ziegler
+
+#EmergingT...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047751497832689707</link>
+      <guid isPermaLink="false">2047751497832689707</guid>
+      <pubDate>Fri, 24 Apr 2026 18:56:17 +0000</pubDate>
+      <description><![CDATA[Extreme Precision: Micro-Dispensing at the Picoliter Level Explained
+by @lukas_m_ziegler
+
+#EmergingTech #Technology #Innovation https://t.co/K77SKFloPn
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 45]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Small talk is a way of establishing human relationships with others that you don’t know or don’t hav...</title>
-      <link>https://x.com/tunguz/status/2047740936399233043</link>
-      <guid isPermaLink="false">2047740936399233043</guid>
-      <pubDate>Fri, 24 Apr 2026 18:14:19 +0000</pubDate>
-      <description><![CDATA[Small talk is a way of establishing human relationships with others that you don’t know or don’t have much in common. That’s why it’s intrinsically void of any profound meaning. It’s equivalent of small gift exchanges, the practice of which, unfortunately, has gone almost completely extinct in most of the modern West, and especially in the US. If we are ever to revive meaningful human culture we need to start from there. Otherwise we’ll literally go extinct in a few generations at the latest.
+      <title>Give me someone who can be responsible for an entire area--someone who can design, hire, and sort to...</title>
+      <link>https://x.com/RayDalio/status/2047750855764701539</link>
+      <guid isPermaLink="false">2047750855764701539</guid>
+      <pubDate>Fri, 24 Apr 2026 18:53:44 +0000</pubDate>
+      <description><![CDATA[Give me someone who can be responsible for an entire area--someone who can design, hire, and sort to achieve the goal--and I can be comfortable things will go well. These are the most important people to choose and manage well. Senior managers must be capable of higher-level thinking, and understand the difference between goals and tasks-- otherwise you will have to do their jobs for them. The ability to see and value goals is largely innate, though it improves with experience. It can be tested for, though no tests are perfect. #principleoftheday
 
 ---
-@tunguz | ❤️ 12 | 🔁 1 | 💬 1 | 👁 717]]></description>
-      <author>@tunguz</author>
+@RayDalio | ❤️ 24 | 🔁 3 | 💬 3 | 👁 4109]]></description>
+      <author>@RayDalio</author>
     </item>
     <item>
-      <title>Good agent memory paper.
+      <title>@jsconfeu @cramforce talk now live! @vercel is doing incredible AI engineering work and it comes dir...</title>
+      <link>https://x.com/swyx/status/2047749587163877668</link>
+      <guid isPermaLink="false">2047749587163877668</guid>
+      <pubDate>Fri, 24 Apr 2026 18:48:41 +0000</pubDate>
+      <description><![CDATA[@jsconfeu @cramforce talk now live! @vercel is doing incredible AI engineering work and it comes direct from the C-suite, this should be more common but it is not, even today
 
-And great insights on the benefits of structured memory for long-horizon b...</title>
-      <link>https://x.com/dair_ai/status/2047740873027543228</link>
-      <guid isPermaLink="false">2047740873027543228</guid>
-      <pubDate>Fri, 24 Apr 2026 18:14:03 +0000</pubDate>
-      <description><![CDATA[Good agent memory paper.
-
-And great insights on the benefits of structured memory for long-horizon behavior in LLMs.
-
-Why it matters:
-
-It treats memory less like search and more like a system that will need maintenance (which they often do).
-
-Flat memories are cheap to write. Graph memories preserve relationships, but they are harder to keep clean. StructMem puts the structure in a background consolidation step. Memories are not just stored as isolated snippets. They get tied to when they happened and how events relate across time.
-
-That matters because long-horizon agents not only forget facts. They lose the relationships between facts.
-
-If agent memory keeps moving this way, the useful pattern may be simple writes, periodic consolidation, and retrieval over a structure that has had time to form.
-
-Paper: https://t.co/lJEGpIyVyt
-
-Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+https://t.co/B9enUKh24m
 
 ---
-@dair_ai | ❤️ 7 | 🔁 2 | 💬 0 | 👁 364]]></description>
-      <author>@dair_ai</author>
+@swyx | ❤️ 0 | 🔁 0 | 💬 2 | 👁 371]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>RT @akseljoonas: For the last 72 hours since ml-intern launched we have had over 500+ autonomous AI ...</title>
-      <link>https://x.com/_akhaliq/status/2047738968733610220</link>
-      <guid isPermaLink="false">2047738968733610220</guid>
-      <pubDate>Fri, 24 Apr 2026 18:06:29 +0000</pubDate>
-      <description><![CDATA[RT @akseljoonas: For the last 72 hours since ml-intern launched we have had over 500+ autonomous AI research projects running on the Space…
+      <title>Import your Vercel or Lovable apps to Replit with a few clicks:</title>
+      <link>https://x.com/amasad/status/2047747978690232550</link>
+      <guid isPermaLink="false">2047747978690232550</guid>
+      <pubDate>Fri, 24 Apr 2026 18:42:18 +0000</pubDate>
+      <description><![CDATA[Import your Vercel or Lovable apps to Replit with a few clicks:
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 10 | 💬 0 | 👁 1]]></description>
-      <author>@_akhaliq</author>
+@amasad | ❤️ 42 | 🔁 3 | 💬 2 | 👁 3301]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>“If AI can make employees more productive, which is widely accepted as fact, then companies are goin...</title>
+      <link>https://x.com/levie/status/2047747142308274645</link>
+      <guid isPermaLink="false">2047747142308274645</guid>
+      <pubDate>Fri, 24 Apr 2026 18:38:58 +0000</pubDate>
+      <description><![CDATA[“If AI can make employees more productive, which is widely accepted as fact, then companies are going to want as many productive units of labor as possible. This is a key reason why I am changing my mind.”
+
+This is why jevons paradox is really important to understand with AI right now. 
+
+And counterintuitively, this trend is going to increase as AI gets better. The better AI gets at performing tasks, the more companies can take on those tasks, which leads to hiring more people to do the surrounding work of those tasks.
+
+Think about the small business that can’t afford to build complex software. When AI is only a little good nothing changes for them. When it’s really good they can finally hire engineers that have the impact of 5-10X, so they can finally invest in engineering. 
+
+The sales team that can automate customer intelligence and outbound demand gen will hire more sales people because they have more leads to go after. The marketing team that can now do higher-end video production than before will hire a video editor. And so on.
+
+This is going to happen in more and more surprisingly ways.
+
+---
+@levie | ❤️ 61 | 🔁 9 | 💬 12 | 👁 6788]]></description>
+      <author>@levie</author>
+    </item>
+    <item>
+      <title>Is your enterprise AI strategy sitting on a broken foundation?
+
+At #GoogleCloudNext, I spoke with Al...</title>
+      <link>https://x.com/YuHelenYu/status/2047746510008512602</link>
+      <guid isPermaLink="false">2047746510008512602</guid>
+      <pubDate>Fri, 24 Apr 2026 18:36:27 +0000</pubDate>
+      <description><![CDATA[Is your enterprise AI strategy sitting on a broken foundation?
+
+At #GoogleCloudNext, I spoke with Alan Bivens, VP of Strategic Partnership at @IBM about their partnership with @GoogleCloudTech.
+
+This is infrastructure finally catching up to AI.
+
+Watch our conversation: https://t.co/YFSP3ZM8bw
+
+Learn more about the strategic partnership : https://t.co/p1lYxWLA4n (https://t.co/i0rKfY1mc9)
+
+#EnterpriseAI #HybridCloud #AgenticAI #IBMPartner #watson @ibmconsulting
+
+---
+@YuHelenYu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 53]]></description>
+      <author>@YuHelenYu</author>
+    </item>
+    <item>
+      <title>A cargo mission is scheduled for liftoff on Saturday for a Monday delivery to the station. Meanwhile...</title>
+      <link>https://x.com/Space_Station/status/2047746221154996622</link>
+      <guid isPermaLink="false">2047746221154996622</guid>
+      <pubDate>Fri, 24 Apr 2026 18:35:19 +0000</pubDate>
+      <description><![CDATA[A cargo mission is scheduled for liftoff on Saturday for a Monday delivery to the station. Meanwhile, Expedition 74 wrapped up the week with health and physics research. More... https://t.co/YKTBo6MgiF https://t.co/CpkYy39kwq
+
+---
+@Space_Station | ❤️ 125 | 🔁 17 | 💬 9 | 👁 8055]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>just launched GPT-5.5 in our API, please enjoy!</title>
+      <link>https://x.com/gdb/status/2047745639195508754</link>
+      <guid isPermaLink="false">2047745639195508754</guid>
+      <pubDate>Fri, 24 Apr 2026 18:33:00 +0000</pubDate>
+      <description><![CDATA[just launched GPT-5.5 in our API, please enjoy!
+
+---
+@gdb | ❤️ 233 | 🔁 8 | 💬 27 | 👁 8529]]></description>
+      <author>@gdb</author>
     </item>
   </channel>
 </rss>
