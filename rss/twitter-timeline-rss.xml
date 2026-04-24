@@ -5,168 +5,253 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2026 02:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 02:31:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Full Release Notes: https://t.co/qnQVjegcYy
-
-Run 'hermes update' to enjoy https://t.co/uAX0fzMrSy</title>
-      <link>https://x.com/NousResearch/status/2047495679249949058</link>
-      <guid isPermaLink="false">2047495679249949058</guid>
-      <pubDate>Fri, 24 Apr 2026 01:59:45 +0000</pubDate>
-      <description><![CDATA[Full Release Notes: https://t.co/qnQVjegcYy
-
-Run 'hermes update' to enjoy https://t.co/uAX0fzMrSy
+      <title>RT @Cernovich: USVC is a new fund being offered by Naval, it's been discussed widely on X. I have so...</title>
+      <link>https://x.com/naval/status/2047503416969351445</link>
+      <guid isPermaLink="false">2047503416969351445</guid>
+      <pubDate>Fri, 24 Apr 2026 02:30:30 +0000</pubDate>
+      <description><![CDATA[RT @Cernovich: USVC is a new fund being offered by Naval, it's been discussed widely on X. I have some thoughts and why people should look…
 
 ---
-@NousResearch | ❤️ 0 | 🔁 0 | 💬 0 | 👁 87]]></description>
-      <author>@NousResearch</author>
+@naval | ❤️ 0 | 🔁 20 | 💬 0 | 👁 0]]></description>
+      <author>@naval</author>
     </item>
     <item>
-      <title>Hermes Agent v0.11.0 - “The Interface Release”
-
-Full changelog below ↓ https://t.co/2jeVcP2lgB</title>
-      <link>https://x.com/NousResearch/status/2047495677651918885</link>
-      <guid isPermaLink="false">2047495677651918885</guid>
-      <pubDate>Fri, 24 Apr 2026 01:59:44 +0000</pubDate>
-      <description><![CDATA[Hermes Agent v0.11.0 - “The Interface Release”
-
-Full changelog below ↓ https://t.co/2jeVcP2lgB
+      <title>They all work together</title>
+      <link>https://x.com/elonmusk/status/2047503364620230775</link>
+      <guid isPermaLink="false">2047503364620230775</guid>
+      <pubDate>Fri, 24 Apr 2026 02:30:17 +0000</pubDate>
+      <description><![CDATA[They all work together
 
 ---
-@NousResearch | ❤️ 4 | 🔁 0 | 💬 1 | 👁 138]]></description>
-      <author>@NousResearch</author>
+@elonmusk | ❤️ 252 | 🔁 44 | 💬 88 | 👁 20986]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>8 Types of #LLMs used in #AIAgents 
-by @ingliguori
+      <title>RT @petergyang: Here's @rywiggs (VP Mercury) walking through how he built his Claude Code second bra...</title>
+      <link>https://x.com/petergyang/status/2047503334962303025</link>
+      <guid isPermaLink="false">2047503334962303025</guid>
+      <pubDate>Fri, 24 Apr 2026 02:30:10 +0000</pubDate>
+      <description><![CDATA[RT @petergyang: Here's @rywiggs (VP Mercury) walking through how he built his Claude Code second brain at work:
 
-#GenerativeAI #ArtificialIntelligence #MachineLe...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047495243579134286</link>
-      <guid isPermaLink="false">2047495243579134286</guid>
-      <pubDate>Fri, 24 Apr 2026 01:58:01 +0000</pubDate>
-      <description><![CDATA[8 Types of #LLMs used in #AIAgents 
-by @ingliguori
-
-#GenerativeAI #ArtificialIntelligence #MachineLearning #MI https://t.co/DNaR1MgaUk
+&quot;I pulled together almost…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 20]]></description>
+@petergyang | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>RT @veggie_eric: Our newest voice model is 20+ points ahead of the nearest competitor on Sierra's le...</title>
+      <link>https://x.com/elonmusk/status/2047503147627942302</link>
+      <guid isPermaLink="false">2047503147627942302</guid>
+      <pubDate>Fri, 24 Apr 2026 02:29:25 +0000</pubDate>
+      <description><![CDATA[RT @veggie_eric: Our newest voice model is 20+ points ahead of the nearest competitor on Sierra's leaderboard. Pretty massive upgrade from…
+
+---
+@elonmusk | ❤️ 0 | 🔁 56 | 💬 0 | 👁 1]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Exactly</title>
+      <link>https://x.com/elonmusk/status/2047502949639958932</link>
+      <guid isPermaLink="false">2047502949639958932</guid>
+      <pubDate>Fri, 24 Apr 2026 02:28:38 +0000</pubDate>
+      <description><![CDATA[Exactly
+
+---
+@elonmusk | ❤️ 675 | 🔁 83 | 💬 154 | 👁 97772]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>I shared my full impressions for GPT 5.5 and ChatGPT Images 2 here, watch now: https://t.co/hdSCW7ia...</title>
+      <link>https://x.com/petergyang/status/2047502897412468770</link>
+      <guid isPermaLink="false">2047502897412468770</guid>
+      <pubDate>Fri, 24 Apr 2026 02:28:26 +0000</pubDate>
+      <description><![CDATA[I shared my full impressions for GPT 5.5 and ChatGPT Images 2 here, watch now: https://t.co/hdSCW7iaKT
+
+---
+@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 215]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>I've been doing the F-Zero test each time a new model comes out and GPT 5.5 and Codex is the only co...</title>
+      <link>https://x.com/petergyang/status/2047502885710410159</link>
+      <guid isPermaLink="false">2047502885710410159</guid>
+      <pubDate>Fri, 24 Apr 2026 02:28:23 +0000</pubDate>
+      <description><![CDATA[I've been doing the F-Zero test each time a new model comes out and GPT 5.5 and Codex is the only combo that built a working game so far.
+
+Even made a bunch of other bots to race against. What a insane time to be building. https://t.co/LFwGQBEznn
+
+---
+@petergyang | ❤️ 2 | 🔁 0 | 💬 4 | 👁 178]]></description>
+      <author>@petergyang</author>
+    </item>
+    <item>
+      <title>RT @nivi: I spent the morning digging into USVC fees.
+
+TLDR: In my opinion, there is no lower-cost w...</title>
+      <link>https://x.com/naval/status/2047502801857888361</link>
+      <guid isPermaLink="false">2047502801857888361</guid>
+      <pubDate>Fri, 24 Apr 2026 02:28:03 +0000</pubDate>
+      <description><![CDATA[RT @nivi: I spent the morning digging into USVC fees.
+
+TLDR: In my opinion, there is no lower-cost way to invest in VC other than becoming…
+
+---
+@naval | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@naval</author>
+    </item>
+    <item>
+      <title>Grok Voice is used by @Starlink</title>
+      <link>https://x.com/elonmusk/status/2047502409728217418</link>
+      <guid isPermaLink="false">2047502409728217418</guid>
+      <pubDate>Fri, 24 Apr 2026 02:26:29 +0000</pubDate>
+      <description><![CDATA[Grok Voice is used by @Starlink
+
+---
+@elonmusk | ❤️ 743 | 🔁 99 | 💬 310 | 👁 128371]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Backpack-to-Ride: Inflatable Electric Scooter Redefines Urban Mobility
+by @tweetciiiim
+
+#AI #Robotic...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047501807803400562</link>
+      <guid isPermaLink="false">2047501807803400562</guid>
+      <pubDate>Fri, 24 Apr 2026 02:24:06 +0000</pubDate>
+      <description><![CDATA[Backpack-to-Ride: Inflatable Electric Scooter Redefines Urban Mobility
+by @tweetciiiim
+
+#AI #Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/cm8U0zxUFY
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 71]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>@lifesinger image 3这效果太绝了 （Doge🐶）</title>
-      <link>https://x.com/stark_nico99/status/2047495032228491420</link>
-      <guid isPermaLink="false">2047495032228491420</guid>
-      <pubDate>Fri, 24 Apr 2026 01:57:10 +0000</pubDate>
-      <description><![CDATA[@lifesinger image 3这效果太绝了 （Doge🐶）
+      <title>RT @Ronald_vanLoon: The New #AI Risk Isn’t What Models Say. It’s What Agents Do
+by Tyler Akidau @For...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047501279182659710</link>
+      <guid isPermaLink="false">2047501279182659710</guid>
+      <pubDate>Fri, 24 Apr 2026 02:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: The New #AI Risk Isn’t What Models Say. It’s What Agents Do
+by Tyler Akidau @Forbes
+
+Learn more: https://t.co/nVK1YaBgb…
 
 ---
-@stark_nico99 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 11]]></description>
-      <author>@stark_nico99</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @HuggingPapers: TACO cuts token costs for terminal agents
-
-A self-evolving framework that compres...</title>
-      <link>https://x.com/_akhaliq/status/2047493769591669036</link>
-      <guid isPermaLink="false">2047493769591669036</guid>
-      <pubDate>Fri, 24 Apr 2026 01:52:09 +0000</pubDate>
-      <description><![CDATA[RT @HuggingPapers: TACO cuts token costs for terminal agents
-
-A self-evolving framework that compresses redundant observations by learning…
+      <title>目前为止还没有遇到过「一刀」，继续观察…</title>
+      <link>https://x.com/tualatrix/status/2047500266363383809</link>
+      <guid isPermaLink="false">2047500266363383809</guid>
+      <pubDate>Fri, 24 Apr 2026 02:17:58 +0000</pubDate>
+      <description><![CDATA[目前为止还没有遇到过「一刀」，继续观察…
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+@tualatrix | ❤️ 3 | 🔁 0 | 💬 1 | 👁 721]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>RT @SakanaAILabs: We’re launching the beta for our new commercial AI product: Sakana Fugu 🐡, a multi...</title>
+      <link>https://x.com/_akhaliq/status/2047499201521598477</link>
+      <guid isPermaLink="false">2047499201521598477</guid>
+      <pubDate>Fri, 24 Apr 2026 02:13:44 +0000</pubDate>
+      <description><![CDATA[RT @SakanaAILabs: We’re launching the beta for our new commercial AI product: Sakana Fugu 🐡, a multi-agent orchestration system!
+
+Blog: htt…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 60 | 💬 0 | 👁 0]]></description>
       <author>@_akhaliq</author>
     </item>
     <item>
-      <title>GPT Image 2 Prompt：one-page hand-drawn educational infographic
+      <title>Hacker News 里面的很多声音非常犀利： https://t.co/fnw1GxovGh</title>
+      <link>https://x.com/tualatrix/status/2047497465323299135</link>
+      <guid isPermaLink="false">2047497465323299135</guid>
+      <pubDate>Fri, 24 Apr 2026 02:06:51 +0000</pubDate>
+      <description><![CDATA[Hacker News 里面的很多声音非常犀利： https://t.co/fnw1GxovGh
+
+---
+@tualatrix | ❤️ 0 | 🔁 0 | 💬 1 | 👁 488]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>over 1.2 million AI apps on Hugging Face
+
+the biggest AI app store probably https://t.co/dmZZGAr9lK</title>
+      <link>https://x.com/_akhaliq/status/2047496928137548219</link>
+      <guid isPermaLink="false">2047496928137548219</guid>
+      <pubDate>Fri, 24 Apr 2026 02:04:42 +0000</pubDate>
+      <description><![CDATA[over 1.2 million AI apps on Hugging Face
+
+the biggest AI app store probably https://t.co/dmZZGAr9lK
+
+---
+@_akhaliq | ❤️ 9 | 🔁 0 | 💬 2 | 👁 966]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @bobabowen: Today we open sourced many of OpenAI's monitorability evaluations. We hope that the r...</title>
+      <link>https://x.com/sama/status/2047496909452177757</link>
+      <guid isPermaLink="false">2047496909452177757</guid>
+      <pubDate>Fri, 24 Apr 2026 02:04:38 +0000</pubDate>
+      <description><![CDATA[RT @bobabowen: Today we open sourced many of OpenAI's monitorability evaluations. We hope that the research community and other model devel…
+
+---
+@sama | ❤️ 0 | 🔁 17 | 💬 0 | 👁 4]]></description>
+      <author>@sama</author>
+    </item>
+    <item>
+      <title>中文版本
 
 --- Prompt ---
 
-Create a one-page ha...</title>
-      <link>https://x.com/dotey/status/2047493663580659734</link>
-      <guid isPermaLink="false">2047493663580659734</guid>
-      <pubDate>Fri, 24 Apr 2026 01:51:44 +0000</pubDate>
-      <description><![CDATA[GPT Image 2 Prompt：one-page hand-drawn educational infographic
+你是一位擅长手绘风信息图的视觉设计师。请根据以下内容创作一张单页信息图。
+
+风格要求
+
+整体风格：Hand-drawn educational infogr...</title>
+      <link>https://x.com/dotey/status/2047496205031158071</link>
+      <guid isPermaLink="false">2047496205031158071</guid>
+      <pubDate>Fri, 24 Apr 2026 02:01:50 +0000</pubDate>
+      <description><![CDATA[中文版本
 
 --- Prompt ---
 
-Create a one-page hand-drawn educational infographic.
+你是一位擅长手绘风信息图的视觉设计师。请根据以下内容创作一张单页信息图。
 
-Style:
-Warm cream paper background (#F5F0E8), clean sketchnote style with slight hand-drawn wobble. No realistic elements. Looks like a high-quality slide summary.
+风格要求
 
-Color:
-Use pastel rounded cards for sections:
-light blue #A8D8EA, mint #B5E5CF, lavender #D5C6E0, peach #F4C7AB.
-Use coral red #E8655A for highlights (keywords, key data, checkmarks).
-Main text and outlines in black, annotations in warm gray #6B6B6B.
+整体风格：Hand-drawn educational infographic on warm cream paper texture (#F5F0E8)。所有线条和形状带轻微手绘抖动感（slight hand-drawn wobble），整体干净清晰，像高质量演示文稿的单页视觉摘要。无写实元素。
 
-Design:
-Visual-first. Use icons, doodles, simple diagrams instead of text.
-Clear structure at a glance (flow, comparison, grouped cards, etc.).
-Separate sections with rounded boxes, bubbles, or dashed frames.
-Connect sections with hand-drawn wavy arrows + short labels.
+配色方案：
+- 信息区色块：马卡龙色系圆角卡片——浅蓝 #A8D8EA、薄荷绿 #B5E5CF、薰衣草紫 #D5C6E0、浅桃 #F4C7AB，根据内容分区选用
+- 强调色：珊瑚红 #E8655A，用于关键词、重要数据、勾选标记等需要视觉突出的元素
+- 线条与主文字：黑色
+- 辅助标注：暖灰 #6B6B6B，字号较小
 
-Typography:
-Centered bold hand-drawn title on top.
-Inside sections: bold keywords + small gray labels (2–5 words).
+图形优先：用图标、简笔画卡通形象、示意图承载信息，文字仅用于标注和点睛，能用图说清的绝不用文字。像好的 slides 一样——一眼看懂结构，细看理解细节。
 
-Details:
-Slightly imperfect color fill (not fully inside outlines).
-Add small doodles (stars, arrows, underlines).
-Keep plenty of whitespace, clean layout.
+信息结构：根据内容自动选择最佳视觉布局（流程→箭头串联，对比→左右分栏，循环→环形，组成→并列卡片，层级→嵌套等）。用圆角色块、气泡、虚线框等容器分区，区域间用手绘波浪箭头（hand-drawn wavy arrows）连接并标注简短关系词。
 
-Footer:
-Add one bold centered takeaway sentence at the bottom.
+文字层次：标题顶部居中，粗体大号手绘字（bold, large, hand-drawn lettering）；区域内用粗体关键词 + 暖灰小字短标签（2-5 词）区分层次。
 
-Content:
+渲染细节：马卡龙色块不完全填满轮廓（colors do not completely fill outlines），涂鸦装饰点缀（小星星、下划线、小箭头等），充足留白，干净构图。
+
+底部金句：图片底部一句粗体居中总结，概括核心观点。
+
+要图解的内容
 &lt;insert your content here&gt;
 
 ---
-@dotey | ❤️ 6 | 🔁 1 | 💬 1 | 👁 758]]></description>
+@dotey | ❤️ 8 | 🔁 1 | 💬 1 | 👁 941]]></description>
       <author>@dotey</author>
-    </item>
-    <item>
-      <title>GPT Image 3 的生图效果确实不错 https://t.co/wUFJ31Uwwi</title>
-      <link>https://x.com/lifesinger/status/2047491143924121946</link>
-      <guid isPermaLink="false">2047491143924121946</guid>
-      <pubDate>Fri, 24 Apr 2026 01:41:43 +0000</pubDate>
-      <description><![CDATA[GPT Image 3 的生图效果确实不错 https://t.co/wUFJ31Uwwi
-
----
-@lifesinger | ❤️ 3 | 🔁 0 | 💬 3 | 👁 499]]></description>
-      <author>@lifesinger</author>
-    </item>
-    <item>
-      <title>Aerodynamic Sail Backpack Boosts Speed and Stability for Downhill Cyclists
-by @IntEngineering
-
-#Inno...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047489976724504928</link>
-      <guid isPermaLink="false">2047489976724504928</guid>
-      <pubDate>Fri, 24 Apr 2026 01:37:05 +0000</pubDate>
-      <description><![CDATA[Aerodynamic Sail Backpack Boosts Speed and Stability for Downhill Cyclists
-by @IntEngineering
-
-#Innovation #EmergingTech #Technology https://t.co/A5nhVnz4gA
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 139]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>auto-review now live in codex — using a guardian agent to evaluate the safety of proposed actions, r...</title>
-      <link>https://x.com/gdb/status/2047489218998628780</link>
-      <guid isPermaLink="false">2047489218998628780</guid>
-      <pubDate>Fri, 24 Apr 2026 01:34:04 +0000</pubDate>
-      <description><![CDATA[auto-review now live in codex — using a guardian agent to evaluate the safety of proposed actions, reducing human approvals to only when they're really needed.
-
----
-@gdb | ❤️ 120 | 🔁 7 | 💬 17 | 👁 9824]]></description>
-      <author>@gdb</author>
     </item>
   </channel>
 </rss>
