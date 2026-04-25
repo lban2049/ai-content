@@ -5,36 +5,29 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 04:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:00:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: McDonald’s in Shanghai Deploys Humanoid #Robots to Serve Customers
-by @CyberRobo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047892356272140333</link>
-      <guid isPermaLink="false">2047892356272140333</guid>
-      <pubDate>Sat, 25 Apr 2026 04:16:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: McDonald’s in Shanghai Deploys Humanoid #Robots to Serve Customers
-by @CyberRobooo
-
-#Robotics #MachineLearning #Artific…
+      <title>the openai team ships</title>
+      <link>https://x.com/gdb/status/2047901060803784865</link>
+      <guid isPermaLink="false">2047901060803784865</guid>
+      <pubDate>Sat, 25 Apr 2026 04:50:35 +0000</pubDate>
+      <description><![CDATA[the openai team ships
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@gdb | ❤️ 50 | 🔁 1 | 💬 12 | 👁 1565]]></description>
+      <author>@gdb</author>
     </item>
     <item>
-      <title>Genki #Robotics Accelerates Humanoid #Robot Development with Backing from Andreessen Horowitz and AM...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047891643672469565</link>
-      <guid isPermaLink="false">2047891643672469565</guid>
-      <pubDate>Sat, 25 Apr 2026 04:13:10 +0000</pubDate>
-      <description><![CDATA[Genki #Robotics Accelerates Humanoid #Robot Development with Backing from Andreessen Horowitz and AMD
-by @TheHumanoidHub
-
-#AI #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/Jwu0bBZ1XG
+      <title>XChat 还是有价值的…那就是我终于查看了一次「私信请求」，好多没回复的🤦 https://t.co/QYroAiAa1K</title>
+      <link>https://x.com/tualatrix/status/2047900161716945334</link>
+      <guid isPermaLink="false">2047900161716945334</guid>
+      <pubDate>Sat, 25 Apr 2026 04:47:01 +0000</pubDate>
+      <description><![CDATA[XChat 还是有价值的…那就是我终于查看了一次「私信请求」，好多没回复的🤦 https://t.co/QYroAiAa1K
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 90]]></description>
-      <author>@Ronald_vanLoon</author>
+@tualatrix | ❤️ 0 | 🔁 0 | 💬 0 | 👁 169]]></description>
+      <author>@tualatrix</author>
     </item>
   </channel>
 </rss>
