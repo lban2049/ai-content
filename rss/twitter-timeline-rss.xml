@@ -5,29 +5,62 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 05:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:31:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>the openai team ships</title>
-      <link>https://x.com/gdb/status/2047901060803784865</link>
-      <guid isPermaLink="false">2047901060803784865</guid>
-      <pubDate>Sat, 25 Apr 2026 04:50:35 +0000</pubDate>
-      <description><![CDATA[the openai team ships
+      <title>Hovermap ST-X: Next-Generation #Autonomous LiDAR Mapping for Complex Environments
+by @emesent
+
+#Dron...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047910250582274532</link>
+      <guid isPermaLink="false">2047910250582274532</guid>
+      <pubDate>Sat, 25 Apr 2026 05:27:06 +0000</pubDate>
+      <description><![CDATA[Hovermap ST-X: Next-Generation #Autonomous LiDAR Mapping for Complex Environments
+by @emesent
+
+#Drones #EmergingTech #Innovation #Tech #Technology https://t.co/L1sWl6glOL
 
 ---
-@gdb | ❤️ 50 | 🔁 1 | 💬 12 | 👁 1565]]></description>
-      <author>@gdb</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 23]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>XChat 还是有价值的…那就是我终于查看了一次「私信请求」，好多没回复的🤦 https://t.co/QYroAiAa1K</title>
-      <link>https://x.com/tualatrix/status/2047900161716945334</link>
-      <guid isPermaLink="false">2047900161716945334</guid>
-      <pubDate>Sat, 25 Apr 2026 04:47:01 +0000</pubDate>
-      <description><![CDATA[XChat 还是有价值的…那就是我终于查看了一次「私信请求」，好多没回复的🤦 https://t.co/QYroAiAa1K
+      <title>你还在用人类当&quot;胶水&quot;，AI 已经开始拆房子了
+
+终于读完了 Notion CEO Ivan Zhao 的思考 Steam, Steel, and Infinite Minds。他...</title>
+      <link>https://x.com/bearliu/status/2047909727191875736</link>
+      <guid isPermaLink="false">2047909727191875736</guid>
+      <pubDate>Sat, 25 Apr 2026 05:25:01 +0000</pubDate>
+      <description><![CDATA[你还在用人类当&quot;胶水&quot;，AI 已经开始拆房子了
+
+终于读完了 Notion CEO Ivan Zhao 的思考 Steam, Steel, and Infinite Minds。他提到一个历史规律：新技术往往伪装成旧东西的样子出现。早期电话模仿电报的简洁，早期电影就是录制的舞台剧——我们透过后视镜驾车驶向未来。
+
+他用蒸汽机做比喻特别启发我。工业革命的真正转折点，不是蒸汽机的发明，而是工厂主们意识到可以彻底摆脱水力依赖。他们重新设计了整个生产布局，从单一中心动力变成分散式小引擎。生产力立刻爆炸式增长。
+
+现在 AI 智能体就像蒸汽机。Notion 内部已经有 700+ 个 Agent 在处理重复工作——记录会议、整理知识、处理 IT 请求、写周报。关键是，很多团队还在用人类当&quot;粘合剂&quot;，在各个系统标签页之间来回切换、复制粘贴。这就像还在靠水力转动磨坊。
+
+真正的变化不在工具本身，在于你是否愿意重新设计工作流。一旦 Agent 能连接起所有上下文，人才能从搬运工变成决策者。这个转变比工具升级本身要难得多——但机会就在那儿。
+
+原文链接：https://t.co/s3uSVzl0uw
 
 ---
-@tualatrix | ❤️ 0 | 🔁 0 | 💬 0 | 👁 169]]></description>
-      <author>@tualatrix</author>
+@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 77]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: #AI Exoskeleton Lets Paralyzed Patient Walk Again on Their Own Feet
+by @interest...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047908966760362243</link>
+      <guid isPermaLink="false">2047908966760362243</guid>
+      <pubDate>Sat, 25 Apr 2026 05:22:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: #AI Exoskeleton Lets Paralyzed Patient Walk Again on Their Own Feet
+by @interesting_aIl
+
+#Innovation #Engineering #Tech…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
