@@ -5,46 +5,65 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 09:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 10:00:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>看来推特改了算法，我光是在推上写废话半个月可以挣 1000美元，算人民币收入一个月有一万五，大家还跑什么外卖都去发帖好了呀😂😂😂 https://t.co/HP3ygpOHX3</title>
-      <link>https://x.com/turingou/status/2047971586419179852</link>
-      <guid isPermaLink="false">2047971586419179852</guid>
-      <pubDate>Sat, 25 Apr 2026 09:30:50 +0000</pubDate>
-      <description><![CDATA[看来推特改了算法，我光是在推上写废话半个月可以挣 1000美元，算人民币收入一个月有一万五，大家还跑什么外卖都去发帖好了呀😂😂😂 https://t.co/HP3ygpOHX3
+      <title>acpx 0.6.0 is out. (control codex/claude via agents)
+
+Highlights: Claude system-prompt controls, ses...</title>
+      <link>https://x.com/steipete/status/2047978882100334612</link>
+      <guid isPermaLink="false">2047978882100334612</guid>
+      <pubDate>Sat, 25 Apr 2026 09:59:49 +0000</pubDate>
+      <description><![CDATA[acpx 0.6.0 is out. (control codex/claude via agents)
+
+Highlights: Claude system-prompt controls, session pruning, embeddable turn handles, --no-terminal, persistent-session fixes, WSL cwd translation, queue hardening, and clearer error hints. https://t.co/JUyu0tZYuV
 
 ---
-@turingou | ❤️ 0 | 🔁 0 | 💬 0 | 👁 12]]></description>
-      <author>@turingou</author>
+@steipete | ❤️ 1 | 🔁 1 | 💬 0 | 👁 171]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>Machine Grows Real Diamonds in Just 10 Days
-by @tweetciiiim
+      <title>RT @Ronald_vanLoon: Tiny cameras in earbuds let users talk with #AI about what they see
+by Stefan Mi...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047978675144917007</link>
+      <guid isPermaLink="false">2047978675144917007</guid>
+      <pubDate>Sat, 25 Apr 2026 09:59:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Tiny cameras in earbuds let users talk with #AI about what they see
+by Stefan Milne @TechXplore_com
 
-#Innovation #EmergingTech #TechForGood ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047968659977498765</link>
-      <guid isPermaLink="false">2047968659977498765</guid>
-      <pubDate>Sat, 25 Apr 2026 09:19:12 +0000</pubDate>
-      <description><![CDATA[Machine Grows Real Diamonds in Just 10 Days
-by @tweetciiiim
-
-#Innovation #EmergingTech #TechForGood #Technology https://t.co/rKTOdeYcLn
+Learn more: https:…
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 80]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>这个娃啊，在我大腿上都睡得这么香。 https://t.co/DcW7JCHWEN</title>
-      <link>https://x.com/tualatrix/status/2047964760008974620</link>
-      <guid isPermaLink="false">2047964760008974620</guid>
-      <pubDate>Sat, 25 Apr 2026 09:03:42 +0000</pubDate>
-      <description><![CDATA[这个娃啊，在我大腿上都睡得这么香。 https://t.co/DcW7JCHWEN
+      <title>刚才着重调查了一下为什么 sandbank cloud 会被挤爆，导致 wanman 无法授权新的 authbox 的问题，情况比我想象的好一些，并不是 boxlite 的性能问题，也不是服务器配置问...</title>
+      <link>https://x.com/turingou/status/2047975826298487225</link>
+      <guid isPermaLink="false">2047975826298487225</guid>
+      <pubDate>Sat, 25 Apr 2026 09:47:41 +0000</pubDate>
+      <description><![CDATA[刚才着重调查了一下为什么 sandbank cloud 会被挤爆，导致 wanman 无法授权新的 authbox 的问题，情况比我想象的好一些，并不是 boxlite 的性能问题，也不是服务器配置问题，而是服务调度是一个月前 cc 写的，完全无法适应突然这么大的并发，接下来我准备重点优化 sandbank 确保它可以做成一个真正适配大规模沙箱同时并发的 agent matrix cloud，然后再加三倍的裸金属机节点！
 
 ---
-@tualatrix | ❤️ 3 | 🔁 0 | 💬 0 | 👁 343]]></description>
-      <author>@tualatrix</author>
+@turingou | ❤️ 5 | 🔁 0 | 💬 3 | 👁 919]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>Unreal #Robotics Lab: Training #Robots in a Hyper-Realistic Virtual World
+via @ZappyZappy7
+
+#Emergin...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047974675368509661</link>
+      <guid isPermaLink="false">2047974675368509661</guid>
+      <pubDate>Sat, 25 Apr 2026 09:43:06 +0000</pubDate>
+      <description><![CDATA[Unreal #Robotics Lab: Training #Robots in a Hyper-Realistic Virtual World
+via @ZappyZappy7
+
+#EmergingTech #Technology #Innovation https://t.co/w4ldiTm6c6
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 79]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
