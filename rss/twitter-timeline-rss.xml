@@ -5,80 +5,124 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 16:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:00:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Who’s Herming today</title>
-      <link>https://x.com/NousResearch/status/2048076107065196820</link>
-      <guid isPermaLink="false">2048076107065196820</guid>
-      <pubDate>Sat, 25 Apr 2026 16:26:09 +0000</pubDate>
-      <description><![CDATA[Who’s Herming today
+      <title>Great paper on improving proactive agents.
+
+(bookmark it)
+
+Proactive agents act before you do. But h...</title>
+      <link>https://x.com/dair_ai/status/2048083882327916688</link>
+      <guid isPermaLink="false">2048083882327916688</guid>
+      <pubDate>Sat, 25 Apr 2026 16:57:03 +0000</pubDate>
+      <description><![CDATA[Great paper on improving proactive agents.
+
+(bookmark it)
+
+Proactive agents act before you do. But how do you evaluate something that's supposed to anticipate needs you haven't expressed?
+
+This work introduces PARE, a framework that models applications as finite state machines with stateful navigation and state-dependent action spaces, enabling realistic active user simulation.
+
+Building on this, PARE-Bench provides 143 diverse tasks across communication, productivity, scheduling, and lifestyle apps, testing context observation, goal inference, intervention timing, and multi-app orchestration.
+
+Why does it matter?
+
+Current benchmarks model apps as flat tool-calling APIs, missing the stateful, sequential nature of real user interaction. PARE closes this gap, giving researchers a principled way to measure whether agents can infer goals and act at the right moment.
+
+Paper: https://t.co/dOu7p7d5if
+
+Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
 
 ---
-@NousResearch | ❤️ 13 | 🔁 1 | 💬 7 | 👁 709]]></description>
-      <author>@NousResearch</author>
+@dair_ai | ❤️ 2 | 🔁 0 | 💬 0 | 👁 120]]></description>
+      <author>@dair_ai</author>
     </item>
     <item>
-      <title>Meet EEWOC: A Wheeled Orb #Robot That Climbs Steel with Extendable Limbs
-via @WevolverApp
+      <title>Train-to-Test scaling explained: How to optimize your end-to-end #AI compute budget for inference
+by...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048082867008225466</link>
+      <guid isPermaLink="false">2048082867008225466</guid>
+      <pubDate>Sat, 25 Apr 2026 16:53:01 +0000</pubDate>
+      <description><![CDATA[Train-to-Test scaling explained: How to optimize your end-to-end #AI compute budget for inference
+by @bendee983 @VentureBeat
 
-#AI #Robo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048075868287737899</link>
-      <guid isPermaLink="false">2048075868287737899</guid>
-      <pubDate>Sat, 25 Apr 2026 16:25:13 +0000</pubDate>
-      <description><![CDATA[Meet EEWOC: A Wheeled Orb #Robot That Climbs Steel with Extendable Limbs
-via @WevolverApp
+Learn more: https://t.co/yHMppLMWsc
 
-#AI #Robotics #Innovation #TechForGood #EmergingTech https://t.co/b8zYJb9AxW
+#ArtificialIntelligence #MachineLearning #ML https://t.co/IO6CJNCt0M
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 57]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 72]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @mr_r0b0t: Upgraded my Nous Portal sub, it's proving to be very much worth the $
-The new $20 tier...</title>
-      <link>https://x.com/NousResearch/status/2048074933788357110</link>
-      <guid isPermaLink="false">2048074933788357110</guid>
-      <pubDate>Sat, 25 Apr 2026 16:21:30 +0000</pubDate>
-      <description><![CDATA[RT @mr_r0b0t: Upgraded my Nous Portal sub, it's proving to be very much worth the $
-The new $20 tier is incredibly generous given the insan…
+      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
+
+Join 1...</title>
+      <link>https://x.com/petergyang/status/2048082553463332886</link>
+      <guid isPermaLink="false">2048082553463332886</guid>
+      <pubDate>Sat, 25 Apr 2026 16:51:46 +0000</pubDate>
+      <description><![CDATA[If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
+
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF
 
 ---
-@NousResearch | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
-      <author>@NousResearch</author>
+@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 262]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>Interesting. Still bullish on betting markets as a prognostication tool. But they do take a heavy to...</title>
-      <link>https://x.com/tunguz/status/2048072967288967324</link>
-      <guid isPermaLink="false">2048072967288967324</guid>
-      <pubDate>Sat, 25 Apr 2026 16:13:41 +0000</pubDate>
-      <description><![CDATA[Interesting. Still bullish on betting markets as a prognostication tool. But they do take a heavy toll on average an average user.
+      <title>RT @Ronald_vanLoon: #AI-Powered RTOL System Enables Runway-Free #Drone Launch and Recovery from Movi...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048081352864498035</link>
+      <guid isPermaLink="false">2048081352864498035</guid>
+      <pubDate>Sat, 25 Apr 2026 16:47:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: #AI-Powered RTOL System Enables Runway-Free #Drone Launch and Recovery from Moving Vehicles
+by @ViralRushX
+
+#EmergingTe…
 
 ---
-@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 709]]></description>
-      <author>@tunguz</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>✨ Added client-side OpenCV to my drone sim that watches the drone video feed in-game and tries to de...</title>
-      <link>https://x.com/levelsio/status/2048070627894948057</link>
-      <guid isPermaLink="false">2048070627894948057</guid>
-      <pubDate>Sat, 25 Apr 2026 16:04:23 +0000</pubDate>
-      <description><![CDATA[✨ Added client-side OpenCV to my drone sim that watches the drone video feed in-game and tries to detect people, it's messy and wrong all the time (like real OpenCV running on a shitty radio connection)
-
-It's starting to look pretty real and with multiplayer it's becoming actually really fun
-
-@marcantoinefon had a tip to let people walk to an X on the map to pick up a drone, which they can then use to fly around, then if it crashes/shot, you lose it and you have 0 drones
-
-That forces you to walk around the map to collect drones, which give you an advantage, but while you walk you're obviously at risk
-
-Also I added night mode now and you get a flashlight, but other players can see you use your flashlight and spot you
-
-And added a 4G tower and sksycraper you can climb and hide in :D
+      <title>Had to record this one for posterity on my blog https://t.co/ht9EtrXV4R</title>
+      <link>https://x.com/simonw/status/2048080756673847471</link>
+      <guid isPermaLink="false">2048080756673847471</guid>
+      <pubDate>Sat, 25 Apr 2026 16:44:38 +0000</pubDate>
+      <description><![CDATA[Had to record this one for posterity on my blog https://t.co/ht9EtrXV4R
 
 ---
-@levelsio | ❤️ 18 | 🔁 0 | 💬 10 | 👁 5989]]></description>
-      <author>@levelsio</author>
+@simonw | ❤️ 5 | 🔁 0 | 💬 0 | 👁 821]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>国区 Apple store 开启了充值活动，有需要的推友可以冲了 https://t.co/CeOErhotKF</title>
+      <link>https://x.com/Jason_Young1231/status/2048080612750495922</link>
+      <guid isPermaLink="false">2048080612750495922</guid>
+      <pubDate>Sat, 25 Apr 2026 16:44:04 +0000</pubDate>
+      <description><![CDATA[国区 Apple store 开启了充值活动，有需要的推友可以冲了 https://t.co/CeOErhotKF
+
+---
+@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 1 | 👁 201]]></description>
+      <author>@Jason_Young1231</author>
+    </item>
+    <item>
+      <title>ChatGPT is just a less useful version of Codex that can't  build and ship stuff. 
+
+Same for regular ...</title>
+      <link>https://x.com/petergyang/status/2048079936418902356</link>
+      <guid isPermaLink="false">2048079936418902356</guid>
+      <pubDate>Sat, 25 Apr 2026 16:41:22 +0000</pubDate>
+      <description><![CDATA[ChatGPT is just a less useful version of Codex that can't  build and ship stuff. 
+
+Same for regular Claude vs. Claude Code.
+
+It's all just prompting the AI at the end of the day.
+
+---
+@petergyang | ❤️ 3 | 🔁 0 | 💬 5 | 👁 760]]></description>
+      <author>@petergyang</author>
     </item>
   </channel>
 </rss>
