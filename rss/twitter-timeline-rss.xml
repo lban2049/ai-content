@@ -5,124 +5,72 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:31:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Great paper on improving proactive agents.
+      <title>Carry-and-Ride: The Inflatable E-Scooter You Can Pack Anywhere
+by @amazingthings_
 
-(bookmark it)
+#EmergingTech #In...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048090441988333928</link>
+      <guid isPermaLink="false">2048090441988333928</guid>
+      <pubDate>Sat, 25 Apr 2026 17:23:07 +0000</pubDate>
+      <description><![CDATA[Carry-and-Ride: The Inflatable E-Scooter You Can Pack Anywhere
+by @amazingthings_
 
-Proactive agents act before you do. But h...</title>
-      <link>https://x.com/dair_ai/status/2048083882327916688</link>
-      <guid isPermaLink="false">2048083882327916688</guid>
-      <pubDate>Sat, 25 Apr 2026 16:57:03 +0000</pubDate>
-      <description><![CDATA[Great paper on improving proactive agents.
-
-(bookmark it)
-
-Proactive agents act before you do. But how do you evaluate something that's supposed to anticipate needs you haven't expressed?
-
-This work introduces PARE, a framework that models applications as finite state machines with stateful navigation and state-dependent action spaces, enabling realistic active user simulation.
-
-Building on this, PARE-Bench provides 143 diverse tasks across communication, productivity, scheduling, and lifestyle apps, testing context observation, goal inference, intervention timing, and multi-app orchestration.
-
-Why does it matter?
-
-Current benchmarks model apps as flat tool-calling APIs, missing the stateful, sequential nature of real user interaction. PARE closes this gap, giving researchers a principled way to measure whether agents can infer goals and act at the right moment.
-
-Paper: https://t.co/dOu7p7d5if
-
-Learn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c
+#EmergingTech #Innovation #Technology https://t.co/hPz1FryV69
 
 ---
-@dair_ai | ❤️ 2 | 🔁 0 | 💬 0 | 👁 120]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>Train-to-Test scaling explained: How to optimize your end-to-end #AI compute budget for inference
-by...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048082867008225466</link>
-      <guid isPermaLink="false">2048082867008225466</guid>
-      <pubDate>Sat, 25 Apr 2026 16:53:01 +0000</pubDate>
-      <description><![CDATA[Train-to-Test scaling explained: How to optimize your end-to-end #AI compute budget for inference
-by @bendee983 @VentureBeat
-
-Learn more: https://t.co/yHMppLMWsc
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/IO6CJNCt0M
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 72]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 67]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 1...</title>
-      <link>https://x.com/petergyang/status/2048082553463332886</link>
-      <guid isPermaLink="false">2048082553463332886</guid>
-      <pubDate>Sat, 25 Apr 2026 16:51:46 +0000</pubDate>
-      <description><![CDATA[If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 110,000+ subscribers here:
-https://t.co/yz9xcsfrhF
+      <title>明天将发布我的第 15 个 vibe 产品，是所有产品里最酷，最有趣的一个，我已经写好了定时帖子，明天依然是 11 点自动发布。</title>
+      <link>https://x.com/turingou/status/2048090076123631809</link>
+      <guid isPermaLink="false">2048090076123631809</guid>
+      <pubDate>Sat, 25 Apr 2026 17:21:40 +0000</pubDate>
+      <description><![CDATA[明天将发布我的第 15 个 vibe 产品，是所有产品里最酷，最有趣的一个，我已经写好了定时帖子，明天依然是 11 点自动发布。
 
 ---
-@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 262]]></description>
-      <author>@petergyang</author>
+@turingou | ❤️ 10 | 🔁 0 | 💬 1 | 👁 568]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: #AI-Powered RTOL System Enables Runway-Free #Drone Launch and Recovery from Movi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048081352864498035</link>
-      <guid isPermaLink="false">2048081352864498035</guid>
-      <pubDate>Sat, 25 Apr 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #AI-Powered RTOL System Enables Runway-Free #Drone Launch and Recovery from Moving Vehicles
-by @ViralRushX
+      <title>RT @AiwithYasir: 🚨Just IN: MIT proved you can delete 90% of a neural network without losing accuracy...</title>
+      <link>https://x.com/DeepLearn007/status/2048089016315044280</link>
+      <guid isPermaLink="false">2048089016315044280</guid>
+      <pubDate>Sat, 25 Apr 2026 17:17:27 +0000</pubDate>
+      <description><![CDATA[RT @AiwithYasir: 🚨Just IN: MIT proved you can delete 90% of a neural network without losing accuracy.
 
-#EmergingTe…
+Researchers found that inside every…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@DeepLearn007 | ❤️ 0 | 🔁 74 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Had to record this one for posterity on my blog https://t.co/ht9EtrXV4R</title>
-      <link>https://x.com/simonw/status/2048080756673847471</link>
-      <guid isPermaLink="false">2048080756673847471</guid>
-      <pubDate>Sat, 25 Apr 2026 16:44:38 +0000</pubDate>
-      <description><![CDATA[Had to record this one for posterity on my blog https://t.co/ht9EtrXV4R
+      <title>RT @JanFadayeMeehan: شکیلا جان، برای من یک ماه گذشت از روزی که شروع کردم صدایت باشم، اما تو نزدیک به...</title>
+      <link>https://x.com/DeepLearn007/status/2048088933683098021</link>
+      <guid isPermaLink="false">2048088933683098021</guid>
+      <pubDate>Sat, 25 Apr 2026 17:17:08 +0000</pubDate>
+      <description><![CDATA[RT @JanFadayeMeehan: شکیلا جان، برای من یک ماه گذشت از روزی که شروع کردم صدایت باشم، اما تو نزدیک به سه ماه است که در زندانی. خسته و ناامید…
 
 ---
-@simonw | ❤️ 5 | 🔁 0 | 💬 0 | 👁 821]]></description>
-      <author>@simonw</author>
+@DeepLearn007 | ❤️ 0 | 🔁 58 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>国区 Apple store 开启了充值活动，有需要的推友可以冲了 https://t.co/CeOErhotKF</title>
-      <link>https://x.com/Jason_Young1231/status/2048080612750495922</link>
-      <guid isPermaLink="false">2048080612750495922</guid>
-      <pubDate>Sat, 25 Apr 2026 16:44:04 +0000</pubDate>
-      <description><![CDATA[国区 Apple store 开启了充值活动，有需要的推友可以冲了 https://t.co/CeOErhotKF
+      <title>RT @cherry_mx_reds: Went to bed with OpenClaw at almost 9,000 open PRs. Woke up to nearly half that....</title>
+      <link>https://x.com/steipete/status/2048085956989788630</link>
+      <guid isPermaLink="false">2048085956989788630</guid>
+      <pubDate>Sat, 25 Apr 2026 17:05:18 +0000</pubDate>
+      <description><![CDATA[RT @cherry_mx_reds: Went to bed with OpenClaw at almost 9,000 open PRs. Woke up to nearly half that.
+
+clawsweeper is inevitable. 🦞💎 https:/…
 
 ---
-@Jason_Young1231 | ❤️ 0 | 🔁 0 | 💬 1 | 👁 201]]></description>
-      <author>@Jason_Young1231</author>
-    </item>
-    <item>
-      <title>ChatGPT is just a less useful version of Codex that can't  build and ship stuff. 
-
-Same for regular ...</title>
-      <link>https://x.com/petergyang/status/2048079936418902356</link>
-      <guid isPermaLink="false">2048079936418902356</guid>
-      <pubDate>Sat, 25 Apr 2026 16:41:22 +0000</pubDate>
-      <description><![CDATA[ChatGPT is just a less useful version of Codex that can't  build and ship stuff. 
-
-Same for regular Claude vs. Claude Code.
-
-It's all just prompting the AI at the end of the day.
-
----
-@petergyang | ❤️ 3 | 🔁 0 | 💬 5 | 👁 760]]></description>
-      <author>@petergyang</author>
+@steipete | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
     </item>
   </channel>
 </rss>
