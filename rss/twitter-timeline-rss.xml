@@ -5,79 +5,75 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 21:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:01:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @XFreeze: I asked ChatGPT and Grok the exact same question about gender transition surgeries
-
-The...</title>
-      <link>https://x.com/elonmusk/status/2048151716927807806</link>
-      <guid isPermaLink="false">2048151716927807806</guid>
-      <pubDate>Sat, 25 Apr 2026 21:26:36 +0000</pubDate>
-      <description><![CDATA[RT @XFreeze: I asked ChatGPT and Grok the exact same question about gender transition surgeries
-
-The difference is literally dangerous
-
-Cha…
+      <title>A Progress 95 cargo spacecraft stands at its launch pad in Kazakhstan counting down to a liftoff at ...</title>
+      <link>https://x.com/Space_Station/status/2048160122594029779</link>
+      <guid isPermaLink="false">2048160122594029779</guid>
+      <pubDate>Sat, 25 Apr 2026 22:00:00 +0000</pubDate>
+      <description><![CDATA[A Progress 95 cargo spacecraft stands at its launch pad in Kazakhstan counting down to a liftoff at 6:21pm ET today to resupply the Expedition 74 crew live on @NASA+. https://t.co/ufvvcPHoGZ
 
 ---
-@elonmusk | ❤️ 0 | 🔁 148 | 💬 0 | 👁 76]]></description>
-      <author>@elonmusk</author>
+@Space_Station | ❤️ 7 | 🔁 5 | 💬 1 | 👁 289]]></description>
+      <author>@Space_Station</author>
     </item>
     <item>
-      <title>RT @thsottiaux: It’s the little things that matter, what are some small papercuts you have noticed i...</title>
-      <link>https://x.com/steipete/status/2048150804566049110</link>
-      <guid isPermaLink="false">2048150804566049110</guid>
-      <pubDate>Sat, 25 Apr 2026 21:22:59 +0000</pubDate>
-      <description><![CDATA[RT @thsottiaux: It’s the little things that matter, what are some small papercuts you have noticed in Codex? We’ll fix as many as possible…
+      <title>the crawl army so agents can read it all. https://t.co/UetFfxNCUc</title>
+      <link>https://x.com/steipete/status/2048159526822535435</link>
+      <guid isPermaLink="false">2048159526822535435</guid>
+      <pubDate>Sat, 25 Apr 2026 21:57:38 +0000</pubDate>
+      <description><![CDATA[the crawl army so agents can read it all. https://t.co/UetFfxNCUc
 
 ---
-@steipete | ❤️ 0 | 🔁 27 | 💬 0 | 👁 1]]></description>
+@steipete | ❤️ 28 | 🔁 3 | 💬 3 | 👁 1028]]></description>
       <author>@steipete</author>
     </item>
     <item>
-      <title>ModQuad: Modular Quadrotors That Dock Mid-Air to Fly as One Cooperative #Robot
-by @lukas_m_ziegler
+      <title>RT @theo: Despite the price increase, GPT-5.5 (xhigh) still came out cheaper than Sonnet on the Arti...</title>
+      <link>https://x.com/steipete/status/2048157951534190839</link>
+      <guid isPermaLink="false">2048157951534190839</guid>
+      <pubDate>Sat, 25 Apr 2026 21:51:23 +0000</pubDate>
+      <description><![CDATA[RT @theo: Despite the price increase, GPT-5.5 (xhigh) still came out cheaper than Sonnet on the Artificial Analysis Index.
 
-...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048150097137983804</link>
-      <guid isPermaLink="false">2048150097137983804</guid>
-      <pubDate>Sat, 25 Apr 2026 21:20:10 +0000</pubDate>
-      <description><![CDATA[ModQuad: Modular Quadrotors That Dock Mid-Air to Fly as One Cooperative #Robot
-by @lukas_m_ziegler
-
-#Drone #Innovation #EmergingTech #Tech #Technology https://t.co/HDCozTQt8F
+It's more expen…
 
 ---
-@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 2 | 👁 99]]></description>
-      <author>@Ronald_vanLoon</author>
+@steipete | ❤️ 0 | 🔁 21 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>RT @chamath: On page twenty-six of “The Billionaire Tax” proposal in California, it explains how the...</title>
-      <link>https://x.com/elonmusk/status/2048147476016758872</link>
-      <guid isPermaLink="false">2048147476016758872</guid>
-      <pubDate>Sat, 25 Apr 2026 21:09:45 +0000</pubDate>
-      <description><![CDATA[RT @chamath: On page twenty-six of “The Billionaire Tax” proposal in California, it explains how the state legislature can convert from a B…
+      <title>Released wacrawl 0.1.0 🧾
+
+A read-only CLI for archiving and searching local macOS WhatsApp Desktop d...</title>
+      <link>https://x.com/steipete/status/2048157841165295831</link>
+      <guid isPermaLink="false">2048157841165295831</guid>
+      <pubDate>Sat, 25 Apr 2026 21:50:56 +0000</pubDate>
+      <description><![CDATA[Released wacrawl 0.1.0 🧾
+
+A read-only CLI for archiving and searching local macOS WhatsApp Desktop data.
+
+It snapshots WhatsApp’s SQLite DBs into its own archive, then gives you chat/message listing + FTS search. No extra auth needed, it just works. https://t.co/SLVLlA0vpP
 
 ---
-@elonmusk | ❤️ 0 | 🔁 1015 | 💬 0 | 👁 386]]></description>
-      <author>@elonmusk</author>
+@steipete | ❤️ 33 | 🔁 3 | 💬 6 | 👁 2073]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Can #EdgeComputing Reinforce #Data Sovereignty at Scale?
-by @antgrasso
+      <title>LifeStraw: Portable Water Filter for Safe Drinking Anywhere
+by @IntEngineering
 
-#DataSci...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048145528047702523</link>
-      <guid isPermaLink="false">2048145528047702523</guid>
-      <pubDate>Sat, 25 Apr 2026 21:02:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Can #EdgeComputing Reinforce #Data Sovereignty at Scale?
-by @antgrasso
+#TechForGood #Innova...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048157672998854679</link>
+      <guid isPermaLink="false">2048157672998854679</guid>
+      <pubDate>Sat, 25 Apr 2026 21:50:16 +0000</pubDate>
+      <description><![CDATA[LifeStraw: Portable Water Filter for Safe Drinking Anywhere
+by @IntEngineering
 
-#DataScience #BigData https://t.co/sKrySCtDJs
+#TechForGood #Innovation #Tech #Technology https://t.co/bWFvkmEYLY
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 82]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
   </channel>
