@@ -5,107 +5,113 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Apr 2026 10:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 11:01:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>copilot 最近的改动让我想起来之前这条推</title>
-      <link>https://x.com/Jason_Young1231/status/2047985590197727364</link>
-      <guid isPermaLink="false">2047985590197727364</guid>
-      <pubDate>Sat, 25 Apr 2026 10:26:29 +0000</pubDate>
-      <description><![CDATA[copilot 最近的改动让我想起来之前这条推
+      <title>https://t.co/6pBN8v18rt</title>
+      <link>https://x.com/oran_ge/status/2047993034273628521</link>
+      <guid isPermaLink="false">2047993034273628521</guid>
+      <pubDate>Sat, 25 Apr 2026 10:56:03 +0000</pubDate>
+      <description><![CDATA[https://t.co/6pBN8v18rt
 
 ---
-@Jason_Young1231 | ❤️ 2 | 🔁 0 | 💬 1 | 👁 51]]></description>
-      <author>@Jason_Young1231</author>
+@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 454]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>From Fins to Wings: Festo’s Bio-Inspired Engineering in Motion
-by @lukas_m_ziegler
+      <title>Advanced #Robotics for Hazardous Environments 
+by @antgrasso
 
-#Robotics #Machi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2047983492785434881</link>
-      <guid isPermaLink="false">2047983492785434881</guid>
-      <pubDate>Sat, 25 Apr 2026 10:18:09 +0000</pubDate>
-      <description><![CDATA[From Fins to Wings: Festo’s Bio-Inspired Engineering in Motion
-by @lukas_m_ziegler
+#ArtificialIntelligence #MachineLearni...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2047993024664256808</link>
+      <guid isPermaLink="false">2047993024664256808</guid>
+      <pubDate>Sat, 25 Apr 2026 10:56:01 +0000</pubDate>
+      <description><![CDATA[Advanced #Robotics for Hazardous Environments 
+by @antgrasso
 
-#Robotics #MachineLearning #ArtificialIntelligence #ML #MI #Innovation https://t.co/fXpakJoAus
+#ArtificialIntelligence #MachineLearning #ML https://t.co/oLlfwe8Zjr
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 88]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 42]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>My favorite part: instead of a dashboard it just updates the README as it works.
-
-Readme is the new ...</title>
-      <link>https://x.com/steipete/status/2047982886637158738</link>
-      <guid isPermaLink="false">2047982886637158738</guid>
-      <pubDate>Sat, 25 Apr 2026 10:15:44 +0000</pubDate>
-      <description><![CDATA[My favorite part: instead of a dashboard it just updates the README as it works.
-
-Readme is the new dashboard.
+      <title>closing what's fixed was the pre-clean.
+intent-based clustering is the second strike.</title>
+      <link>https://x.com/steipete/status/2047992836176425470</link>
+      <guid isPermaLink="false">2047992836176425470</guid>
+      <pubDate>Sat, 25 Apr 2026 10:55:16 +0000</pubDate>
+      <description><![CDATA[closing what's fixed was the pre-clean.
+intent-based clustering is the second strike.
 
 ---
-@steipete | ❤️ 13 | 🔁 0 | 💬 0 | 👁 1945]]></description>
+@steipete | ❤️ 6 | 🔁 0 | 💬 2 | 👁 1610]]></description>
       <author>@steipete</author>
     </item>
     <item>
-      <title>有一个新的想法，想做一款语源的可视化产品，这次打算交给 wanman 自己来开发上线，我只负责打分。</title>
-      <link>https://x.com/turingou/status/2047982804827574564</link>
-      <guid isPermaLink="false">2047982804827574564</guid>
-      <pubDate>Sat, 25 Apr 2026 10:15:25 +0000</pubDate>
-      <description><![CDATA[有一个新的想法，想做一款语源的可视化产品，这次打算交给 wanman 自己来开发上线，我只负责打分。
+      <title>RT @bensen: ClawSweeper goes online on April 24, 2026.
+Human decisions are removed from issues/prs s...</title>
+      <link>https://x.com/steipete/status/2047991504719786457</link>
+      <guid isPermaLink="false">2047991504719786457</guid>
+      <pubDate>Sat, 25 Apr 2026 10:49:59 +0000</pubDate>
+      <description><![CDATA[RT @bensen: ClawSweeper goes online on April 24, 2026.
+Human decisions are removed from issues/prs scanning.
+The maintainer bot begins to c…
 
 ---
-@turingou | ❤️ 1 | 🔁 0 | 💬 1 | 👁 1101]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>Built clawsweeper, which runs 50 codex in parallel around the clock, scans issues/prs deep and close...</title>
-      <link>https://x.com/steipete/status/2047982647264059734</link>
-      <guid isPermaLink="false">2047982647264059734</guid>
-      <pubDate>Sat, 25 Apr 2026 10:14:47 +0000</pubDate>
-      <description><![CDATA[Built clawsweeper, which runs 50 codex in parallel around the clock, scans issues/prs deep and closes what is already implemented or what makes no sense.
-
-Closed around 4000 issues today, a few thousand are in the pipeline. (rate limits are rough) https://t.co/AiNNDcvGke
-
----
-@steipete | ❤️ 117 | 🔁 8 | 💬 16 | 👁 4197]]></description>
+@steipete | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@steipete</author>
     </item>
     <item>
-      <title>你应该关注我的原因：
-1. 我很可爱
-2. 我特别爱笑
-3. 我很擅长夸夸
-4. 如果你跟我互动我会很热情地回应你，基本上每条评论都会回复
-5. 如果你经常跟我互动而且我觉得你人品好或      者欣...</title>
-      <link>https://x.com/stark_nico99/status/2047981840473166272</link>
-      <guid isPermaLink="false">2047981840473166272</guid>
-      <pubDate>Sat, 25 Apr 2026 10:11:35 +0000</pubDate>
-      <description><![CDATA[你应该关注我的原因：
-1. 我很可爱
-2. 我特别爱笑
-3. 我很擅长夸夸
-4. 如果你跟我互动我会很热情地回应你，基本上每条评论都会回复
-5. 如果你经常跟我互动而且我觉得你人品好或      者欣赏你，就会关注你
-6. 我的账号除了分享干货日常就是推广 YouMind ，很纯粹
-7. 我每天都在成长，现在入坑你就是原始股
+      <title>RT @ELLISforEurope: 🎓 Register now for ML &amp;amp; Advanced Stats Summer School, an intensive set o...</title>
+      <link>https://x.com/ylecun/status/2047991445483589885</link>
+      <guid isPermaLink="false">2047991445483589885</guid>
+      <pubDate>Sat, 25 Apr 2026 10:49:45 +0000</pubDate>
+      <description><![CDATA[RT @ELLISforEurope: 🎓 Register now for ML &amp;amp; Advanced Stats Summer School, an intensive set of courses on theoretical foundations &amp;amp; applicat…
 
 ---
-@stark_nico99 | ❤️ 7 | 🔁 0 | 💬 3 | 👁 89]]></description>
-      <author>@stark_nico99</author>
+@ylecun | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>通常来说，如果我用英文介绍我的 vibe 产品会有更大的流量，但我坚持用中文写，因为我们总是在时间线上看到大家在讨论英文社区有什么火起来的 AI 产品，我希望哪一天英文社区的人也能用自动翻译讨论我做的...</title>
-      <link>https://x.com/turingou/status/2047980331744338230</link>
-      <guid isPermaLink="false">2047980331744338230</guid>
-      <pubDate>Sat, 25 Apr 2026 10:05:35 +0000</pubDate>
-      <description><![CDATA[通常来说，如果我用英文介绍我的 vibe 产品会有更大的流量，但我坚持用中文写，因为我们总是在时间线上看到大家在讨论英文社区有什么火起来的 AI 产品，我希望哪一天英文社区的人也能用自动翻译讨论我做的产品。中文不应该只是中国的中文，应当是世界的中文。
+      <title>RT @ziv_ravid: New episode of The Information Bottleneck is out, this time with @liuzhuang1234  (Pri...</title>
+      <link>https://x.com/ylecun/status/2047990820582625511</link>
+      <guid isPermaLink="false">2047990820582625511</guid>
+      <pubDate>Sat, 25 Apr 2026 10:47:16 +0000</pubDate>
+      <description><![CDATA[RT @ziv_ravid: New episode of The Information Bottleneck is out, this time with @liuzhuang1234  (Princeton).
+
+We talked about ConvNeXt and…
 
 ---
-@turingou | ❤️ 68 | 🔁 2 | 💬 7 | 👁 3806]]></description>
+@ylecun | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>RT @AYi_AInotes: 图灵奖获得者、 AI 三大教父之一的 LeCun在达沃斯的发言，算是把整个硅谷的遮羞布扯了。
+
+他说现在整个行业都被LLM彻底洗脑了，所有人都在同一条赛道上互相挖人，...</title>
+      <link>https://x.com/ylecun/status/2047989607094968730</link>
+      <guid isPermaLink="false">2047989607094968730</guid>
+      <pubDate>Sat, 25 Apr 2026 10:42:26 +0000</pubDate>
+      <description><![CDATA[RT @AYi_AInotes: 图灵奖获得者、 AI 三大教父之一的 LeCun在达沃斯的发言，算是把整个硅谷的遮羞布扯了。
+
+他说现在整个行业都被LLM彻底洗脑了，所有人都在同一条赛道上互相挖人，谁敢偏离主流谁就被骂落后。
+
+这也是他离开Meta的真正原因，连Meta都已经…
+
+---
+@ylecun | ❤️ 0 | 🔁 73 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>为了让 wanman 接入本地模型，我下周还会有一个重量产品发布，是今年一月以来我最疯狂最没法描述的想法之一，敬请期待！</title>
+      <link>https://x.com/turingou/status/2047987118300135478</link>
+      <guid isPermaLink="false">2047987118300135478</guid>
+      <pubDate>Sat, 25 Apr 2026 10:32:33 +0000</pubDate>
+      <description><![CDATA[为了让 wanman 接入本地模型，我下周还会有一个重量产品发布，是今年一月以来我最疯狂最没法描述的想法之一，敬请期待！
+
+---
+@turingou | ❤️ 12 | 🔁 0 | 💬 1 | 👁 1874]]></description>
       <author>@turingou</author>
     </item>
   </channel>
