@@ -5,163 +5,95 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 16:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:00:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Just a quick review of where I think each product falls short:
-
-Claude Code: 
-
-Why do I have type /r...</title>
-      <link>https://x.com/petergyang/status/2048439694279704581</link>
-      <guid isPermaLink="false">2048439694279704581</guid>
-      <pubDate>Sun, 26 Apr 2026 16:30:55 +0000</pubDate>
-      <description><![CDATA[Just a quick review of where I think each product falls short:
-
-Claude Code: 
-
-Why do I have type /remote-control each time to talk to my projects on mobile? Love the routines (cron jobs) but when routines fails it doesn't let me know. Also the whole interface is code-based and doesn't feel like a personal agent.
-
-Codex:
-
-Alot of potential but lack of mobile makes it impossible to use as personal agent.
-
-OpenClaw:
-
-Probably comes the closest still. GPT 5.5 is big improvement in personality over 5.4. However it has one critical flaw - it's just not very reliable. I know many OpenClaw power users who have to get Codex/Claude Code to fix it on a semi-regular basis.
-
-P.S. I know how hard it is to build the products above. But yeah whoever figures out this list AND makes personal agent easy to use for the masses is going to win.
+      <title>No more updating needed for new model releases via Nous Portal and OpenRouter!</title>
+      <link>https://x.com/NousResearch/status/2048447119191683551</link>
+      <guid isPermaLink="false">2048447119191683551</guid>
+      <pubDate>Sun, 26 Apr 2026 17:00:26 +0000</pubDate>
+      <description><![CDATA[No more updating needed for new model releases via Nous Portal and OpenRouter!
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@petergyang</author>
+@NousResearch | ❤️ 1 | 🔁 0 | 💬 0 | 👁 5]]></description>
+      <author>@NousResearch</author>
     </item>
     <item>
-      <title>To all the clowns saying that Seattle is always rainy and never sees the sun: Seattle has *less* pre...</title>
-      <link>https://x.com/fchollet/status/2048438670278160811</link>
-      <guid isPermaLink="false">2048438670278160811</guid>
-      <pubDate>Sun, 26 Apr 2026 16:26:51 +0000</pubDate>
-      <description><![CDATA[To all the clowns saying that Seattle is always rainy and never sees the sun: Seattle has *less* precipitation than NYC, Boston, Atlanta, Miami, New Orleans, etc... in fact it rains less in Seattle than on the Northern California coast. https://t.co/73n8zaLuwH
+      <title>RT @TimHaldorsson: Next up: Hermes Agents on Tuesday in Lisbon 🇵🇹 
+
+as we work to make our office th...</title>
+      <link>https://x.com/NousResearch/status/2048446713216524415</link>
+      <guid isPermaLink="false">2048446713216524415</guid>
+      <pubDate>Sun, 26 Apr 2026 16:58:49 +0000</pubDate>
+      <description><![CDATA[RT @TimHaldorsson: Next up: Hermes Agents on Tuesday in Lisbon 🇵🇹 
+
+as we work to make our office the go-to space for AI builders in Portug…
 
 ---
-@fchollet | ❤️ 0 | 🔁 0 | 💬 0 | 👁 523]]></description>
-      <author>@fchollet</author>
+@NousResearch | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
     </item>
     <item>
-      <title>NASA’s Zero-Gravity #Robotic Arms Master Delicate, Heavy, and Irregular Grips
-by @tweetciiiim
- 
-#Tec...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048438227124527552</link>
-      <guid isPermaLink="false">2048438227124527552</guid>
-      <pubDate>Sun, 26 Apr 2026 16:25:06 +0000</pubDate>
-      <description><![CDATA[NASA’s Zero-Gravity #Robotic Arms Master Delicate, Heavy, and Irregular Grips
-by @tweetciiiim
- 
-#Tech #TechForGood #EmergingTech https://t.co/XU3nK3HxvB
+      <title>#AI’s Role in Curating Memory, Identity and Legacy
+by Liam Houghton @UniteAi
+
+Learn more: https://t....</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048445258694848987</link>
+      <guid isPermaLink="false">2048445258694848987</guid>
+      <pubDate>Sun, 26 Apr 2026 16:53:02 +0000</pubDate>
+      <description><![CDATA[#AI’s Role in Curating Memory, Identity and Legacy
+by Liam Houghton @UniteAi
+
+Learn more: https://t.co/ktGdR2iEYJ
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/sCEjjWahUI
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 52]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 1 | 👁 88]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>做 Yuragi FM 的过程中，我发现 AIGC 类产品的难点第一是在乎探索语言空间和结构，第二是难以评估实验成果，总是在 60-80 分之间横跳，没有 90+ 以上的生成产物。第三就是设计实验的成...</title>
-      <link>https://x.com/turingou/status/2048437705428881534</link>
-      <guid isPermaLink="false">2048437705428881534</guid>
-      <pubDate>Sun, 26 Apr 2026 16:23:01 +0000</pubDate>
-      <description><![CDATA[做 Yuragi FM 的过程中，我发现 AIGC 类产品的难点第一是在乎探索语言空间和结构，第二是难以评估实验成果，总是在 60-80 分之间横跳，没有 90+ 以上的生成产物。第三就是设计实验的成本和测试时间过长。我看到小红书上有不少专业做 AIGC 的，使用现成的工具，human in the loop 来做协调者，创作一首音乐都需要花 1-2 天的时间，更别提 MV 了，一方面，我们依赖模型不断进化来内化一些需要协调的功能和反复试错的实验，另外一方面，不断内化的模型又会趋向生成更加大众化审美的内容，进一步提升探寻语言空间的难度。因此，在做这个产品过程中，感受到最大的启发不是工作流的编排，也不是 agent matrix 的设计，而是人类意图的捕获。换句话说，真正重要的是如何理解意图（目标，岔路，审美，世界观）而非编排，wanman 也好，其他的流行的 harness 工程产品也好，只是完成这一步设计的早期基础设施。
+      <title>RT @Ronald_vanLoon: Top 10 Emerging Technologies According to the World Economic Forum 
+by @antgrass...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048443742269345917</link>
+      <guid isPermaLink="false">2048443742269345917</guid>
+      <pubDate>Sun, 26 Apr 2026 16:47:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Top 10 Emerging Technologies According to the World Economic Forum 
+by @antgrasso
+
+#EmergingTech #Innovation #CleanEner…
 
 ---
-@turingou | ❤️ 3 | 🔁 1 | 💬 0 | 👁 481]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>🔥DeepSeek Input Cache Price Drop!
+
+Effective immediately, the price for input cache hits across the ...</title>
+      <link>https://x.com/deepseek_ai/status/2048440764368347611</link>
+      <guid isPermaLink="false">2048440764368347611</guid>
+      <pubDate>Sun, 26 Apr 2026 16:35:11 +0000</pubDate>
+      <description><![CDATA[🔥DeepSeek Input Cache Price Drop!
+
+Effective immediately, the price for input cache hits across the ENTIRE DeepSeek API series is reduced to just 1/10th of the original price! Build more efficiently for less.
+
+📌Reminder: The DeepSeek-V4-Pro 75% OFF promotion is still active until May 5th, 2026, 15:59 (UTC Time).
+
+---
+@deepseek_ai | ❤️ 673 | 🔁 77 | 💬 54 | 👁 21564]]></description>
+      <author>@deepseek_ai</author>
+    </item>
+    <item>
+      <title>wanman 今天的在线沙箱直接把 sandbank 负载打到了满载。有用户反馈说遇到了「沙盒已满」的提示，可以说我当时设计 sandbank cloud 的目标基本达成了，第一次又做云基础设施又做产...</title>
+      <link>https://x.com/turingou/status/2048440499019899297</link>
+      <guid isPermaLink="false">2048440499019899297</guid>
+      <pubDate>Sun, 26 Apr 2026 16:34:07 +0000</pubDate>
+      <description><![CDATA[wanman 今天的在线沙箱直接把 sandbank 负载打到了满载。有用户反馈说遇到了「沙盒已满」的提示，可以说我当时设计 sandbank cloud 的目标基本达成了，第一次又做云基础设施又做产品，虽然遇到了很多麻烦事，但成就感确实也是直接使用其他现成的基础设施没法相比的。
+
+---
+@turingou | ❤️ 2 | 🔁 0 | 💬 2 | 👁 1661]]></description>
       <author>@turingou</author>
-    </item>
-    <item>
-      <title>7) Multi-agent design. I loved the design of Cove (they were the acquired by Microsoft). It was more...</title>
-      <link>https://x.com/alliekmiller/status/2048436375104405900</link>
-      <guid isPermaLink="false">2048436375104405900</guid>
-      <pubDate>Sun, 26 Apr 2026 16:17:44 +0000</pubDate>
-      <description><![CDATA[7) Multi-agent design. I loved the design of Cove (they were the acquired by Microsoft). It was more of a whiteboard than tabs or chat threads. I don’t think we’ve cracked the right UI for managing agents quite yet (even if we’re just talking to one main CoS and that agent is delegating down the reporting line).
-
-8) Discoverability. This is a mess on all platforms. I like Claude code surfacing tips while it’s thinking and working for you. But unless you're scrolling X for hours a day, or constantly checking in on the AI labs' tweets and documentation, or learning from people who are doing that (like the mastermind I'm running), you’ll never learn the really advanced features and tricks. It feels unsolvable without AI as the surfacer. 
-
-9) Model selection. I realize it is just a dropdown, but the vast majority of AI users don’t know the model differences and tradeoffs. They’ll say “I want the fastest answers possible” and then when a response is low quality, their instinct isn’t to push back or switch to a more powerful AI model, they assume AI cannot do that task. The auto-selectors don’t seem to fully solve this problem either.
-
----
-@alliekmiller | ❤️ 0 | 🔁 0 | 💬 0 | 👁 229]]></description>
-      <author>@alliekmiller</author>
-    </item>
-    <item>
-      <title>RT @badr_hi: سويت لعبة تأثير ستروب مرة ثانية https://t.co/61DRvcA1al</title>
-      <link>https://x.com/amasad/status/2048434618748317899</link>
-      <guid isPermaLink="false">2048434618748317899</guid>
-      <pubDate>Sun, 26 Apr 2026 16:10:45 +0000</pubDate>
-      <description><![CDATA[RT @badr_hi: سويت لعبة تأثير ستروب مرة ثانية https://t.co/61DRvcA1al
-
----
-@amasad | ❤️ 0 | 🔁 4 | 💬 0 | 👁 3]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>RT @ycombinator: Replit is the leading no-code app builder for consumers and enterprise, letting any...</title>
-      <link>https://x.com/amasad/status/2048434430218514647</link>
-      <guid isPermaLink="false">2048434430218514647</guid>
-      <pubDate>Sun, 26 Apr 2026 16:10:00 +0000</pubDate>
-      <description><![CDATA[RT @ycombinator: Replit is the leading no-code app builder for consumers and enterprise, letting anyone with an idea build real, deployed s…
-
----
-@amasad | ❤️ 0 | 🔁 29 | 💬 0 | 👁 0]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>本周 wanman 发布后，我的紧张程度一下子就放松下来了，vibe 的过程中因为非常孤单，没什么人可以聊天，在严肃产品的枯燥对话中我总是会穿插几个有趣又想法很酷的产品当作娱乐。说起来，每有朋友问我「...</title>
-      <link>https://x.com/turingou/status/2048433204395466777</link>
-      <guid isPermaLink="false">2048433204395466777</guid>
-      <pubDate>Sun, 26 Apr 2026 16:05:08 +0000</pubDate>
-      <description><![CDATA[本周 wanman 发布后，我的紧张程度一下子就放松下来了，vibe 的过程中因为非常孤单，没什么人可以聊天，在严肃产品的枯燥对话中我总是会穿插几个有趣又想法很酷的产品当作娱乐。说起来，每有朋友问我「你是不是想认真长期做这个产品」的时候，我都很想（但我总没说出口）和他们说，重要的是享受当下创作的快乐，有所欲，无所求，事情结果不是站在现在看未来，而是未来中过去的投影而已。
-
----
-@turingou | ❤️ 21 | 🔁 1 | 💬 0 | 👁 1444]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>A great personal agent should:
-
-1. Get work done across email, calendar, Google Workspace, or any AP...</title>
-      <link>https://x.com/petergyang/status/2048433179338633627</link>
-      <guid isPermaLink="false">2048433179338633627</guid>
-      <pubDate>Sun, 26 Apr 2026 16:05:02 +0000</pubDate>
-      <description><![CDATA[A great personal agent should:
-
-1. Get work done across email, calendar, Google Workspace, or any API/MCP it's hooked up to
-
-2. Act proactively and reliably (e.g., cron jobs, triggers, follow-ups)
-
-3. Have excellent memory that helps it &quot;just get you&quot; over time
-
-4. Work across web and mobile without slash commands or manual setup
-
-5. Let you switch between text, voice, video, and live calling mid-conversation
-
-6. Be reachable from any 3rd party messaging app, just like a real person
-
-7. Have a personality that makes it fun to talk to
-
-OpenClaw, Claude Code, Codex - the truth is that none of them check all these boxes yet.
-
----
-@petergyang | ❤️ 25 | 🔁 1 | 💬 7 | 👁 1282]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>In other words, you need the world models that LeCun, Schmidhuber, Fei Fei Li, and I have been advoc...</title>
-      <link>https://x.com/GaryMarcus/status/2048432749670007118</link>
-      <guid isPermaLink="false">2048432749670007118</guid>
-      <pubDate>Sun, 26 Apr 2026 16:03:20 +0000</pubDate>
-      <description><![CDATA[In other words, you need the world models that LeCun, Schmidhuber, Fei Fei Li, and I have been advocating for all along.
-
----
-@GaryMarcus | ❤️ 31 | 🔁 3 | 💬 12 | 👁 2528]]></description>
-      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
