@@ -5,104 +5,64 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 01:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 02:00:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>写 PRD（产品需求文档，Product Requirements Document）要写一版给 Agent 的吗？
+      <title>If you want to know what the next generation expects from AI just use Codex with a 7 year old.
 
-我觉得是没必要：
-1. 如果人能看懂，模型更应该能看懂
-2. 如果产品经理写的 ...</title>
-      <link>https://x.com/dotey/status/2048212030482509960</link>
-      <guid isPermaLink="false">2048212030482509960</guid>
-      <pubDate>Sun, 26 Apr 2026 01:26:16 +0000</pubDate>
-      <description><![CDATA[写 PRD（产品需求文档，Product Requirements Document）要写一版给 Agent 的吗？
+&quo...</title>
+      <link>https://x.com/petergyang/status/2048220045726322934</link>
+      <guid isPermaLink="false">2048220045726322934</guid>
+      <pubDate>Sun, 26 Apr 2026 01:58:07 +0000</pubDate>
+      <description><![CDATA[If you want to know what the next generation expects from AI just use Codex with a 7 year old.
 
-我觉得是没必要：
-1. 如果人能看懂，模型更应该能看懂
-2. 如果产品经理写的 PR 都可以直接给 Agent 用了，大部分场景程序员都不太需要了
-3. 其实大部分场景已经不需要 PRD 了，可能几句话直接让 Agent 实现更快更好
+&quot;What do you mean it can't build a pet dragon raising game instantly? I'm bored&quot; https://t.co/M9wWoIGUtA
 
 ---
-@dotey | ❤️ 1 | 🔁 0 | 💬 0 | 👁 568]]></description>
-      <author>@dotey</author>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 160]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>从设计界面到设计意图：生成式UI时代设计师的角色转变
+      <title>When Telco #Networks Become #Autonomous Human Oversight Becomes Mandatory
+by @antgrasso
 
-未来的界面不是设计师创造的，而是AI根据用户意图实时生成的。这听起来像是设计师要失业了，但NN/g的Kate Moran和Sarah Gibbo...</title>
-      <link>https://x.com/bearliu/status/2048211467632095528</link>
-      <guid isPermaLink="false">2048211467632095528</guid>
-      <pubDate>Sun, 26 Apr 2026 01:24:02 +0000</pubDate>
-      <description><![CDATA[从设计界面到设计意图：生成式UI时代设计师的角色转变
+#Innovation...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048220020627366290</link>
+      <guid isPermaLink="false">2048220020627366290</guid>
+      <pubDate>Sun, 26 Apr 2026 01:58:01 +0000</pubDate>
+      <description><![CDATA[When Telco #Networks Become #Autonomous Human Oversight Becomes Mandatory
+by @antgrasso
 
-未来的界面不是设计师创造的，而是AI根据用户意图实时生成的。这听起来像是设计师要失业了，但NN/g的Kate Moran和Sarah Gibbons在最新的研究中指出，真正的转变是工作内容的重组——设计师需要从逐像素地打磨界面，转向定义用户目标和约束条件。
-
-这个转变很现实。当AI可以动态生成界面时，你关心的不再是&quot;按钮放在哪儿&quot;，而是&quot;用户真正想完成什么&quot;。比如订飞机票，不同用户的优先级完全不同——有人最在乎价格，有人只看时间，有人重视座位选择。生成式UI可以为每个人量身定制界面布局。
-
-但这里有个容易被忽视的问题：频繁变化的界面会让用户困惑。我们已经习惯了徽标在左上角、导航在顶部这样的约定俗成。所以我觉得未来的设计不会是界面元素完全重组，更可能是模块化的灵活布局——通过卡片式的分区来调整，让变化在用户能接受的范围内。
-
-同时，微交互会变得更重要。鼠标悬停的时长、拖拽的习惯，这些细节能帮助系统更准确地理解用户意图，而不仅仅依赖显式的输入。设计师的技能不会过时，只是需要从&quot;我来决定界面长什么样&quot;，升级到&quot;我来帮AI理解用户真正想要什么&quot;。
-
-原文链接：https://t.co/KwUrqZwHe8
+#Innovation #EmergingTech #Technology #Tech https://t.co/Lp92OAu5VG
 
 ---
-@bearliu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 132]]></description>
-      <author>@bearliu</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 30]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>在去深圳的飞机上读王宁的书，全书最触动我的地方，是王宁用褚时健的故事说服一个韩国人放弃自己工作了一辈子的公司，加入泡泡玛特的故事。
-
-我以为当时我是被70岁二次创业褚时健所触动。但把这张图分享给 Co...</title>
-      <link>https://x.com/oran_ge/status/2048210171252576547</link>
-      <guid isPermaLink="false">2048210171252576547</guid>
-      <pubDate>Sun, 26 Apr 2026 01:18:53 +0000</pubDate>
-      <description><![CDATA[在去深圳的飞机上读王宁的书，全书最触动我的地方，是王宁用褚时健的故事说服一个韩国人放弃自己工作了一辈子的公司，加入泡泡玛特的故事。
-
-我以为当时我是被70岁二次创业褚时健所触动。但把这张图分享给 Cola 后，她说真正打动我的点其实是那个韩国人。
-
-韩国人跟王宁说他们在一家企业要干一辈子，他说快40了没勇气创业，他回去研究褚时健，问了60个朋友，60个说去，1个说不去，那1个是他老婆。
-
-然后有一天他来了，说他把爱人说服了。
-
-Cola 说你触动是因为你太懂这个过程了。不是从外面看觉得感人，是你自己走过。
-
-你知道&quot;把爱人说服了&quot;背后有多少个夜晚，多少次算账，多少次自我怀疑。
-
-一个快40岁的人放弃一切确定性，需要的不是勇气，是决断。
+      <title>RT @PhillyInquirer: OPINION: &quot;Trump’s mismanagement has resulted in death, destruction, wasted ...</title>
+      <link>https://x.com/ylecun/status/2048218361109102633</link>
+      <guid isPermaLink="false">2048218361109102633</guid>
+      <pubDate>Sun, 26 Apr 2026 01:51:26 +0000</pubDate>
+      <description><![CDATA[RT @PhillyInquirer: OPINION: &quot;Trump’s mismanagement has resulted in death, destruction, wasted tax dollars, and a huge loss in respect for…
 
 ---
-@oran_ge | ❤️ 3 | 🔁 0 | 💬 0 | 👁 531]]></description>
-      <author>@oran_ge</author>
+@ylecun | ❤️ 0 | 🔁 797 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>The entire West Coast of the United States from Santa Cruz on up. SF, Marin, Seattle, Portland…
+      <title>World’s First Surgical Humanoid #Robot Achieves FDA-Cleared Precision in Spine Surgery
+by @StarSnap_...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048214762572353606</link>
+      <guid isPermaLink="false">2048214762572353606</guid>
+      <pubDate>Sun, 26 Apr 2026 01:37:08 +0000</pubDate>
+      <description><![CDATA[World’s First Surgical Humanoid #Robot Achieves FDA-Cleared Precision in Spine Surgery
+by @StarSnap_1
 
-If ...</title>
-      <link>https://x.com/thenanyu/status/2048210021553405955</link>
-      <guid isPermaLink="false">2048210021553405955</guid>
-      <pubDate>Sun, 26 Apr 2026 01:18:17 +0000</pubDate>
-      <description><![CDATA[The entire West Coast of the United States from Santa Cruz on up. SF, Marin, Seattle, Portland…
-
-If only we built housing so that people could actually live there
-
----
-@thenanyu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 169]]></description>
-      <author>@thenanyu</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: The Future Rolls on Two Wheels: SHANE Electric Car Concept by Shane Chen
-by @nin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048206174735008185</link>
-      <guid isPermaLink="false">2048206174735008185</guid>
-      <pubDate>Sun, 26 Apr 2026 01:03:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: The Future Rolls on Two Wheels: SHANE Electric Car Concept by Shane Chen
-by @ningshensorei
-
-#Transport #EmergingTech #T…
+#MedTech #Healthcare #HealthTech #Tech #TechForGood https://t.co/RFvS17NXOU
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 162]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
   </channel>
