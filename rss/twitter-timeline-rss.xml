@@ -5,52 +5,88 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 20:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 21:00:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Handheld X-Ray Scanner
-by @IntEngineering
-  
-#Innovation #EmergingTech #Tech #Technology https://t.c...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048497120819216791</link>
-      <guid isPermaLink="false">2048497120819216791</guid>
-      <pubDate>Sun, 26 Apr 2026 20:19:07 +0000</pubDate>
-      <description><![CDATA[Handheld X-Ray Scanner
-by @IntEngineering
-  
-#Innovation #EmergingTech #Tech #Technology https://t.co/QsRGK3VX60
+      <title>RT @omarsar0: NEW paper from Alibaba.
+
+A 30B MoE with only 3B active params matches Qwen3-235B on re...</title>
+      <link>https://x.com/dair_ai/status/2048507149559414918</link>
+      <guid isPermaLink="false">2048507149559414918</guid>
+      <pubDate>Sun, 26 Apr 2026 20:58:58 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: NEW paper from Alibaba.
+
+A 30B MoE with only 3B active params matches Qwen3-235B on real tool-use workloads.
+
+AgenticQwen-30B…
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 1 | 👁 130]]></description>
+@dair_ai | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>RT @omarsar0: Here is a very common problem when building complex agents.
+
+Long-horizon agents (in p...</title>
+      <link>https://x.com/dair_ai/status/2048507138264170679</link>
+      <guid isPermaLink="false">2048507138264170679</guid>
+      <pubDate>Sun, 26 Apr 2026 20:58:55 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: Here is a very common problem when building complex agents.
+
+Long-horizon agents (in particular) fail in two ways: the decisi…
+
+---
+@dair_ai | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>How to Apply #Blockchain #Technology to #Data Security
+by Zac Amos @_odsc
+
+Learn more: https://t.co/...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048506911021052286</link>
+      <guid isPermaLink="false">2048506911021052286</guid>
+      <pubDate>Sun, 26 Apr 2026 20:58:01 +0000</pubDate>
+      <description><![CDATA[How to Apply #Blockchain #Technology to #Data Security
+by Zac Amos @_odsc
+
+Learn more: https://t.co/xNYYkp3Mf8
+
+#CyberSecurity #Infosec #IT #Tech https://t.co/m6A6nCczW5
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 38]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @GergelyOrosz: The only people who believe any of this are non-coders.
+      <title>RT @venturetwins: Someone made a Geoguessr clone where you can travel through time 🤯 
 
-I tried to build a game (...</title>
-      <link>https://x.com/GaryMarcus/status/2048493573113565453</link>
-      <guid isPermaLink="false">2048493573113565453</guid>
-      <pubDate>Sun, 26 Apr 2026 20:05:01 +0000</pubDate>
-      <description><![CDATA[RT @GergelyOrosz: The only people who believe any of this are non-coders.
+Cool use case...</title>
+      <link>https://x.com/levelsio/status/2048501706703483377</link>
+      <guid isPermaLink="false">2048501706703483377</guid>
+      <pubDate>Sun, 26 Apr 2026 20:37:20 +0000</pubDate>
+      <description><![CDATA[RT @venturetwins: Someone made a Geoguessr clone where you can travel through time 🤯 
 
-I tried to build a game (an area I’m an n00b in.) The results ar…
+Cool use case of GPT-Image-2, which can make panoram…
 
 ---
-@GaryMarcus | ❤️ 0 | 🔁 193 | 💬 0 | 👁 6]]></description>
-      <author>@GaryMarcus</author>
+@levelsio | ❤️ 0 | 🔁 53 | 💬 0 | 👁 1]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>RT @Dan_Jeffries1: Existential risk mongers are a small, very vocal cult with a lot of very clever o...</title>
-      <link>https://x.com/ylecun/status/2048493255176646834</link>
-      <guid isPermaLink="false">2048493255176646834</guid>
-      <pubDate>Sun, 26 Apr 2026 20:03:45 +0000</pubDate>
-      <description><![CDATA[RT @Dan_Jeffries1: Existential risk mongers are a small, very vocal cult with a lot of very clever online astroturfing skills. 
+      <title>getting so much phishing email in my X DMs. 
 
-Politician…
+either a lot of accounts have been hacked or someone h...</title>
+      <link>https://x.com/GaryMarcus/status/2048500820350750905</link>
+      <guid isPermaLink="false">2048500820350750905</guid>
+      <pubDate>Sun, 26 Apr 2026 20:33:49 +0000</pubDate>
+      <description><![CDATA[getting so much phishing email in my X DMs. 
+
+either a lot of accounts have been hacked or someone has discovered a back door to posting DMs.
 
 ---
-@ylecun | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@GaryMarcus | ❤️ 7 | 🔁 0 | 💬 3 | 👁 1210]]></description>
+      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
