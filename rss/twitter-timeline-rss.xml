@@ -5,66 +5,50 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 11:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:31:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>How #AI is reshaping workflows and redefining jobs
-by Kristin Burnham @MITSloan
-
-Learn more: https:/...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048355411250581541</link>
-      <guid isPermaLink="false">2048355411250581541</guid>
-      <pubDate>Sun, 26 Apr 2026 10:56:01 +0000</pubDate>
-      <description><![CDATA[How #AI is reshaping workflows and redefining jobs
-by Kristin Burnham @MITSloan
-
-Learn more: https://t.co/xCFfLyDy0b
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/IcvwxE5rHC
+      <title>今天和王局 @wangzhian8848 吃了个晚饭，接下来准备基于 tuwa 给专业 YouTuber 做一系列 AI 剪辑和音频产品！ https://t.co/0QUfjDNBiA</title>
+      <link>https://x.com/turingou/status/2048363288048914912</link>
+      <guid isPermaLink="false">2048363288048914912</guid>
+      <pubDate>Sun, 26 Apr 2026 11:27:19 +0000</pubDate>
+      <description><![CDATA[今天和王局 @wangzhian8848 吃了个晚饭，接下来准备基于 tuwa 给专业 YouTuber 做一系列 AI 剪辑和音频产品！ https://t.co/0QUfjDNBiA
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 42]]></description>
+@turingou | ❤️ 3 | 🔁 0 | 💬 0 | 👁 397]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>The Rise of Hyper-Realistic #Robots Powered by #AI
+by @Khulood_Almani
+
+#Robotics #Engineering #Artif...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048361465904595105</link>
+      <guid isPermaLink="false">2048361465904595105</guid>
+      <pubDate>Sun, 26 Apr 2026 11:20:04 +0000</pubDate>
+      <description><![CDATA[The Rise of Hyper-Realistic #Robots Powered by #AI
+by @Khulood_Almani
+
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/11JXS8DYpC
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 81]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @bydhruvil: @khushiirl It's because of the change in Claude Code the token usage and the output.
-...</title>
-      <link>https://x.com/DeepLearn007/status/2048354013515489749</link>
-      <guid isPermaLink="false">2048354013515489749</guid>
-      <pubDate>Sun, 26 Apr 2026 10:50:28 +0000</pubDate>
-      <description><![CDATA[RT @bydhruvil: @khushiirl It's because of the change in Claude Code the token usage and the output.
+      <title>RT @Ronald_vanLoon: Here are the #AI developments that #Finance pros should be tracking
+by Betsy Ver...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048356922261188911</link>
+      <guid isPermaLink="false">2048356922261188911</guid>
+      <pubDate>Sun, 26 Apr 2026 11:02:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Here are the #AI developments that #Finance pros should be tracking
+by Betsy Vereckey @MITSloan
 
-Since the Opus 4.7 was released the ou…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @khushiirl: Why is everyone making a shift from Claude to Codex?</title>
-      <link>https://x.com/DeepLearn007/status/2048353998080528888</link>
-      <guid isPermaLink="false">2048353998080528888</guid>
-      <pubDate>Sun, 26 Apr 2026 10:50:24 +0000</pubDate>
-      <description><![CDATA[RT @khushiirl: Why is everyone making a shift from Claude to Codex?
+Learn more: https://t.…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @Bhavani_00007: Anthropic is paying $570k for engineers
-
-why not just use Claude Code? 🤔 https://...</title>
-      <link>https://x.com/DeepLearn007/status/2048353677765665271</link>
-      <guid isPermaLink="false">2048353677765665271</guid>
-      <pubDate>Sun, 26 Apr 2026 10:49:08 +0000</pubDate>
-      <description><![CDATA[RT @Bhavani_00007: Anthropic is paying $570k for engineers
-
-why not just use Claude Code? 🤔 https://t.co/0eXv1RNCtl
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 50 | 💬 0 | 👁 1]]></description>
-      <author>@DeepLearn007</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
