@@ -5,229 +5,163 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 16:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 16:31:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>61 years ago this month, the Fast Fourier Transform was created, a powerful tool for image compressi...</title>
-      <link>https://x.com/MIT_CSAIL/status/2048431989670265296</link>
-      <guid isPermaLink="false">2048431989670265296</guid>
-      <pubDate>Sun, 26 Apr 2026 16:00:19 +0000</pubDate>
-      <description><![CDATA[61 years ago this month, the Fast Fourier Transform was created, a powerful tool for image compression &amp;amp; data analysis.
+      <title>Just a quick review of where I think each product falls short:
 
-Watch a classic MIT breakdown of FFT, perhaps the most-taught algorithm at the Institute: https://t.co/R7zdspBswx
+Claude Code: 
 
-v/@MITOCW https://t.co/lVabrS3syd
+Why do I have type /r...</title>
+      <link>https://x.com/petergyang/status/2048439694279704581</link>
+      <guid isPermaLink="false">2048439694279704581</guid>
+      <pubDate>Sun, 26 Apr 2026 16:30:55 +0000</pubDate>
+      <description><![CDATA[Just a quick review of where I think each product falls short:
+
+Claude Code: 
+
+Why do I have type /remote-control each time to talk to my projects on mobile? Love the routines (cron jobs) but when routines fails it doesn't let me know. Also the whole interface is code-based and doesn't feel like a personal agent.
+
+Codex:
+
+Alot of potential but lack of mobile makes it impossible to use as personal agent.
+
+OpenClaw:
+
+Probably comes the closest still. GPT 5.5 is big improvement in personality over 5.4. However it has one critical flaw - it's just not very reliable. I know many OpenClaw power users who have to get Codex/Claude Code to fix it on a semi-regular basis.
+
+P.S. I know how hard it is to build the products above. But yeah whoever figures out this list AND makes personal agent easy to use for the masses is going to win.
 
 ---
-@MIT_CSAIL | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
+@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>下周也准备把 tuwa 的同步听功能单独拆分出来做成新产品，并且拓展成同步听、同步说、同步学。试试目前的工程能力能否将实时语音模型推到极致。</title>
-      <link>https://x.com/turingou/status/2048431962482942065</link>
-      <guid isPermaLink="false">2048431962482942065</guid>
-      <pubDate>Sun, 26 Apr 2026 16:00:12 +0000</pubDate>
-      <description><![CDATA[下周也准备把 tuwa 的同步听功能单独拆分出来做成新产品，并且拓展成同步听、同步说、同步学。试试目前的工程能力能否将实时语音模型推到极致。
+      <title>To all the clowns saying that Seattle is always rainy and never sees the sun: Seattle has *less* pre...</title>
+      <link>https://x.com/fchollet/status/2048438670278160811</link>
+      <guid isPermaLink="false">2048438670278160811</guid>
+      <pubDate>Sun, 26 Apr 2026 16:26:51 +0000</pubDate>
+      <description><![CDATA[To all the clowns saying that Seattle is always rainy and never sees the sun: Seattle has *less* precipitation than NYC, Boston, Atlanta, Miami, New Orleans, etc... in fact it rains less in Seattle than on the Northern California coast. https://t.co/73n8zaLuwH
 
 ---
-@turingou | ❤️ 1 | 🔁 0 | 💬 0 | 👁 0]]></description>
+@fchollet | ❤️ 0 | 🔁 0 | 💬 0 | 👁 523]]></description>
+      <author>@fchollet</author>
+    </item>
+    <item>
+      <title>NASA’s Zero-Gravity #Robotic Arms Master Delicate, Heavy, and Irregular Grips
+by @tweetciiiim
+ 
+#Tec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048438227124527552</link>
+      <guid isPermaLink="false">2048438227124527552</guid>
+      <pubDate>Sun, 26 Apr 2026 16:25:06 +0000</pubDate>
+      <description><![CDATA[NASA’s Zero-Gravity #Robotic Arms Master Delicate, Heavy, and Irregular Grips
+by @tweetciiiim
+ 
+#Tech #TechForGood #EmergingTech https://t.co/XU3nK3HxvB
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 52]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>做 Yuragi FM 的过程中，我发现 AIGC 类产品的难点第一是在乎探索语言空间和结构，第二是难以评估实验成果，总是在 60-80 分之间横跳，没有 90+ 以上的生成产物。第三就是设计实验的成...</title>
+      <link>https://x.com/turingou/status/2048437705428881534</link>
+      <guid isPermaLink="false">2048437705428881534</guid>
+      <pubDate>Sun, 26 Apr 2026 16:23:01 +0000</pubDate>
+      <description><![CDATA[做 Yuragi FM 的过程中，我发现 AIGC 类产品的难点第一是在乎探索语言空间和结构，第二是难以评估实验成果，总是在 60-80 分之间横跳，没有 90+ 以上的生成产物。第三就是设计实验的成本和测试时间过长。我看到小红书上有不少专业做 AIGC 的，使用现成的工具，human in the loop 来做协调者，创作一首音乐都需要花 1-2 天的时间，更别提 MV 了，一方面，我们依赖模型不断进化来内化一些需要协调的功能和反复试错的实验，另外一方面，不断内化的模型又会趋向生成更加大众化审美的内容，进一步提升探寻语言空间的难度。因此，在做这个产品过程中，感受到最大的启发不是工作流的编排，也不是 agent matrix 的设计，而是人类意图的捕获。换句话说，真正重要的是如何理解意图（目标，岔路，审美，世界观）而非编排，wanman 也好，其他的流行的 harness 工程产品也好，只是完成这一步设计的早期基础设施。
+
+---
+@turingou | ❤️ 3 | 🔁 1 | 💬 0 | 👁 481]]></description>
       <author>@turingou</author>
     </item>
     <item>
-      <title>China’s 10,000+ Driverless Delivery Bots Are Redefining Last-Mile #Logistics
-by @XueJia24682
+      <title>7) Multi-agent design. I loved the design of Cove (they were the acquired by Microsoft). It was more...</title>
+      <link>https://x.com/alliekmiller/status/2048436375104405900</link>
+      <guid isPermaLink="false">2048436375104405900</guid>
+      <pubDate>Sun, 26 Apr 2026 16:17:44 +0000</pubDate>
+      <description><![CDATA[7) Multi-agent design. I loved the design of Cove (they were the acquired by Microsoft). It was more of a whiteboard than tabs or chat threads. I don’t think we’ve cracked the right UI for managing agents quite yet (even if we’re just talking to one main CoS and that agent is delegating down the reporting line).
 
-#Suppl...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048431426316472394</link>
-      <guid isPermaLink="false">2048431426316472394</guid>
-      <pubDate>Sun, 26 Apr 2026 15:58:04 +0000</pubDate>
-      <description><![CDATA[China’s 10,000+ Driverless Delivery Bots Are Redefining Last-Mile #Logistics
-by @XueJia24682
+8) Discoverability. This is a mess on all platforms. I like Claude code surfacing tips while it’s thinking and working for you. But unless you're scrolling X for hours a day, or constantly checking in on the AI labs' tweets and documentation, or learning from people who are doing that (like the mastermind I'm running), you’ll never learn the really advanced features and tricks. It feels unsolvable without AI as the surfacer. 
 
-#SupplyChain #Innovation #FutureTech #EV https://t.co/m75y6ZO39z
+9) Model selection. I realize it is just a dropdown, but the vast majority of AI users don’t know the model differences and tradeoffs. They’ll say “I want the fastest answers possible” and then when a response is low quality, their instinct isn’t to push back or switch to a more powerful AI model, they assume AI cannot do that task. The auto-selectors don’t seem to fully solve this problem either.
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 36]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Continued weak spots of AI, from the point of view of a business professional and not a PhD biochemi...</title>
-      <link>https://x.com/alliekmiller/status/2048431156614623420</link>
-      <guid isPermaLink="false">2048431156614623420</guid>
-      <pubDate>Sun, 26 Apr 2026 15:57:00 +0000</pubDate>
-      <description><![CDATA[Continued weak spots of AI, from the point of view of a business professional and not a PhD biochemist:
-
-1) SVGs. The ability to &quot;illustrate&quot; and have that thing be infinitely scalable. See below image. If you ask for flat PNGs, fine. ChatGPT is the best at the image game right now. Claude Design has the same SVG issue. Hard to image scalability in creative projects or game design without it. 
-
-2) Gullibility. I have had to create a specific prompt to remind Claude that what people say or type is not always true because the prompt &quot;imagine you're a greedy capitalist and read from their perspective&quot; isn't good enough. This is a tricky line to toe, however - I don't want Claude to be manipulative, but I need it to deeply understand the world of manipulation to better support my response (ex: email reply draft) to it. 
-
-3) Multi-layered communication. Imagine you have to turn down a client event (but it's your favorite client, and you could have technically moved your friend group trip to make it happen but you didn't want to, but just in case your client is about to fire you if you don't do it, you want to write it in a way that doesn't close that door, but you don't want to sound desperate, but you want to show your respect for them, but you also had to turn down their last thing so you have to be delicate and also your vendor is on cc so you can't say secret information but you want to hint at their release but you'd get fired if you mentioned anything, but you want to drum up excitement). Claude, which I find to be the best writer of the bunch, just says the &quot;hidden&quot; message out loud like an untrained intern at a cocktail party after a glass of wine. Delicate nuance is tough. 
-
-4) Humor. I know the Claude Mythos paper said it was better at humor, but the current productionized models don't seem to understand the unspoken construction of a joke. It always defaults to randomness. It assumes that non-sequitur = humor. Like if you said &quot;I want to say something funny walked into an office&quot; it would say &quot;oh a flamingo with a tutu!&quot; even though it had no relevance to the rest of the setup. 
-
-5) Extremely long context. People incorrectly believe that multi-million token conversations only happen with engineers+AI because of codebase length. As more business professionals lean into building, and as we connect more systems (and more people into single shared systems), we're going to need to find ways to manage 10M+ tokens without context degradation. Countless business use cases are held back because of this.
-
-6) Collaboration. How is there no way to merge memory yet? How is there no no-code model fusion in market? Agent teams starts to get closer (in the sense that you can build AI personas of your board of directors and have them fight it out and review the outcome), but I want true merging and model weight changes.
-
----
-@alliekmiller | ❤️ 0 | 🔁 0 | 💬 0 | 👁 107]]></description>
+@alliekmiller | ❤️ 0 | 🔁 0 | 💬 0 | 👁 229]]></description>
       <author>@alliekmiller</author>
     </item>
     <item>
-      <title>今天在上海参加狂喜播客节。收获蛮大。
-
-第一次见关雅荻老师。HOLD 住全场的超级导演 + 大管家的即视感。看到关老师精神满满的状态，就知道狂喜为什么能连续办到第五届，以及很期待能持续办到至少第 10...</title>
-      <link>https://x.com/lifesinger/status/2048429260701151648</link>
-      <guid isPermaLink="false">2048429260701151648</guid>
-      <pubDate>Sun, 26 Apr 2026 15:49:28 +0000</pubDate>
-      <description><![CDATA[今天在上海参加狂喜播客节。收获蛮大。
-
-第一次见关雅荻老师。HOLD 住全场的超级导演 + 大管家的即视感。看到关老师精神满满的状态，就知道狂喜为什么能连续办到第五届，以及很期待能持续办到至少第 102 届。
-
-上午在杨天楠的组织下，有幸和李楠、卫诗婕 一起聊了一期 AI 与 OPC 的话题。聊的比预期的深入好玩。李楠做 AI 硬件创业的视角、我做 AI 软件创业的视角、诗婕做媒体创业的视角，各有不同。最终却指向了相同的几个点。第一个点是要 be real，要真实。内心要真想做成某件事，要及早寻找付费客户，不怕失败的往前走，胜算会更大些。第二点是，都有点讨厌 OPC 在美元基金烘托下的要做大做强的定义。未来的世界很多元。OPC 更好的定义，不是一人公司，而是一门生意。生意是生活的意义，寻找到一个人或一个团队共同认可的生意模式，能比较好的养活自己养活团队，是更有意思的追求。
-
-下午听了阑夕ོ 、潘乱等人的现场播客。在电影院坐看播客的感觉真爽。AI 很强，是人的放大器。台上嘉宾貌似有个共识：AI 是人的放大器，特别是对可以 SOP 的事情来说。但 AI 很难让一个人从 0 到 1 学会内容创作，比如写出阑夕一言的文字。想起卡兹克之前也分享过一个观点：在你能手搓爆款之前，不要指望通过AI 能直接出爆款。
-
-潘乱分享了最近写出库克与苹果价值锚点那篇文章的选题过程，是在初稿立意很平庸的情况下，放弃了初稿，然后骑着外卖车沿着北京二环绕了一圈，然后才想到了价值锚点这个选题。骑行确定选题，就是“文章本天成、妙手偶得之”的那个点。
-
-想起纵横四海的最近一期播客，也谈到类似一个观点：老是非常忙，是搞不好内容创作的。得有闲暇时间，在散步，在骑行，在发呆等情况下，妙手偶得的灵感会更多涌现并有效捕获。
-
-阑夕说：差生文具多。古话就是经典。内容创作，会用 AI 不是关键。你脑海里的想法，你对好内容的嗅觉，你曾写出过优质内容的经验，这是 AI 依旧很难帮到你。
-
-下午还去听了羊行参与的无用的浪漫现场播客。生活气息非常浓，好玩。然后跑到一期喜剧播客现场了，更欢乐了。可爱，好玩，乐活。
-
-傍晚回到刘飞在场的一期播客。刘飞没怎么说话，看着比一年前年轻了很多。
-
-春末的上海，有些微热。期待有那么一天，当你输入 boke 时，默认排第一的不是博客，而是播客。
+      <title>RT @badr_hi: سويت لعبة تأثير ستروب مرة ثانية https://t.co/61DRvcA1al</title>
+      <link>https://x.com/amasad/status/2048434618748317899</link>
+      <guid isPermaLink="false">2048434618748317899</guid>
+      <pubDate>Sun, 26 Apr 2026 16:10:45 +0000</pubDate>
+      <description><![CDATA[RT @badr_hi: سويت لعبة تأثير ستروب مرة ثانية https://t.co/61DRvcA1al
 
 ---
-@lifesinger | ❤️ 1 | 🔁 0 | 💬 0 | 👁 198]]></description>
-      <author>@lifesinger</author>
+@amasad | ❤️ 0 | 🔁 4 | 💬 0 | 👁 3]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>Now red for @emilis_venckus https://t.co/jR4EcQHI1y</title>
-      <link>https://x.com/levelsio/status/2048429158405959963</link>
-      <guid isPermaLink="false">2048429158405959963</guid>
-      <pubDate>Sun, 26 Apr 2026 15:49:03 +0000</pubDate>
-      <description><![CDATA[Now red for @emilis_venckus https://t.co/jR4EcQHI1y
+      <title>RT @ycombinator: Replit is the leading no-code app builder for consumers and enterprise, letting any...</title>
+      <link>https://x.com/amasad/status/2048434430218514647</link>
+      <guid isPermaLink="false">2048434430218514647</guid>
+      <pubDate>Sun, 26 Apr 2026 16:10:00 +0000</pubDate>
+      <description><![CDATA[RT @ycombinator: Replit is the leading no-code app builder for consumers and enterprise, letting anyone with an idea build real, deployed s…
 
 ---
-@levelsio | ❤️ 1 | 🔁 0 | 💬 0 | 👁 1459]]></description>
-      <author>@levelsio</author>
+@amasad | ❤️ 0 | 🔁 29 | 💬 0 | 👁 0]]></description>
+      <author>@amasad</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Meet Laundry Jet — The Vacuum System That Whisks Clothes From Any Room to the La...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048429145957278115</link>
-      <guid isPermaLink="false">2048429145957278115</guid>
-      <pubDate>Sun, 26 Apr 2026 15:49:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Meet Laundry Jet — The Vacuum System That Whisks Clothes From Any Room to the Laundry
-by @Khulood_Almani
-
-#Innovation #…
+      <title>本周 wanman 发布后，我的紧张程度一下子就放松下来了，vibe 的过程中因为非常孤单，没什么人可以聊天，在严肃产品的枯燥对话中我总是会穿插几个有趣又想法很酷的产品当作娱乐。说起来，每有朋友问我「...</title>
+      <link>https://x.com/turingou/status/2048433204395466777</link>
+      <guid isPermaLink="false">2048433204395466777</guid>
+      <pubDate>Sun, 26 Apr 2026 16:05:08 +0000</pubDate>
+      <description><![CDATA[本周 wanman 发布后，我的紧张程度一下子就放松下来了，vibe 的过程中因为非常孤单，没什么人可以聊天，在严肃产品的枯燥对话中我总是会穿插几个有趣又想法很酷的产品当作娱乐。说起来，每有朋友问我「你是不是想认真长期做这个产品」的时候，我都很想（但我总没说出口）和他们说，重要的是享受当下创作的快乐，有所欲，无所求，事情结果不是站在现在看未来，而是未来中过去的投影而已。
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@turingou | ❤️ 21 | 🔁 1 | 💬 0 | 👁 1444]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>If they’re willing to die to assassinate, imagine what they will do if they gain political power</title>
-      <link>https://x.com/elonmusk/status/2048428921536868583</link>
-      <guid isPermaLink="false">2048428921536868583</guid>
-      <pubDate>Sun, 26 Apr 2026 15:48:07 +0000</pubDate>
-      <description><![CDATA[If they’re willing to die to assassinate, imagine what they will do if they gain political power
+      <title>A great personal agent should:
+
+1. Get work done across email, calendar, Google Workspace, or any AP...</title>
+      <link>https://x.com/petergyang/status/2048433179338633627</link>
+      <guid isPermaLink="false">2048433179338633627</guid>
+      <pubDate>Sun, 26 Apr 2026 16:05:02 +0000</pubDate>
+      <description><![CDATA[A great personal agent should:
+
+1. Get work done across email, calendar, Google Workspace, or any API/MCP it's hooked up to
+
+2. Act proactively and reliably (e.g., cron jobs, triggers, follow-ups)
+
+3. Have excellent memory that helps it &quot;just get you&quot; over time
+
+4. Work across web and mobile without slash commands or manual setup
+
+5. Let you switch between text, voice, video, and live calling mid-conversation
+
+6. Be reachable from any 3rd party messaging app, just like a real person
+
+7. Have a personality that makes it fun to talk to
+
+OpenClaw, Claude Code, Codex - the truth is that none of them check all these boxes yet.
 
 ---
-@elonmusk | ❤️ 15861 | 🔁 2652 | 💬 1838 | 👁 519593]]></description>
-      <author>@elonmusk</author>
+@petergyang | ❤️ 25 | 🔁 1 | 💬 7 | 👁 1282]]></description>
+      <author>@petergyang</author>
     </item>
     <item>
-      <title>RT @SpaceX: Deployment of 25 @Starlink satellites confirmed</title>
-      <link>https://x.com/elonmusk/status/2048428853354234023</link>
-      <guid isPermaLink="false">2048428853354234023</guid>
-      <pubDate>Sun, 26 Apr 2026 15:47:51 +0000</pubDate>
-      <description><![CDATA[RT @SpaceX: Deployment of 25 @Starlink satellites confirmed
+      <title>In other words, you need the world models that LeCun, Schmidhuber, Fei Fei Li, and I have been advoc...</title>
+      <link>https://x.com/GaryMarcus/status/2048432749670007118</link>
+      <guid isPermaLink="false">2048432749670007118</guid>
+      <pubDate>Sun, 26 Apr 2026 16:03:20 +0000</pubDate>
+      <description><![CDATA[In other words, you need the world models that LeCun, Schmidhuber, Fei Fei Li, and I have been advocating for all along.
 
 ---
-@elonmusk | ❤️ 0 | 🔁 129 | 💬 0 | 👁 80]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>The Top AI Papers of the Week (April 19 - 26)
-
-- Skill-RAG
-- DeepSeek V4
-- Autogenesis
-- Attention t...</title>
-      <link>https://x.com/dair_ai/status/2048428780939612508</link>
-      <guid isPermaLink="false">2048428780939612508</guid>
-      <pubDate>Sun, 26 Apr 2026 15:47:33 +0000</pubDate>
-      <description><![CDATA[The Top AI Papers of the Week (April 19 - 26)
-
-- Skill-RAG
-- DeepSeek V4
-- Autogenesis
-- Attention to Mamba
-- Stateless Decision Memory
-- Self-Evolving Logic Synthesis
-- Self-Generated World Knowledge
-
-Read on for more:
-
----
-@dair_ai | ❤️ 8 | 🔁 1 | 💬 0 | 👁 563]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>https://t.co/NOZhMk8piP</title>
-      <link>https://x.com/dair_ai/status/2048428649288712206</link>
-      <guid isPermaLink="false">2048428649288712206</guid>
-      <pubDate>Sun, 26 Apr 2026 15:47:02 +0000</pubDate>
-      <description><![CDATA[https://t.co/NOZhMk8piP
-
----
-@dair_ai | ❤️ 6 | 🔁 1 | 💬 0 | 👁 1276]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>feels like a good time to seriously rethink how operating systems and user interfaces are designed
-
-...</title>
-      <link>https://x.com/sama/status/2048428561481265539</link>
-      <guid isPermaLink="false">2048428561481265539</guid>
-      <pubDate>Sun, 26 Apr 2026 15:46:41 +0000</pubDate>
-      <description><![CDATA[feels like a good time to seriously rethink how operating systems and user interfaces are designed
-
-(also the internet; there should be a protocol that is equally usable by people and agents)
-
----
-@sama | ❤️ 962 | 🔁 51 | 💬 258 | 👁 26978]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>RT @SebastienBubeck: @NandoDF @sama @gabeeegoooh That's exactly my view too, roughly compresses 2 we...</title>
-      <link>https://x.com/sama/status/2048427624016572615</link>
-      <guid isPermaLink="false">2048427624016572615</guid>
-      <pubDate>Sun, 26 Apr 2026 15:42:58 +0000</pubDate>
-      <description><![CDATA[RT @SebastienBubeck: @NandoDF @sama @gabeeegoooh That's exactly my view too, roughly compresses 2 weeks of our previous jobs to 1 day
-
----
-@sama | ❤️ 0 | 🔁 3 | 💬 0 | 👁 3]]></description>
-      <author>@sama</author>
-    </item>
-    <item>
-      <title>&quot;post-AGI, no one is going to work and the economy is going to collapse&quot;
-
-&quot;i am switc...</title>
-      <link>https://x.com/sama/status/2048426122854228141</link>
-      <guid isPermaLink="false">2048426122854228141</guid>
-      <pubDate>Sun, 26 Apr 2026 15:37:00 +0000</pubDate>
-      <description><![CDATA[&quot;post-AGI, no one is going to work and the economy is going to collapse&quot;
-
-&quot;i am switching to polyphasic sleep because GPT-5.5 in codex is so good that i can't afford to be sleeping for such long stretches and miss out on working&quot;
-
----
-@sama | ❤️ 1602 | 🔁 108 | 💬 334 | 👁 56460]]></description>
-      <author>@sama</author>
+@GaryMarcus | ❤️ 31 | 🔁 3 | 💬 12 | 👁 2528]]></description>
+      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
