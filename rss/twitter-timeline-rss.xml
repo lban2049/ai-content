@@ -5,40 +5,66 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 10:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:01:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gravity-Defying #Robotic #Warehouse System: Ceiling- and Wall-Climbing #Automation
-via @ZappyZappy7
-...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048345876502810985</link>
-      <guid isPermaLink="false">2048345876502810985</guid>
-      <pubDate>Sun, 26 Apr 2026 10:18:08 +0000</pubDate>
-      <description><![CDATA[Gravity-Defying #Robotic #Warehouse System: Ceiling- and Wall-Climbing #Automation
-via @ZappyZappy7
+      <title>How #AI is reshaping workflows and redefining jobs
+by Kristin Burnham @MITSloan
 
-#Robot #MachineLearning #ArtificialIntelligence #ML https://t.co/QTbDSZM2HU
+Learn more: https:/...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048355411250581541</link>
+      <guid isPermaLink="false">2048355411250581541</guid>
+      <pubDate>Sun, 26 Apr 2026 10:56:01 +0000</pubDate>
+      <description><![CDATA[How #AI is reshaping workflows and redefining jobs
+by Kristin Burnham @MITSloan
+
+Learn more: https://t.co/xCFfLyDy0b
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/IcvwxE5rHC
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 64]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 42]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>How to Create an Immersive Work Environment with #VirtualReality
-by @antgrasso
+      <title>RT @bydhruvil: @khushiirl It's because of the change in Claude Code the token usage and the output.
+...</title>
+      <link>https://x.com/DeepLearn007/status/2048354013515489749</link>
+      <guid isPermaLink="false">2048354013515489749</guid>
+      <pubDate>Sun, 26 Apr 2026 10:50:28 +0000</pubDate>
+      <description><![CDATA[RT @bydhruvil: @khushiirl It's because of the change in Claude Code the token usage and the output.
 
-#DigitalTransformati...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048344208562393166</link>
-      <guid isPermaLink="false">2048344208562393166</guid>
-      <pubDate>Sun, 26 Apr 2026 10:11:30 +0000</pubDate>
-      <description><![CDATA[How to Create an Immersive Work Environment with #VirtualReality
-by @antgrasso
-
-#DigitalTransformation #VR #AR #AugmentedReality https://t.co/CWqHwKq1x7
+Since the Opus 4.7 was released the ou…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 75]]></description>
-      <author>@Ronald_vanLoon</author>
+@DeepLearn007 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @khushiirl: Why is everyone making a shift from Claude to Codex?</title>
+      <link>https://x.com/DeepLearn007/status/2048353998080528888</link>
+      <guid isPermaLink="false">2048353998080528888</guid>
+      <pubDate>Sun, 26 Apr 2026 10:50:24 +0000</pubDate>
+      <description><![CDATA[RT @khushiirl: Why is everyone making a shift from Claude to Codex?
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @Bhavani_00007: Anthropic is paying $570k for engineers
+
+why not just use Claude Code? 🤔 https://...</title>
+      <link>https://x.com/DeepLearn007/status/2048353677765665271</link>
+      <guid isPermaLink="false">2048353677765665271</guid>
+      <pubDate>Sun, 26 Apr 2026 10:49:08 +0000</pubDate>
+      <description><![CDATA[RT @Bhavani_00007: Anthropic is paying $570k for engineers
+
+why not just use Claude Code? 🤔 https://t.co/0eXv1RNCtl
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 50 | 💬 0 | 👁 1]]></description>
+      <author>@DeepLearn007</author>
     </item>
   </channel>
 </rss>
