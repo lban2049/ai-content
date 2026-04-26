@@ -5,88 +5,94 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 21:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 21:31:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @omarsar0: NEW paper from Alibaba.
-
-A 30B MoE with only 3B active params matches Qwen3-235B on re...</title>
-      <link>https://x.com/dair_ai/status/2048507149559414918</link>
-      <guid isPermaLink="false">2048507149559414918</guid>
-      <pubDate>Sun, 26 Apr 2026 20:58:58 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: NEW paper from Alibaba.
-
-A 30B MoE with only 3B active params matches Qwen3-235B on real tool-use workloads.
-
-AgenticQwen-30B…
+      <title>RT @mada299: It doesn’t get better than @swyx singing @Harry_Styles @projecthailmary Sign of the tim...</title>
+      <link>https://x.com/swyx/status/2048514167565582507</link>
+      <guid isPermaLink="false">2048514167565582507</guid>
+      <pubDate>Sun, 26 Apr 2026 21:26:51 +0000</pubDate>
+      <description><![CDATA[RT @mada299: It doesn’t get better than @swyx singing @Harry_Styles @projecthailmary Sign of the times in his @baseten shirt! Watching on r…
 
 ---
-@dair_ai | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
+@swyx | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>RT @omarsar0: Here is a very common problem when building complex agents.
-
-Long-horizon agents (in p...</title>
-      <link>https://x.com/dair_ai/status/2048507138264170679</link>
-      <guid isPermaLink="false">2048507138264170679</guid>
-      <pubDate>Sun, 26 Apr 2026 20:58:55 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: Here is a very common problem when building complex agents.
-
-Long-horizon agents (in particular) fail in two ways: the decisi…
-
----
-@dair_ai | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>How to Apply #Blockchain #Technology to #Data Security
-by Zac Amos @_odsc
-
-Learn more: https://t.co/...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048506911021052286</link>
-      <guid isPermaLink="false">2048506911021052286</guid>
-      <pubDate>Sun, 26 Apr 2026 20:58:01 +0000</pubDate>
-      <description><![CDATA[How to Apply #Blockchain #Technology to #Data Security
-by Zac Amos @_odsc
-
-Learn more: https://t.co/xNYYkp3Mf8
-
-#CyberSecurity #Infosec #IT #Tech https://t.co/m6A6nCczW5
+      <title>X-Fly: The Ornithopter That Tames Wing-Flap Chaos with Bird-Inspired Control
+via @IlirAliu_
+ 
+#Emerg...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048512524174110746</link>
+      <guid isPermaLink="false">2048512524174110746</guid>
+      <pubDate>Sun, 26 Apr 2026 21:20:19 +0000</pubDate>
+      <description><![CDATA[X-Fly: The Ornithopter That Tames Wing-Flap Chaos with Bird-Inspired Control
+via @IlirAliu_
+ 
+#EmergingTech #Technology #Innovation #Tech https://t.co/rw5yqbhq0O
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 38]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 106]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @venturetwins: Someone made a Geoguessr clone where you can travel through time 🤯 
+      <title>RT @MrLarus: 大师级雕刻！🔥
+我用ChatGPT-Image-2.0结合立体浮雕与微缩模型风格，做了这组城市叙事海报《Relief City Atlas》。
 
-Cool use case...</title>
-      <link>https://x.com/levelsio/status/2048501706703483377</link>
-      <guid isPermaLink="false">2048501706703483377</guid>
-      <pubDate>Sun, 26 Apr 2026 20:37:20 +0000</pubDate>
-      <description><![CDATA[RT @venturetwins: Someone made a Geoguessr clone where you can travel through time 🤯 
+一个城市限定一个季节：
+哈尔...</title>
+      <link>https://x.com/dotey/status/2048508189600104459</link>
+      <guid isPermaLink="false">2048508189600104459</guid>
+      <pubDate>Sun, 26 Apr 2026 21:03:06 +0000</pubDate>
+      <description><![CDATA[RT @MrLarus: 大师级雕刻！🔥
+我用ChatGPT-Image-2.0结合立体浮雕与微缩模型风格，做了这组城市叙事海报《Relief City Atlas》。
 
-Cool use case of GPT-Image-2, which can make panoram…
+一个城市限定一个季节：
+哈尔滨冬、上海秋、广州夏、北京春
+
+画面从右下角那个小小的旅人开始，一条线串联整座…
 
 ---
-@levelsio | ❤️ 0 | 🔁 53 | 💬 0 | 👁 1]]></description>
-      <author>@levelsio</author>
+@dotey | ❤️ 0 | 🔁 58 | 💬 0 | 👁 1]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>getting so much phishing email in my X DMs. 
+      <title>RT @Ronald_vanLoon: What Happens When Design Leaves the Screen?
+by @Fabriziobustama
 
-either a lot of accounts have been hacked or someone h...</title>
-      <link>https://x.com/GaryMarcus/status/2048500820350750905</link>
-      <guid isPermaLink="false">2048500820350750905</guid>
-      <pubDate>Sun, 26 Apr 2026 20:33:49 +0000</pubDate>
-      <description><![CDATA[getting so much phishing email in my X DMs. 
+#AR #AugmentedR...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048507914629914932</link>
+      <guid isPermaLink="false">2048507914629914932</guid>
+      <pubDate>Sun, 26 Apr 2026 21:02:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: What Happens When Design Leaves the Screen?
+by @Fabriziobustama
 
-either a lot of accounts have been hacked or someone has discovered a back door to posting DMs.
+#AR #AugmentedReality #VirtualReality #DigitalTransfor…
 
 ---
-@GaryMarcus | ❤️ 7 | 🔁 0 | 💬 3 | 👁 1210]]></description>
-      <author>@GaryMarcus</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Depth charts in brief
+
+How to read the visual order book.
+
+Read more 👇
+https://t.co/06R2F8ic6c</title>
+      <link>https://x.com/binance/status/2048507638556545220</link>
+      <guid isPermaLink="false">2048507638556545220</guid>
+      <pubDate>Sun, 26 Apr 2026 21:00:55 +0000</pubDate>
+      <description><![CDATA[Depth charts in brief
+
+How to read the visual order book.
+
+Read more 👇
+https://t.co/06R2F8ic6c
+
+---
+@binance | ❤️ 98 | 🔁 8 | 💬 57 | 👁 12795]]></description>
+      <author>@binance</author>
     </item>
   </channel>
 </rss>
