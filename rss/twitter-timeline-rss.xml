@@ -5,65 +5,96 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:31:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Built with 27 flowers https://t.co/bzQ0Gv3LOQ</title>
-      <link>https://x.com/binance/status/2048281167208546510</link>
-      <guid isPermaLink="false">2048281167208546510</guid>
-      <pubDate>Sun, 26 Apr 2026 06:01:00 +0000</pubDate>
-      <description><![CDATA[Built with 27 flowers https://t.co/bzQ0Gv3LOQ
+      <title>这里的 “上下文种子” 可以理解成：专门埋在某个工具里的工具不需要，但是用来收集未来分析产品时会很有价值的信息。https://t.co/gV0AIt3X5c
+
+举个简单例子。
+
+假设你做了一个客户支...</title>
+      <link>https://x.com/dotey/status/2048288329582411958</link>
+      <guid isPermaLink="false">2048288329582411958</guid>
+      <pubDate>Sun, 26 Apr 2026 06:29:27 +0000</pubDate>
+      <description><![CDATA[这里的 “上下文种子” 可以理解成：专门埋在某个工具里的工具不需要，但是用来收集未来分析产品时会很有价值的信息。https://t.co/gV0AIt3X5c
+
+举个简单例子。
+
+假设你做了一个客户支持系统，给 AI 智能体提供一个工具：fetch_tickets，也就是“抓取工单”。
+
+最原始的设计可能只有这些参数：
+- customer_id：客户 ID
+- date_range：时间范围
+- status：工单状态
+
+这样工具当然能用，但问题是：
+你只知道智能体抓了哪些工单，却不知道它为什么抓这些工单。
+
+它具体可能是在帮用户：
+- 查一个客户的投诉？
+- 做事故复盘？
+- 准备周报？
+- 找产品 bug？
+- 分析某个大客户是否要流失？
+
+如果没有这些上下文，产品团队之后只能靠猜。
+
+所以作者说，要给特定工具加入一些“上下文种子”。比如把工具改成这样：
+- customer_id
+- date_range
+- status
+- purpose：这次抓工单是为了什么？
+- user_goal：用户最终想完成什么？
+- related_event：是否和某次事故、发布、宕机有关？
+- confidence：智能体对这次筛选是否有把握？
+
+这些新增参数不一定是工具运行所必需的。
+
+但它们能帮产品团队理解：用户到底在借 AI 智能体完成什么任务。
+
+更关键的是，AI 智能体往往掌握一些你的系统看不到的信息。
+
+比如用户在聊天里说：
+
+&gt; 帮我整理一下昨天系统故障后，大客户都提了哪些问题，我要写一份事故复盘。
+
+用户的智能体知道“这是为了写事故复盘”。
+
+但你的后台工具如果只收到一个 `fetch_tickets(customer_id, date_range)`，系统就看不出这个意图。
+
+于是你让工具多带一个参数：
+purpose: &quot;building incident report&quot;
+
+这样一来，产品团队后来查看日志时，就会发现很多智能体都在用抓工单工具来“写事故报告”。
+
+这就说明：用户真正需要的可能不是一个抓工单工具，而是一个自动生成事故报告的工具。
+
+这就是“上下文种子”的价值。
+
+它像是在工具调用里埋下一粒种子。短期看，它只是多收集了一点上下文；长期看，它会长成产品洞察，告诉你：
+
+用户在做什么、AI 智能体哪里卡住了、下一个该做的新功能是什么。
 
 ---
-@binance | ❤️ 12 | 🔁 0 | 💬 10 | 👁 11]]></description>
-      <author>@binance</author>
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 73]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Low-Gravity Trials: Quadruped #Robot Pushes the Limits of Off-World Mobility
-via...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048280162999931312</link>
-      <guid isPermaLink="false">2048280162999931312</guid>
-      <pubDate>Sun, 26 Apr 2026 05:57:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Low-Gravity Trials: Quadruped #Robot Pushes the Limits of Off-World Mobility
-via @ZappyZappy7
- 
-#Robotics #MachineLearn…
+      <title>Meet the Wuji Hand: Next-Gen #Robotic Dexterity Begins
+by @wuji_global
+  
+#Robots #Innovation #Emerg...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048286704017314073</link>
+      <guid isPermaLink="false">2048286704017314073</guid>
+      <pubDate>Sun, 26 Apr 2026 06:23:00 +0000</pubDate>
+      <description><![CDATA[Meet the Wuji Hand: Next-Gen #Robotic Dexterity Begins
+by @wuji_global
+  
+#Robots #Innovation #EmergingTech #ML #Technology https://t.co/jQ6fyWCHXP
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 58]]></description>
       <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Simplifying #IT Infrastructure Management with Serverless Computing
-by @antgrasso
-
-#EmergingTech #In...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048278404177248593</link>
-      <guid isPermaLink="false">2048278404177248593</guid>
-      <pubDate>Sun, 26 Apr 2026 05:50:01 +0000</pubDate>
-      <description><![CDATA[Simplifying #IT Infrastructure Management with Serverless Computing
-by @antgrasso
-
-#EmergingTech #Innovation #Technology #Tech https://t.co/tFmHtZSJUu
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 53]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Summarize 📝0.14.0 is out.
-
-GPT-5.5 Fast mode via `--fast`, Reddit thread extraction in the browser e...</title>
-      <link>https://x.com/steipete/status/2048275589224628677</link>
-      <guid isPermaLink="false">2048275589224628677</guid>
-      <pubDate>Sun, 26 Apr 2026 05:38:50 +0000</pubDate>
-      <description><![CDATA[Summarize 📝0.14.0 is out.
-
-GPT-5.5 Fast mode via `--fast`, Reddit thread extraction in the browser extension, local PDF `--extract`, and fixes for auto model config + Meta site compatibility. https://t.co/sbqbYupQ9Y
-
----
-@steipete | ❤️ 70 | 🔁 4 | 💬 8 | 👁 4409]]></description>
-      <author>@steipete</author>
     </item>
   </channel>
 </rss>
