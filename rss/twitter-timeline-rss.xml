@@ -5,164 +5,144 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:31:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>My view is simple:
+      <title>RT @atmoio: The greatest con of the decade was calling autocomplete “AI”. 
 
-The winners in enterprise AI will not be the companies with access to the most m...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048749087323820198</link>
-      <guid isPermaLink="false">2048749087323820198</guid>
-      <pubDate>Mon, 27 Apr 2026 13:00:20 +0000</pubDate>
-      <description><![CDATA[My view is simple:
+The second greatest is c...</title>
+      <link>https://x.com/GaryMarcus/status/2048755474347303302</link>
+      <guid isPermaLink="false">2048755474347303302</guid>
+      <pubDate>Mon, 27 Apr 2026 13:25:43 +0000</pubDate>
+      <description><![CDATA[RT @atmoio: The greatest con of the decade was calling autocomplete “AI”. 
 
-The winners in enterprise AI will not be the companies with access to the most models.
-
-They will be the ones that build the best intelligent systems around them.
-
-If you want the full breakdown, watch the video and tell me what part of your AI stack you are rethinking first.
-
-What do you think becomes the real source of advantage in the next 12 months, the model itself, or the orchestration layer around it?
-
-Check out the full article: https://t.co/XvcQeN6FDy
+The second greatest is calling autocomplete-in-a-loop an “agent…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 6]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>The second misconception I keep seeing:
-
-Too many teams think they have to choose between open model...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048749084446515253</link>
-      <guid isPermaLink="false">2048749084446515253</guid>
-      <pubDate>Mon, 27 Apr 2026 13:00:20 +0000</pubDate>
-      <description><![CDATA[The second misconception I keep seeing:
-
-Too many teams think they have to choose between open models and proprietary models.
-
-They do not.
-
-The smarter path is hybrid.
-
-→ proprietary models for scale and broad capability
-→ open models for flexibility and control
-→ orchestration layers to route each task to the best-fit model in real time
-
-That is how you balance performance, cost, and governance without locking yourself into one lane.
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 13]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Most enterprise AI strategies are already behind.
-
-Not because they picked the wrong model, but beca...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048749077911736401</link>
-      <guid isPermaLink="false">2048749077911736401</guid>
-      <pubDate>Mon, 27 Apr 2026 13:00:18 +0000</pubDate>
-      <description><![CDATA[Most enterprise AI strategies are already behind.
-
-Not because they picked the wrong model, but because they are still thinking at the model layer.
-
-The real shift is happening one level up, where AI becomes a system that can reason, use tools, retain context, and execute work inside secure environments.
-
-That changes enterprise strategy faster than most leaders realize.
-
-A thread, with insights from my latest video with NVIDIA…
-
-#NVIDIAPartner #NVIDIAGTC
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 16]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>here’s what ive read so far this year https://t.co/5pJ1HdlqGG</title>
-      <link>https://x.com/danshipper/status/2048748438112645544</link>
-      <guid isPermaLink="false">2048748438112645544</guid>
-      <pubDate>Mon, 27 Apr 2026 12:57:46 +0000</pubDate>
-      <description><![CDATA[here’s what ive read so far this year https://t.co/5pJ1HdlqGG
-
----
-@danshipper | ❤️ 1 | 🔁 0 | 💬 1 | 👁 196]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>Shape-Shifting Wheels by KIMM Let Wheelchairs Climb Stairs and Conquer Any Terrain
-by @spaceandtech_...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048746516324487529</link>
-      <guid isPermaLink="false">2048746516324487529</guid>
-      <pubDate>Mon, 27 Apr 2026 12:50:08 +0000</pubDate>
-      <description><![CDATA[Shape-Shifting Wheels by KIMM Let Wheelchairs Climb Stairs and Conquer Any Terrain
-by @spaceandtech_
-
-#Innovation #EmergingTech #Technology https://t.co/VuYikbOBi9
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 91]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Stop blaming the users. It’s not that simple:</title>
-      <link>https://x.com/GaryMarcus/status/2048746152749846549</link>
-      <guid isPermaLink="false">2048746152749846549</guid>
-      <pubDate>Mon, 27 Apr 2026 12:48:41 +0000</pubDate>
-      <description><![CDATA[Stop blaming the users. It’s not that simple:
-
----
-@GaryMarcus | ❤️ 2 | 🔁 0 | 💬 0 | 👁 1017]]></description>
+@GaryMarcus | ❤️ 0 | 🔁 115 | 💬 0 | 👁 0]]></description>
       <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>RT @Abhaydesigner: A podcast that I keep listening to is 'AI &amp;amp; I' by @danshipper 
+      <title>we have updated our partnership with microsoft.
 
-What I li...</title>
-      <link>https://x.com/danshipper/status/2048745702948274641</link>
-      <guid isPermaLink="false">2048745702948274641</guid>
-      <pubDate>Mon, 27 Apr 2026 12:46:54 +0000</pubDate>
-      <description><![CDATA[RT @Abhaydesigner: A podcast that I keep listening to is 'AI &amp;amp; I' by @danshipper 
+microsoft will remain our primary cloud partner, bu...</title>
+      <link>https://x.com/sama/status/2048755148361707946</link>
+      <guid isPermaLink="false">2048755148361707946</guid>
+      <pubDate>Mon, 27 Apr 2026 13:24:26 +0000</pubDate>
+      <description><![CDATA[we have updated our partnership with microsoft.
 
-What I like is that it’s not just “here’s a tool.”
+microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.
 
-It’s…
+will continue to provide them with models and products until 2032, and a revenue share through 2030.
 
 ---
-@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@danshipper</author>
+@sama | ❤️ 722 | 🔁 49 | 💬 117 | 👁 25364]]></description>
+      <author>@sama</author>
     </item>
     <item>
-      <title>Terrible, terrible. Poor predatory academic publishers.</title>
-      <link>https://x.com/tunguz/status/2048743127008108784</link>
-      <guid isPermaLink="false">2048743127008108784</guid>
-      <pubDate>Mon, 27 Apr 2026 12:36:39 +0000</pubDate>
-      <description><![CDATA[Terrible, terrible. Poor predatory academic publishers.
+      <title>RT @suchenzang: the beauty of a jagged frontier
+is that every failure is the user's fault
+and every ...</title>
+      <link>https://x.com/GaryMarcus/status/2048754666822049841</link>
+      <guid isPermaLink="false">2048754666822049841</guid>
+      <pubDate>Mon, 27 Apr 2026 13:22:31 +0000</pubDate>
+      <description><![CDATA[RT @suchenzang: the beauty of a jagged frontier
+is that every failure is the user's fault
+and every breakthrough is the model's glory
 
 ---
-@tunguz | ❤️ 17 | 🔁 2 | 💬 3 | 👁 1123]]></description>
+@GaryMarcus | ❤️ 0 | 🔁 26 | 💬 0 | 👁 2]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>和去噪同等重要的
+是去躁</title>
+      <link>https://x.com/lifesinger/status/2048752669305852373</link>
+      <guid isPermaLink="false">2048752669305852373</guid>
+      <pubDate>Mon, 27 Apr 2026 13:14:35 +0000</pubDate>
+      <description><![CDATA[和去噪同等重要的
+是去躁
+
+---
+@lifesinger | ❤️ 3 | 🔁 0 | 💬 1 | 👁 302]]></description>
+      <author>@lifesinger</author>
+    </item>
+    <item>
+      <title>RT @nycallday247: Data Driven NYC #121
+https://t.co/GsYH5K6wYY
+via @LumaHQ @FirstMarkCap 
+@mattturck</title>
+      <link>https://x.com/mattturck/status/2048751868327653381</link>
+      <guid isPermaLink="false">2048751868327653381</guid>
+      <pubDate>Mon, 27 Apr 2026 13:11:24 +0000</pubDate>
+      <description><![CDATA[RT @nycallday247: Data Driven NYC #121
+https://t.co/GsYH5K6wYY
+via @LumaHQ @FirstMarkCap 
+@mattturck
+
+---
+@mattturck | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>Dual-Arm Tracked Humanoid Begins Real-World Industrial Trials
+via @IlirAliu_
+ 
+#Robotics #Artificial...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048751798735835629</link>
+      <guid isPermaLink="false">2048751798735835629</guid>
+      <pubDate>Mon, 27 Apr 2026 13:11:07 +0000</pubDate>
+      <description><![CDATA[Dual-Arm Tracked Humanoid Begins Real-World Industrial Trials
+via @IlirAliu_
+ 
+#Robotics #ArtificialIntelligence #ML #Innovation #Technology https://t.co/y9dyyBOoNB
+
+---
+@Ronald_vanLoon | ❤️ 3 | 🔁 4 | 💬 0 | 👁 147]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>this is so good:
+
+https://t.co/GuxDNpsOZi</title>
+      <link>https://x.com/sama/status/2048751392031203544</link>
+      <guid isPermaLink="false">2048751392031203544</guid>
+      <pubDate>Mon, 27 Apr 2026 13:09:30 +0000</pubDate>
+      <description><![CDATA[this is so good:
+
+https://t.co/GuxDNpsOZi
+
+---
+@sama | ❤️ 349 | 🔁 16 | 💬 104 | 👁 32888]]></description>
+      <author>@sama</author>
+    </item>
+    <item>
+      <title>Gigawatt here, gigawatt there, it adds up.</title>
+      <link>https://x.com/tunguz/status/2048750479379701956</link>
+      <guid isPermaLink="false">2048750479379701956</guid>
+      <pubDate>Mon, 27 Apr 2026 13:05:52 +0000</pubDate>
+      <description><![CDATA[Gigawatt here, gigawatt there, it adds up.
+
+---
+@tunguz | ❤️ 6 | 🔁 0 | 💬 1 | 👁 537]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>People keep blaming the users for the growing number of vibe-coded reasoners. Doing so is *half* rig...</title>
-      <link>https://x.com/GaryMarcus/status/2048742983684784239</link>
-      <guid isPermaLink="false">2048742983684784239</guid>
-      <pubDate>Mon, 27 Apr 2026 12:36:05 +0000</pubDate>
-      <description><![CDATA[People keep blaming the users for the growing number of vibe-coded reasoners. Doing so is *half* right.
+      <title>RT @Ronald_vanLoon: Treventus Scan #Robot Digitizes Up to 2,500 Pages Per Hour
+by @AadityaAnand_11
 
-Users *are*screwing up - by letting vibe coded stuff access their files, without proper backups, without proper monitoring, without adequate sysadmin, etc.
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048750269945569362</link>
+      <guid isPermaLink="false">2048750269945569362</guid>
+      <pubDate>Mon, 27 Apr 2026 13:05:02 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Treventus Scan #Robot Digitizes Up to 2,500 Pages Per Hour
+by @AadityaAnand_11
 
-But that’s *exactly why* we still need software engineers — and why what Dario recently said about software engineers disappearing is so absurd.
-
-Skilled coders can use vibe-coded tools, with careful oversight.
-
-But amateurs using vibe-coding tools are asking for trouble. 
-
-Using them without a strong prior working knowledge in coding and sysadmin *is* the mistake.
+#Robotics #Innovation #EmergingTech #Te…
 
 ---
-@GaryMarcus | ❤️ 24 | 🔁 3 | 💬 10 | 👁 3246]]></description>
-      <author>@GaryMarcus</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
