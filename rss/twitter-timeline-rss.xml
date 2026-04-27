@@ -5,104 +5,130 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:31:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>最近真的太缺乏睡眠，等今明两天的分享结束，NHK 节目的拍摄就正式告一段落，节目五月中下旬在电视台播出，感兴趣的朋友可以到时打开电视看看。然后我得专门找个时间去乡下住一阵子，天天泡温泉才能恢复正常节律...</title>
-      <link>https://x.com/turingou/status/2048884663792640468</link>
-      <guid isPermaLink="false">2048884663792640468</guid>
-      <pubDate>Mon, 27 Apr 2026 21:59:04 +0000</pubDate>
-      <description><![CDATA[最近真的太缺乏睡眠，等今明两天的分享结束，NHK 节目的拍摄就正式告一段落，节目五月中下旬在电视台播出，感兴趣的朋友可以到时打开电视看看。然后我得专门找个时间去乡下住一阵子，天天泡温泉才能恢复正常节律了。
+      <title>RT @DavidDuvenaud: Download the weights here:
+https://t.co/859rZYYZ0T</title>
+      <link>https://x.com/_akhaliq/status/2048892617115500731</link>
+      <guid isPermaLink="false">2048892617115500731</guid>
+      <pubDate>Mon, 27 Apr 2026 22:30:41 +0000</pubDate>
+      <description><![CDATA[RT @DavidDuvenaud: Download the weights here:
+https://t.co/859rZYYZ0T
 
 ---
-@turingou | ❤️ 1 | 🔁 0 | 💬 0 | 👁 46]]></description>
+@_akhaliq | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>音频，视频，图片的媒体边界正在变得模糊，语言文字模型的统一必将带来文化的大融合时代，政治在向右转，但我认为 AI 正在塑造21 世纪的「文艺复兴」</title>
+      <link>https://x.com/turingou/status/2048892605937951214</link>
+      <guid isPermaLink="false">2048892605937951214</guid>
+      <pubDate>Mon, 27 Apr 2026 22:30:38 +0000</pubDate>
+      <description><![CDATA[音频，视频，图片的媒体边界正在变得模糊，语言文字模型的统一必将带来文化的大融合时代，政治在向右转，但我认为 AI 正在塑造21 世纪的「文艺复兴」
+
+---
+@turingou | ❤️ 0 | 🔁 0 | 💬 0 | 👁 1]]></description>
       <author>@turingou</author>
     </item>
     <item>
-      <title>RT @iamBarronRoth: excited to have built Voice Personas for @openclaw!
-
-until now, when your agent s...</title>
-      <link>https://x.com/steipete/status/2048883036008087962</link>
-      <guid isPermaLink="false">2048883036008087962</guid>
-      <pubDate>Mon, 27 Apr 2026 21:52:36 +0000</pubDate>
-      <description><![CDATA[RT @iamBarronRoth: excited to have built Voice Personas for @openclaw!
-
-until now, when your agent sent a voice note, it had to improvise t…
+      <title>I should build my own smartphone. https://t.co/BzcW4CWaqa</title>
+      <link>https://x.com/tunguz/status/2048891150661005402</link>
+      <guid isPermaLink="false">2048891150661005402</guid>
+      <pubDate>Mon, 27 Apr 2026 22:24:51 +0000</pubDate>
+      <description><![CDATA[I should build my own smartphone. https://t.co/BzcW4CWaqa
 
 ---
-@steipete | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 208]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>Some of the CI issues are having 🤣 https://t.co/yAfsraQqLK</title>
-      <link>https://x.com/steipete/status/2048882959596286342</link>
-      <guid isPermaLink="false">2048882959596286342</guid>
-      <pubDate>Mon, 27 Apr 2026 21:52:18 +0000</pubDate>
-      <description><![CDATA[Some of the CI issues are having 🤣 https://t.co/yAfsraQqLK
+      <title>又是这哥们，每次都是同样的逻辑做不同的场景，但是场景确实都是潜在的需求…很厉害</title>
+      <link>https://x.com/turingou/status/2048890812935913749</link>
+      <guid isPermaLink="false">2048890812935913749</guid>
+      <pubDate>Mon, 27 Apr 2026 22:23:31 +0000</pubDate>
+      <description><![CDATA[又是这哥们，每次都是同样的逻辑做不同的场景，但是场景确实都是潜在的需求…很厉害
 
 ---
-@steipete | ❤️ 21 | 🔁 1 | 💬 3 | 👁 2356]]></description>
-      <author>@steipete</author>
+@turingou | ❤️ 4 | 🔁 0 | 💬 0 | 👁 364]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>🔥 Absolute war is breaking out finally on the server
-
-Added red tracers so you can see who's shootin...</title>
-      <link>https://x.com/levelsio/status/2048882903526858841</link>
-      <guid isPermaLink="false">2048882903526858841</guid>
-      <pubDate>Mon, 27 Apr 2026 21:52:05 +0000</pubDate>
-      <description><![CDATA[🔥 Absolute war is breaking out finally on the server
-
-Added red tracers so you can see who's shooting who 
-
-Also I got the domain https://t.co/ErAl5CK9MB now
-
-I want to improve the bullet sounds a bit to make them sound more localized, like far away should sound more high passed I think
+      <title>想象力真的很强，每天看大家怎么用 AI 做出各种精致细节真的自叹不如</title>
+      <link>https://x.com/turingou/status/2048890347833745691</link>
+      <guid isPermaLink="false">2048890347833745691</guid>
+      <pubDate>Mon, 27 Apr 2026 22:21:40 +0000</pubDate>
+      <description><![CDATA[想象力真的很强，每天看大家怎么用 AI 做出各种精致细节真的自叹不如
 
 ---
-@levelsio | ❤️ 9 | 🔁 0 | 💬 4 | 👁 1618]]></description>
-      <author>@levelsio</author>
+@turingou | ❤️ 5 | 🔁 0 | 💬 0 | 👁 443]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>Solar-Powered Adaptive Tidal Lane System Revolutionizes Smart Traffic Flow
-by @x_viral_vibes
-
-#Innov...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048882465805148609</link>
-      <guid isPermaLink="false">2048882465805148609</guid>
-      <pubDate>Mon, 27 Apr 2026 21:50:20 +0000</pubDate>
-      <description><![CDATA[Solar-Powered Adaptive Tidal Lane System Revolutionizes Smart Traffic Flow
-by @x_viral_vibes
-
-#Innovation #EmergingTech #Technology https://t.co/ccO5qubkoV
+      <title>Apogee Active Suit: Human Strength Enhanced by German Bionic Intelligence
+by @germanbionic
+ 
+#Emergi...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048888959954977017</link>
+      <guid isPermaLink="false">2048888959954977017</guid>
+      <pubDate>Mon, 27 Apr 2026 22:16:09 +0000</pubDate>
+      <description><![CDATA[Apogee Active Suit: Human Strength Enhanced by German Bionic Intelligence
+by @germanbionic
+ 
+#EmergingTech #Innovation #TechForGood #Technology https://t.co/pTZILQFkky
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 73]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 99]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>我很好奇是不是有一些 vibe 项目为了 star 买了推广？我在信息流上有时会看到很多无关的账户用 AI 翻译腔发同一个项目配上类似的介绍，刷用户我还能理解，刷 star 到底是为了啥？</title>
-      <link>https://x.com/turingou/status/2048880425813332208</link>
-      <guid isPermaLink="false">2048880425813332208</guid>
-      <pubDate>Mon, 27 Apr 2026 21:42:14 +0000</pubDate>
-      <description><![CDATA[我很好奇是不是有一些 vibe 项目为了 star 买了推广？我在信息流上有时会看到很多无关的账户用 AI 翻译腔发同一个项目配上类似的介绍，刷用户我还能理解，刷 star 到底是为了啥？
+      <title>RT @Ronald_vanLoon: ABB #Robotics Integrates NVIDIA Omniverse to Train Industrial #Robots with 99% A...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048887919209812446</link>
+      <guid isPermaLink="false">2048887919209812446</guid>
+      <pubDate>Mon, 27 Apr 2026 22:12:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: ABB #Robotics Integrates NVIDIA Omniverse to Train Industrial #Robots with 99% Accuracy
+by @ABBRobotics
+
+#Engineering #…
 
 ---
-@turingou | ❤️ 0 | 🔁 0 | 💬 1 | 👁 493]]></description>
-      <author>@turingou</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @DigEconLab: What is the relationship between neural network approaches in machine learning, and ...</title>
-      <link>https://x.com/erikbryn/status/2048880063182258387</link>
-      <guid isPermaLink="false">2048880063182258387</guid>
-      <pubDate>Mon, 27 Apr 2026 21:40:48 +0000</pubDate>
-      <description><![CDATA[RT @DigEconLab: What is the relationship between neural network approaches in machine learning, and real neural networks in the brain?
-
-In…
+      <title>RT @fkpxls: Screenshot for an internal memo https://t.co/VGVEluGpvW</title>
+      <link>https://x.com/mattturck/status/2048887156614078875</link>
+      <guid isPermaLink="false">2048887156614078875</guid>
+      <pubDate>Mon, 27 Apr 2026 22:08:59 +0000</pubDate>
+      <description><![CDATA[RT @fkpxls: Screenshot for an internal memo https://t.co/VGVEluGpvW
 
 ---
-@erikbryn | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@erikbryn</author>
+@mattturck | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>RT @JaredSleeper: We’ve been thinking hard about @AnthropicAI and the white-collar productivity stac...</title>
+      <link>https://x.com/mattturck/status/2048887136582005012</link>
+      <guid isPermaLink="false">2048887136582005012</guid>
+      <pubDate>Mon, 27 Apr 2026 22:08:54 +0000</pubDate>
+      <description><![CDATA[RT @JaredSleeper: We’ve been thinking hard about @AnthropicAI and the white-collar productivity stack.
+
+Microsoft is the 800-pound gorilla,…
+
+---
+@mattturck | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>RT @MIT_CSAIL: Highest paid workers are more likely to use AI for work, according to Financial Times...</title>
+      <link>https://x.com/MIT_CSAIL/status/2048886432803045811</link>
+      <guid isPermaLink="false">2048886432803045811</guid>
+      <pubDate>Mon, 27 Apr 2026 22:06:06 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: Highest paid workers are more likely to use AI for work, according to Financial Times breakdown: https://t.co/3NOlnQB45y htt…
+
+---
+@MIT_CSAIL | ❤️ 0 | 🔁 16 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
     </item>
   </channel>
 </rss>
