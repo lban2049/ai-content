@@ -5,88 +5,320 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:14:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:
+      <title>The old way:
+→ 3-5 days to settle
+→ 3%+ fees
+→ Closed evenings, weekends, and holidays
 
-1. Charge money o...</title>
-      <link>https://x.com/petergyang/status/2048771729821229091</link>
-      <guid isPermaLink="false">2048771729821229091</guid>
-      <pubDate>Mon, 27 Apr 2026 14:30:19 +0000</pubDate>
-      <description><![CDATA[My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:
+The new way:...</title>
+      <link>https://x.com/coinbase/status/2048781177918570810</link>
+      <guid isPermaLink="false">2048781177918570810</guid>
+      <pubDate>Mon, 27 Apr 2026 15:07:51 +0000</pubDate>
+      <description><![CDATA[The old way:
+→ 3-5 days to settle
+→ 3%+ fees
+→ Closed evenings, weekends, and holidays
 
-1. Charge money on day one.
+The new way:
+→ $33T settled in stablecoins last year
+→ Sub-cent fees
+→ 24/7/365
 
-Tibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no revenue and no stickiness in the revenue, it’s going to be very hard to build a successful business.” Free signups are easy to mistake for traction.
-
-2. Follow the signal when users surprise you.
-
-Tibo acquired Typeframe ($2K MRR) as a product video tool, but noticed users were hacking it to stitch 5-second AI clips into longer videos with consistent characters and scenes. He pivoted the entire product to meet this need and rebranded it to Revid, which is now making $600K+ MRR.
-
-3. Price your AI SaaS at $50-100/month
-
-Low enough that customers don’t need a sales call and high enough to filter out tire-kickers. “I see so many people charging $10 / month and it puts you into the position of a cheap product.” Tibo picks his price point first, then shapes the product around it.
-
-4. Keep monthly churn below 20%.
-
-If more than 20% of customers cancel each month, stop scaling acquisition and fix the product first. There’s a ceiling (max MRR) on your revenue based on churn vs. acquisition. At 40% churn, customers stay about 2 months and you’ll hit a wall no matter how much you spend.
-
-5. Build tool pages to rank on Google
-
-Revid has 100+ pages each targeting a specific Google search like “turn audio into video” and “YouTube to shorts.” Many AI founders follow a similar model.
-
-📌 Watch our full conversation for more practical tactics like the above:  https://t.co/N6b950Xc5p
+The internet finally has real money. We built the stack.
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 101]]></description>
-      <author>@petergyang</author>
+@coinbase | ❤️ 45 | 🔁 4 | 💬 12 | 👁 5504]]></description>
+      <author>@coinbase</author>
     </item>
     <item>
-      <title>Absolutely awesome idea and the first game in 2026 #vibejam that goes absolutely viral and I see sha...</title>
-      <link>https://x.com/levelsio/status/2048771177145930146</link>
-      <guid isPermaLink="false">2048771177145930146</guid>
-      <pubDate>Mon, 27 Apr 2026 14:28:07 +0000</pubDate>
-      <description><![CDATA[Absolutely awesome idea and the first game in 2026 #vibejam that goes absolutely viral and I see shared in almost every chat group I'm in
-
-I also had to add double my php_max_workers because the Vibe Jam widget.js was getting overloaded saving pageviews from https://t.co/b0wAMaJPjl
-
-Super cool!!!
+      <title>RT @Teknium: Hermes will now by default use native vision if the main agent model supports it, and y...</title>
+      <link>https://x.com/NousResearch/status/2048781040928334261</link>
+      <guid isPermaLink="false">2048781040928334261</guid>
+      <pubDate>Mon, 27 Apr 2026 15:07:19 +0000</pubDate>
+      <description><![CDATA[RT @Teknium: Hermes will now by default use native vision if the main agent model supports it, and you didn't set a different vision auxili…
 
 ---
-@levelsio | ❤️ 3 | 🔁 0 | 💬 2 | 👁 1135]]></description>
-      <author>@levelsio</author>
+@NousResearch | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
     </item>
     <item>
-      <title>yep, that’s what I do. 
-
-I am increasingly concerned that people in China are soaking up my wisdom, ...</title>
-      <link>https://x.com/GaryMarcus/status/2048771044987777428</link>
-      <guid isPermaLink="false">2048771044987777428</guid>
-      <pubDate>Mon, 27 Apr 2026 14:27:36 +0000</pubDate>
-      <description><![CDATA[yep, that’s what I do. 
-
-I am increasingly concerned that people in China are soaking up my wisdom, while a lot of people in the US try to dismiss me.
-
-i don’t think that is going to end well.
+      <title>These are the times that separate procrastinators from the run-of-the-mill amateur-crastinators.</title>
+      <link>https://x.com/tunguz/status/2048780877790863622</link>
+      <guid isPermaLink="false">2048780877790863622</guid>
+      <pubDate>Mon, 27 Apr 2026 15:06:40 +0000</pubDate>
+      <description><![CDATA[These are the times that separate procrastinators from the run-of-the-mill amateur-crastinators.
 
 ---
-@GaryMarcus | ❤️ 4 | 🔁 0 | 💬 1 | 👁 419]]></description>
-      <author>@GaryMarcus</author>
+@tunguz | ❤️ 2 | 🔁 0 | 💬 0 | 👁 239]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>#AI Referees the Sand: Real-Time Beach Volleyball Analysis — Enhancing the Game or Changing Its Soul...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048769934587523460</link>
-      <guid isPermaLink="false">2048769934587523460</guid>
-      <pubDate>Mon, 27 Apr 2026 14:23:11 +0000</pubDate>
-      <description><![CDATA[#AI Referees the Sand: Real-Time Beach Volleyball Analysis — Enhancing the Game or Changing Its Soul?
-by @measure_plan
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/xa7XdYWHHU
+      <title>You have your goals. I call the way you will operate to achieve your goals your machine. It consists...</title>
+      <link>https://x.com/RayDalio/status/2048780173177237506</link>
+      <guid isPermaLink="false">2048780173177237506</guid>
+      <pubDate>Mon, 27 Apr 2026 15:03:52 +0000</pubDate>
+      <description><![CDATA[You have your goals. I call the way you will operate to achieve your goals your machine. It consists of a design (the things that have to get done) and the people (who will do the things that need getting done). Those people include you and those who help you. For example, imagine that your goal is a military one: to take a hill from an enemy. Your design for your &quot;machine&quot; might include two scouts, two snipers, four infantrymen, and so on. While the right design is essential, it is only half the battle. It is equally important to put the right people in each of those positions. They need different qualities to do their jobs well--the scouts must be fast runners, the snipers must be good marksmen--so that the machine will produce the outcomes you seek. #principleoftheday
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 2 | 💬 0 | 👁 83]]></description>
+@RayDalio | ❤️ 52 | 🔁 4 | 💬 6 | 👁 5601]]></description>
+      <author>@RayDalio</author>
+    </item>
+    <item>
+      <title>RT @KatieMiller: This is the 7th consecutive week with new reporting that ChatGPT was used in connec...</title>
+      <link>https://x.com/elonmusk/status/2048779472363520290</link>
+      <guid isPermaLink="false">2048779472363520290</guid>
+      <pubDate>Mon, 27 Apr 2026 15:01:05 +0000</pubDate>
+      <description><![CDATA[RT @KatieMiller: This is the 7th consecutive week with new reporting that ChatGPT was used in connection with murder or suicide. 
+
+OpenAI d…
+
+---
+@elonmusk | ❤️ 0 | 🔁 223 | 💬 0 | 👁 17]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Here’s the bottom line:
+
+AI won’t be won by who moves fastest.
+It’ll be won by who governs best.
+
+If...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048779312854118829</link>
+      <guid isPermaLink="false">2048779312854118829</guid>
+      <pubDate>Mon, 27 Apr 2026 15:00:27 +0000</pubDate>
+      <description><![CDATA[Here’s the bottom line:
+
+AI won’t be won by who moves fastest.
+It’ll be won by who governs best.
+
+If your data isn’t structured, contextualized, and controlled, scaling AI will only amplify problems.
+
+I break this down in detail in my latest video with Collibra.
+
+Check out the full article: https://t.co/G6PX8FzxjA
+
+Or Comment or DM “GOVERNANCE” and I’ll share a practical setup tailored to your organization - so you can define the right governance model before you scale.
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 55]]></description>
       <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>The real bottleneck isn’t models.
+
+It’s unstructured data.
+
+I saw a side-by-side demo that made this...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048779308794077361</link>
+      <guid isPermaLink="false">2048779308794077361</guid>
+      <pubDate>Mon, 27 Apr 2026 15:00:26 +0000</pubDate>
+      <description><![CDATA[The real bottleneck isn’t models.
+
+It’s unstructured data.
+
+I saw a side-by-side demo that made this obvious:
+
+→ Raw data environment
+• lower accuracy
+• higher risk
+• inefficient outputs
+
+→ Metadata-enriched environment
+• better decisions
+• faster results
+• measurable value
+
+Same AI. Completely different outcomes.
+
+The difference? Governance and structure.
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 64]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Everyone thinks they’re scaling AI.
+
+Most are just scaling chaos.
+
+What I’m seeing, including in con...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048779299574911274</link>
+      <guid isPermaLink="false">2048779299574911274</guid>
+      <pubDate>Mon, 27 Apr 2026 15:00:24 +0000</pubDate>
+      <description><![CDATA[Everyone thinks they’re scaling AI.
+
+Most are just scaling chaos.
+
+What I’m seeing, including in conversations with @collibra, is a dangerous illusion
+
+→ faster experimentation
+→ more pilots
+→ zero control
+
+The gap between AI ambition and actual business value is widening.
+
+Here’s what’s really going on…
+
+#CollibraPartner
+
+---
+@Ronald_vanLoon | ❤️ 3 | 🔁 1 | 💬 2 | 👁 87]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @mikekalilmfg: A pair of humanoid robots from the Shenzhen startup KinetixAI awkwardly introduce ...</title>
+      <link>https://x.com/DeepLearn007/status/2048778370725429711</link>
+      <guid isPermaLink="false">2048778370725429711</guid>
+      <pubDate>Mon, 27 Apr 2026 14:56:42 +0000</pubDate>
+      <description><![CDATA[RT @mikekalilmfg: A pair of humanoid robots from the Shenzhen startup KinetixAI awkwardly introduce themselves to the world. 
+
+The startup…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 30 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @heynavtoor: Researchers sent the same resume to an AI hiring tool twice. Same qualifications. Sa...</title>
+      <link>https://x.com/DeepLearn007/status/2048778229205385402</link>
+      <guid isPermaLink="false">2048778229205385402</guid>
+      <pubDate>Mon, 27 Apr 2026 14:56:08 +0000</pubDate>
+      <description><![CDATA[RT @heynavtoor: Researchers sent the same resume to an AI hiring tool twice. Same qualifications. Same experience. Same skills. One version…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 6533 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @scitechgirl: 🚨 In a world-first medical breakthrough, scientists have successfully used a woman’...</title>
+      <link>https://x.com/DeepLearn007/status/2048778144891457962</link>
+      <guid isPermaLink="false">2048778144891457962</guid>
+      <pubDate>Mon, 27 Apr 2026 14:55:48 +0000</pubDate>
+      <description><![CDATA[RT @scitechgirl: 🚨 In a world-first medical breakthrough, scientists have successfully used a woman’s own stem cells to reverse her Type 1…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 58 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @HanifFreeIran: 🚨 IRAN Executions
+
+22-year-old Baluch activist Amer Ramesh was hanged this mornin...</title>
+      <link>https://x.com/DeepLearn007/status/2048778007376961717</link>
+      <guid isPermaLink="false">2048778007376961717</guid>
+      <pubDate>Mon, 27 Apr 2026 14:55:16 +0000</pubDate>
+      <description><![CDATA[RT @HanifFreeIran: 🚨 IRAN Executions
+
+22-year-old Baluch activist Amer Ramesh was hanged this morning.
+
+His “crimes” included resistance ac…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 61 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @IranAlhurra: مناشدة عاجلة  
+#عاجل  صدور حكم الإعدام بحق الدكتورة آمنة سليماني!  
+إنها طبيبة شريف...</title>
+      <link>https://x.com/DeepLearn007/status/2048777910006292612</link>
+      <guid isPermaLink="false">2048777910006292612</guid>
+      <pubDate>Mon, 27 Apr 2026 14:54:52 +0000</pubDate>
+      <description><![CDATA[RT @IranAlhurra: مناشدة عاجلة  
+#عاجل  صدور حكم الإعدام بحق الدكتورة آمنة سليماني!  
+إنها طبيبة شريفة أدّت مسؤوليتها الاجتماعية وظلّت وفية…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 50 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>It never would have happened if they had a ballroom.</title>
+      <link>https://x.com/tunguz/status/2048777867572424933</link>
+      <guid isPermaLink="false">2048777867572424933</guid>
+      <pubDate>Mon, 27 Apr 2026 14:54:42 +0000</pubDate>
+      <description><![CDATA[It never would have happened if they had a ballroom.
+
+---
+@tunguz | ❤️ 6 | 🔁 1 | 💬 2 | 👁 709]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>gpt-5.5 great for hard tasks like writing GPU kernels</title>
+      <link>https://x.com/gdb/status/2048777802586149331</link>
+      <guid isPermaLink="false">2048777802586149331</guid>
+      <pubDate>Mon, 27 Apr 2026 14:54:27 +0000</pubDate>
+      <description><![CDATA[gpt-5.5 great for hard tasks like writing GPU kernels
+
+---
+@gdb | ❤️ 147 | 🔁 2 | 💬 17 | 👁 10755]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>RT @unusual_whales: Over half of the planet’s internet traffic is now made up of AI bots, per Lumen ...</title>
+      <link>https://x.com/DeepLearn007/status/2048777681848738204</link>
+      <guid isPermaLink="false">2048777681848738204</guid>
+      <pubDate>Mon, 27 Apr 2026 14:53:58 +0000</pubDate>
+      <description><![CDATA[RT @unusual_whales: Over half of the planet’s internet traffic is now made up of AI bots, per Lumen Technologies
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 907 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>Excellent point</title>
+      <link>https://x.com/elonmusk/status/2048777628019032335</link>
+      <guid isPermaLink="false">2048777628019032335</guid>
+      <pubDate>Mon, 27 Apr 2026 14:53:45 +0000</pubDate>
+      <description><![CDATA[Excellent point
+
+---
+@elonmusk | ❤️ 11661 | 🔁 1677 | 💬 862 | 👁 816495]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Antigravity A1: Redefining Aerial Imaging with 8K 360° Panoramic Vision
+by @Inst...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048777441947029671</link>
+      <guid isPermaLink="false">2048777441947029671</guid>
+      <pubDate>Mon, 27 Apr 2026 14:53:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Antigravity A1: Redefining Aerial Imaging with 8K 360° Panoramic Vision
+by @Insta360Japan
+
+#EmergingTech #Innovation #T…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @Currentreport1: BREAKING:
+
+China has officially surpassed the United States in overall research ...</title>
+      <link>https://x.com/DeepLearn007/status/2048777233246937342</link>
+      <guid isPermaLink="false">2048777233246937342</guid>
+      <pubDate>Mon, 27 Apr 2026 14:52:11 +0000</pubDate>
+      <description><![CDATA[RT @Currentreport1: BREAKING:
+
+China has officially surpassed the United States in overall research and development spending, investing abo…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 1571 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @jason_meister: They arrested the President of the United States of America 4X, charged him 91X, ...</title>
+      <link>https://x.com/elonmusk/status/2048776941306597702</link>
+      <guid isPermaLink="false">2048776941306597702</guid>
+      <pubDate>Mon, 27 Apr 2026 14:51:01 +0000</pubDate>
+      <description><![CDATA[RT @jason_meister: They arrested the President of the United States of America 4X, charged him 91X, indicted him 4X, spied on his campaign,…
+
+---
+@elonmusk | ❤️ 0 | 🔁 7618 | 💬 0 | 👁 51]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
