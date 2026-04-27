@@ -5,127 +5,160 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 20:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 20:31:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Scam Altman …
- https://t.co/hj3xiP5FKY</title>
-      <link>https://x.com/elonmusk/status/2048854864592355665</link>
-      <guid isPermaLink="false">2048854864592355665</guid>
-      <pubDate>Mon, 27 Apr 2026 20:00:40 +0000</pubDate>
-      <description><![CDATA[Scam Altman …
- https://t.co/hj3xiP5FKY
+      <title>Xiaomi MiMo-V2.5 is out on Hugging Face
+
+https://t.co/0aBME5Ocmf https://t.co/osLRMguOvF</title>
+      <link>https://x.com/_akhaliq/status/2048861462991360155</link>
+      <guid isPermaLink="false">2048861462991360155</guid>
+      <pubDate>Mon, 27 Apr 2026 20:26:53 +0000</pubDate>
+      <description><![CDATA[Xiaomi MiMo-V2.5 is out on Hugging Face
+
+https://t.co/0aBME5Ocmf https://t.co/osLRMguOvF
 
 ---
-@elonmusk | ❤️ 122 | 🔁 24 | 💬 86 | 👁 11096]]></description>
+@_akhaliq | ❤️ 0 | 🔁 0 | 💬 0 | 👁 290]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @MIT_CSAIL: Highest paid workers are more likely to use AI for work, according to Financial Times...</title>
+      <link>https://x.com/MIT_CSAIL/status/2048861196170744047</link>
+      <guid isPermaLink="false">2048861196170744047</guid>
+      <pubDate>Mon, 27 Apr 2026 20:25:49 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: Highest paid workers are more likely to use AI for work, according to Financial Times breakdown: https://t.co/3NOlnQB45y htt…
+
+---
+@MIT_CSAIL | ❤️ 0 | 🔁 12 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
+    </item>
+    <item>
+      <title>RT @greynguyen: Introducing Bevel 3.0
+
+Your health data is scattered across a dozen apps that don't ...</title>
+      <link>https://x.com/adityaag/status/2048860386980770074</link>
+      <guid isPermaLink="false">2048860386980770074</guid>
+      <pubDate>Mon, 27 Apr 2026 20:22:36 +0000</pubDate>
+      <description><![CDATA[RT @greynguyen: Introducing Bevel 3.0
+
+Your health data is scattered across a dozen apps that don't talk to each other. Bevel brings them a…
+
+---
+@adityaag | ❤️ 0 | 🔁 13 | 💬 0 | 👁 0]]></description>
+      <author>@adityaag</author>
+    </item>
+    <item>
+      <title>Meet EEWOC: A Wheeled Orb #Robot That Climbs Steel with Extendable Limbs
+via @WevolverApp
+
+#AI #Robo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048859540305641653</link>
+      <guid isPermaLink="false">2048859540305641653</guid>
+      <pubDate>Mon, 27 Apr 2026 20:19:15 +0000</pubDate>
+      <description><![CDATA[Meet EEWOC: A Wheeled Orb #Robot That Climbs Steel with Extendable Limbs
+via @WevolverApp
+
+#AI #Robotics #Innovation #TechForGood #EmergingTech https://t.co/gDP5o6zPGZ
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 101]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>I was on a cruise ship last week (Star of the Seas), and they had pods of 10 elevators in a circle, ...</title>
+      <link>https://x.com/ID_AA_Carmack/status/2048858397295206854</link>
+      <guid isPermaLink="false">2048858397295206854</guid>
+      <pubDate>Mon, 27 Apr 2026 20:14:42 +0000</pubDate>
+      <description><![CDATA[I was on a cruise ship last week (Star of the Seas), and they had pods of 10 elevators in a circle, where you picked your destination floor on a pad, and it directed you to the correct elevator, which was often behind you.
+
+It seemed to work efficiently, but multiple times I saw people tap their floor and just look away, conditioned for normal elevator operation, and miss the arrival of the elevator they were supposed to get on.
+
+Addressing my normal pet peeve of interaction feedback latency would have helped — with all the fades and slides, it takes over a second for the first hint of the elevator to show up, and two seconds for it to fully stabilize. That may not seem like much in some circumstances, but it is plenty of time for people to look away. The elevator letter should appear instantaneously, maybe with some festive animation around it to hold attention that was on the button press.
+
+Even better would be to add a localized audio cue from the elevator the instant you pressed the button, which would let you immediately know where it is without having to scan for the lighted letter.
+
+(the Starlink internet on the ship was excellent, allowing me to get some work in at sea)
+
+---
+@ID_AA_Carmack | ❤️ 76 | 🔁 1 | 💬 9 | 👁 4244]]></description>
+      <author>@ID_AA_Carmack</author>
+    </item>
+    <item>
+      <title>The Exp 74 crew worked eye checks, vein scans, and new medical tech as a Progress 95 cargo spacecraf...</title>
+      <link>https://x.com/Space_Station/status/2048857684162592995</link>
+      <guid isPermaLink="false">2048857684162592995</guid>
+      <pubDate>Mon, 27 Apr 2026 20:11:52 +0000</pubDate>
+      <description><![CDATA[The Exp 74 crew worked eye checks, vein scans, and new medical tech as a Progress 95 cargo spacecraft packed with food, fuel, and supplies orbits Earth toward the station for a docking at 8 p.m. EDT on Monday, April 27. More... https://t.co/1WQPfTQtDO https://t.co/r94ZEh6rhz
+
+---
+@Space_Station | ❤️ 80 | 🔁 14 | 💬 5 | 👁 7931]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>RT @BrianRoemmele: Elon’s influence was monumental to OpenAI.
+
+The reality is there simply wouldn’t ...</title>
+      <link>https://x.com/elonmusk/status/2048856780181242250</link>
+      <guid isPermaLink="false">2048856780181242250</guid>
+      <pubDate>Mon, 27 Apr 2026 20:08:16 +0000</pubDate>
+      <description><![CDATA[RT @BrianRoemmele: Elon’s influence was monumental to OpenAI.
+
+The reality is there simply wouldn’t have been the AI world we have today.…
+
+---
+@elonmusk | ❤️ 0 | 🔁 156 | 💬 0 | 👁 23]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Maximo #Robots Are Installing Solar at Scale—100MW and Counting
-by @NVIDIARoboti...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048854838042095841</link>
-      <guid isPermaLink="false">2048854838042095841</guid>
-      <pubDate>Mon, 27 Apr 2026 20:00:33 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Maximo #Robots Are Installing Solar at Scale—100MW and Counting
-by @NVIDIARobotics
+      <title>RT @profstonge: OpenAi bait-and-switched Elon, pretending to a non-profit mission to save humanity u...</title>
+      <link>https://x.com/elonmusk/status/2048856547879772407</link>
+      <guid isPermaLink="false">2048856547879772407</guid>
+      <pubDate>Mon, 27 Apr 2026 20:07:21 +0000</pubDate>
+      <description><![CDATA[RT @profstonge: OpenAi bait-and-switched Elon, pretending to a non-profit mission to save humanity until it pocketed his donations. 
 
-#EmergingTech #Technology #Innovati…
+Elon…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@elonmusk | ❤️ 0 | 🔁 173 | 💬 0 | 👁 40]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>Replit in 🇨🇦</title>
-      <link>https://x.com/amasad/status/2048854724099915961</link>
-      <guid isPermaLink="false">2048854724099915961</guid>
-      <pubDate>Mon, 27 Apr 2026 20:00:06 +0000</pubDate>
-      <description><![CDATA[Replit in 🇨🇦
+      <title>Yup</title>
+      <link>https://x.com/elonmusk/status/2048856247320076622</link>
+      <guid isPermaLink="false">2048856247320076622</guid>
+      <pubDate>Mon, 27 Apr 2026 20:06:09 +0000</pubDate>
+      <description><![CDATA[Yup
 
 ---
-@amasad | ❤️ 2 | 🔁 0 | 💬 0 | 👁 152]]></description>
-      <author>@amasad</author>
+@elonmusk | ❤️ 3658 | 🔁 505 | 💬 678 | 👁 822705]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>Watch the CUDA-X montage from the #NVIDIAGTC 2026 Keynote: https://t.co/WhJt1cIQgl</title>
-      <link>https://x.com/nvidia/status/2048854705518915592</link>
-      <guid isPermaLink="false">2048854705518915592</guid>
-      <pubDate>Mon, 27 Apr 2026 20:00:02 +0000</pubDate>
-      <description><![CDATA[Watch the CUDA-X montage from the #NVIDIAGTC 2026 Keynote: https://t.co/WhJt1cIQgl
+      <title>RT @Tesla: KITT is real 
+
+Any new Tesla can do this</title>
+      <link>https://x.com/elonmusk/status/2048855923054248227</link>
+      <guid isPermaLink="false">2048855923054248227</guid>
+      <pubDate>Mon, 27 Apr 2026 20:04:52 +0000</pubDate>
+      <description><![CDATA[RT @Tesla: KITT is real 
+
+Any new Tesla can do this
 
 ---
-@nvidia | ❤️ 0 | 🔁 0 | 💬 0 | 👁 291]]></description>
-      <author>@nvidia</author>
+@elonmusk | ❤️ 0 | 🔁 247 | 💬 0 | 👁 31]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>We've reinvented computing... A thousand CUDA-X libraries help developers make breakthroughs in ever...</title>
-      <link>https://x.com/nvidia/status/2048854700682825797</link>
-      <guid isPermaLink="false">2048854700682825797</guid>
-      <pubDate>Mon, 27 Apr 2026 20:00:01 +0000</pubDate>
-      <description><![CDATA[We've reinvented computing... A thousand CUDA-X libraries help developers make breakthroughs in every field of science and engineering.&quot; — Jensen Huang
-
-From cuOpt for decision optimization to Parabricks for genomics, the foundation of every modern breakthrough is a &quot;beautiful algorithm&quot;.
+      <title>RT @BrendanEich: @JustJake @sovrgnmind @pmarca Good convo with Grok about all of this. I cited Chest...</title>
+      <link>https://x.com/elonmusk/status/2048855120293855592</link>
+      <guid isPermaLink="false">2048855120293855592</guid>
+      <pubDate>Mon, 27 Apr 2026 20:01:41 +0000</pubDate>
+      <description><![CDATA[RT @BrendanEich: @JustJake @sovrgnmind @pmarca Good convo with Grok about all of this. I cited Chesterton's Fence and Grok cited the Therac…
 
 ---
-@nvidia | ❤️ 7 | 🔁 1 | 💬 2 | 👁 457]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>New #3D device harnesses living brain cells for computing
-by Princeton University @TechXplore_com
-
-L...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048851934124118499</link>
-      <guid isPermaLink="false">2048851934124118499</guid>
-      <pubDate>Mon, 27 Apr 2026 19:49:01 +0000</pubDate>
-      <description><![CDATA[New #3D device harnesses living brain cells for computing
-by Princeton University @TechXplore_com
-
-Learn more: https://t.co/JH849YLnkP
-
-#EmergingTech #Innovation #Technology #Tech https://t.co/cNtm49Idrf
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 76]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>GitHub Copilot 从 6 月 1 日起改按用量计费。订阅价格没变，但&quot;用多少付多少&quot;的规则会让重度用户的账单变得不太确定。
-
-过去一年，Copilot 从一个编辑器里的...</title>
-      <link>https://x.com/dotey/status/2048849524739977672</link>
-      <guid isPermaLink="false">2048849524739977672</guid>
-      <pubDate>Mon, 27 Apr 2026 19:39:27 +0000</pubDate>
-      <description><![CDATA[GitHub Copilot 从 6 月 1 日起改按用量计费。订阅价格没变，但&quot;用多少付多少&quot;的规则会让重度用户的账单变得不太确定。
-
-过去一年，Copilot 从一个编辑器里的补全助手，变成了能跑多步骤、跨整个代码仓库的 Agent 编程平台。一个简单的聊天提问和一次跑几个小时的自动编程任务，以前消耗的“高级请求次数”可能一样多，GitHub 一直在背后默默吸收那些飙升的推理成本。现在扛不住了。
-
-新规则的核心：取消“高级请求次数”，换成 AI 积分（AI Credits）。积分按 Token 消耗计算，包括输入、输出和缓存的 Token，费率跟各模型的 API 定价挂钩。
-
-各档订阅价不变，每月自动到账与订阅价等额的积分：Pro 是 10 美元对应 10 美元积分，Pro+ 是 39 美元对 39 美元，Business 19 美元/人，Enterprise 39 美元/人。代码补全和“下一步编辑建议”这类基础功能不消耗积分，跟以前一样包含在订阅里。
-
-有两个细节值得注意。第一，以前高级请求用完了还能降级到便宜模型继续干活，以后这条退路没了，积分花完就是花完，除非买更多或者管理员开了预算。第二，Copilot 的代码审查功能除了消耗 AI 积分，还会额外消耗 GitHub Actions 的运行时长。
-
-企业用户有三个月的过渡缓冲：6 月到 8 月，Business 用户每月拿到 30 美元积分（比订阅价多 11 美元），Enterprise 拿到 70 美元（多 31 美元）。企业还能把团队成员的积分打通成资源池，用不完的不浪费。
-
-5 月初 GitHub 会上线预览账单功能，让你在正式切换前看看自己按新规则大概要花多少钱。年付用户暂时不受影响，到期后才会转到新体系。
-
-对轻度用户来说，这次变化几乎无感。但如果你已经习惯了让 Copilot Agent 跑长任务，6 月之后最好盯一下账单。
-
----
-@dotey | ❤️ 2 | 🔁 1 | 💬 0 | 👁 741]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>the first hint i that i gave (which got some pushback), August 2023; many others followed:</title>
-      <link>https://x.com/GaryMarcus/status/2048848940565749967</link>
-      <guid isPermaLink="false">2048848940565749967</guid>
-      <pubDate>Mon, 27 Apr 2026 19:37:07 +0000</pubDate>
-      <description><![CDATA[the first hint i that i gave (which got some pushback), August 2023; many others followed:
-
----
-@GaryMarcus | ❤️ 0 | 🔁 0 | 💬 0 | 👁 1148]]></description>
-      <author>@GaryMarcus</author>
+@elonmusk | ❤️ 0 | 🔁 80 | 💬 0 | 👁 68]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
