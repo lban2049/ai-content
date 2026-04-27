@@ -5,136 +5,331 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 18:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:35:26 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>#AR-Powered Sports Competitions Are Transforming the Future of Athletics
-via @ZappyZappy7
- 
-#VR #Vir...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048829347813900504</link>
-      <guid isPermaLink="false">2048829347813900504</guid>
-      <pubDate>Mon, 27 Apr 2026 18:19:16 +0000</pubDate>
-      <description><![CDATA[#AR-Powered Sports Competitions Are Transforming the Future of Athletics
-via @ZappyZappy7
- 
-#VR #VirtualReality #AugmentedReality https://t.co/7ccDp3fqy6
+      <title>🌟 We passed 100,000 players today on the #vibejam https://t.co/RkjClpW69X</title>
+      <link>https://x.com/levelsio/status/2048848234416627823</link>
+      <guid isPermaLink="false">2048848234416627823</guid>
+      <pubDate>Mon, 27 Apr 2026 19:34:19 +0000</pubDate>
+      <description><![CDATA[🌟 We passed 100,000 players today on the #vibejam https://t.co/RkjClpW69X
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 98]]></description>
+@levelsio | ❤️ 2 | 🔁 1 | 💬 0 | 👁 60]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>The divorce between Microsoft and OpenAI that I projected three years ago is now underway.  Time for...</title>
+      <link>https://x.com/GaryMarcus/status/2048847262982578259</link>
+      <guid isPermaLink="false">2048847262982578259</guid>
+      <pubDate>Mon, 27 Apr 2026 19:30:27 +0000</pubDate>
+      <description><![CDATA[The divorce between Microsoft and OpenAI that I projected three years ago is now underway.  Time for everyone to start seeing other people.
+
+---
+@GaryMarcus | ❤️ 2 | 🔁 0 | 💬 0 | 👁 318]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>RT @XiaomiMiMo: Xiaomi MiMo-V2.5 is now officially open-sourced！
+MIT License, supporting commercial ...</title>
+      <link>https://x.com/jeremyphoward/status/2048847138256482313</link>
+      <guid isPermaLink="false">2048847138256482313</guid>
+      <pubDate>Mon, 27 Apr 2026 19:29:58 +0000</pubDate>
+      <description><![CDATA[RT @XiaomiMiMo: Xiaomi MiMo-V2.5 is now officially open-sourced！
+MIT License, supporting commercial deployment, continued training, and fin…
+
+---
+@jeremyphoward | ❤️ 0 | 🔁 95 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>Read the release notes: https://t.co/9bOCV1piDr</title>
+      <link>https://x.com/fchollet/status/2048847002889585150</link>
+      <guid isPermaLink="false">2048847002889585150</guid>
+      <pubDate>Mon, 27 Apr 2026 19:29:25 +0000</pubDate>
+      <description><![CDATA[Read the release notes: https://t.co/9bOCV1piDr
+
+---
+@fchollet | ❤️ 1 | 🔁 0 | 💬 0 | 👁 474]]></description>
+      <author>@fchollet</author>
+    </item>
+    <item>
+      <title>Keras Kinetic has a new alpha release: v0.0.2! Including a new docs website: https://t.co/AjEdkU1Yl1...</title>
+      <link>https://x.com/fchollet/status/2048846942294491573</link>
+      <guid isPermaLink="false">2048846942294491573</guid>
+      <pubDate>Mon, 27 Apr 2026 19:29:11 +0000</pubDate>
+      <description><![CDATA[Keras Kinetic has a new alpha release: v0.0.2! Including a new docs website: https://t.co/AjEdkU1Yl1
+
+Kinetic is my favorite new release from the Keras team: a super simple Modal-like API to run training jobs on TPU. https://t.co/tCUK5ftPnX
+
+---
+@fchollet | ❤️ 4 | 🔁 1 | 💬 1 | 👁 687]]></description>
+      <author>@fchollet</author>
+    </item>
+    <item>
+      <title>RT @jacobeffron: .@swyx  on whether AI infrastructure has finally stabilized: https://t.co/tcorhdqXF...</title>
+      <link>https://x.com/swyx/status/2048846767962370274</link>
+      <guid isPermaLink="false">2048846767962370274</guid>
+      <pubDate>Mon, 27 Apr 2026 19:28:29 +0000</pubDate>
+      <description><![CDATA[RT @jacobeffron: .@swyx  on whether AI infrastructure has finally stabilized: https://t.co/tcorhdqXFf
+
+---
+@swyx | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>AI has changed what I—and I think most people—are looking for in candidates today. It’s not about bl...</title>
+      <link>https://x.com/RayDalio/status/2048846038333571200</link>
+      <guid isPermaLink="false">2048846038333571200</guid>
+      <pubDate>Mon, 27 Apr 2026 19:25:35 +0000</pubDate>
+      <description><![CDATA[AI has changed what I—and I think most people—are looking for in candidates today. It’s not about blindly using AI and following what it says; it’s about being an independent, creative, and critical thinker who knows how to partner well with AI to bring about the best total intelligence.
+
+I explore this topic and more in the new AI-powered Masterclass Executive online program, which I’ve joined as an instructor. The program is starting soon, and if you’re interested, you can apply here:
+https://t.co/9wMKPLsuTY
+
+---
+@RayDalio | ❤️ 30 | 🔁 5 | 💬 8 | 👁 5212]]></description>
+      <author>@RayDalio</author>
+    </item>
+    <item>
+      <title>RT @omarsar0: &quot;AI should elevate your thinking, not replace it.&quot;
+
+I don't disagree, but th...</title>
+      <link>https://x.com/dair_ai/status/2048845666395312264</link>
+      <guid isPermaLink="false">2048845666395312264</guid>
+      <pubDate>Mon, 27 Apr 2026 19:24:07 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: &quot;AI should elevate your thinking, not replace it.&quot;
+
+I don't disagree, but the issue is that current LLMs are not really train…
+
+---
+@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>Porcaspino: The Spiky Caterpillar #Robot Built to Conquer the Tightest Spaces
+by @IntEngineering
+  
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048845415743689189</link>
+      <guid isPermaLink="false">2048845415743689189</guid>
+      <pubDate>Mon, 27 Apr 2026 19:23:07 +0000</pubDate>
+      <description><![CDATA[Porcaspino: The Spiky Caterpillar #Robot Built to Conquer the Tightest Spaces
+by @IntEngineering
+  
+#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/IrAJtbnv82
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 92]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Yup</title>
-      <link>https://x.com/elonmusk/status/2048829256386433238</link>
-      <guid isPermaLink="false">2048829256386433238</guid>
-      <pubDate>Mon, 27 Apr 2026 18:18:54 +0000</pubDate>
-      <description><![CDATA[Yup
+      <title>RT @Ronald_vanLoon: Simple #Robots inspired by ants collectively build and excavate
+by Anne J. Manni...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048840862788956473</link>
+      <guid isPermaLink="false">2048840862788956473</guid>
+      <pubDate>Mon, 27 Apr 2026 19:05:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Simple #Robots inspired by ants collectively build and excavate
+by Anne J. Manning @TechXplore_com
+
+Learn more: https:/…
 
 ---
-@elonmusk | ❤️ 3651 | 🔁 453 | 💬 701 | 👁 340942]]></description>
-      <author>@elonmusk</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @DavidSacks: Cole Allen didn’t need to go down a fringe rabbit hole to become radicalized. He jus...</title>
-      <link>https://x.com/elonmusk/status/2048829066527002632</link>
-      <guid isPermaLink="false">2048829066527002632</guid>
-      <pubDate>Mon, 27 Apr 2026 18:18:09 +0000</pubDate>
-      <description><![CDATA[RT @DavidSacks: Cole Allen didn’t need to go down a fringe rabbit hole to become radicalized. He just needed to believe the MSM’s inflammat…
+      <title>.@evanspiegel shares the story behind Stories, and how it came to be by refusing to build what users...</title>
+      <link>https://x.com/lennysan/status/2048840772683026725</link>
+      <guid isPermaLink="false">2048840772683026725</guid>
+      <pubDate>Mon, 27 Apr 2026 19:04:40 +0000</pubDate>
+      <description><![CDATA[.@evanspiegel shares the story behind Stories, and how it came to be by refusing to build what users wanted https://t.co/dsd6Mkb0xA
 
 ---
-@elonmusk | ❤️ 0 | 🔁 482 | 💬 0 | 👁 41]]></description>
-      <author>@elonmusk</author>
+@lennysan | ❤️ 19 | 🔁 3 | 💬 0 | 👁 5167]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>I need more robots.</title>
-      <link>https://x.com/tunguz/status/2048828696589447362</link>
-      <guid isPermaLink="false">2048828696589447362</guid>
-      <pubDate>Mon, 27 Apr 2026 18:16:41 +0000</pubDate>
-      <description><![CDATA[I need more robots.
+      <title>RT @AcerFur: slowly then all at once.... https://t.co/819qvif4J4</title>
+      <link>https://x.com/kevinweil/status/2048840133340971363</link>
+      <guid isPermaLink="false">2048840133340971363</guid>
+      <pubDate>Mon, 27 Apr 2026 19:02:08 +0000</pubDate>
+      <description><![CDATA[RT @AcerFur: slowly then all at once.... https://t.co/819qvif4J4
 
 ---
-@tunguz | ❤️ 1 | 🔁 2 | 💬 2 | 👁 376]]></description>
-      <author>@tunguz</author>
+@kevinweil | ❤️ 0 | 🔁 12 | 💬 0 | 👁 0]]></description>
+      <author>@kevinweil</author>
     </item>
     <item>
-      <title>RT @aelluswamy: The advantage of having eyes all around</title>
-      <link>https://x.com/elonmusk/status/2048828698632089823</link>
-      <guid isPermaLink="false">2048828698632089823</guid>
-      <pubDate>Mon, 27 Apr 2026 18:16:41 +0000</pubDate>
-      <description><![CDATA[RT @aelluswamy: The advantage of having eyes all around
+      <title>Couldn't resist capping that off with my all-time favorite quote from Matt Levine https://t.co/zO3zW...</title>
+      <link>https://x.com/simonw/status/2048840052487397410</link>
+      <guid isPermaLink="false">2048840052487397410</guid>
+      <pubDate>Mon, 27 Apr 2026 19:01:48 +0000</pubDate>
+      <description><![CDATA[Couldn't resist capping that off with my all-time favorite quote from Matt Levine https://t.co/zO3zW9pnDr
 
 ---
-@elonmusk | ❤️ 0 | 🔁 194 | 💬 0 | 👁 35]]></description>
-      <author>@elonmusk</author>
+@simonw | ❤️ 13 | 🔁 1 | 💬 0 | 👁 2141]]></description>
+      <author>@simonw</author>
     </item>
     <item>
-      <title>This is why OpenAI was created</title>
-      <link>https://x.com/elonmusk/status/2048828397329985807</link>
-      <guid isPermaLink="false">2048828397329985807</guid>
-      <pubDate>Mon, 27 Apr 2026 18:15:29 +0000</pubDate>
-      <description><![CDATA[This is why OpenAI was created
+      <title>《Cursor 3 反馈整理：用户真正想要的不仅是“更炫的 IDE”，还想它是一个可靠的 AI 开发工作台》
+
+整理自 Eric Zakariasson 征集 Cursor 3 反馈的帖子及 431 ...</title>
+      <link>https://x.com/dotey/status/2048839926679056613</link>
+      <guid isPermaLink="false">2048839926679056613</guid>
+      <pubDate>Mon, 27 Apr 2026 19:01:18 +0000</pubDate>
+      <description><![CDATA[《Cursor 3 反馈整理：用户真正想要的不仅是“更炫的 IDE”，还想它是一个可靠的 AI 开发工作台》
+
+整理自 Eric Zakariasson 征集 Cursor 3 反馈的帖子及 431 条回复。整体看下来，最有价值的意见可以归成几类：用户喜欢 Cursor 3 的 Agent 方向，但现在最强烈的诉求是“把 Agent、IDE、Git、浏览器、终端、模型选择和团队协作变成一条稳定的工作流”，而不是在多个模式之间来回切换。
+
+第一类，也是最核心的一类：Agent Window 很有潜力，但不能牺牲 IDE 的基本能力。
+
+很多人不是反对新界面，而是希望新 Agent 体验里也保留完整开发者习惯：LSP、调试、任务运行、扩展、快捷键、文件搜索、代码跳转、格式化、终端命令、diff 接受/拒绝等。现在的问题是，用户一旦进入 Agent Window，就经常需要为了一个小操作切回旧 IDE。真正理想的形态，是 Agent 负责推进工作，人类随时能无缝接管、检查、微调、运行、调试。
+
+第二类：多 Agent 和多仓库协作，是 Cursor 3 最值得押注的方向。
+
+不少用户提到想要类似看板、任务树、节点图的 Agent 进度视图，可以看到每个 agent / subagent 在做什么、卡在哪里、是否需要人介入。还有人希望有角色化 Agent 团队：一个做规划，一个实现，一个 review，一个跑 QA。对复杂项目来说，Cursor 的机会不是“一个聊天框写代码”，而是“多个隔离 worktree 中的 Agent 并行推进任务，再由用户统一调度和验收”。
+
+第三类：Worktree、Workspace、Branch 和 Git 工作流需要产品级打磨。
+
+反馈里反复出现 branch 切换、创建新分支、PR 检测、commit 当前 chat 改动、选择性 staging、multi-repo git diff、submodule 支持、CI 状态、PR comment、CodeRabbit 式 review、merge 后同步 main 等需求。开发者并不想每次都让 Agent 用自然语言帮自己做 Git 操作，他们想要一个低摩擦、可控、可审计的 Git 控制台。尤其是 Agent 多任务并行后，worktree 的命名、状态、来源、diff 和 PR 关系会变得极其关键。
+
+第四类：信息架构和导航是当前体验的高频痛点。
+
+很多人提到找不到 chat、项目太多、sidebar 混乱、当前焦点不清楚、面板切换麻烦、chat 自动滚到底、active agent 不明显、workspace 不能直接 pin、chat 重命名太麻烦。一个很有价值的建议是“Smart Rename”：让 Cursor 根据线程内容自动给 chat 命名。还有用户希望能 pin 某条消息、从某条消息 fork session、跨项目引用旧 session、把旧 chat 拖进新 chat 当上下文。这里的本质需求是：当 Agent 工作变多，Cursor 需要从“聊天记录列表”升级成“任务记忆系统”。
+
+第五类：键盘优先和可自定义快捷键，是重度用户的底线。
+
+高赞反馈明确说：整个产品必须可以不用鼠标操作。用户想快速在 chat、文件、文件树、终端、浏览器、diff、agent 之间切换，也想自定义 keybindings，继承旧 Cursor / VS Code 里的肌肉记忆。现在很多阻力不是功能没有，而是到达路径太深。对开发者工具来说，快捷键不是小优化，而是生产力体验的一部分。
+
+第六类：稳定性和性能问题正在影响信任。
+
+不少反馈集中在启动慢、Windows/WSL/SSH 问题、内存暴涨、CPU 飙升、OOM、多个 agent 后卡死、大代码库索引拖慢、文件树空白、chat reload 后消失、markdown 内容丢失、LSP 失效、Vue/Svelte 支持问题、终端状态不同步、Cloud/Local 不一致等。这里的信号很明确：Cursor 3 的野心很大，但如果基础稳定性不够，用户会暂时退回 Codex、Claude Code、T3 Code 或旧 Cursor。
+
+第七类：模型和成本透明度，是用户越来越敏感的地方。
+
+大量用户要求更高额度、更便宜的 Composer、支持本地模型、BYOK、OpenRouter、Codex 订阅、第三方模型订阅，或者至少在模型选择器里直接显示价格/质量/速度指标。用户不是只想要更多模型，而是想知道“这个任务用哪个模型最划算”。一个很好的方向是：Cursor 主动建议“这个任务可以用便宜模型”“这个任务值得开强模型”“上下文快满了，建议切新 agent 或自动生成 handoff”。
+
+第八类：扩展、MCP 和外部工具集成，是 Cursor 维持护城河的关键。
+
+很多人希望新 Agent 界面能支持旧 IDE 的扩展，尤其是 Git、CodeRabbit、debug、任务运行、格式化、语言插件等。MCP 方面，用户想要更稳定的连接、更好的 auth/state 管理、按 chat 启用不同 MCP、发现并推荐合适 MCP。还有人提到 GitHub、Vercel、Slack、Telegram、Linear、Asana、数据库、邮箱、部署、review、自动化通知等集成。Cursor 的机会是成为“开发自动化中枢”，而不是只做 AI 编辑器。
+
+第九类：移动端和远程控制需求非常明确。
+
+很多人要 iOS / mobile app，不只是为了“在手机上写代码”，而是为了随时查看 Agent 进度、回复 Agent 问题、批准命令、继续对话、看 preview、远程触发任务。Agent 越 autonomous，移动端就越有价值，因为用户需要的是“远程监管一个正在工作的开发助理”。
+
+第十类：前端和设计工作流还可以更强。
+
+不少反馈提到浏览器 preview、terminal、files 希望能同时打开；需要移动视图、缩放、DOM 元素选择、浏览器 profile 隔离；Design Mode 里希望能直接改文案、spacing、h1、选择多个元素、在父子元素间切换。更进阶的反馈是：希望接入 Figma tokens / design system，保证 Figma → Cursor → code → Figma 的一致性，不要让设计 token 在 AI 修改中漂移。
+
+一句话总结：
+
+Cursor 3 的用户已经不满足于“AI 帮我改代码”。他们真正想要的是一个稳定、可控、键盘友好、支持多 Agent 并行、能理解多仓库和完整工程上下文的 AI 开发操作系统。
+
+最值得优先做的是把这四件事打磨到极致：
+1. Agent 和 IDE 无缝融合；
+2. Worktree / Git / PR 工作流产品化；
+3. 大项目下稳定、快、不丢上下文；
+4. 模型成本、能力和任务分配变得透明可控。
+
+如果 Cursor 3 能把这些做好，它就不只是“带 AI 的编辑器”，而会变成开发者管理 AI 工程团队的主界面。
 
 ---
-@elonmusk | ❤️ 3889 | 🔁 685 | 💬 771 | 👁 384267]]></description>
-      <author>@elonmusk</author>
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 888]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>RT @Ph_Aghion: 👉 Sur l’#IA, mon optimisme est prudent. Je reconnais les dangers de cette technologie...</title>
-      <link>https://x.com/ylecun/status/2048825591273541979</link>
-      <guid isPermaLink="false">2048825591273541979</guid>
-      <pubDate>Mon, 27 Apr 2026 18:04:20 +0000</pubDate>
-      <description><![CDATA[RT @Ph_Aghion: 👉 Sur l’#IA, mon optimisme est prudent. Je reconnais les dangers de cette technologie, mais si on en freinait le développeme…
+      <title>Access the report here: https://t.co/54nOaZUhi9</title>
+      <link>https://x.com/nvidia/status/2048839605932228633</link>
+      <guid isPermaLink="false">2048839605932228633</guid>
+      <pubDate>Mon, 27 Apr 2026 19:00:02 +0000</pubDate>
+      <description><![CDATA[Access the report here: https://t.co/54nOaZUhi9
 
 ---
-@ylecun | ❤️ 0 | 🔁 18 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
+@nvidia | ❤️ 7 | 🔁 1 | 💬 0 | 👁 3619]]></description>
+      <author>@nvidia</author>
     </item>
     <item>
-      <title>RT @_alejandroao: 🤗 What is Hugging Face? Easy Intro to the Hub
+      <title>AI has become the core growth engine for telecom operations, networks, and services.
 
-👉 HF Models and Inference Providers...</title>
-      <link>https://x.com/_akhaliq/status/2048825202532913401</link>
-      <guid isPermaLink="false">2048825202532913401</guid>
-      <pubDate>Mon, 27 Apr 2026 18:02:48 +0000</pubDate>
-      <description><![CDATA[RT @_alejandroao: 🤗 What is Hugging Face? Easy Intro to the Hub
+NVIDIA’s 2026 ...</title>
+      <link>https://x.com/nvidia/status/2048839601528185343</link>
+      <guid isPermaLink="false">2048839601528185343</guid>
+      <pubDate>Mon, 27 Apr 2026 19:00:01 +0000</pubDate>
+      <description><![CDATA[AI has become the core growth engine for telecom operations, networks, and services.
 
-👉 HF Models and Inference Providers 
-👉 Datasets and Data Studio workflows…
+NVIDIA’s 2026 State of AI in Telecommunications Report shares data from over 1,000 global professionals on how companies are investing in, deploying, and benefiting from AI. 
+
+Learn about the key use cases driving AI deployment and see how telcos are planning for growing AI traffic.
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
+@nvidia | ❤️ 33 | 🔁 7 | 💬 4 | 👁 5091]]></description>
+      <author>@nvidia</author>
     </item>
     <item>
-      <title>RT @Zweistein2stein: @Gianl1974 https://t.co/m5p5VfqeKr</title>
-      <link>https://x.com/ylecun/status/2048824968138338611</link>
-      <guid isPermaLink="false">2048824968138338611</guid>
-      <pubDate>Mon, 27 Apr 2026 18:01:52 +0000</pubDate>
-      <description><![CDATA[RT @Zweistein2stein: @Gianl1974 https://t.co/m5p5VfqeKr
+      <title>Modular Swarm #Robotics: Snail-Like Bots That Merge for Greater Strength
+by @spaceandtech_
+
+#Emergin...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048838630811021822</link>
+      <guid isPermaLink="false">2048838630811021822</guid>
+      <pubDate>Mon, 27 Apr 2026 18:56:09 +0000</pubDate>
+      <description><![CDATA[Modular Swarm #Robotics: Snail-Like Bots That Merge for Greater Strength
+by @spaceandtech_
+
+#EmergingTech #Tech #Technology #TechForGood https://t.co/6LyBiRvncV
 
 ---
-@ylecun | ❤️ 0 | 🔁 83 | 💬 0 | 👁 2]]></description>
-      <author>@ylecun</author>
+@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 0 | 👁 195]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Did you know some Alpha users have earned up to $24,787 in rewards? 👀
-
-All by discovering and tradin...</title>
-      <link>https://x.com/binance/status/2048824940103705019</link>
-      <guid isPermaLink="false">2048824940103705019</guid>
-      <pubDate>Mon, 27 Apr 2026 18:01:45 +0000</pubDate>
-      <description><![CDATA[Did you know some Alpha users have earned up to $24,787 in rewards? 👀
-
-All by discovering and trading trending tokens. Keep track of the full historical breakdown on the Binance Alpha Page.
-
-Discover Binance Alpha now.
-
-👉 https://t.co/mJpvWe3zK4 https://t.co/m5Ej05jcZ6
+      <title>https://t.co/ApeEGvq7mj</title>
+      <link>https://x.com/adityaag/status/2048838390846538187</link>
+      <guid isPermaLink="false">2048838390846538187</guid>
+      <pubDate>Mon, 27 Apr 2026 18:55:12 +0000</pubDate>
+      <description><![CDATA[https://t.co/ApeEGvq7mj
 
 ---
-@binance | ❤️ 107 | 🔁 15 | 💬 46 | 👁 12256]]></description>
-      <author>@binance</author>
+@adityaag | ❤️ 2 | 🔁 0 | 💬 0 | 👁 188]]></description>
+      <author>@adityaag</author>
+    </item>
+    <item>
+      <title>Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from ...</title>
+      <link>https://x.com/adityaag/status/2048838388271178100</link>
+      <guid isPermaLink="false">2048838388271178100</guid>
+      <pubDate>Mon, 27 Apr 2026 18:55:11 +0000</pubDate>
+      <description><![CDATA[Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from $1.5B to $ 100B. 
+
+He's coming by @southpkcommons next week. Join us. https://t.co/7agzS9oKTQ
+
+---
+@adityaag | ❤️ 34 | 🔁 2 | 💬 2 | 👁 2276]]></description>
+      <author>@adityaag</author>
+    </item>
+    <item>
+      <title>我靠这个好酷，AI 设计家具如果可以和周末大工 + home center 结合在一起就会很有意思了！</title>
+      <link>https://x.com/turingou/status/2048837574664564857</link>
+      <guid isPermaLink="false">2048837574664564857</guid>
+      <pubDate>Mon, 27 Apr 2026 18:51:58 +0000</pubDate>
+      <description><![CDATA[我靠这个好酷，AI 设计家具如果可以和周末大工 + home center 结合在一起就会很有意思了！
+
+---
+@turingou | ❤️ 12 | 🔁 1 | 💬 0 | 👁 1486]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>Today OpenAI announced that &quot;Revenue share payments from OpenAI to Microsoft continue through 2...</title>
+      <link>https://x.com/simonw/status/2048834476323823983</link>
+      <guid isPermaLink="false">2048834476323823983</guid>
+      <pubDate>Mon, 27 Apr 2026 18:39:39 +0000</pubDate>
+      <description><![CDATA[Today OpenAI announced that &quot;Revenue share payments from OpenAI to Microsoft continue through 2030, independent of OpenAI’s technology progress&quot;
+
+That &quot;independent of OpenAI’s technology progress&quot; fragment appears to mean that the weird AGI clause is now deceased https://t.co/dSK1ubSUsC
+
+---
+@simonw | ❤️ 54 | 🔁 3 | 💬 6 | 👁 8781]]></description>
+      <author>@simonw</author>
     </item>
   </channel>
 </rss>
