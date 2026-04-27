@@ -5,130 +5,148 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 23:01:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @DavidDuvenaud: Download the weights here:
-https://t.co/859rZYYZ0T</title>
-      <link>https://x.com/_akhaliq/status/2048892617115500731</link>
-      <guid isPermaLink="false">2048892617115500731</guid>
-      <pubDate>Mon, 27 Apr 2026 22:30:41 +0000</pubDate>
-      <description><![CDATA[RT @DavidDuvenaud: Download the weights here:
-https://t.co/859rZYYZ0T
+      <title>RT @mathisdittrich: https://t.co/zgYFKGju8W</title>
+      <link>https://x.com/gregpr07/status/2048900095538561288</link>
+      <guid isPermaLink="false">2048900095538561288</guid>
+      <pubDate>Mon, 27 Apr 2026 23:00:24 +0000</pubDate>
+      <description><![CDATA[RT @mathisdittrich: https://t.co/zgYFKGju8W
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@_akhaliq</author>
+@gregpr07 | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@gregpr07</author>
     </item>
     <item>
-      <title>音频，视频，图片的媒体边界正在变得模糊，语言文字模型的统一必将带来文化的大融合时代，政治在向右转，但我认为 AI 正在塑造21 世纪的「文艺复兴」</title>
-      <link>https://x.com/turingou/status/2048892605937951214</link>
-      <guid isPermaLink="false">2048892605937951214</guid>
-      <pubDate>Mon, 27 Apr 2026 22:30:38 +0000</pubDate>
-      <description><![CDATA[音频，视频，图片的媒体边界正在变得模糊，语言文字模型的统一必将带来文化的大融合时代，政治在向右转，但我认为 AI 正在塑造21 世纪的「文艺复兴」
+      <title>Introducing Dawn 🌅
+
+@varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s...</title>
+      <link>https://x.com/nikunj/status/2048900068523266544</link>
+      <guid isPermaLink="false">2048900068523266544</guid>
+      <pubDate>Mon, 27 Apr 2026 23:00:17 +0000</pubDate>
+      <description><![CDATA[Introducing Dawn 🌅
+
+@varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.
+
+So, we decided to start one.
+
+Dawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only.
+
+Register at meetatdawn dot com
 
 ---
-@turingou | ❤️ 0 | 🔁 0 | 💬 0 | 👁 1]]></description>
+@nikunj | ❤️ 0 | 🔁 0 | 💬 0 | 👁 35]]></description>
+      <author>@nikunj</author>
+    </item>
+    <item>
+      <title>正常来说 agent matrix 先做 sandbox 然后再接入 browser use，现在 browser use 自己本身反过来做了一个 sandbox，我很好奇最后市面上胜出的 sandb...</title>
+      <link>https://x.com/turingou/status/2048899600862622014</link>
+      <guid isPermaLink="false">2048899600862622014</guid>
+      <pubDate>Mon, 27 Apr 2026 22:58:26 +0000</pubDate>
+      <description><![CDATA[正常来说 agent matrix 先做 sandbox 然后再接入 browser use，现在 browser use 自己本身反过来做了一个 sandbox，我很好奇最后市面上胜出的 sandbox matrix 到底会是哪个产品
+
+---
+@turingou | ❤️ 0 | 🔁 0 | 💬 0 | 👁 209]]></description>
       <author>@turingou</author>
     </item>
     <item>
-      <title>I should build my own smartphone. https://t.co/BzcW4CWaqa</title>
-      <link>https://x.com/tunguz/status/2048891150661005402</link>
-      <guid isPermaLink="false">2048891150661005402</guid>
-      <pubDate>Mon, 27 Apr 2026 22:24:51 +0000</pubDate>
-      <description><![CDATA[I should build my own smartphone. https://t.co/BzcW4CWaqa
+      <title>RT @sudo_eugene: I got a &quot;Holy shit, ...&quot; response from my Claw for the first time in mont...</title>
+      <link>https://x.com/steipete/status/2048899567274353073</link>
+      <guid isPermaLink="false">2048899567274353073</guid>
+      <pubDate>Mon, 27 Apr 2026 22:58:18 +0000</pubDate>
+      <description><![CDATA[RT @sudo_eugene: I got a &quot;Holy shit, ...&quot; response from my Claw for the first time in months. Thanks @steipete and @thsottiaux &amp;amp; team for b…
 
 ---
-@tunguz | ❤️ 1 | 🔁 0 | 💬 0 | 👁 208]]></description>
+@steipete | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @Microinteracti1: Trump has spent the better years of his second term treating allied governments...</title>
+      <link>https://x.com/ylecun/status/2048899273161326869</link>
+      <guid isPermaLink="false">2048899273161326869</guid>
+      <pubDate>Mon, 27 Apr 2026 22:57:08 +0000</pubDate>
+      <description><![CDATA[RT @Microinteracti1: Trump has spent the better years of his second term treating allied governments like freeloading tenants who should be…
+
+---
+@ylecun | ❤️ 0 | 🔁 583 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb
+
+Global 2000: I ...</title>
+      <link>https://x.com/mattturck/status/2048896617424527499</link>
+      <guid isPermaLink="false">2048896617424527499</guid>
+      <pubDate>Mon, 27 Apr 2026 22:46:34 +0000</pubDate>
+      <description><![CDATA[Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb
+
+Global 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary
+
+Never seen a gap this huge
+
+---
+@mattturck | ❤️ 10 | 🔁 2 | 💬 2 | 👁 414]]></description>
+      <author>@mattturck</author>
+    </item>
+    <item>
+      <title>RT @clairevo: Anyone can build, and agents are the new user.
+
+@iamjasonlevin is the founder of @meme...</title>
+      <link>https://x.com/lennysan/status/2048895278925910283</link>
+      <guid isPermaLink="false">2048895278925910283</guid>
+      <pubDate>Mon, 27 Apr 2026 22:41:15 +0000</pubDate>
+      <description><![CDATA[RT @clairevo: Anyone can build, and agents are the new user.
+
+@iamjasonlevin is the founder of @memelordtech, and built a meme app to $100K…
+
+---
+@lennysan | ❤️ 0 | 🔁 14 | 💬 0 | 👁 0]]></description>
+      <author>@lennysan</author>
+    </item>
+    <item>
+      <title>RT @AndrewCMyers: By canning the National Science Board with no stated justification, the administra...</title>
+      <link>https://x.com/ylecun/status/2048895140299690371</link>
+      <guid isPermaLink="false">2048895140299690371</guid>
+      <pubDate>Mon, 27 Apr 2026 22:40:42 +0000</pubDate>
+      <description><![CDATA[RT @AndrewCMyers: By canning the National Science Board with no stated justification, the administration continues the destruction of this…
+
+---
+@ylecun | ❤️ 0 | 🔁 53 | 💬 0 | 👁 1]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>RT @ns123abc: 🚨 OpenAI just REMOVED the AGI clause that was a structural protection of OpenAI's char...</title>
+      <link>https://x.com/elonmusk/status/2048894730340384830</link>
+      <guid isPermaLink="false">2048894730340384830</guid>
+      <pubDate>Mon, 27 Apr 2026 22:39:04 +0000</pubDate>
+      <description><![CDATA[RT @ns123abc: 🚨 OpenAI just REMOVED the AGI clause that was a structural protection of OpenAI's charitable mission, while jury selection wa…
+
+---
+@elonmusk | ❤️ 0 | 🔁 259 | 💬 0 | 👁 25]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>So 55 is the limit.</title>
+      <link>https://x.com/tunguz/status/2048892792877760825</link>
+      <guid isPermaLink="false">2048892792877760825</guid>
+      <pubDate>Mon, 27 Apr 2026 22:31:23 +0000</pubDate>
+      <description><![CDATA[So 55 is the limit.
+
+---
+@tunguz | ❤️ 28 | 🔁 0 | 💬 5 | 👁 1644]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>又是这哥们，每次都是同样的逻辑做不同的场景，但是场景确实都是潜在的需求…很厉害</title>
-      <link>https://x.com/turingou/status/2048890812935913749</link>
-      <guid isPermaLink="false">2048890812935913749</guid>
-      <pubDate>Mon, 27 Apr 2026 22:23:31 +0000</pubDate>
-      <description><![CDATA[又是这哥们，每次都是同样的逻辑做不同的场景，但是场景确实都是潜在的需求…很厉害
+      <title>音频，视频，图片的媒体边界正在变得模糊，语言文字模型的统一必将带来文化的大融合时代，政治在向右转，但我认为 AI 正在塑造 21 世纪潜在的「文艺复兴」时代</title>
+      <link>https://x.com/turingou/status/2048892776532889742</link>
+      <guid isPermaLink="false">2048892776532889742</guid>
+      <pubDate>Mon, 27 Apr 2026 22:31:19 +0000</pubDate>
+      <description><![CDATA[音频，视频，图片的媒体边界正在变得模糊，语言文字模型的统一必将带来文化的大融合时代，政治在向右转，但我认为 AI 正在塑造 21 世纪潜在的「文艺复兴」时代
 
 ---
-@turingou | ❤️ 4 | 🔁 0 | 💬 0 | 👁 364]]></description>
+@turingou | ❤️ 8 | 🔁 1 | 💬 0 | 👁 1097]]></description>
       <author>@turingou</author>
-    </item>
-    <item>
-      <title>想象力真的很强，每天看大家怎么用 AI 做出各种精致细节真的自叹不如</title>
-      <link>https://x.com/turingou/status/2048890347833745691</link>
-      <guid isPermaLink="false">2048890347833745691</guid>
-      <pubDate>Mon, 27 Apr 2026 22:21:40 +0000</pubDate>
-      <description><![CDATA[想象力真的很强，每天看大家怎么用 AI 做出各种精致细节真的自叹不如
-
----
-@turingou | ❤️ 5 | 🔁 0 | 💬 0 | 👁 443]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>Apogee Active Suit: Human Strength Enhanced by German Bionic Intelligence
-by @germanbionic
- 
-#Emergi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048888959954977017</link>
-      <guid isPermaLink="false">2048888959954977017</guid>
-      <pubDate>Mon, 27 Apr 2026 22:16:09 +0000</pubDate>
-      <description><![CDATA[Apogee Active Suit: Human Strength Enhanced by German Bionic Intelligence
-by @germanbionic
- 
-#EmergingTech #Innovation #TechForGood #Technology https://t.co/pTZILQFkky
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 99]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: ABB #Robotics Integrates NVIDIA Omniverse to Train Industrial #Robots with 99% A...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048887919209812446</link>
-      <guid isPermaLink="false">2048887919209812446</guid>
-      <pubDate>Mon, 27 Apr 2026 22:12:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: ABB #Robotics Integrates NVIDIA Omniverse to Train Industrial #Robots with 99% Accuracy
-by @ABBRobotics
-
-#Engineering #…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @fkpxls: Screenshot for an internal memo https://t.co/VGVEluGpvW</title>
-      <link>https://x.com/mattturck/status/2048887156614078875</link>
-      <guid isPermaLink="false">2048887156614078875</guid>
-      <pubDate>Mon, 27 Apr 2026 22:08:59 +0000</pubDate>
-      <description><![CDATA[RT @fkpxls: Screenshot for an internal memo https://t.co/VGVEluGpvW
-
----
-@mattturck | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>RT @JaredSleeper: We’ve been thinking hard about @AnthropicAI and the white-collar productivity stac...</title>
-      <link>https://x.com/mattturck/status/2048887136582005012</link>
-      <guid isPermaLink="false">2048887136582005012</guid>
-      <pubDate>Mon, 27 Apr 2026 22:08:54 +0000</pubDate>
-      <description><![CDATA[RT @JaredSleeper: We’ve been thinking hard about @AnthropicAI and the white-collar productivity stack.
-
-Microsoft is the 800-pound gorilla,…
-
----
-@mattturck | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>RT @MIT_CSAIL: Highest paid workers are more likely to use AI for work, according to Financial Times...</title>
-      <link>https://x.com/MIT_CSAIL/status/2048886432803045811</link>
-      <guid isPermaLink="false">2048886432803045811</guid>
-      <pubDate>Mon, 27 Apr 2026 22:06:06 +0000</pubDate>
-      <description><![CDATA[RT @MIT_CSAIL: Highest paid workers are more likely to use AI for work, according to Financial Times breakdown: https://t.co/3NOlnQB45y htt…
-
----
-@MIT_CSAIL | ❤️ 0 | 🔁 16 | 💬 0 | 👁 0]]></description>
-      <author>@MIT_CSAIL</author>
     </item>
   </channel>
 </rss>
