@@ -5,94 +5,19 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 04:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 05:00:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @lmsysorg: The DeepSeek V4 garbled output bug in open source inference engine is fixed in SGLang....</title>
-      <link>https://x.com/ollama/status/2048617799829131473</link>
-      <guid isPermaLink="false">2048617799829131473</guid>
-      <pubDate>Mon, 27 Apr 2026 04:18:39 +0000</pubDate>
-      <description><![CDATA[RT @lmsysorg: The DeepSeek V4 garbled output bug in open source inference engine is fixed in SGLang.
-To everyone affected over the weekend,…
+      <title>Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on g...</title>
+      <link>https://x.com/steipete/status/2048626844694421842</link>
+      <guid isPermaLink="false">2048626844694421842</guid>
+      <pubDate>Mon, 27 Apr 2026 04:54:36 +0000</pubDate>
+      <description><![CDATA[Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs so you can import your x bookmarks daily (since they are not fully accessible via the api). 
+https://t.co/4Nd1Ad0ZeY
 
 ---
-@ollama | ❤️ 0 | 🔁 19 | 💬 0 | 👁 2]]></description>
-      <author>@ollama</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Octo-Bouncer: Teensy 4.0–Powered Precision Bot Masters Ping Pong Juggling
-by @Il...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048617131789402327</link>
-      <guid isPermaLink="false">2048617131789402327</guid>
-      <pubDate>Mon, 27 Apr 2026 04:16:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Octo-Bouncer: Teensy 4.0–Powered Precision Bot Masters Ping Pong Juggling
-by @IlirAliu_
- 
-#Robotics #Engineering #Artif…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @Teknium: Hermes Agent tip of the day:
-
-You can backup and transfer your agent cleanly and simply...</title>
-      <link>https://x.com/NousResearch/status/2048616805070201334</link>
-      <guid isPermaLink="false">2048616805070201334</guid>
-      <pubDate>Mon, 27 Apr 2026 04:14:42 +0000</pubDate>
-      <description><![CDATA[RT @Teknium: Hermes Agent tip of the day:
-
-You can backup and transfer your agent cleanly and simply. Want to move it to a new VPS that is…
-
----
-@NousResearch | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>This #Drone Can Flip Itself Over and Take Off From Water
-by @Fabriziobustama
- 
-#EmergingTech #Innova...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048616427771347329</link>
-      <guid isPermaLink="false">2048616427771347329</guid>
-      <pubDate>Mon, 27 Apr 2026 04:13:12 +0000</pubDate>
-      <description><![CDATA[This #Drone Can Flip Itself Over and Take Off From Water
-by @Fabriziobustama
- 
-#EmergingTech #Innovation #Technology #Tech https://t.co/7mssKfEIjV
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 158]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @RobertMSterling: 25% of very liberal people say political violence can “sometimes be justified.”...</title>
-      <link>https://x.com/elonmusk/status/2048615891995103449</link>
-      <guid isPermaLink="false">2048615891995103449</guid>
-      <pubDate>Mon, 27 Apr 2026 04:11:04 +0000</pubDate>
-      <description><![CDATA[RT @RobertMSterling: 25% of very liberal people say political violence can “sometimes be justified.”
-
-Among very conservative people it’s j…
-
----
-@elonmusk | ❤️ 0 | 🔁 823 | 💬 0 | 👁 85]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>❤️ @ying11231, @BanghuaZ and @lmsysorg @sgl_project @radixark  
-
-Let's go DeepSeek v4 Pro!</title>
-      <link>https://x.com/ollama/status/2048613566807515200</link>
-      <guid isPermaLink="false">2048613566807515200</guid>
-      <pubDate>Mon, 27 Apr 2026 04:01:50 +0000</pubDate>
-      <description><![CDATA[❤️ @ying11231, @BanghuaZ and @lmsysorg @sgl_project @radixark  
-
-Let's go DeepSeek v4 Pro!
-
----
-@ollama | ❤️ 48 | 🔁 5 | 💬 5 | 👁 3563]]></description>
-      <author>@ollama</author>
+@steipete | ❤️ 30 | 🔁 2 | 💬 8 | 👁 1365]]></description>
+      <author>@steipete</author>
     </item>
   </channel>
 </rss>
