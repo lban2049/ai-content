@@ -5,75 +5,94 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 04:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:31:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ROBOTGYM Reveals the Future of Humanoid Elderly Assistance
-via @Robo_Tuo
-
-#Robotics #Tech #Technolog...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048612652650258889</link>
-      <guid isPermaLink="false">2048612652650258889</guid>
-      <pubDate>Mon, 27 Apr 2026 03:58:12 +0000</pubDate>
-      <description><![CDATA[ROBOTGYM Reveals the Future of Humanoid Elderly Assistance
-via @Robo_Tuo
-
-#Robotics #Tech #Technology #EmergingTech #TechForGood https://t.co/zjRD7hYqdC
+      <title>RT @lmsysorg: The DeepSeek V4 garbled output bug in open source inference engine is fixed in SGLang....</title>
+      <link>https://x.com/ollama/status/2048617799829131473</link>
+      <guid isPermaLink="false">2048617799829131473</guid>
+      <pubDate>Mon, 27 Apr 2026 04:18:39 +0000</pubDate>
+      <description><![CDATA[RT @lmsysorg: The DeepSeek V4 garbled output bug in open source inference engine is fixed in SGLang.
+To everyone affected over the weekend,…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 33]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>This weekend, I improved my mobile fitness app and built a mcp server for it so I can get my latest ...</title>
-      <link>https://x.com/petergyang/status/2048611053333041158</link>
-      <guid isPermaLink="false">2048611053333041158</guid>
-      <pubDate>Mon, 27 Apr 2026 03:51:51 +0000</pubDate>
-      <description><![CDATA[This weekend, I improved my mobile fitness app and built a mcp server for it so I can get my latest workout stats and update the app's workouts via Claude/Codex/etc.
-
-This shit is too fun. https://t.co/bSzpGbkvPP
-
----
-@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 340]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>RT @chrsloggins: Sunday night: Soju, Seafood Broil with Noodles, and scaffolding my own agents with ...</title>
-      <link>https://x.com/ollama/status/2048609278022586436</link>
-      <guid isPermaLink="false">2048609278022586436</guid>
-      <pubDate>Mon, 27 Apr 2026 03:44:47 +0000</pubDate>
-      <description><![CDATA[RT @chrsloggins: Sunday night: Soju, Seafood Broil with Noodles, and scaffolding my own agents with pi powered by @ollama cloud and @OpenAI…
-
----
-@ollama | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+@ollama | ❤️ 0 | 🔁 19 | 💬 0 | 👁 2]]></description>
       <author>@ollama</author>
     </item>
     <item>
-      <title>If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 1...</title>
-      <link>https://x.com/petergyang/status/2048608945883992571</link>
-      <guid isPermaLink="false">2048608945883992571</guid>
-      <pubDate>Mon, 27 Apr 2026 03:43:28 +0000</pubDate>
-      <description><![CDATA[If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
-
-Join 110,000+ subscribers here:
-https://t.co/yz9xcsfrhF
+      <title>RT @Ronald_vanLoon: Octo-Bouncer: Teensy 4.0–Powered Precision Bot Masters Ping Pong Juggling
+by @Il...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048617131789402327</link>
+      <guid isPermaLink="false">2048617131789402327</guid>
+      <pubDate>Mon, 27 Apr 2026 04:16:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Octo-Bouncer: Teensy 4.0–Powered Precision Bot Masters Ping Pong Juggling
+by @IlirAliu_
+ 
+#Robotics #Engineering #Artif…
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 321]]></description>
-      <author>@petergyang</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>managed agents now come with cross-session memory which you can inspect and port wherever you'd like</title>
-      <link>https://x.com/angjiang/status/2048606658348380415</link>
-      <guid isPermaLink="false">2048606658348380415</guid>
-      <pubDate>Mon, 27 Apr 2026 03:34:23 +0000</pubDate>
-      <description><![CDATA[managed agents now come with cross-session memory which you can inspect and port wherever you'd like
+      <title>RT @Teknium: Hermes Agent tip of the day:
+
+You can backup and transfer your agent cleanly and simply...</title>
+      <link>https://x.com/NousResearch/status/2048616805070201334</link>
+      <guid isPermaLink="false">2048616805070201334</guid>
+      <pubDate>Mon, 27 Apr 2026 04:14:42 +0000</pubDate>
+      <description><![CDATA[RT @Teknium: Hermes Agent tip of the day:
+
+You can backup and transfer your agent cleanly and simply. Want to move it to a new VPS that is…
 
 ---
-@angjiang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 297]]></description>
-      <author>@angjiang</author>
+@NousResearch | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>This #Drone Can Flip Itself Over and Take Off From Water
+by @Fabriziobustama
+ 
+#EmergingTech #Innova...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048616427771347329</link>
+      <guid isPermaLink="false">2048616427771347329</guid>
+      <pubDate>Mon, 27 Apr 2026 04:13:12 +0000</pubDate>
+      <description><![CDATA[This #Drone Can Flip Itself Over and Take Off From Water
+by @Fabriziobustama
+ 
+#EmergingTech #Innovation #Technology #Tech https://t.co/7mssKfEIjV
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 158]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @RobertMSterling: 25% of very liberal people say political violence can “sometimes be justified.”...</title>
+      <link>https://x.com/elonmusk/status/2048615891995103449</link>
+      <guid isPermaLink="false">2048615891995103449</guid>
+      <pubDate>Mon, 27 Apr 2026 04:11:04 +0000</pubDate>
+      <description><![CDATA[RT @RobertMSterling: 25% of very liberal people say political violence can “sometimes be justified.”
+
+Among very conservative people it’s j…
+
+---
+@elonmusk | ❤️ 0 | 🔁 823 | 💬 0 | 👁 85]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>❤️ @ying11231, @BanghuaZ and @lmsysorg @sgl_project @radixark  
+
+Let's go DeepSeek v4 Pro!</title>
+      <link>https://x.com/ollama/status/2048613566807515200</link>
+      <guid isPermaLink="false">2048613566807515200</guid>
+      <pubDate>Mon, 27 Apr 2026 04:01:50 +0000</pubDate>
+      <description><![CDATA[❤️ @ying11231, @BanghuaZ and @lmsysorg @sgl_project @radixark  
+
+Let's go DeepSeek v4 Pro!
+
+---
+@ollama | ❤️ 48 | 🔁 5 | 💬 5 | 👁 3563]]></description>
+      <author>@ollama</author>
     </item>
   </channel>
 </rss>
