@@ -5,334 +5,164 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:36:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:01:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Who’s working on peptide(s) for neuron lengthening and speed increase?</title>
-      <link>https://x.com/tunguz/status/2048742866164253180</link>
-      <guid isPermaLink="false">2048742866164253180</guid>
-      <pubDate>Mon, 27 Apr 2026 12:35:37 +0000</pubDate>
-      <description><![CDATA[Who’s working on peptide(s) for neuron lengthening and speed increase?
+      <title>My view is simple:
+
+The winners in enterprise AI will not be the companies with access to the most m...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048749087323820198</link>
+      <guid isPermaLink="false">2048749087323820198</guid>
+      <pubDate>Mon, 27 Apr 2026 13:00:20 +0000</pubDate>
+      <description><![CDATA[My view is simple:
+
+The winners in enterprise AI will not be the companies with access to the most models.
+
+They will be the ones that build the best intelligent systems around them.
+
+If you want the full breakdown, watch the video and tell me what part of your AI stack you are rethinking first.
+
+What do you think becomes the real source of advantage in the next 12 months, the model itself, or the orchestration layer around it?
+
+Check out the full article: https://t.co/XvcQeN6FDy
 
 ---
-@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 6]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>“Vibe coded disasters piling up on Reddit”</title>
-      <link>https://x.com/GaryMarcus/status/2048739005525877072</link>
-      <guid isPermaLink="false">2048739005525877072</guid>
-      <pubDate>Mon, 27 Apr 2026 12:20:17 +0000</pubDate>
-      <description><![CDATA[“Vibe coded disasters piling up on Reddit”
+      <title>The second misconception I keep seeing:
+
+Too many teams think they have to choose between open model...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048749084446515253</link>
+      <guid isPermaLink="false">2048749084446515253</guid>
+      <pubDate>Mon, 27 Apr 2026 13:00:20 +0000</pubDate>
+      <description><![CDATA[The second misconception I keep seeing:
+
+Too many teams think they have to choose between open models and proprietary models.
+
+They do not.
+
+The smarter path is hybrid.
+
+→ proprietary models for scale and broad capability
+→ open models for flexibility and control
+→ orchestration layers to route each task to the best-fit model in real time
+
+That is how you balance performance, cost, and governance without locking yourself into one lane.
 
 ---
-@GaryMarcus | ❤️ 23 | 🔁 2 | 💬 9 | 👁 1475]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 13]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Most enterprise AI strategies are already behind.
+
+Not because they picked the wrong model, but beca...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048749077911736401</link>
+      <guid isPermaLink="false">2048749077911736401</guid>
+      <pubDate>Mon, 27 Apr 2026 13:00:18 +0000</pubDate>
+      <description><![CDATA[Most enterprise AI strategies are already behind.
+
+Not because they picked the wrong model, but because they are still thinking at the model layer.
+
+The real shift is happening one level up, where AI becomes a system that can reason, use tools, retain context, and execute work inside secure environments.
+
+That changes enterprise strategy faster than most leaders realize.
+
+A thread, with insights from my latest video with NVIDIA…
+
+#NVIDIAPartner #NVIDIAGTC
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 16]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>here’s what ive read so far this year https://t.co/5pJ1HdlqGG</title>
+      <link>https://x.com/danshipper/status/2048748438112645544</link>
+      <guid isPermaLink="false">2048748438112645544</guid>
+      <pubDate>Mon, 27 Apr 2026 12:57:46 +0000</pubDate>
+      <description><![CDATA[here’s what ive read so far this year https://t.co/5pJ1HdlqGG
+
+---
+@danshipper | ❤️ 1 | 🔁 0 | 💬 1 | 👁 196]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>Shape-Shifting Wheels by KIMM Let Wheelchairs Climb Stairs and Conquer Any Terrain
+by @spaceandtech_...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2048746516324487529</link>
+      <guid isPermaLink="false">2048746516324487529</guid>
+      <pubDate>Mon, 27 Apr 2026 12:50:08 +0000</pubDate>
+      <description><![CDATA[Shape-Shifting Wheels by KIMM Let Wheelchairs Climb Stairs and Conquer Any Terrain
+by @spaceandtech_
+
+#Innovation #EmergingTech #Technology https://t.co/VuYikbOBi9
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 91]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Stop blaming the users. It’s not that simple:</title>
+      <link>https://x.com/GaryMarcus/status/2048746152749846549</link>
+      <guid isPermaLink="false">2048746152749846549</guid>
+      <pubDate>Mon, 27 Apr 2026 12:48:41 +0000</pubDate>
+      <description><![CDATA[Stop blaming the users. It’s not that simple:
+
+---
+@GaryMarcus | ❤️ 2 | 🔁 0 | 💬 0 | 👁 1017]]></description>
       <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>AI Q: The Emotion-Reading Humanoid #Robot That Reacts Like a Real Being
-via @XRoboHub
+      <title>RT @Abhaydesigner: A podcast that I keep listening to is 'AI &amp;amp; I' by @danshipper 
 
-#Robots #Arti...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048738501798121537</link>
-      <guid isPermaLink="false">2048738501798121537</guid>
-      <pubDate>Mon, 27 Apr 2026 12:18:17 +0000</pubDate>
-      <description><![CDATA[AI Q: The Emotion-Reading Humanoid #Robot That Reacts Like a Real Being
-via @XRoboHub
+What I li...</title>
+      <link>https://x.com/danshipper/status/2048745702948274641</link>
+      <guid isPermaLink="false">2048745702948274641</guid>
+      <pubDate>Mon, 27 Apr 2026 12:46:54 +0000</pubDate>
+      <description><![CDATA[RT @Abhaydesigner: A podcast that I keep listening to is 'AI &amp;amp; I' by @danshipper 
 
-#Robots #ArtificialIntelligence #Innovation #Technology #Tech https://t.co/DHMw3OoLBM
+What I like is that it’s not just “here’s a tool.”
+
+It’s…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 81]]></description>
-      <author>@Ronald_vanLoon</author>
+@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: China Deploys Solar #Robot to De-Ice Power Lines in Extreme Mountain Conditions
-...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048734658678923487</link>
-      <guid isPermaLink="false">2048734658678923487</guid>
-      <pubDate>Mon, 27 Apr 2026 12:03:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: China Deploys Solar #Robot to De-Ice Power Lines in Extreme Mountain Conditions
-by @IntEngineering
-
-#Robotics #Engineer…
+      <title>Terrible, terrible. Poor predatory academic publishers.</title>
+      <link>https://x.com/tunguz/status/2048743127008108784</link>
+      <guid isPermaLink="false">2048743127008108784</guid>
+      <pubDate>Mon, 27 Apr 2026 12:36:39 +0000</pubDate>
+      <description><![CDATA[Terrible, terrible. Poor predatory academic publishers.
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Monitoring the situation… like always https://t.co/dEpV9xlicm</title>
-      <link>https://x.com/binance/status/2048734010721849484</link>
-      <guid isPermaLink="false">2048734010721849484</guid>
-      <pubDate>Mon, 27 Apr 2026 12:00:26 +0000</pubDate>
-      <description><![CDATA[Monitoring the situation… like always https://t.co/dEpV9xlicm
-
----
-@binance | ❤️ 374 | 🔁 36 | 💬 162 | 👁 17010]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>实话说我也是没想到 AI 还能用来做这个😂😂😂</title>
-      <link>https://x.com/turingou/status/2048732783082975270</link>
-      <guid isPermaLink="false">2048732783082975270</guid>
-      <pubDate>Mon, 27 Apr 2026 11:55:33 +0000</pubDate>
-      <description><![CDATA[实话说我也是没想到 AI 还能用来做这个😂😂😂
-
----
-@turingou | ❤️ 33 | 🔁 3 | 💬 0 | 👁 6189]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>无比期待国内模型超越海外模型
-同时大规模降价
-同时国内大厂能有海外大厂的并购心态
-
-这样
-也就不太会有 Manus 的局面
-如果创业者在国内能有很好的发展
-并不会首选去海外
-
-创业者
-离不开大环境的悲...</title>
-      <link>https://x.com/lifesinger/status/2048724259170824344</link>
-      <guid isPermaLink="false">2048724259170824344</guid>
-      <pubDate>Mon, 27 Apr 2026 11:21:41 +0000</pubDate>
-      <description><![CDATA[无比期待国内模型超越海外模型
-同时大规模降价
-同时国内大厂能有海外大厂的并购心态
-
-这样
-也就不太会有 Manus 的局面
-如果创业者在国内能有很好的发展
-并不会首选去海外
-
-创业者
-离不开大环境的悲欢喜怒
-
----
-@lifesinger | ❤️ 50 | 🔁 1 | 💬 24 | 👁 4797]]></description>
-      <author>@lifesinger</author>
-    </item>
-    <item>
-      <title>Skild Brain Pairs With Jetson Thor to Power Next-Gen #Robotics Intelligence
-by @CyberRobooo
-  
-#Robo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048723908744954357</link>
-      <guid isPermaLink="false">2048723908744954357</guid>
-      <pubDate>Mon, 27 Apr 2026 11:20:17 +0000</pubDate>
-      <description><![CDATA[Skild Brain Pairs With Jetson Thor to Power Next-Gen #Robotics Intelligence
-by @CyberRobooo
-  
-#Robot #Engineering #Innovation #Technology https://t.co/6tVH6PoYzn
-
----
-@Ronald_vanLoon | ❤️ 4 | 🔁 0 | 💬 0 | 👁 307]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>AI创业的唯一出路：自己赚钱养活自己
-（上市了更要想办法养活自己</title>
-      <link>https://x.com/oran_ge/status/2048723017631769019</link>
-      <guid isPermaLink="false">2048723017631769019</guid>
-      <pubDate>Mon, 27 Apr 2026 11:16:45 +0000</pubDate>
-      <description><![CDATA[AI创业的唯一出路：自己赚钱养活自己
-（上市了更要想办法养活自己
-
----
-@oran_ge | ❤️ 10 | 🔁 0 | 💬 2 | 👁 1823]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>Detroit by the Bay.</title>
-      <link>https://x.com/tunguz/status/2048721289418793306</link>
-      <guid isPermaLink="false">2048721289418793306</guid>
-      <pubDate>Mon, 27 Apr 2026 11:09:53 +0000</pubDate>
-      <description><![CDATA[Detroit by the Bay.
-
----
-@tunguz | ❤️ 6 | 🔁 0 | 💬 0 | 👁 1640]]></description>
+@tunguz | ❤️ 17 | 🔁 2 | 💬 3 | 👁 1123]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>明天上午和大家聊聊做 AI 实时语音翻译的过程中遇到的有趣的事儿~</title>
-      <link>https://x.com/turingou/status/2048720807845892175</link>
-      <guid isPermaLink="false">2048720807845892175</guid>
-      <pubDate>Mon, 27 Apr 2026 11:07:58 +0000</pubDate>
-      <description><![CDATA[明天上午和大家聊聊做 AI 实时语音翻译的过程中遇到的有趣的事儿~
+      <title>People keep blaming the users for the growing number of vibe-coded reasoners. Doing so is *half* rig...</title>
+      <link>https://x.com/GaryMarcus/status/2048742983684784239</link>
+      <guid isPermaLink="false">2048742983684784239</guid>
+      <pubDate>Mon, 27 Apr 2026 12:36:05 +0000</pubDate>
+      <description><![CDATA[People keep blaming the users for the growing number of vibe-coded reasoners. Doing so is *half* right.
+
+Users *are*screwing up - by letting vibe coded stuff access their files, without proper backups, without proper monitoring, without adequate sysadmin, etc.
+
+But that’s *exactly why* we still need software engineers — and why what Dario recently said about software engineers disappearing is so absurd.
+
+Skilled coders can use vibe-coded tools, with careful oversight.
+
+But amateurs using vibe-coding tools are asking for trouble. 
+
+Using them without a strong prior working knowledge in coding and sysadmin *is* the mistake.
 
 ---
-@turingou | ❤️ 20 | 🔁 1 | 💬 1 | 👁 5569]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>RT @Teknium: Happy to announce that Hermes Agent's repo just surpassed Anthropic's Claude Code repo ...</title>
-      <link>https://x.com/NousResearch/status/2048720438394486861</link>
-      <guid isPermaLink="false">2048720438394486861</guid>
-      <pubDate>Mon, 27 Apr 2026 11:06:30 +0000</pubDate>
-      <description><![CDATA[RT @Teknium: Happy to announce that Hermes Agent's repo just surpassed Anthropic's Claude Code repo https://t.co/glH9AoL236
-
----
-@NousResearch | ❤️ 0 | 🔁 54 | 💬 0 | 👁 0]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>分享一个工程手绘风格Skill
-模型使用GPT image 2
-研究了好几天，觉得特别清爽舒适
-
-提示词：
--  纯白色背景，大量留白
-- 工程图纸线条风格（细腻、精确）
-- 手写体标题（深灰色）
--...</title>
-      <link>https://x.com/stark_nico99/status/2048719821865472116</link>
-      <guid isPermaLink="false">2048719821865472116</guid>
-      <pubDate>Mon, 27 Apr 2026 11:04:03 +0000</pubDate>
-      <description><![CDATA[分享一个工程手绘风格Skill
-模型使用GPT image 2
-研究了好几天，觉得特别清爽舒适
-
-提示词：
--  纯白色背景，大量留白
-- 工程图纸线条风格（细腻、精确）
-- 手写体标题（深灰色）
-- 工程标注方式展示步骤
-- 淡蓝色、淡绿色、淡橙色水彩点缀（高透明度）
-- 类似苹果/特斯拉产品设计手稿的现代感
--  简洁图标配合步骤说明
-- 清爽、专业、科技感
-
-YouMind Skill 链接
-https://t.co/jTCKh4MrZ2
-
----
-@stark_nico99 | ❤️ 64 | 🔁 14 | 💬 9 | 👁 2458]]></description>
-      <author>@stark_nico99</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: RIVR Delivery #Robot Sits Down to Drop Packages from the Bottom
-by @rivr_tech
-
-#...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048719310156177652</link>
-      <guid isPermaLink="false">2048719310156177652</guid>
-      <pubDate>Mon, 27 Apr 2026 11:02:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: RIVR Delivery #Robot Sits Down to Drop Packages from the Bottom
-by @rivr_tech
-
-#Robotics #Engineering #ArtificialIntell…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @ylecun: Shooting oneself in the foot?
-Nope.
-Shooting oneself in the prefrontal cortex.</title>
-      <link>https://x.com/DeepLearn007/status/2048717804593897928</link>
-      <guid isPermaLink="false">2048717804593897928</guid>
-      <pubDate>Mon, 27 Apr 2026 10:56:02 +0000</pubDate>
-      <description><![CDATA[RT @ylecun: Shooting oneself in the foot?
-Nope.
-Shooting oneself in the prefrontal cortex.
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 758 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>You’re about to feel the #AI money squeeze
-by Hayden Field @verge
-
-Learn more: https://t.co/ZpXEsXOl...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048717799531397534</link>
-      <guid isPermaLink="false">2048717799531397534</guid>
-      <pubDate>Mon, 27 Apr 2026 10:56:01 +0000</pubDate>
-      <description><![CDATA[You’re about to feel the #AI money squeeze
-by Hayden Field @verge
-
-Learn more: https://t.co/ZpXEsXOlD3
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/RqyHDQRQ2z
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 2 | 👁 182]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @Gianl1974: Trump just fired all 24 members of the National Science Board. Every single one. By e...</title>
-      <link>https://x.com/DeepLearn007/status/2048717760302068127</link>
-      <guid isPermaLink="false">2048717760302068127</guid>
-      <pubDate>Mon, 27 Apr 2026 10:55:52 +0000</pubDate>
-      <description><![CDATA[RT @Gianl1974: Trump just fired all 24 members of the National Science Board. Every single one. By email. No warning. No reason given. The…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 5172 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>ColaOS 内测 26 天后，Mac 版本终于趋于稳定
-我们已经为所有的 waitlist 里的 Mac 用户发放了邀请
-如果还没有收到可以检查下垃圾箱
-Windows 兼容比预期的要复杂一些，预计...</title>
-      <link>https://x.com/oran_ge/status/2048717750919741557</link>
-      <guid isPermaLink="false">2048717750919741557</guid>
-      <pubDate>Mon, 27 Apr 2026 10:55:49 +0000</pubDate>
-      <description><![CDATA[ColaOS 内测 26 天后，Mac 版本终于趋于稳定
-我们已经为所有的 waitlist 里的 Mac 用户发放了邀请
-如果还没有收到可以检查下垃圾箱
-Windows 兼容比预期的要复杂一些，预计在 5 月下旬开放内测
-
-这两天和新榜的朋友深入地聊了这 26 天的故事和思考
-这是一些笔记分享给大家
-
-https://t.co/PtXkJnezSF
-
----
-@oran_ge | ❤️ 5 | 🔁 1 | 💬 3 | 👁 2785]]></description>
-      <author>@oran_ge</author>
-    </item>
-    <item>
-      <title>RT @TheMSeries1: No amount of words can convey how far behind this country will be in every avenue f...</title>
-      <link>https://x.com/DeepLearn007/status/2048717631553679726</link>
-      <guid isPermaLink="false">2048717631553679726</guid>
-      <pubDate>Mon, 27 Apr 2026 10:55:21 +0000</pubDate>
-      <description><![CDATA[RT @TheMSeries1: No amount of words can convey how far behind this country will be in every avenue for a number of years because of this ad…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 12425 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>Shape-Shifting All-Terrain #Robot Combines Legs, Wheels, and Aerial #Drone Power
-by @XueJia24682
-
-#R...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2048716491537650168</link>
-      <guid isPermaLink="false">2048716491537650168</guid>
-      <pubDate>Mon, 27 Apr 2026 10:50:49 +0000</pubDate>
-      <description><![CDATA[Shape-Shifting All-Terrain #Robot Combines Legs, Wheels, and Aerial #Drone Power
-by @XueJia24682
-
-#Robotics #EmergingTech #Technology #Innovation https://t.co/CDrb5LsL84
-
----
-@Ronald_vanLoon | ❤️ 2 | 🔁 2 | 💬 0 | 👁 341]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>公式做题就是快🤣</title>
-      <link>https://x.com/Jason_Young1231/status/2048715000098046236</link>
-      <guid isPermaLink="false">2048715000098046236</guid>
-      <pubDate>Mon, 27 Apr 2026 10:44:53 +0000</pubDate>
-      <description><![CDATA[公式做题就是快🤣
-
----
-@Jason_Young1231 | ❤️ 2 | 🔁 0 | 💬 0 | 👁 1246]]></description>
-      <author>@Jason_Young1231</author>
+@GaryMarcus | ❤️ 24 | 🔁 3 | 💬 10 | 👁 3246]]></description>
+      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
