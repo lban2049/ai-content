@@ -5,6 +5,24 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Apr 2026 10:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:00:51 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What we lose when #ArtificialIntelligence does our shopping
+by Mark Bartholomew Samuel Becher @Conve...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049080189817094278</link>
+      <guid isPermaLink="false">2049080189817094278</guid>
+      <pubDate>Tue, 28 Apr 2026 10:56:01 +0000</pubDate>
+      <description><![CDATA[What we lose when #ArtificialIntelligence does our shopping
+by Mark Bartholomew Samuel Becher @ConversationUS
+
+Learn more: https://t.co/YMLjTa0ENx
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/b3yrqo7OI6
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 40]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
   </channel>
 </rss>
