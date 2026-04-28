@@ -5,49 +5,149 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:30:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FateTell 是 AI 算命的集大成之作
-需要的一定要试试</title>
-      <link>https://x.com/oran_ge/status/2049087009357213799</link>
-      <guid isPermaLink="false">2049087009357213799</guid>
-      <pubDate>Tue, 28 Apr 2026 11:23:07 +0000</pubDate>
-      <description><![CDATA[FateTell 是 AI 算命的集大成之作
-需要的一定要试试
+      <title>RT @_lewtun: The @huggingface ML Intern is trending #1 across 1.2M Spaces on the Hub 🔥
+
+What part of...</title>
+      <link>https://x.com/_akhaliq/status/2049102958160167297</link>
+      <guid isPermaLink="false">2049102958160167297</guid>
+      <pubDate>Tue, 28 Apr 2026 12:26:30 +0000</pubDate>
+      <description><![CDATA[RT @_lewtun: The @huggingface ML Intern is trending #1 across 1.2M Spaces on the Hub 🔥
+
+What part of my job should we automate next?
+
+Link…
+
 ---
-@oran_ge | ❤️ 2 | 🔁 1 | 💬 0 | 👁 1111]]></description>
-      <author>@oran_ge</author>
+@_akhaliq | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>Ati Motors Unveils “Sherpa Mecha”: A Humanoid-Inspired Industrial #Robot
-by @CyberRobooo
+      <title>每次我有视频类的内容（譬如采访或分享）我都避免去看视频本身和底下的评论。因为不看都知道无非就是几类内容：胖了丑了秃了，哗众取宠，幸存者效应。我不是说不尊重大家评论的自由，但是为什么中文互联网的视频内容...</title>
+      <link>https://x.com/turingou/status/2049102809652678806</link>
+      <guid isPermaLink="false">2049102809652678806</guid>
+      <pubDate>Tue, 28 Apr 2026 12:25:54 +0000</pubDate>
+      <description><![CDATA[每次我有视频类的内容（譬如采访或分享）我都避免去看视频本身和底下的评论。因为不看都知道无非就是几类内容：胖了丑了秃了，哗众取宠，幸存者效应。我不是说不尊重大家评论的自由，但是为什么中文互联网的视频内容下，就事论事的人那么少？又不看完具体在说什么，又不仔细思考就在那随便写回复。这方面我觉得至少推特好一些，至少能有真的在评论你的听众。
 
-#AI #Robot...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2049086257905480047</link>
-      <guid isPermaLink="false">2049086257905480047</guid>
-      <pubDate>Tue, 28 Apr 2026 11:20:08 +0000</pubDate>
-      <description><![CDATA[Ati Motors Unveils “Sherpa Mecha”: A Humanoid-Inspired Industrial #Robot
-by @CyberRobooo
-
-#AI #Robotics #RPA #ArtificialIntelligence #Innovation #Technology https://t.co/RXxPX2kW6V
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 152]]></description>
+@turingou | ❤️ 11 | 🔁 0 | 💬 2 | 👁 611]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>一个月之前我写了个脚本让 cc 天天抢东京意大利签证预约日期，修复了至少七八次在流程上的问题（有空位但是没有抢成功）到后来我都烦了，想着算了吧，我直接改个国家申请，让 cc 写了封邮件我发送到希腊使馆...</title>
+      <link>https://x.com/turingou/status/2049100897725399196</link>
+      <guid isPermaLink="false">2049100897725399196</guid>
+      <pubDate>Tue, 28 Apr 2026 12:18:19 +0000</pubDate>
+      <description><![CDATA[一个月之前我写了个脚本让 cc 天天抢东京意大利签证预约日期，修复了至少七八次在流程上的问题（有空位但是没有抢成功）到后来我都烦了，想着算了吧，我直接改个国家申请，让 cc 写了封邮件我发送到希腊使馆，当天就预约好了位置。我真不知道我之前费那些傻劲干嘛。。。
+
+---
+@turingou | ❤️ 6 | 🔁 1 | 💬 0 | 👁 1070]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>Meet the Chip-Making Beast That Powers Modern Technology
+by @tweetciiiim
+ 
+#Innovation #TechForGood ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049100852753727823</link>
+      <guid isPermaLink="false">2049100852753727823</guid>
+      <pubDate>Tue, 28 Apr 2026 12:18:08 +0000</pubDate>
+      <description><![CDATA[Meet the Chip-Making Beast That Powers Modern Technology
+by @tweetciiiim
+ 
+#Innovation #TechForGood #EmergingTech #Technology https://t.co/94qEf6Qclw
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 113]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: #Robot Foundation Models: Unlocking Human-Level Dexterity and Intelligence
-via @...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2049081694947324327</link>
-      <guid isPermaLink="false">2049081694947324327</guid>
-      <pubDate>Tue, 28 Apr 2026 11:02:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #Robot Foundation Models: Unlocking Human-Level Dexterity and Intelligence
-via @ZappyZappy7
+      <title>This is great - @deepseek_ai V4 supports prefill! :D
 
-#AI #Robotics #ArtificialI…
+Most other providers have been dropping suppor...</title>
+      <link>https://x.com/jeremyphoward/status/2049098509530583199</link>
+      <guid isPermaLink="false">2049098509530583199</guid>
+      <pubDate>Tue, 28 Apr 2026 12:08:49 +0000</pubDate>
+      <description><![CDATA[This is great - @deepseek_ai V4 supports prefill! :D
+
+Most other providers have been dropping support for this critically important capability, so wonderful to see at least one company stepping up.
+https://t.co/kFbtBsgcIq
+
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+@jeremyphoward | ❤️ 16 | 🔁 1 | 💬 4 | 👁 983]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>@lifesinger 非常深度而真诚的分享</title>
+      <link>https://x.com/stark_nico99/status/2049098489129480518</link>
+      <guid isPermaLink="false">2049098489129480518</guid>
+      <pubDate>Tue, 28 Apr 2026 12:08:44 +0000</pubDate>
+      <description><![CDATA[@lifesinger 非常深度而真诚的分享
+
+---
+@stark_nico99 | ❤️ 1 | 🔁 0 | 💬 0 | 👁 14]]></description>
+      <author>@stark_nico99</author>
+    </item>
+    <item>
+      <title>RT @deepseek_ai: 🔥DeepSeek Input Cache Price Drop!
+
+Effective immediately, the price for input cache...</title>
+      <link>https://x.com/jeremyphoward/status/2049098262989389831</link>
+      <guid isPermaLink="false">2049098262989389831</guid>
+      <pubDate>Tue, 28 Apr 2026 12:07:50 +0000</pubDate>
+      <description><![CDATA[RT @deepseek_ai: 🔥DeepSeek Input Cache Price Drop!
+
+Effective immediately, the price for input cache hits across the ENTIRE DeepSeek API se…
+
+---
+@jeremyphoward | ❤️ 0 | 🔁 674 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Built from Scratch: Redditor’s ESP32-C3 #Robot Is Pure DIY Genius
+by @dfrobotcn
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049097050705334465</link>
+      <guid isPermaLink="false">2049097050705334465</guid>
+      <pubDate>Tue, 28 Apr 2026 12:03:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Built from Scratch: Redditor’s ESP32-C3 #Robot Is Pure DIY Genius
+by @dfrobotcn
+
+#Robotics #Engineering #ArtificialInte…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Last week to get in on the action!
+
+Subscribe to Dual Investment → Earn rewards → Win from a 8,888 U...</title>
+      <link>https://x.com/binance/status/2049096299727958408</link>
+      <guid isPermaLink="false">2049096299727958408</guid>
+      <pubDate>Tue, 28 Apr 2026 12:00:02 +0000</pubDate>
+      <description><![CDATA[Last week to get in on the action!
+
+Subscribe to Dual Investment → Earn rewards → Win from a 8,888 USDC pool
+
+Know more 👉 https://t.co/G7WNBuXVxt
+
+---
+@binance | ❤️ 74 | 🔁 10 | 💬 30 | 👁 18552]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>This grift needs to end.</title>
+      <link>https://x.com/tunguz/status/2049092548979786102</link>
+      <guid isPermaLink="false">2049092548979786102</guid>
+      <pubDate>Tue, 28 Apr 2026 11:45:08 +0000</pubDate>
+      <description><![CDATA[This grift needs to end.
+
+---
+@tunguz | ❤️ 24 | 🔁 3 | 💬 1 | 👁 2314]]></description>
+      <author>@tunguz</author>
     </item>
   </channel>
 </rss>
