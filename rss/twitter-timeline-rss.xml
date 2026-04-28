@@ -5,196 +5,268 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:01:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 终端工具 Warp 宣布客户端代码正式开源，采用 AGPL 协议，代码托管在 https://t.co/JgFdUw7CrD。OpenAI 是这个开源仓库的创始赞助商。
-
-Warp 是一个用 R...</title>
-      <link>https://x.com/dotey/status/2049179379737960669</link>
-      <guid isPermaLink="false">2049179379737960669</guid>
-      <pubDate>Tue, 28 Apr 2026 17:30:10 +0000</pubDate>
-      <description><![CDATA[AI 终端工具 Warp 宣布客户端代码正式开源，采用 AGPL 协议，代码托管在 https://t.co/JgFdUw7CrD。OpenAI 是这个开源仓库的创始赞助商。
-
-Warp 是一个用 Rust 写的现代终端，目前有超过 70 万开发者在用。它最大的卖点是把 AI 能力直接塞进了终端，你可以用自然语言描述想做的事，它帮你生成命令。同时支持 Claude Code、Codex、Gemini CLI 等主流 AI 编程工具。
-
-这次开源有个很特别的地方：社区贡献的流程本身就是&quot;AI 优先&quot;的。Warp 自家的云端 AI 平台 Oz 负责干活，包括写代码、做规划、跑测试，社区成员主要负责提想法、定方向、做验证。简单说，人管方向，AI 干活，这是他们设想的未来软件开发模式。
-
-除了开源，Warp 同步上线了几个更新：支持更多开源模型，包括 Kimi、MiniMax、Qwen，还有一个自动路由模式帮你挑最合适的开源模型；终端界面可以按需定制，从纯终端到带 diff 视图和文件树的完整开发环境，丰俭由人；另外终于支持配置文件了，方便在不同设备间同步设置。
-
-需要注意的是，开源的只是客户端，服务端代码仍然闭源。
-
-Warp 创始人 Zach Lloyd 说，五年前 Warp 刚上线时就计划开源，但一直犹豫。今年 AI Agent 的爆发让天平倾斜了，用他的话说，大量不同背景的贡献者加上 AI 代理的结构化流程，能做出比纯内部团队更好的产品。OpenAI 作为创始赞助商介入，意味着这套&quot;人管 AI 干&quot;的开源协作模式，会被当成一个行业实验来推。
-
-对开发者来说，如果你已经在用 Warp，现在可以直接去 GitHub 提 issue、参与讨论，甚至通过终端里新增的 /feedback 命令直接反馈。如果你之前因为闭源犹豫没用，现在少了一个顾虑。公开路线图显示 5 到 6 月的开发计划已经挂出来了。
+      <title>Another full house for Hermes! Thank you to the organizers and all of the attendees.</title>
+      <link>https://x.com/NousResearch/status/2049186742121410871</link>
+      <guid isPermaLink="false">2049186742121410871</guid>
+      <pubDate>Tue, 28 Apr 2026 17:59:26 +0000</pubDate>
+      <description><![CDATA[Another full house for Hermes! Thank you to the organizers and all of the attendees.
 
 ---
-@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 22]]></description>
-      <author>@dotey</author>
+@NousResearch | ❤️ 3 | 🔁 0 | 💬 0 | 👁 256]]></description>
+      <author>@NousResearch</author>
     </item>
     <item>
-      <title>Ultra-Compact Brain–Computer Interface Chip Enables High-Bandwidth Wireless Neural Communication
-by ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2049177601785139264</link>
-      <guid isPermaLink="false">2049177601785139264</guid>
-      <pubDate>Tue, 28 Apr 2026 17:23:06 +0000</pubDate>
-      <description><![CDATA[Ultra-Compact Brain–Computer Interface Chip Enables High-Bandwidth Wireless Neural Communication
-by @CUSEAS
-
-#MedTech #Healthcare #HealthTech #Tech #Technology https://t.co/gaulMV302i
+      <title>RT @Ronald_vanLoon: Wind Power Returns: Cargo Ships Harness the Breeze Once Again
+by @QuantumTech_X
+...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049186384959737873</link>
+      <guid isPermaLink="false">2049186384959737873</guid>
+      <pubDate>Tue, 28 Apr 2026 17:58:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Wind Power Returns: Cargo Ships Harness the Breeze Once Again
+by @QuantumTech_X
+ 
+#Sustainability #RenewableEnergy #Cle…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 88]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 1]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>一个 ChatGPT 使用技巧（可能适合于其他 AI 工具）
+      <title>Very interested in this
 
-像 ChatGPT、Claude Web，已经不再单纯的只是一个 ChatBot，而是 AI Agent，也就是说每个会话都可以有一个虚...</title>
-      <link>https://x.com/dotey/status/2049177392317333877</link>
-      <guid isPermaLink="false">2049177392317333877</guid>
-      <pubDate>Tue, 28 Apr 2026 17:22:16 +0000</pubDate>
-      <description><![CDATA[一个 ChatGPT 使用技巧（可能适合于其他 AI 工具）
+I used to build web apps with GUI; now I just share GitHub repos with the c...</title>
+      <link>https://x.com/zarazhangrui/status/2049186121314415054</link>
+      <guid isPermaLink="false">2049186121314415054</guid>
+      <pubDate>Tue, 28 Apr 2026 17:56:58 +0000</pubDate>
+      <description><![CDATA[Very interested in this
 
-像 ChatGPT、Claude Web，已经不再单纯的只是一个 ChatBot，而是 AI Agent，也就是说每个会话都可以有一个虚拟运行环境，可以调用工具。
+I used to build web apps with GUI; now I just share GitHub repos with the code and people can customize the UI however they like
 
-借助这个特点，在让 ChatGPT 执行任务的时候，就可以让它自行去做一些验证，而不是像以前那样只是对话。
-
-比如说我在让 ChatGPT 写画图的提示词或者优化提示词的时候，我会让它自己先做一些验证，根据验证结果自己去迭代，然后我再基于它迭代后的结果去验收，通常结果会更好一些。
+Kind of like Karpathy's &quot;idea file&quot;: just write down the idea, and people's agents can build it for them in a customized way
 
 ---
-@dotey | ❤️ 3 | 🔁 0 | 💬 0 | 👁 411]]></description>
+@zarazhangrui | ❤️ 3 | 🔁 0 | 💬 0 | 👁 174]]></description>
+      <author>@zarazhangrui</author>
+    </item>
+    <item>
+      <title>@turingou 别误会，我说断章取义的意思就是说原文是断章取义。另外我只是说观点，也不针对人。</title>
+      <link>https://x.com/dotey/status/2049185928762294374</link>
+      <guid isPermaLink="false">2049185928762294374</guid>
+      <pubDate>Tue, 28 Apr 2026 17:56:12 +0000</pubDate>
+      <description><![CDATA[@turingou 别误会，我说断章取义的意思就是说原文是断章取义。另外我只是说观点，也不针对人。
+
+---
+@dotey | ❤️ 2 | 🔁 0 | 💬 0 | 👁 56]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>RT @wmren993: Thanks @_akhaliq for sharing our work!
+      <title>RT @akseljoonas: new in ml-intern: you can now actually see what's going on inside
 
-We present Tuna-2 as an initial attempt to uni...</title>
-      <link>https://x.com/_akhaliq/status/2049175812482400285</link>
-      <guid isPermaLink="false">2049175812482400285</guid>
-      <pubDate>Tue, 28 Apr 2026 17:16:00 +0000</pubDate>
-      <description><![CDATA[RT @wmren993: Thanks @_akhaliq for sharing our work!
+added native met...</title>
+      <link>https://x.com/_akhaliq/status/2049185450129269138</link>
+      <guid isPermaLink="false">2049185450129269138</guid>
+      <pubDate>Tue, 28 Apr 2026 17:54:17 +0000</pubDate>
+      <description><![CDATA[RT @akseljoonas: new in ml-intern: you can now actually see what's going on inside
 
-We present Tuna-2 as an initial attempt to unify visual understanding, text-to-image…
+added native metric logging + trackio integration. ever…
 
 ---
-@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 3]]></description>
+@_akhaliq | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
       <author>@_akhaliq</author>
     </item>
     <item>
-      <title>&quot;I keep meaning to really dig into AI, but I can't seem to find the time. I'm just so busy.&quo...</title>
-      <link>https://x.com/lennysan/status/2049175743461257535</link>
-      <guid isPermaLink="false">2049175743461257535</guid>
-      <pubDate>Tue, 28 Apr 2026 17:15:43 +0000</pubDate>
-      <description><![CDATA[&quot;I keep meaning to really dig into AI, but I can't seem to find the time. I'm just so busy.&quot;
-
-If that sounds like you, @yourgirlhils and I made something just for you.
-
-Introducing the Couch-to-5K for AI—a free, fun, 30-day program that finally turns &quot;I should get better at AI&quot; into a daily habit.
-
-Fewer than 10 minutes a day. Builds your AI practice progressively.
-
-This will accelerate your AI learning more than anything else you've tried.
-
-Learn more: https://t.co/riBr61bDrA
-
-Get started now: https://t.co/bwD1CBx3Tr
+      <title>「让大家享受最后一年有意义的工作」这话又不是我说的，这是 Youtube 创始人 Chad Hurley 写的 https://t.co/ELDC71xGxu 能不能看完视频，别断章取义的说我「断章取...</title>
+      <link>https://x.com/turingou/status/2049185130309378464</link>
+      <guid isPermaLink="false">2049185130309378464</guid>
+      <pubDate>Tue, 28 Apr 2026 17:53:01 +0000</pubDate>
+      <description><![CDATA[「让大家享受最后一年有意义的工作」这话又不是我说的，这是 Youtube 创始人 Chad Hurley 写的 https://t.co/ELDC71xGxu 能不能看完视频，别断章取义的说我「断章取义」？我做的产品还不够复杂吗？搞笑呢
 
 ---
-@lennysan | ❤️ 17 | 🔁 0 | 💬 4 | 👁 1576]]></description>
-      <author>@lennysan</author>
+@turingou | ❤️ 2 | 🔁 0 | 💬 1 | 👁 400]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>Meta presents Tuna-2
+      <title>Model page: 
 
-Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generat...</title>
-      <link>https://x.com/_akhaliq/status/2049174843954790549</link>
-      <guid isPermaLink="false">2049174843954790549</guid>
-      <pubDate>Tue, 28 Apr 2026 17:12:09 +0000</pubDate>
-      <description><![CDATA[Meta presents Tuna-2
+https://t.co/a2JkIGlQjJ</title>
+      <link>https://x.com/ollama/status/2049184821340164349</link>
+      <guid isPermaLink="false">2049184821340164349</guid>
+      <pubDate>Tue, 28 Apr 2026 17:51:48 +0000</pubDate>
+      <description><![CDATA[Model page: 
 
-Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation
-
-paper: https://t.co/OonewX4iAg https://t.co/n1sR30JULW
+https://t.co/a2JkIGlQjJ
 
 ---
-@_akhaliq | ❤️ 27 | 🔁 2 | 💬 2 | 👁 3364]]></description>
-      <author>@_akhaliq</author>
+@ollama | ❤️ 2 | 🔁 0 | 💬 1 | 👁 521]]></description>
+      <author>@ollama</author>
     </item>
     <item>
-      <title>As AI continues to evolve, our commitment to education remains.
+      <title>First open-weight model from @poolsideai! Apache license, and available on Ollama to try. 
 
-The program is expanding into Latin...</title>
-      <link>https://x.com/GoogleDeepMind/status/2049174334057611585</link>
-      <guid isPermaLink="false">2049174334057611585</guid>
-      <pubDate>Tue, 28 Apr 2026 17:10:07 +0000</pubDate>
-      <description><![CDATA[As AI continues to evolve, our commitment to education remains.
+👇👇👇 mode...</title>
+      <link>https://x.com/ollama/status/2049184817603031463</link>
+      <guid isPermaLink="false">2049184817603031463</guid>
+      <pubDate>Tue, 28 Apr 2026 17:51:47 +0000</pubDate>
+      <description><![CDATA[First open-weight model from @poolsideai! Apache license, and available on Ollama to try. 
 
-The program is expanding into Latin America this year, with the aim of training 24,000 educators and reaching 1.25 million students by 2028, thanks to funding of $4.6 million from @Googleorg.
-
-Find out more → https://t.co/3BmVEDnC9F
+👇👇👇 model page
 
 ---
-@GoogleDeepMind | ❤️ 11 | 🔁 1 | 💬 1 | 👁 2815]]></description>
-      <author>@GoogleDeepMind</author>
+@ollama | ❤️ 17 | 🔁 1 | 💬 2 | 👁 1155]]></description>
+      <author>@ollama</author>
     </item>
     <item>
-      <title>✏️ 93% of educators say the training increased their knowledge of AI concepts
-✏️ 87% feel more confi...</title>
-      <link>https://x.com/GoogleDeepMind/status/2049174330064470022</link>
-      <guid isPermaLink="false">2049174330064470022</guid>
-      <pubDate>Tue, 28 Apr 2026 17:10:06 +0000</pubDate>
-      <description><![CDATA[✏️ 93% of educators say the training increased their knowledge of AI concepts
-✏️ 87% feel more confident teaching these complex topics
-✏️ 30,000+ teachers have been trained
-✏️ 2.9m students in 180 countries have been reached in 19 languages https://t.co/Incd8yppxi
+      <title>Also related how settling somewhere increasingly doesn't mean anything anymore
+
+Even with kids and f...</title>
+      <link>https://x.com/levelsio/status/2049183369360290129</link>
+      <guid isPermaLink="false">2049183369360290129</guid>
+      <pubDate>Tue, 28 Apr 2026 17:46:01 +0000</pubDate>
+      <description><![CDATA[Also related how settling somewhere increasingly doesn't mean anything anymore
+
+Even with kids and family people are more mobile than ever and just hop to the next place
+
+Which is especially beneficial in a geopolitically unstable world where any place can be the next war zone
+
+Better be mobile than not!
 
 ---
-@GoogleDeepMind | ❤️ 29 | 🔁 2 | 💬 1 | 👁 3651]]></description>
-      <author>@GoogleDeepMind</author>
+@levelsio | ❤️ 16 | 🔁 0 | 💬 6 | 👁 2045]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>As AI evolves, education must keep pace. 🍎
+      <title>Also related how settling somewhere increasingly doesn't mean anything anymore
 
-Since 2023, the Experience AI program – developed in col...</title>
-      <link>https://x.com/GoogleDeepMind/status/2049174327124263379</link>
-      <guid isPermaLink="false">2049174327124263379</guid>
-      <pubDate>Tue, 28 Apr 2026 17:10:06 +0000</pubDate>
-      <description><![CDATA[As AI evolves, education must keep pace. 🍎
+Even with kids and f...</title>
+      <link>https://x.com/levelsio/status/2049183342684221726</link>
+      <guid isPermaLink="false">2049183342684221726</guid>
+      <pubDate>Tue, 28 Apr 2026 17:45:55 +0000</pubDate>
+      <description><![CDATA[Also related how settling somewhere increasingly doesn't mean anything anymore
 
-Since 2023, the Experience AI program – developed in collaboration with @RaspberryPi_org – has offered free resources to help students and teachers understand AI and how it works.
+Even with kids and family people are more mobile than ever and just hop to the next place
 
-See the impact ⬇️ https://t.co/e0vB3FjWMK
+Which is especially beneficial in a geopolitically unstable world where any place can be the next war zone
+
+Better be mobile than not!
 
 ---
-@GoogleDeepMind | ❤️ 54 | 🔁 5 | 💬 7 | 👁 4814]]></description>
-      <author>@GoogleDeepMind</author>
+@levelsio | ❤️ 7 | 🔁 0 | 💬 4 | 👁 1989]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>SenseNova U1 is out on Hugging Face
-
-https://t.co/22fCKWGQzx https://t.co/5wHtVUtVZK</title>
-      <link>https://x.com/_akhaliq/status/2049173043407147265</link>
-      <guid isPermaLink="false">2049173043407147265</guid>
-      <pubDate>Tue, 28 Apr 2026 17:04:59 +0000</pubDate>
-      <description><![CDATA[SenseNova U1 is out on Hugging Face
-
-https://t.co/22fCKWGQzx https://t.co/5wHtVUtVZK
+      <title>看看我使用基于 tuwa 的新产品学习西班牙语，这个新产品目标也很明确：和它实时聊天，用自己的母语，听懂、说出、学会世界上任何一种语言。并且从头到尾都不是为了考试而学习，每个人有自己专属的学习路径和词...</title>
+      <link>https://x.com/turingou/status/2049182646152970656</link>
+      <guid isPermaLink="false">2049182646152970656</guid>
+      <pubDate>Tue, 28 Apr 2026 17:43:09 +0000</pubDate>
+      <description><![CDATA[看看我使用基于 tuwa 的新产品学习西班牙语，这个新产品目标也很明确：和它实时聊天，用自己的母语，听懂、说出、学会世界上任何一种语言。并且从头到尾都不是为了考试而学习，每个人有自己专属的学习路径和词汇库。目前原型产品有一些小 bug，但不影响感受到的震撼。。。 https://t.co/f2LroreGa7
 
 ---
-@_akhaliq | ❤️ 5 | 🔁 1 | 💬 1 | 👁 1128]]></description>
-      <author>@_akhaliq</author>
+@turingou | ❤️ 15 | 🔁 1 | 💬 1 | 👁 816]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>说“六个月就不需要人再工作”不是危言耸听就是断章取义，但凡用 AI 去正儿八经做个稍微复杂一点的项目就知道这这不靠谱。</title>
-      <link>https://x.com/dotey/status/2049173023454802140</link>
-      <guid isPermaLink="false">2049173023454802140</guid>
-      <pubDate>Tue, 28 Apr 2026 17:04:55 +0000</pubDate>
-      <description><![CDATA[说“六个月就不需要人再工作”不是危言耸听就是断章取义，但凡用 AI 去正儿八经做个稍微复杂一点的项目就知道这这不靠谱。
+      <title>I kinda love the retardmaxxxing here
+
+Move somewhere, then if it sucks don't accept sunk costs and j...</title>
+      <link>https://x.com/levelsio/status/2049182344217534718</link>
+      <guid isPermaLink="false">2049182344217534718</guid>
+      <pubDate>Tue, 28 Apr 2026 17:41:57 +0000</pubDate>
+      <description><![CDATA[I kinda love the retardmaxxxing here
+
+Move somewhere, then if it sucks don't accept sunk costs and just move out in less than a month 👌
 
 ---
-@dotey | ❤️ 23 | 🔁 1 | 💬 12 | 👁 2206]]></description>
-      <author>@dotey</author>
+@levelsio | ❤️ 38 | 🔁 2 | 💬 9 | 👁 9724]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGqI5p
+Apple
+https://t.co/0AdZ1ZsGZn
+YouTu...</title>
+      <link>https://x.com/OpenAI/status/2049182122099798209</link>
+      <guid isPermaLink="false">2049182122099798209</guid>
+      <pubDate>Tue, 28 Apr 2026 17:41:04 +0000</pubDate>
+      <description><![CDATA[Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGqI5p
+Apple
+https://t.co/0AdZ1ZsGZn
+YouTube
+https://t.co/Dq9BzZSQOr
+
+---
+@OpenAI | ❤️ 21 | 🔁 1 | 💬 1 | 👁 17363]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>Earlier this month, an Erdős problem that had been open for 60 years was solved with help from GPT-5...</title>
+      <link>https://x.com/OpenAI/status/2049182118069358967</link>
+      <guid isPermaLink="false">2049182118069358967</guid>
+      <pubDate>Tue, 28 Apr 2026 17:41:03 +0000</pubDate>
+      <description><![CDATA[Earlier this month, an Erdős problem that had been open for 60 years was solved with help from GPT-5.4 Pro.
+
+What happens now that AI is getting good at math?
+
+OpenAI researchers @SebastienBubeck and @ErnestRyu join host @AndrewMayne to explain what changed and what it could mean for the future of research.
+
+---
+@OpenAI | ❤️ 378 | 🔁 41 | 💬 51 | 👁 23980]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>We are proud to have helped NASA optimize this code and watch it power a pivotal mission like Artemi...</title>
+      <link>https://x.com/nvidia/status/2049181477384892596</link>
+      <guid isPermaLink="false">2049181477384892596</guid>
+      <pubDate>Tue, 28 Apr 2026 17:38:30 +0000</pubDate>
+      <description><![CDATA[We are proud to have helped NASA optimize this code and watch it power a pivotal mission like Artemis.
+
+We can't wait to see the new engineering this enables for the broader U.S. aerospace community.
+
+---
+@nvidia | ❤️ 53 | 🔁 3 | 💬 5 | 👁 6307]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>RT @status_effects: New work with @AlecRad and @DavidDuvenaud:
+
+Have you ever dreamed of talking to ...</title>
+      <link>https://x.com/karpathy/status/2049180863036813717</link>
+      <guid isPermaLink="false">2049180863036813717</guid>
+      <pubDate>Tue, 28 Apr 2026 17:36:04 +0000</pubDate>
+      <description><![CDATA[RT @status_effects: New work with @AlecRad and @DavidDuvenaud:
+
+Have you ever dreamed of talking to someone from the past? Introducing talk…
+
+---
+@karpathy | ❤️ 0 | 🔁 235 | 💬 0 | 👁 4]]></description>
+      <author>@karpathy</author>
+    </item>
+    <item>
+      <title>No one will believe me but this happened this morning..
+
+X (clearly a founder): I’m talking to all t...</title>
+      <link>https://x.com/nikunj/status/2049179647519125976</link>
+      <guid isPermaLink="false">2049179647519125976</guid>
+      <pubDate>Tue, 28 Apr 2026 17:31:14 +0000</pubDate>
+      <description><![CDATA[No one will believe me but this happened this morning..
+
+X (clearly a founder): I’m talking to all the Tier 1 VCs - and have second meetings. 
+
+Y (angel, friend maybe): You mean the neolab index funds?
+
+💀
+
+📌 Sightglass on 7th St
+
+---
+@nikunj | ❤️ 7 | 🔁 0 | 💬 1 | 👁 516]]></description>
+      <author>@nikunj</author>
     </item>
   </channel>
 </rss>
