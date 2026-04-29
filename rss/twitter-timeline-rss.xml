@@ -5,6 +5,480 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:35:14 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Yeah agents can help you build apps, but who maintains them?”
+
+Also agents:</title>
+      <link>https://x.com/amasad/status/2049541661387313615</link>
+      <guid isPermaLink="false">2049541661387313615</guid>
+      <pubDate>Wed, 29 Apr 2026 17:29:45 +0000</pubDate>
+      <description><![CDATA[“Yeah agents can help you build apps, but who maintains them?”
+
+Also agents:
+
+---
+@amasad | ❤️ 3 | 🔁 0 | 💬 2 | 👁 280]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>RT @thsottiaux: @Mugilan_SS @OpenAI It’s the small things. When we designed this the tradeoff was be...</title>
+      <link>https://x.com/steipete/status/2049541492151091318</link>
+      <guid isPermaLink="false">2049541492151091318</guid>
+      <pubDate>Wed, 29 Apr 2026 17:29:05 +0000</pubDate>
+      <description><![CDATA[RT @thsottiaux: @Mugilan_SS @OpenAI It’s the small things. When we designed this the tradeoff was between a good experience or optimize for…
+
+---
+@steipete | ❤️ 0 | 🔁 34 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>RT @Mugilan_SS: Codex is not like claude code.
+
+if you know the limit is going to end, like last 10 ...</title>
+      <link>https://x.com/steipete/status/2049541440980607125</link>
+      <guid isPermaLink="false">2049541440980607125</guid>
+      <pubDate>Wed, 29 Apr 2026 17:28:52 +0000</pubDate>
+      <description><![CDATA[RT @Mugilan_SS: Codex is not like claude code.
+
+if you know the limit is going to end, like last 10 to 8%, give an very long run task, and…
+
+---
+@steipete | ❤️ 0 | 🔁 216 | 💬 0 | 👁 0]]></description>
+      <author>@steipete</author>
+    </item>
+    <item>
+      <title>Cursor 今天开放了官方 TypeScript SDK 公测，把驱动自家编辑器、CLI 和网页版的智能体（agent，可自主执行编码任务的 AI 助手）整套打包交给开发者。装上 npm insta...</title>
+      <link>https://x.com/dotey/status/2049541257756811517</link>
+      <guid isPermaLink="false">2049541257756811517</guid>
+      <pubDate>Wed, 29 Apr 2026 17:28:09 +0000</pubDate>
+      <description><![CDATA[Cursor 今天开放了官方 TypeScript SDK 公测，把驱动自家编辑器、CLI 和网页版的智能体（agent，可自主执行编码任务的 AI 助手）整套打包交给开发者。装上 npm install @cursor/sdk 就能用。
+
+调用方式很灵活。Agent 可以跑在本机，也可以塞到 Cursor 云端的独立虚拟机里。云端模式下每个 agent 都有专属沙箱、克隆好的代码仓库和配置完整的开发环境，电脑休眠或断网都不影响任务继续，干完活还能直接开 PR、推分支、附上截图。模型层面不绑定，OpenAI、Anthropic、Google 的前沿模型可以一键切换，也能跑 Cursor 自家的 Composer 2（专为编码训练的模型，号称用更低成本接近前沿水平）。
+
+SDK 把 Cursor 平时藏在编辑器里的那套 harness（智能体运行框架）整个开放了出来：代码库索引、语义搜索、即时 grep、MCP 工具接入、从仓库 .cursor/skills/ 目录自动加载的技能、可以观察和干预 agent 循环的 hooks，以及把任务拆给&quot;子 agent&quot;的能力。
+
+官方点名了几种典型场景：CI/CD 流水线里自动总结改动、定位失败原因、自动提修复 PR；做内部工具让销售和市场团队不写代码就能查产品数据；甚至把 Cursor 直接嵌进自家面向客户的产品里，让最终用户在不离开宿主应用的情况下用上 agent 体验。Faire 的工程经理 George Jacob 的说法是，他们以前要自己管虚拟机、绕开内存限制，现在能直接复用 Cursor 的云端运行时来维护代码库。
+
+计费按 token 用量算。GitHub 上的 cookbook 仓库放了几个示例项目，包括最简版的本地 agent、网页原型工具、能拖卡片自动开 PR 的看板，以及命令行工具。
+
+放进上下文里看：Anthropic 早些时候推出了 Claude Agent SDK，OpenAI 也有 Codex 相关 SDK，agent 基础设施本身正在变成一门独立生意。Cursor 这次相当于把自己卖给开发者的核心能力打包出售。你既可以付费用它的编辑器，也可以付费让它替你跑 agent。
+
+Cookbook:
+https://t.co/5fSQQOZbnQ
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 170]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>The 8-Layer Architecture of #AgenticAI
+by @Python_Dv
+ 
+#AI #LLM #ArtificialIntelligence #MachineLear...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049539973418799306</link>
+      <guid isPermaLink="false">2049539973418799306</guid>
+      <pubDate>Wed, 29 Apr 2026 17:23:02 +0000</pubDate>
+      <description><![CDATA[The 8-Layer Architecture of #AgenticAI
+by @Python_Dv
+ 
+#AI #LLM #ArtificialIntelligence #MachineLearning #ML https://t.co/V4g9FoV0qq
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 73]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @hanouticelina: DeepInfra is now officially an Inference Provider on @huggingface! 🚀
+DeepInfra of...</title>
+      <link>https://x.com/_akhaliq/status/2049537881031483465</link>
+      <guid isPermaLink="false">2049537881031483465</guid>
+      <pubDate>Wed, 29 Apr 2026 17:14:44 +0000</pubDate>
+      <description><![CDATA[RT @hanouticelina: DeepInfra is now officially an Inference Provider on @huggingface! 🚀
+DeepInfra offers one of the most cost-effective pri…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>👇 I was there for this, sitting right next to Altman. Realizing a few months later he lied about it ...</title>
+      <link>https://x.com/GaryMarcus/status/2049536526481289242</link>
+      <guid isPermaLink="false">2049536526481289242</guid>
+      <pubDate>Wed, 29 Apr 2026 17:09:21 +0000</pubDate>
+      <description><![CDATA[👇 I was there for this, sitting right next to Altman. Realizing a few months later he lied about it (by omission) was what turned me against him.  We had sworn to tell the whole truth and nothing but the truth. He didn’t.
+
+Soon after that, I realized that he was a serial liar. I have been trying to get the world to wake up to Sam’s lack of candor ever since.
+
+---
+@GaryMarcus | ❤️ 27 | 🔁 2 | 💬 4 | 👁 1525]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>The contest is open to eligible participants who are 18 years of age or older. Employees, contractor...</title>
+      <link>https://x.com/OpenAI/status/2049535662807023885</link>
+      <guid isPermaLink="false">2049535662807023885</guid>
+      <pubDate>Wed, 29 Apr 2026 17:05:55 +0000</pubDate>
+      <description><![CDATA[The contest is open to eligible participants who are 18 years of age or older. Employees, contractors, and immediate family members of OpenAI are not eligible to enter or win.
+
+Winners will be selected from the pool of valid entries by eligible entrants. Each winner will receive one free ticket to OpenAI DevDay in San Francisco, California. Winners are responsible for all travel, lodging, meals, and other expenses not expressly included in the prize.
+
+Winners will be notified by direct message and must respond by filling out a form by July 1, 2026. If a winner does not respond by the deadline, is ineligible, or cannot accept the prize, OpenAI may select an alternate winner.
+
+No purchase necessary, entries must be submitted by July 1, 2026. Individuals located in Belarus, Cuba, Iran, North Korea, Russia, Syria, Crimea, Sevastopol, and the non-government-controlled areas of Donetsk, Kherson, Luhansk, and Zaporizhzhia oblasts of Ukraine are not eligible to enter.
+
+By entering, you agree that OpenAI may use submitted entries, and derivations thereof, in promotional material for OpenAI products, services, and events globally in any medium.
+
+This contest and these terms are governed by the laws of the State of California, USA. Participation is also subject to the OpenAI Terms of Use, available at https://t.co/9Haa5QDP8d.
+
+---
+@OpenAI | ❤️ 58 | 🔁 5 | 💬 3 | 👁 17850]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>Want to secure an early ticket to OpenAI DevDay? Build something with GPT-5.5 and Image Gen.
+
+Each w...</title>
+      <link>https://x.com/OpenAI/status/2049535650626785334</link>
+      <guid isPermaLink="false">2049535650626785334</guid>
+      <pubDate>Wed, 29 Apr 2026 17:05:52 +0000</pubDate>
+      <description><![CDATA[Want to secure an early ticket to OpenAI DevDay? Build something with GPT-5.5 and Image Gen.
+
+Each week, we’ll select 2–3 favorites to win free tickets to OpenAI DevDay 2026. Codex will help us find the best submissions and our team will select the winners.
+
+Reply with #OpenAIDevDay2026, a playable link, and a quick note on how you built it.
+
+---
+@OpenAI | ❤️ 473 | 🔁 39 | 💬 60 | 👁 48004]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>配图来自
+https://t.co/P5hKkppRur</title>
+      <link>https://x.com/dotey/status/2049535340738678804</link>
+      <guid isPermaLink="false">2049535340738678804</guid>
+      <pubDate>Wed, 29 Apr 2026 17:04:38 +0000</pubDate>
+      <description><![CDATA[配图来自
+https://t.co/P5hKkppRur
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 724]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Me and all my friends @marckohlbrugge @jackfriks @yasser_elsaid_ @johnonolan @marclou @phuctm97 @sob...</title>
+      <link>https://x.com/levelsio/status/2049535143635779827</link>
+      <guid isPermaLink="false">2049535143635779827</guid>
+      <pubDate>Wed, 29 Apr 2026 17:03:51 +0000</pubDate>
+      <description><![CDATA[Me and all my friends @marckohlbrugge @jackfriks @yasser_elsaid_ @johnonolan @marclou @phuctm97 @sobedominik @tdinh_me among the biggest tech companies at @patrickc's Stripe Sessions keynote
+
+I love how Stripe always remembers us indie hackers 😊 https://t.co/hgVLdYYlUK
+
+---
+@levelsio | ❤️ 117 | 🔁 6 | 💬 26 | 👁 5530]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>转译：深度拆解 Hermes Agent 的记忆系统：它如何修正 OpenClaw 的误区
+
+如果你读过我之前关于 ChatGPT、Claude 以及 Clawdbot 记忆系统的文章，你就会知道我一...</title>
+      <link>https://x.com/dotey/status/2049534755729707205</link>
+      <guid isPermaLink="false">2049534755729707205</guid>
+      <pubDate>Wed, 29 Apr 2026 17:02:18 +0000</pubDate>
+      <description><![CDATA[转译：深度拆解 Hermes Agent 的记忆系统：它如何修正 OpenClaw 的误区
+
+如果你读过我之前关于 ChatGPT、Claude 以及 Clawdbot 记忆系统的文章，你就会知道我一直在钻研同一个问题：这些 AI 智能体（AI Agent）到底是怎么记事的？
+
+Hermes Agent 对我来说格外有趣，因为这次我不需要只靠观察它的行为来搞“逆向工程”。Hermes 是开源的，它的代码库和文档都是公开的。所以，我没有通过提示词（Prompt）去盲测这个黑盒，而是直接翻看了它的代码路径——从它如何构建提示词状态、持久化会话，到如何清理记忆和查询历史对话。
+
+简而言之：Hermes 拥有的不是一套记忆系统，而是四套。
+
+1. 存储在 MEMORY.md 和 USER.md 中、经过高度浓缩的提示词记忆。
+2. 通过 session_search 调用的 SQLite 历史会话存档（可搜索）。
+3. 像程序记忆（Procedural Memory）一样运作的智能体技能管理。
+4. 可选的 Honcho 层，用于更深层的用户建模（User Modeling）。
+把这些设计联系在一起的核心逻辑非常简单：保持提示词稳定以便利用缓存（Caching），其他一切繁杂信息都交给工具。
+
+让我们深入聊聊。
+
+Hermes 的上下文结构
+在理解记忆之前，我们先看看 Hermes 到底给模型发送了什么。
+
+系统提示词（System Prompt）大致是按以下顺序组装的：
+-------
+[0] 默认智能体身份
+[1] 工具使用行为指南
+[2] Honcho 集成模块（可选）
+[3] 可选系统消息
+[4] 固化的 MEMORY.md 快照
+[5] 固化的 USER.md 快照
+[6] 技能索引
+[7] 上下文文件（AGENTS.md, SOUL.md 等规则文件）
+[8] 日期/时间 + 平台信息
+[9] 对话历史
+[10] 当前用户消息
+--------
+
+这非常关键，因为 Hermes 正在针对大模型供应商的提示词缓存（Prompt Caching）机制进行优化。代码显示，提示词构建器的目标非常明确：让稳定的前缀部分尽可能长时间地保持不变。
+
+这一个决定就解释了 Hermes 大部分的记忆架构。
+
+如果某条信息每一轮对话都要用到，Hermes 会尽量把它缩得很小并注入进去；如果信息量很大、属于历史旧账或者偶尔才有用，Hermes 就会把它踢出提示词，改用“按需检索”的方式。
+
+第一层：固化的提示词记忆
+
+其内置的记忆系统小得令人惊讶。
+
+Hermes 将持久记忆存储在 ~/.hermes/memories/ 下的两个文件中：
+
+1). MEMORY.md
+智能体笔记：环境、规范、工具怪癖、教训
+限制：2,200 字符
+
+2). USER.md
+用户画像：偏好、沟通风格、身份信息
+限制：1,375 字符
+
+这容量真不大。加起来大约只有 1,300 个 Token（模型理解文本的最小单位）。
+
+而这正是刻意为之。
+
+在会话开始时，Hermes 加载这两个文件，把它们渲染进提示词区块，然后在整个会话期间固化这个快照。会话中途写入的记忆会立即存入硬盘，但不会改变已经生成的系统提示词。这些改动只有在开启新会话，或者触发了“压缩（Compression）”导致的提示词重建时才会生效。
+
+渲染后的格式如下：
+
+------
+
+═══════════
+MEMORY (你的个人笔记) [67% — 1,474/2,200 字符]
+═══════════
+用户的项目是一个位于 ~/code/myapi 的 Rust Web 服务，使用 Axum + SQLx
+§
+这台机器运行 Ubuntu 22.04，安装了 Docker 和 Podman
+§
+用户喜欢简洁的回复，讨厌冗长的解释
+
+------
+
+这里有几个我非常欣赏的细节设计：
+
+1. 使用字符限制而非 Token 限制：这让记忆逻辑与模型无关。Hermes 不需要调用特定模型的计算工具就能判断记忆是否存满。
+
+2. 简单的分隔符文件格式：条目之间用 § 分隔。没有复杂的向量数据库（Vector DB），没有自定义二进制存储，就是纯文本。
+
+3. 刻意保持极小的系统提示词空间：这是整个设计的重中之重。Hermes 不想把所有历史都塞进提示词，它只想要最有价值的事实。
+
+4. 记忆是“精选状态”，而不是“日记”：这是 Hermes 与 OpenClaw 最大的区别。
+
+OpenClaw 的日志更像是“流水账”。而 Hermes 则反其道而行。它的工具架构和测试逻辑强调：
+• 保存用户偏好。
+• 保存环境事实。
+• 保存反复出现的错误修正。
+• 保存稳定的规范。
+• 不保存任务进度。
+• 不保存会话结果。
+• 不保存临时的待办事项（TODO）。
+
+真相是：Hermes 希望 MEMORY.md 和 USER.md 保持精简、高频且对缓存友好。
+
+memory 工具
+
+Hermes 通过一个拥有三种操作的 memory 工具来管理这些文件：add（添加）、replace（替换）、remove（移除）。
+
+一个好用的细节是：replace 和 remove 使用子字符串匹配。你不需要记住条目的内部 ID，只需要传入现有条目中一段唯一的文字即可。
+
+此外，系统会拒绝完全重复的内容，并拦截危险信息。源代码会扫描记忆条目，防止提示词注入（Prompt Injection，即通过输入恶意指令误导 AI）、凭证泄露或隐藏的 Unicode 字符。
+
+第二层：用于情景回溯的 session_search
+
+如果说 MEMORY.md 是 Hermes 的“短期热记忆”，那么 session_search 就是它的“长尾回溯系统”。
+
+所有过去的会话都存储在 SQLite 数据库中，拥有完整的索引和搜索功能。当模型需要想起以前聊过的内容时，它不去翻 MEMORY.md，而是搜索这个会话数据库。
+
+其工作流程是：
+1. 在过去的消息中进行全文搜索。
+2. 按会话分组结果。
+3. 加载匹配度最高的会话。
+4. 使用一个便宜的辅助模型对这些会话进行摘要总结。
+5. 将精炼后的回顾内容返回给主模型。
+
+这是一种非常务实的设计。它比盲目地把长篇累牍的历史塞进每一个提示词要便宜且高效得多。
+
+第三层：压缩与记忆冲刷（Memory Flush）
+
+Hermes 另一个聪明之处在于它处理长对话“压缩”的方式。
+
+当会话变得太长，Hermes 会压缩对话中间的部分以节省空间。但摘要是有损的，重要事实可能会丢失。
+
+于是，Hermes 会先进行一次“记忆冲刷”。
+
+在压缩之前，它会发送一条指令告诉模型：
+
+&gt; “会话即将压缩，请保存任何值得记住的东西。优先保存用户偏好、修正建议和重复模式，而非具体的任务细节。”
+
+然后它运行一次额外的模型调用，只开启 memory 工具。如果模型觉得有什么东西该留下来，就会在对话被“洗掉”之前把它写入 MEMORY.md。
+
+第四层：作为程序记忆的技能（Skills）
+
+Hermes 不仅能记住事实，还能记住技能。
+
+技能（Skills）存储在 ~/.hermes/skills/ 下。当 Hermes 发现了一个复杂的流程、修复了一个棘手的问题或学会了更好的方法时，它可以将其保存为“技能”。
+
+大多数记忆系统只关注“语义回溯”（名字、偏好、事实），但智能体还需要记住如何做事。
+
+为了效率，Hermes 不会把所有技能都塞进提示词，而是只放一个技能索引，只有在需要时才加载具体的技能内容。
+
+第五层：用于深层建模的 Honcho
+
+最后是可选的 Honcho 层。如果说本地记忆是 Hermes 的笔记本，Honcho 就是它尝试构建的复杂用户模型。它能实现跨设备、跨平台的记忆连续性。
+
+最精妙的是它如何在不破坏提示词缓存的前提下实现集成：
+• 在会话的第一轮，Honcho 的上下文会被织入系统提示词。
+• 在之后的对话中，为了保持提示词稳定，Honcho 的回溯内容会附加在当前用户的提问后面，而不是修改系统提示词。
+
+这确保了缓存依然有效，同时 AI 依然能读到最新的背景信息。
+
+Hermes 与 OpenClaw 的区别
+
+• OpenClaw：记忆更接近“以 Markdown 为中心的存储”，日志和长效文件是主要事实来源。
+• Hermes：提示词记忆被严格限制，历史记录存在 SQLite 里，只有需要时才搜索。
+
+Hermes 更加关注缓存效率。 它认为：不是所有东西都配住在“系统提示词”这个黄金地段。
+
+总结：Hermes 做对了什么？
+
+1. 冷热分离：小规模提示词记忆负责常驻信息，搜索负责偶尔用到的信息。
+
+2. 缓存优先：它意识到频繁改动提示词会导致延迟增加和成本上升。
+
+3. 记忆的多样性：它承认记忆是分层的——包括个人画像、情景回溯、操作技能和深层建模。
+
+Hermes 的核心设计原则最令我折服：记忆应该让智能体变得更好用，而不是通过摧毁提示词的稳定性来换取博闻强识。
+
+真正的诀窍不是记住更多，而是在正确的层级、以正确的成本，记住正确的事情。
+
+---
+@dotey | ❤️ 21 | 🔁 4 | 💬 4 | 👁 2265]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Stay tuned for registration details
+
+https://t.co/gdDCcQ4Brd</title>
+      <link>https://x.com/OpenAI/status/2049534663329485141</link>
+      <guid isPermaLink="false">2049534663329485141</guid>
+      <pubDate>Wed, 29 Apr 2026 17:01:56 +0000</pubDate>
+      <description><![CDATA[Stay tuned for registration details
+
+https://t.co/gdDCcQ4Brd
+
+---
+@OpenAI | ❤️ 89 | 🔁 2 | 💬 5 | 👁 16137]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>OpenAI DevDay is back.
+
+San Francisco
+
+September 29</title>
+      <link>https://x.com/OpenAI/status/2049534651702956103</link>
+      <guid isPermaLink="false">2049534651702956103</guid>
+      <pubDate>Wed, 29 Apr 2026 17:01:54 +0000</pubDate>
+      <description><![CDATA[OpenAI DevDay is back.
+
+San Francisco
+
+September 29
+
+---
+@OpenAI | ❤️ 843 | 🔁 38 | 💬 86 | 👁 87811]]></description>
+      <author>@OpenAI</author>
+    </item>
+    <item>
+      <title>Live at 1:45pm ET today, @Astro_Anil answers questions about his upcoming station mission on @NASA's...</title>
+      <link>https://x.com/Space_Station/status/2049534606173499411</link>
+      <guid isPermaLink="false">2049534606173499411</guid>
+      <pubDate>Wed, 29 Apr 2026 17:01:43 +0000</pubDate>
+      <description><![CDATA[Live at 1:45pm ET today, @Astro_Anil answers questions about his upcoming station mission on @NASA's YouTube channel... https://t.co/keiVGKmd1e
+
+---
+@Space_Station | ❤️ 46 | 🔁 7 | 💬 1 | 👁 19050]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>RT @base: Base is now supported by Visa for stablecoin settlement
+
+Our mission is to make onchain th...</title>
+      <link>https://x.com/coinbase/status/2049534592298656114</link>
+      <guid isPermaLink="false">2049534592298656114</guid>
+      <pubDate>Wed, 29 Apr 2026 17:01:39 +0000</pubDate>
+      <description><![CDATA[RT @base: Base is now supported by Visa for stablecoin settlement
+
+Our mission is to make onchain the standard, and this partnership is a m…
+
+---
+@coinbase | ❤️ 0 | 🔁 81 | 💬 0 | 👁 2]]></description>
+      <author>@coinbase</author>
+    </item>
+    <item>
+      <title>An installation powered by our new TouchDesigner skill for Hermes Agent will be on display at the @A...</title>
+      <link>https://x.com/NousResearch/status/2049534284843606237</link>
+      <guid isPermaLink="false">2049534284843606237</guid>
+      <pubDate>Wed, 29 Apr 2026 17:00:26 +0000</pubDate>
+      <description><![CDATA[An installation powered by our new TouchDesigner skill for Hermes Agent will be on display at the @AIPSummit IN NYC tomorrow
+
+---
+@NousResearch | ❤️ 33 | 🔁 3 | 💬 2 | 👁 3044]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>Elon’s lawsuit might have merit even his motivations are questionable, as I just explained on @cnni ...</title>
+      <link>https://x.com/GaryMarcus/status/2049533462449918429</link>
+      <guid isPermaLink="false">2049533462449918429</guid>
+      <pubDate>Wed, 29 Apr 2026 16:57:10 +0000</pubDate>
+      <description><![CDATA[Elon’s lawsuit might have merit even his motivations are questionable, as I just explained on @cnni 
+
+https://t.co/RbzbSV6IRn
+
+---
+@GaryMarcus | ❤️ 3 | 🔁 1 | 💬 1 | 👁 941]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>Melody: Humanoid #Robot masters 39 degrees of freedom to achieve lifelike presence
+by Mrigakshi Dixi...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049532422375530646</link>
+      <guid isPermaLink="false">2049532422375530646</guid>
+      <pubDate>Wed, 29 Apr 2026 16:53:02 +0000</pubDate>
+      <description><![CDATA[Melody: Humanoid #Robot masters 39 degrees of freedom to achieve lifelike presence
+by Mrigakshi Dixit @IntEngineering
+
+Learn more: https://t.co/9jKh3PHJWA
+
+#Robotics #Technology #Engineering #Innovation https://t.co/PTwrGpdlX6
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 155]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: This #Robot Just Nailed a Seamless Webster Backflip
+by @XRoboHub
+  
+#Robotics #E...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049530906654761328</link>
+      <guid isPermaLink="false">2049530906654761328</guid>
+      <pubDate>Wed, 29 Apr 2026 16:47:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: This #Robot Just Nailed a Seamless Webster Backflip
+by @XRoboHub
+  
+#Robotics #Engineering #ArtificialIntelligence #Inn…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
   </channel>
 </rss>
