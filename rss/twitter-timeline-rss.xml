@@ -5,41 +5,49 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:31:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: Scotland Taps Ocean Power to Generate #CleanEnergy for 175,000 Homes
-by @wef
+      <title>Nighttime #Robots Build #Digital Twins of dm-Drogerie Markt Stores
+by @lukas_m_ziegler
   
-...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2049413487051325782</link>
-      <guid isPermaLink="false">2049413487051325782</guid>
-      <pubDate>Wed, 29 Apr 2026 09:00:26 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Scotland Taps Ocean Power to Generate #CleanEnergy for 175,000 Homes
-by @wef
+#Robotics ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2049418176216142051</link>
+      <guid isPermaLink="false">2049418176216142051</guid>
+      <pubDate>Wed, 29 Apr 2026 09:19:04 +0000</pubDate>
+      <description><![CDATA[Nighttime #Robots Build #Digital Twins of dm-Drogerie Markt Stores
+by @lukas_m_ziegler
   
-#Sustainability #RenewableEnergy https:…
+#Robotics #ML #EmergingTech #Innovation #Technology https://t.co/WWrYcf32qZ
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 77]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>How to Use #IoT for Predictive Maintenance
-by @antgrasso
+      <title>AI 产品的商业模式，正在快速趋同：
 
-#InternetOfThings #DigitalTransformation #...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2049409624588034285</link>
-      <guid isPermaLink="false">2049409624588034285</guid>
-      <pubDate>Wed, 29 Apr 2026 08:45:05 +0000</pubDate>
-      <description><![CDATA[How to Use #IoT for Predictive Maintenance
-by @antgrasso
+1、会员套餐，是收取壳的钱。类似买车，用户可选择是小轿车，还是 SUV，不同的车，价钱不一样。只是 AI 产品这里，是按月或按年收取车的钱。更像是租车或租房，定...</title>
+      <link>https://x.com/lifesinger/status/2049416668154397143</link>
+      <guid isPermaLink="false">2049416668154397143</guid>
+      <pubDate>Wed, 29 Apr 2026 09:13:04 +0000</pubDate>
+      <description><![CDATA[AI 产品的商业模式，正在快速趋同：
 
-#InternetOfThings #DigitalTransformation #Innovation #Technology #Tech https://t.co/MKGfzn90VU
+1、会员套餐，是收取壳的钱。类似买车，用户可选择是小轿车，还是 SUV，不同的车，价钱不一样。只是 AI 产品这里，是按月或按年收取车的钱。更像是租车或租房，定期收取租金。
+
+2、然后是 Costco 的货架电商。提供各种大模型卖给你，或者把模型能力，结合 Harness 封装，变成一个个消费品卖给你。注意是消费品，类似面包、石油等，你用着用着，很快会用完。得继续复购。赚的是溢价。
+
+会员 + 卖货，涵盖了 90% 以上 AI 应用的商业模式。租金无法太贵，甚至会互卷，搞买断制、免费等方式来抢客户。卖货则利润很薄。短期存在信息差带来的高套利空间，长期，都是薄利。
+
+Costco 通过选品 + 低溢价，站在了用户一侧，与用户的物美价廉的诉求一致。然后通过会员套餐来赚钱。这需要长期的品质和品牌建设。对 AI 应用公司来说，可借鉴，但估计很少有人能真坚持像 Costco 一样去做。
+
+还有 9% 的 AI 应用，有机会走互联网的逻辑。比如 ChatGPT 和豆包，先疯狂搞用户规模。用户规模一旦形成，且有用户习惯的黏性，那么后续通过广告等模式，就能很好的把钱赚回来。但这跟绝大多数创业者没关系。
+
+还有 1% 的 AI 应用，或许能走出不一样的路。比如 YouMind，比如正在看这个帖子同时在创业并且看到了这一句话的你。依旧有机会。虽然只有 1%。其实 1% 非常非常大。
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 89]]></description>
-      <author>@Ronald_vanLoon</author>
+@lifesinger | ❤️ 3 | 🔁 0 | 💬 0 | 👁 312]]></description>
+      <author>@lifesinger</author>
     </item>
   </channel>
 </rss>
