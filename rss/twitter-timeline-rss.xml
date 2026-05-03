@@ -5,137 +5,97 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 14:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 15:01:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Also available on:
-
-Spotify: https://t.co/8GcfQXYEfD
-
-Apple: https://t.co/shNRmPP2Wb
-
-Newsletter: ht...</title>
-      <link>https://x.com/petergyang/status/2050946127378411698</link>
-      <guid isPermaLink="false">2050946127378411698</guid>
-      <pubDate>Sun, 03 May 2026 14:30:36 +0000</pubDate>
-      <description><![CDATA[Also available on:
-
-Spotify: https://t.co/8GcfQXYEfD
-
-Apple: https://t.co/shNRmPP2Wb
-
-Newsletter: https://t.co/24NyFMRvDU
+      <title>Narrator: And indeed, they did.</title>
+      <link>https://x.com/GaryMarcus/status/2050952542864150537</link>
+      <guid isPermaLink="false">2050952542864150537</guid>
+      <pubDate>Sun, 03 May 2026 14:56:05 +0000</pubDate>
+      <description><![CDATA[Narrator: And indeed, they did.
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 13]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>The number one mistake I see in AI usage is not managing your context proactively.
-
-Here's my new ep...</title>
-      <link>https://x.com/petergyang/status/2050946115374321901</link>
-      <guid isPermaLink="false">2050946115374321901</guid>
-      <pubDate>Sun, 03 May 2026 14:30:33 +0000</pubDate>
-      <description><![CDATA[The number one mistake I see in AI usage is not managing your context proactively.
-
-Here's my new episode with @ravi_mehta (ex-CPO Tinder) where he shared his 3-layer context system to build useful AI products:
-
-→ Functional: What the app does
-→ Visual: What the app looks like
-→ Data: How the data structure works
-
-Ravi showed me exactly how to combine all 3 layers live by building a music discovery app from scratch.
-
-You’ll never prompt AI the same way again after learning about Ravi’s approach.
-
-📌 Watch now: https://t.co/47LQm12LFT
-
-Thanks to our sponsors:
-
-@WisprFlow: Don't type, just speak https://t.co/oqHJ8bN3ll
-
-@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs
-
----
-@petergyang | ❤️ 2 | 🔁 0 | 💬 1 | 👁 37]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>UAE Solar Plant Achieves Round-the-Clock Energy Supply With Advanced Storage
-by @Sajwani
-  
-#Sustain...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050944214977167827</link>
-      <guid isPermaLink="false">2050944214977167827</guid>
-      <pubDate>Sun, 03 May 2026 14:23:00 +0000</pubDate>
-      <description><![CDATA[UAE Solar Plant Achieves Round-the-Clock Energy Supply With Advanced Storage
-by @Sajwani
-  
-#Sustainability #TechForGood #CleanEnergy https://t.co/PFf9aWmPO4
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 131]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @AP: WATCH: Taiwanese grandmothers aged 89 and 91 train at the gym. An increasing number of elder...</title>
-      <link>https://x.com/levelsio/status/2050942791404921183</link>
-      <guid isPermaLink="false">2050942791404921183</guid>
-      <pubDate>Sun, 03 May 2026 14:17:20 +0000</pubDate>
-      <description><![CDATA[RT @AP: WATCH: Taiwanese grandmothers aged 89 and 91 train at the gym. An increasing number of elderly people in Taiwan’s super-aged societ…
-
----
-@levelsio | ❤️ 0 | 🔁 835 | 💬 0 | 👁 2]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>RT @TheCinesthetic: Joseph Gordon-Levitt says “almost all” AI systems are “built on mass theft,” arg...</title>
-      <link>https://x.com/GaryMarcus/status/2050941937637900321</link>
-      <guid isPermaLink="false">2050941937637900321</guid>
-      <pubDate>Sun, 03 May 2026 14:13:57 +0000</pubDate>
-      <description><![CDATA[RT @TheCinesthetic: Joseph Gordon-Levitt says “almost all” AI systems are “built on mass theft,” arguing that companies using large languag…
-
----
-@GaryMarcus | ❤️ 0 | 🔁 588 | 💬 0 | 👁 0]]></description>
+@GaryMarcus | ❤️ 4 | 🔁 2 | 💬 1 | 👁 716]]></description>
       <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>运行 Snapshots 测试，本地始终通过，CI（Mac mini）始终失败，百思不得其解…后来让 AI 来看这个问题，抽丝剥茧，终于找到了问题：Mac mini 由于没有接显示器，默认按  1x ...</title>
-      <link>https://x.com/tualatrix/status/2050940460903071828</link>
-      <guid isPermaLink="false">2050940460903071828</guid>
-      <pubDate>Sun, 03 May 2026 14:08:05 +0000</pubDate>
-      <description><![CDATA[运行 Snapshots 测试，本地始终通过，CI（Mac mini）始终失败，百思不得其解…后来让 AI 来看这个问题，抽丝剥茧，终于找到了问题：Mac mini 由于没有接显示器，默认按  1x backing scale 来生成 snapshot 截图，而测试集是本地机器按 2x 生成的，自然就失败了。
+      <title>“In summary, there is very little evidence for LLMs benefiting patients or doctors for health outcom...</title>
+      <link>https://x.com/GaryMarcus/status/2050952080563843253</link>
+      <guid isPermaLink="false">2050952080563843253</guid>
+      <pubDate>Sun, 03 May 2026 14:54:15 +0000</pubDate>
+      <description><![CDATA[“In summary, there is very little evidence for LLMs benefiting patients or doctors for health outcomes” - Dr. @EricTopol 
+
+Read his full review here:
+ https://t.co/vHKo35n2BT
 
 ---
-@tualatrix | ❤️ 4 | 🔁 0 | 💬 1 | 👁 1181]]></description>
-      <author>@tualatrix</author>
+@GaryMarcus | ❤️ 6 | 🔁 3 | 💬 1 | 👁 543]]></description>
+      <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>What are some subtle differences between Codex and Claude Code apps? Do browser use and routines/aut...</title>
-      <link>https://x.com/petergyang/status/2050939230411739326</link>
-      <guid isPermaLink="false">2050939230411739326</guid>
-      <pubDate>Sun, 03 May 2026 14:03:11 +0000</pubDate>
-      <description><![CDATA[What are some subtle differences between Codex and Claude Code apps? Do browser use and routines/automations work the same?
+      <title>RT @Ronald_vanLoon: Motion-Synced #Robot Mirrors Human Movements with Near-Zero Delay
+by @IntEnginee...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050951766758297800</link>
+      <guid isPermaLink="false">2050951766758297800</guid>
+      <pubDate>Sun, 03 May 2026 14:53:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Motion-Synced #Robot Mirrors Human Movements with Near-Zero Delay
+by @IntEngineering
+
+#Robotics #Engineering #Innovatio…
 
 ---
-@petergyang | ❤️ 13 | 🔁 1 | 💬 7 | 👁 2754]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: China Deploys #Robotic Electricians for Live High-Voltage Operations
-by @XueJia2...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050938933349953960</link>
-      <guid isPermaLink="false">2050938933349953960</guid>
-      <pubDate>Sun, 03 May 2026 14:02:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: China Deploys #Robotic Electricians for Live High-Voltage Operations
-by @XueJia24682
- 
-#Robotics #Engineering #Innovati…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @Teknium: Everyone interested in getting the most out of Hermes Agent should definitely consider ...</title>
+      <link>https://x.com/NousResearch/status/2050951346530963587</link>
+      <guid isPermaLink="false">2050951346530963587</guid>
+      <pubDate>Sun, 03 May 2026 14:51:20 +0000</pubDate>
+      <description><![CDATA[RT @Teknium: Everyone interested in getting the most out of Hermes Agent should definitely consider joining the Nous Research discord - We…
+
+---
+@NousResearch | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@NousResearch</author>
+    </item>
+    <item>
+      <title>RT @HuggingPapers: Recursive Multi-Agent Systems, Agentic World Modeling, and AI Organizations: Top ...</title>
+      <link>https://x.com/_akhaliq/status/2050947860569489819</link>
+      <guid isPermaLink="false">2050947860569489819</guid>
+      <pubDate>Sun, 03 May 2026 14:37:29 +0000</pubDate>
+      <description><![CDATA[RT @HuggingPapers: Recursive Multi-Agent Systems, Agentic World Modeling, and AI Organizations: Top Papers of the Week
+
+- Recursive Multi-A…
+
+---
+@_akhaliq | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>I swear I don't get paid anything though, just like this product and I dislike most other products a...</title>
+      <link>https://x.com/levelsio/status/2050946998811947097</link>
+      <guid isPermaLink="false">2050946998811947097</guid>
+      <pubDate>Sun, 03 May 2026 14:34:03 +0000</pubDate>
+      <description><![CDATA[I swear I don't get paid anything though, just like this product and I dislike most other products and want there to be more good products
+
+---
+@levelsio | ❤️ 43 | 🔁 1 | 💬 7 | 👁 6166]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>Old days: “Bigshot chief scientist of major corporation can’t handle criticism of the work he hypes”...</title>
+      <link>https://x.com/GaryMarcus/status/2050946770856005840</link>
+      <guid isPermaLink="false">2050946770856005840</guid>
+      <pubDate>Sun, 03 May 2026 14:33:09 +0000</pubDate>
+      <description><![CDATA[Old days: “Bigshot chief scientist of major corporation can’t handle criticism of the work he hypes”
+
+New days: “Same bigshot no longer hypes LLMs; can’t handle the fact that someone else noticed flaws in LLMs before he did.”
+
+The only constant is … Yann LeCun’s ego. https://t.co/ynGkrG4Q4u
+
+---
+@GaryMarcus | ❤️ 29 | 🔁 0 | 💬 4 | 👁 2170]]></description>
+      <author>@GaryMarcus</author>
     </item>
   </channel>
 </rss>
