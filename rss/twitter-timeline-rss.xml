@@ -5,57 +5,85 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 04:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 04:31:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Inside Japan’s Smart Watermelon Industry: #AI Sorting and Monitoring in Action
-by @gigadgets_
-
-#Arti...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050786982834356352</link>
-      <guid isPermaLink="false">2050786982834356352</guid>
-      <pubDate>Sun, 03 May 2026 03:58:13 +0000</pubDate>
-      <description><![CDATA[Inside Japan’s Smart Watermelon Industry: #AI Sorting and Monitoring in Action
-by @gigadgets_
-
-#ArtificialIntelligence #EmergingTech #Technology #Innovation #Tech #TechForGood https://t.co/5zpUcLiA3u
+      <title>这本书的笔记和思考在这里
+https://t.co/zOshXsuvsr</title>
+      <link>https://x.com/oran_ge/status/2050794021128450510</link>
+      <guid isPermaLink="false">2050794021128450510</guid>
+      <pubDate>Sun, 03 May 2026 04:26:11 +0000</pubDate>
+      <description><![CDATA[这本书的笔记和思考在这里
+https://t.co/zOshXsuvsr
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 28]]></description>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 97]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>10 project 10 parallel agents each 🤯</title>
+      <link>https://x.com/amasad/status/2050793150713864678</link>
+      <guid isPermaLink="false">2050793150713864678</guid>
+      <pubDate>Sun, 03 May 2026 04:22:43 +0000</pubDate>
+      <description><![CDATA[10 project 10 parallel agents each 🤯
+
+---
+@amasad | ❤️ 12 | 🔁 1 | 💬 4 | 👁 994]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>RT @Baderasadeth: @JohnnyNel_ @Replit @amasad @pirroh I’ve been building with Replit for nearly 2 ye...</title>
+      <link>https://x.com/amasad/status/2050793025903989039</link>
+      <guid isPermaLink="false">2050793025903989039</guid>
+      <pubDate>Sun, 03 May 2026 04:22:13 +0000</pubDate>
+      <description><![CDATA[RT @Baderasadeth: @JohnnyNel_ @Replit @amasad @pirroh I’ve been building with Replit for nearly 2 years now, and to say Agent4 can handle m…
+
+---
+@amasad | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>https://t.co/V4qCPLARUz</title>
+      <link>https://x.com/oran_ge/status/2050791647156592722</link>
+      <guid isPermaLink="false">2050791647156592722</guid>
+      <pubDate>Sun, 03 May 2026 04:16:45 +0000</pubDate>
+      <description><![CDATA[https://t.co/V4qCPLARUz
+
+---
+@oran_ge | ❤️ 7 | 🔁 0 | 💬 1 | 👁 480]]></description>
+      <author>@oran_ge</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Apogee Active Suit: Human Strength Enhanced by German Bionic Intelligence
+by @ge...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050791459033371021</link>
+      <guid isPermaLink="false">2050791459033371021</guid>
+      <pubDate>Sun, 03 May 2026 04:16:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Apogee Active Suit: Human Strength Enhanced by German Bionic Intelligence
+by @germanbionic
+ 
+#EmergingTech #Innovation…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>其实从这个角度来看，cf 提供的 dynamic worker 这种方式和它的 container 目前是功能缺位的，stripe 提供 cli 来做 project 协调，意味着协调者所在计算环境必...</title>
-      <link>https://x.com/turingou/status/2050783244761899407</link>
-      <guid isPermaLink="false">2050783244761899407</guid>
-      <pubDate>Sun, 03 May 2026 03:43:21 +0000</pubDate>
-      <description><![CDATA[其实从这个角度来看，cf 提供的 dynamic worker 这种方式和它的 container 目前是功能缺位的，stripe 提供 cli 来做 project 协调，意味着协调者所在计算环境必须是完整的 sandbox，也就是说，大家仍然倾向于在成熟的隔离计算环境中为 agent 提供服务。
+      <title>No Driver, No Breaks: China’s #Autonomous Bus Runs 24/7
+by @jacksonhinklle
+
+#SelfDrivingCars #Autono...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050790769900859828</link>
+      <guid isPermaLink="false">2050790769900859828</guid>
+      <pubDate>Sun, 03 May 2026 04:13:16 +0000</pubDate>
+      <description><![CDATA[No Driver, No Breaks: China’s #Autonomous Bus Runs 24/7
+by @jacksonhinklle
+
+#SelfDrivingCars #AutonomousVehicles #ArtificialIntelligence #Automation #Automotive #Transport https://t.co/NwR4IsrQ5C
 
 ---
-@turingou | ❤️ 3 | 🔁 0 | 💬 0 | 👁 617]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>cloudflare workers AI 上的模型越来越多，我已经从 fal ai 和 OpenRouter 逐步迁移到 cloudflare workers AI 上来，原本，我打算在 wanma...</title>
-      <link>https://x.com/turingou/status/2050782391162290598</link>
-      <guid isPermaLink="false">2050782391162290598</guid>
-      <pubDate>Sun, 03 May 2026 03:39:58 +0000</pubDate>
-      <description><![CDATA[cloudflare workers AI 上的模型越来越多，我已经从 fal ai 和 OpenRouter 逐步迁移到 cloudflare workers AI 上来，原本，我打算在 wanman 上支持大家使用 API key 来调用具体的 AI 模型，但这样就需要我自己维护多租户，迁移到 workers AI 后，我就可以让 stripe project 来按需创建 AI worker，cf 在目前的 agent 部署中提供的服务可以说是尽善尽美。
-
----
-@turingou | ❤️ 25 | 🔁 2 | 💬 3 | 👁 2482]]></description>
-      <author>@turingou</author>
-    </item>
-    <item>
-      <title>大家有没有新加坡比较好用又 uptime 稳定的裸金属机服务器提供方推荐？我准备给 sandbank cloud 增加一个 SIN 和 LAX 节点，方便东亚之外的用户使用。</title>
-      <link>https://x.com/turingou/status/2050781252169650620</link>
-      <guid isPermaLink="false">2050781252169650620</guid>
-      <pubDate>Sun, 03 May 2026 03:35:26 +0000</pubDate>
-      <description><![CDATA[大家有没有新加坡比较好用又 uptime 稳定的裸金属机服务器提供方推荐？我准备给 sandbank cloud 增加一个 SIN 和 LAX 节点，方便东亚之外的用户使用。
-
----
-@turingou | ❤️ 7 | 🔁 0 | 💬 0 | 👁 2303]]></description>
-      <author>@turingou</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 2 | 💬 0 | 👁 97]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
