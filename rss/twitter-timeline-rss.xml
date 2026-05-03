@@ -5,38 +5,34 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 07:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 08:01:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>No Roommate Needed: This #Robot Makes Your Bed for You!
-by @zhang_heqing
- 
-#Robotics #MachineLearnin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050839547504742604</link>
-      <guid isPermaLink="false">2050839547504742604</guid>
-      <pubDate>Sun, 03 May 2026 07:27:05 +0000</pubDate>
-      <description><![CDATA[No Roommate Needed: This #Robot Makes Your Bed for You!
-by @zhang_heqing
- 
-#Robotics #MachineLearning #ArtificialIntelligence #ML #Innovation https://t.co/BWiuwvkGVA
+      <title>Browser Harness now finally works on Windows!</title>
+      <link>https://x.com/gregpr07/status/2050845381659865475</link>
+      <guid isPermaLink="false">2050845381659865475</guid>
+      <pubDate>Sun, 03 May 2026 07:50:16 +0000</pubDate>
+      <description><![CDATA[Browser Harness now finally works on Windows!
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 45]]></description>
-      <author>@Ronald_vanLoon</author>
+@gregpr07 | ❤️ 4 | 🔁 0 | 💬 1 | 👁 166]]></description>
+      <author>@gregpr07</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: AI Q: The Emotion-Reading Humanoid #Robot That Reacts Like a Real Being
-via @XRo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050833991540879474</link>
-      <guid isPermaLink="false">2050833991540879474</guid>
-      <pubDate>Sun, 03 May 2026 07:05:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: AI Q: The Emotion-Reading Humanoid #Robot That Reacts Like a Real Being
-via @XRoboHub
+      <title>Python #DataAnalyst Project Ideas
+by @Python_Dv
 
-#Robots #ArtificialIntelligence…
+#DataScience #BigData https://t.co/TK8W8NRGNY</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050844817391755293</link>
+      <guid isPermaLink="false">2050844817391755293</guid>
+      <pubDate>Sun, 03 May 2026 07:48:01 +0000</pubDate>
+      <description><![CDATA[Python #DataAnalyst Project Ideas
+by @Python_Dv
+
+#DataScience #BigData https://t.co/TK8W8NRGNY
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 71]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
   </channel>
