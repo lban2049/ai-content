@@ -5,23 +5,38 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 07:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:31:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meet Rove: The #Robot Dog That Can Weld with #AI Precision
-by @PathRobotics
-
-#Robotics #Engineering ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050832032880607374</link>
-      <guid isPermaLink="false">2050832032880607374</guid>
-      <pubDate>Sun, 03 May 2026 06:57:13 +0000</pubDate>
-      <description><![CDATA[Meet Rove: The #Robot Dog That Can Weld with #AI Precision
-by @PathRobotics
-
-#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/4ViRyOoBm7
+      <title>No Roommate Needed: This #Robot Makes Your Bed for You!
+by @zhang_heqing
+ 
+#Robotics #MachineLearnin...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050839547504742604</link>
+      <guid isPermaLink="false">2050839547504742604</guid>
+      <pubDate>Sun, 03 May 2026 07:27:05 +0000</pubDate>
+      <description><![CDATA[No Roommate Needed: This #Robot Makes Your Bed for You!
+by @zhang_heqing
+ 
+#Robotics #MachineLearning #ArtificialIntelligence #ML #Innovation https://t.co/BWiuwvkGVA
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 47]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 45]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: AI Q: The Emotion-Reading Humanoid #Robot That Reacts Like a Real Being
+via @XRo...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050833991540879474</link>
+      <guid isPermaLink="false">2050833991540879474</guid>
+      <pubDate>Sun, 03 May 2026 07:05:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: AI Q: The Emotion-Reading Humanoid #Robot That Reacts Like a Real Being
+via @XRoboHub
+
+#Robots #ArtificialIntelligence…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
   </channel>
