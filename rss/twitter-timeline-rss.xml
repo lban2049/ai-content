@@ -5,385 +5,57 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 03:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 04:01:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Too many funds are capping downside right now, instead of maximizing upside..
+      <title>Inside Japan’s Smart Watermelon Industry: #AI Sorting and Monitoring in Action
+by @gigadgets_
 
-I’ll often ask the GP...</title>
-      <link>https://x.com/nikunj/status/2050779734116856137</link>
-      <guid isPermaLink="false">2050779734116856137</guid>
-      <pubDate>Sun, 03 May 2026 03:29:24 +0000</pubDate>
-      <description><![CDATA[Too many funds are capping downside right now, instead of maximizing upside..
+#Arti...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2050786982834356352</link>
+      <guid isPermaLink="false">2050786982834356352</guid>
+      <pubDate>Sun, 03 May 2026 03:58:13 +0000</pubDate>
+      <description><![CDATA[Inside Japan’s Smart Watermelon Industry: #AI Sorting and Monitoring in Action
+by @gigadgets_
 
-I’ll often ask the GP/partner on why they did the deal and on my fifth why the real reason comes out which is “well at least big token factory will acquire them so our downside is capped”
-
-I haven’t done this for many years but I don’t think history shows that’s how you return a 5-10x fund?
-
-Maybe, the incentives have really simply shifted to AUM-maxxing and so the sentiment is deploy baby deploy. But, sigh, that just seems so incredibly short sighted. 
-
-Maybe, it’s been a long day and I just want to rant but time is the only thing you don’t get back. Use it very wisely to work on things that matter and with people who won’t treat you as an option call 🫡
+#ArtificialIntelligence #EmergingTech #Technology #Innovation #Tech #TechForGood https://t.co/5zpUcLiA3u
 
 ---
-@nikunj | ❤️ 1 | 🔁 0 | 💬 0 | 👁 47]]></description>
-      <author>@nikunj</author>
-    </item>
-    <item>
-      <title>Bladeless #Drone with Hidden Propellers: A Safer, Sleeker Future of Flight
-by @tweetciiiim
-  
-#Innov...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050777391388049707</link>
-      <guid isPermaLink="false">2050777391388049707</guid>
-      <pubDate>Sun, 03 May 2026 03:20:06 +0000</pubDate>
-      <description><![CDATA[Bladeless #Drone with Hidden Propellers: A Safer, Sleeker Future of Flight
-by @tweetciiiim
-  
-#Innovation #EmergingTech #TechForGood https://t.co/cHFHvaklgs
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 97]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 28]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @LufzzLiz: codex 开发任意pet 教程，以手搓阿莫dei 为例🐶
-
-仅需要codex和手(或嘴)就行，不需要任何外力，制作方式如下：
-
-1. 用 Hatch Pet  skill...</title>
-      <link>https://x.com/dotey/status/2050776755619655821</link>
-      <guid isPermaLink="false">2050776755619655821</guid>
-      <pubDate>Sun, 03 May 2026 03:17:34 +0000</pubDate>
-      <description><![CDATA[RT @LufzzLiz: codex 开发任意pet 教程，以手搓阿莫dei 为例🐶
-
-仅需要codex和手(或嘴)就行，不需要任何外力，制作方式如下：
-
-1. 用 Hatch Pet  skill 以「愤怒的阿莫迪 Dario Amodei」为概念，确定包名 angry-a…
+      <title>其实从这个角度来看，cf 提供的 dynamic worker 这种方式和它的 container 目前是功能缺位的，stripe 提供 cli 来做 project 协调，意味着协调者所在计算环境必...</title>
+      <link>https://x.com/turingou/status/2050783244761899407</link>
+      <guid isPermaLink="false">2050783244761899407</guid>
+      <pubDate>Sun, 03 May 2026 03:43:21 +0000</pubDate>
+      <description><![CDATA[其实从这个角度来看，cf 提供的 dynamic worker 这种方式和它的 container 目前是功能缺位的，stripe 提供 cli 来做 project 协调，意味着协调者所在计算环境必须是完整的 sandbox，也就是说，大家仍然倾向于在成熟的隔离计算环境中为 agent 提供服务。
 
 ---
-@dotey | ❤️ 0 | 🔁 2 | 💬 0 | 👁 1]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @GZhan57: 最好的中文语音转文字模型是什么？ 
-新加了几个开源模型测试:
-
-- Qwen3-ASR-1.7B (开源第三， 最好的小STT模型，接近4o-transcribe-mini,...</title>
-      <link>https://x.com/dotey/status/2050776636899934720</link>
-      <guid isPermaLink="false">2050776636899934720</guid>
-      <pubDate>Sun, 03 May 2026 03:17:06 +0000</pubDate>
-      <description><![CDATA[RT @GZhan57: 最好的中文语音转文字模型是什么？ 
-新加了几个开源模型测试:
-
-- Qwen3-ASR-1.7B (开源第三， 最好的小STT模型，接近4o-transcribe-mini, 总榜第七）
-- GLM-ASR-Nano 第八  
-- Fun-ASR-Na…
-
----
-@dotey | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Ascento Guard 2.0: Next-Gen #Autonomous Security #Robot Built for All-Terrain Pa...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050775856318984242</link>
-      <guid isPermaLink="false">2050775856318984242</guid>
-      <pubDate>Sun, 03 May 2026 03:14:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Ascento Guard 2.0: Next-Gen #Autonomous Security #Robot Built for All-Terrain Patrols
-via @WevolverApp
-
-#Robotics #Emer…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @BinanceResearch: AI is 2x better at attacking than defending.
-AI-powered scams are 4.5x more pro...</title>
-      <link>https://x.com/binance/status/2050772402263523491</link>
-      <guid isPermaLink="false">2050772402263523491</guid>
-      <pubDate>Sun, 03 May 2026 03:00:16 +0000</pubDate>
-      <description><![CDATA[RT @BinanceResearch: AI is 2x better at attacking than defending.
-AI-powered scams are 4.5x more profitable.
-
-But defenses are growing fast…
-
----
-@binance | ❤️ 0 | 🔁 15 | 💬 0 | 👁 2]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>‘World models’ are #AI’s latest sensation: what are they and what can they do?
-by Davide Castelvecch...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050771833238999464</link>
-      <guid isPermaLink="false">2050771833238999464</guid>
-      <pubDate>Sun, 03 May 2026 02:58:01 +0000</pubDate>
-      <description><![CDATA[‘World models’ are #AI’s latest sensation: what are they and what can they do?
-by Davide Castelvecchi @Nature
-
-Learn more: https://t.co/bEk9lhCw3q
-
-#MachineLearning #ArtificialIntelligence #ML https://t.co/2eqQ01dXtq
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 156]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @wmorrill3: often hear people say other vehicles are ruined after driving a Tesla. The data seems...</title>
-      <link>https://x.com/elonmusk/status/2050768250083168344</link>
-      <guid isPermaLink="false">2050768250083168344</guid>
-      <pubDate>Sun, 03 May 2026 02:43:46 +0000</pubDate>
-      <description><![CDATA[RT @wmorrill3: often hear people say other vehicles are ruined after driving a Tesla. The data seems to agree.
-
----
-@elonmusk | ❤️ 0 | 🔁 265 | 💬 0 | 👁 52]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>修复一个 typo：应该是「我的 Codex」，而不是「我让 Codex」，不然意思就变成我人工干预了。</title>
-      <link>https://x.com/tualatrix/status/2050767528004321565</link>
-      <guid isPermaLink="false">2050767528004321565</guid>
-      <pubDate>Sun, 03 May 2026 02:40:54 +0000</pubDate>
-      <description><![CDATA[修复一个 typo：应该是「我的 Codex」，而不是「我让 Codex」，不然意思就变成我人工干预了。
-
----
-@tualatrix | ❤️ 1 | 🔁 1 | 💬 0 | 👁 1174]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>RT @UsplusAIdotcom: @amasad @Replit I heard 4x the anticipated server load!  I've been coding for 15...</title>
-      <link>https://x.com/amasad/status/2050766656121737537</link>
-      <guid isPermaLink="false">2050766656121737537</guid>
-      <pubDate>Sun, 03 May 2026 02:37:26 +0000</pubDate>
-      <description><![CDATA[RT @UsplusAIdotcom: @amasad @Replit I heard 4x the anticipated server load!  I've been coding for 15 hours straight with minimal hiccups.…
-
----
-@amasad | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>RT @petergyang: Most people give AI one-line prompts and wonder why their app looks like slop.
-
-My n...</title>
-      <link>https://x.com/petergyang/status/2050765071098483150</link>
-      <guid isPermaLink="false">2050765071098483150</guid>
-      <pubDate>Sun, 03 May 2026 02:31:08 +0000</pubDate>
-      <description><![CDATA[RT @petergyang: Most people give AI one-line prompts and wonder why their app looks like slop.
-
-My next guest, Ravi, has built a 3-layer co…
-
----
-@petergyang | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>Picoliter Precision: Micro-Dispensing That Makes a Raindrop Look Huge
-by @lukas_m_ziegler
-  
-#Emergi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050763313986805810</link>
-      <guid isPermaLink="false">2050763313986805810</guid>
-      <pubDate>Sun, 03 May 2026 02:24:10 +0000</pubDate>
-      <description><![CDATA[Picoliter Precision: Micro-Dispensing That Makes a Raindrop Look Huge
-by @lukas_m_ziegler
-  
-#EmergingTech #Technology #Innovation https://t.co/48TRy2du0o
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 341]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Telexistence Introduces Large-Scale #Robotic Motion Data Factory for #AI Trainin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050762770174316695</link>
-      <guid isPermaLink="false">2050762770174316695</guid>
-      <pubDate>Sun, 03 May 2026 02:22:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Telexistence Introduces Large-Scale #Robotic Motion Data Factory for #AI Training
-via @ZappyZappy7
-
-#ArtificialIntellig…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>又屏蔽了一个用 AI 回复的人，AI 回复就算了，还把我的推文像复读机一样再总结一次…事不过三，看到三次就果断屏蔽了。 #AI时代的自我修养</title>
-      <link>https://x.com/tualatrix/status/2050761837302673699</link>
-      <guid isPermaLink="false">2050761837302673699</guid>
-      <pubDate>Sun, 03 May 2026 02:18:17 +0000</pubDate>
-      <description><![CDATA[又屏蔽了一个用 AI 回复的人，AI 回复就算了，还把我的推文像复读机一样再总结一次…事不过三，看到三次就果断屏蔽了。 #AI时代的自我修养
-
----
-@tualatrix | ❤️ 17 | 🔁 0 | 💬 4 | 👁 1960]]></description>
-      <author>@tualatrix</author>
-    </item>
-    <item>
-      <title>我很好奇，国内模型都需要备案，代理现在又管这么严格，AI 中转站他们会放任不管吗？</title>
-      <link>https://x.com/turingou/status/2050761166662848910</link>
-      <guid isPermaLink="false">2050761166662848910</guid>
-      <pubDate>Sun, 03 May 2026 02:15:38 +0000</pubDate>
-      <description><![CDATA[我很好奇，国内模型都需要备案，代理现在又管这么严格，AI 中转站他们会放任不管吗？
-
----
-@turingou | ❤️ 23 | 🔁 0 | 💬 8 | 👁 9272]]></description>
+@turingou | ❤️ 3 | 🔁 0 | 💬 0 | 👁 617]]></description>
       <author>@turingou</author>
     </item>
     <item>
-      <title>早上，我让 Codex 从昨天开始执行的“goal”整整跑了 21 小时 14 分钟，共消耗 9 亿 Token，终于进入了“Goal archived”状态。期间完全没有任何人工干预，它就是不停解决...</title>
-      <link>https://x.com/tualatrix/status/2050759537893036332</link>
-      <guid isPermaLink="false">2050759537893036332</guid>
-      <pubDate>Sun, 03 May 2026 02:09:09 +0000</pubDate>
-      <description><![CDATA[早上，我让 Codex 从昨天开始执行的“goal”整整跑了 21 小时 14 分钟，共消耗 9 亿 Token，终于进入了“Goal archived”状态。期间完全没有任何人工干预，它就是不停解决问题、验证结果…不断循环这个过程。
-
-大家可能会好奇我用 Codex 做的什么任务，简单地说，我让它解决的是前后端数据字段的大重构问题。随着产品的不断迭代，早期的一些设计不再适应，需要对数据库建模（model）进行一些重构以适应未来发展。
-
-我的产品后端 PostgreSQL，前端 SwiftData，加上自己实现的同步机制（local-first）。早期 model 还少时，重构会简单的多，现在 model 很多，关系又错综复杂，除非停止迭代，重构如果不一次性完成，任务非常繁杂。但好处是，只要定好标准和方向，重构又是相对容易验收的。
-
-于是我想到了最近 Codex（命令行版本）推出的“/goal”功能（也就是 Codex 版本的“raphl loop”）。通过简单的提示词，指向一份文档让它去实现，就这样它连续跑了 21 小时。
-
-最后验收的效果还不错，除了一些 App 端的小问题（这是我原本就测试没覆盖到的地方，没工作也正常），基本很满意。有了这次经历，我对 Codex（或其他 AI 产品）去解决大重构等长任务越来越有信心了。为了防止 AI 写的代码越来越屎山，也必须需要周期性的去重构、清理架构和代码。
+      <title>cloudflare workers AI 上的模型越来越多，我已经从 fal ai 和 OpenRouter 逐步迁移到 cloudflare workers AI 上来，原本，我打算在 wanma...</title>
+      <link>https://x.com/turingou/status/2050782391162290598</link>
+      <guid isPermaLink="false">2050782391162290598</guid>
+      <pubDate>Sun, 03 May 2026 03:39:58 +0000</pubDate>
+      <description><![CDATA[cloudflare workers AI 上的模型越来越多，我已经从 fal ai 和 OpenRouter 逐步迁移到 cloudflare workers AI 上来，原本，我打算在 wanman 上支持大家使用 API key 来调用具体的 AI 模型，但这样就需要我自己维护多租户，迁移到 workers AI 后，我就可以让 stripe project 来按需创建 AI worker，cf 在目前的 agent 部署中提供的服务可以说是尽善尽美。
 
 ---
-@tualatrix | ❤️ 93 | 🔁 7 | 💬 21 | 👁 9507]]></description>
-      <author>@tualatrix</author>
+@turingou | ❤️ 25 | 🔁 2 | 💬 3 | 👁 2482]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>How #GenerativeAI ‘persuasion bombs’ users — and how to fight back
-by Dylan Walsh @MITSloan
-
-Learn m...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050756733459378397</link>
-      <guid isPermaLink="false">2050756733459378397</guid>
-      <pubDate>Sun, 03 May 2026 01:58:01 +0000</pubDate>
-      <description><![CDATA[How #GenerativeAI ‘persuasion bombs’ users — and how to fight back
-by Dylan Walsh @MITSloan
-
-Learn more: https://t.co/A8rc3zBc0x
-
-#ArtificialIntelligence #ML #MachineLearning #Tech https://t.co/MGeNqzhqvN
+      <title>大家有没有新加坡比较好用又 uptime 稳定的裸金属机服务器提供方推荐？我准备给 sandbank cloud 增加一个 SIN 和 LAX 节点，方便东亚之外的用户使用。</title>
+      <link>https://x.com/turingou/status/2050781252169650620</link>
+      <guid isPermaLink="false">2050781252169650620</guid>
+      <pubDate>Sun, 03 May 2026 03:35:26 +0000</pubDate>
+      <description><![CDATA[大家有没有新加坡比较好用又 uptime 稳定的裸金属机服务器提供方推荐？我准备给 sandbank cloud 增加一个 SIN 和 LAX 节点，方便东亚之外的用户使用。
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 2 | 👁 209]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,00...</title>
-      <link>https://x.com/swyx/status/2050753293601935777</link>
-      <guid isPermaLink="false">2050753293601935777</guid>
-      <pubDate>Sun, 03 May 2026 01:44:21 +0000</pubDate>
-      <description><![CDATA[Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,000 MAU, and still living on as an open source project.
-
-&quot;Everyone who is making money is doing 2 things: selling to enterprise, and reselling tokens. We were doing neither.&quot; 
-
-surprisingly not the first company to shutter at AIE but there's a lot to learn from the process and the software engineering retrospective from 2021-2025 will stick in my mind!
-
----
-@swyx | ❤️ 20 | 🔁 1 | 💬 7 | 👁 5040]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>Meta bootstrapped China, reaped the positive PR for being “open”, and then went back to being closed...</title>
-      <link>https://x.com/GaryMarcus/status/2050752274423750879</link>
-      <guid isPermaLink="false">2050752274423750879</guid>
-      <pubDate>Sun, 03 May 2026 01:40:18 +0000</pubDate>
-      <description><![CDATA[Meta bootstrapped China, reaped the positive PR for being “open”, and then went back to being closed.
-
----
-@GaryMarcus | ❤️ 13 | 🔁 1 | 💬 5 | 👁 3296]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>KVV Electric: The World’s Smallest Foldable Smart Golf Cart with Remote Control
-by @DonaldTunp75739
-...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2050751484698951697</link>
-      <guid isPermaLink="false">2050751484698951697</guid>
-      <pubDate>Sun, 03 May 2026 01:37:09 +0000</pubDate>
-      <description><![CDATA[KVV Electric: The World’s Smallest Foldable Smart Golf Cart with Remote Control
-by @DonaldTunp75739
-
-#Innovation #EmergingTech #Tech #Technology https://t.co/7B8x0SBWCt
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 500]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>@tunguz i see we took each other out of purgatory. which is good.</title>
-      <link>https://x.com/GaryMarcus/status/2050750961896091999</link>
-      <guid isPermaLink="false">2050750961896091999</guid>
-      <pubDate>Sun, 03 May 2026 01:35:05 +0000</pubDate>
-      <description><![CDATA[@tunguz i see we took each other out of purgatory. which is good.
-
----
-@GaryMarcus | ❤️ 0 | 🔁 0 | 💬 0 | 👁 109]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>Why is the AI backlash growing?
-
-Outside of coding (where there is clear value), and a handful of ot...</title>
-      <link>https://x.com/GaryMarcus/status/2050750631342907725</link>
-      <guid isPermaLink="false">2050750631342907725</guid>
-      <pubDate>Sun, 03 May 2026 01:33:46 +0000</pubDate>
-      <description><![CDATA[Why is the AI backlash growing?
-
-Outside of coding (where there is clear value), and a handful of other domains (e.g. brainstorming), Generative AI has been a net negative for society.
-
-GenAI has been undermining secondary and college education, opening up mass surveillance, increasing disinformation, delusions, impersonation, phishing, and other forms of cybercrime, nonconsensual deep fake porn, bias in employment and other domains, and economic disparity, drowning the world in slop and unwanted, over-leveraged environment-damaging data centers that risk causing a recession.
-
-Simultaneously it has empowered a bunch of people who want to privatize almost all the gains while leave all the downsides to society, taking almost zero responsibility. 
-
-I don’t think we are better off than we were four years ago.
-
-Some of this is technical (LLMs aren’t reliable), some of it is political/economic (such as the utter lack of responsible regulation). Most of this was predictable. 
-
-Almost none of it is good.
-
-All that said, I honestly believes some future form of AI might be great. But Generative AI has hurt more than it has helped, and been managed irresponsibly.
-
- It’s no wonder many people have had enough.
-
----
-@GaryMarcus | ❤️ 273 | 🔁 53 | 💬 34 | 👁 7359]]></description>
-      <author>@GaryMarcus</author>
-    </item>
-    <item>
-      <title>没有存在感的小岛新西兰，如果像美国一样，宣称墨西哥湾是美国湾的话，那么整个太平洋都可以算新西兰湾吧。 https://t.co/xQTxWiSDMp</title>
-      <link>https://x.com/bearliu/status/2050748177335156915</link>
-      <guid isPermaLink="false">2050748177335156915</guid>
-      <pubDate>Sun, 03 May 2026 01:24:01 +0000</pubDate>
-      <description><![CDATA[没有存在感的小岛新西兰，如果像美国一样，宣称墨西哥湾是美国湾的话，那么整个太平洋都可以算新西兰湾吧。 https://t.co/xQTxWiSDMp
-
----
-@bearliu | ❤️ 11 | 🔁 1 | 💬 8 | 👁 2992]]></description>
-      <author>@bearliu</author>
-    </item>
-    <item>
-      <title>RT @jbhuang0604: Keep getting rate-limited by Claude, so I tried out DeepSeek V4 for the first time....</title>
-      <link>https://x.com/jeremyphoward/status/2050747460776267966</link>
-      <guid isPermaLink="false">2050747460776267966</guid>
-      <pubDate>Sun, 03 May 2026 01:21:10 +0000</pubDate>
-      <description><![CDATA[RT @jbhuang0604: Keep getting rate-limited by Claude, so I tried out DeepSeek V4 for the first time.
-
-After 10M+ tokens, holy crap the cost…
-
----
-@jeremyphoward | ❤️ 0 | 🔁 72 | 💬 0 | 👁 0]]></description>
-      <author>@jeremyphoward</author>
-    </item>
-    <item>
-      <title>This is where I tweet from. https://t.co/PPDiMH6BiN</title>
-      <link>https://x.com/tunguz/status/2050747233155317923</link>
-      <guid isPermaLink="false">2050747233155317923</guid>
-      <pubDate>Sun, 03 May 2026 01:20:16 +0000</pubDate>
-      <description><![CDATA[This is where I tweet from. https://t.co/PPDiMH6BiN
-
----
-@tunguz | ❤️ 25 | 🔁 1 | 💬 6 | 👁 1934]]></description>
-      <author>@tunguz</author>
+@turingou | ❤️ 7 | 🔁 0 | 💬 0 | 👁 2303]]></description>
+      <author>@turingou</author>
     </item>
   </channel>
 </rss>
