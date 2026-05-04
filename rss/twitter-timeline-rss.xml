@@ -5,93 +5,77 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 23:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:01:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @soleio: “All wealth is desire. Our economy is shaped by all desire—human, machine, biological. W...</title>
-      <link>https://x.com/nikunj/status/2051080280929423455</link>
-      <guid isPermaLink="false">2051080280929423455</guid>
-      <pubDate>Sun, 03 May 2026 23:23:40 +0000</pubDate>
-      <description><![CDATA[RT @soleio: “All wealth is desire. Our economy is shaped by all desire—human, machine, biological. We cannot expect people to meaningfully…
+      <title>What happens when the last BTC is mined?
+
+A closer look at Bitcoin after the final coin is mined.
+
+R...</title>
+      <link>https://x.com/binance/status/2051089682453164326</link>
+      <guid isPermaLink="false">2051089682453164326</guid>
+      <pubDate>Mon, 04 May 2026 00:01:02 +0000</pubDate>
+      <description><![CDATA[What happens when the last BTC is mined?
+
+A closer look at Bitcoin after the final coin is mined.
+
+Read more 👇
+https://t.co/TB2P8crdzp
 
 ---
-@nikunj | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@nikunj</author>
+@binance | ❤️ 7 | 🔁 0 | 💬 2 | 👁 431]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>24 Degrees of Freedom: Inside Boston Dynamics’ Powerful #Robotic Arms
-by @fluxfolio_
-  
-#ArtificialI...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051078362148253823</link>
-      <guid isPermaLink="false">2051078362148253823</guid>
-      <pubDate>Sun, 03 May 2026 23:16:03 +0000</pubDate>
-      <description><![CDATA[24 Degrees of Freedom: Inside Boston Dynamics’ Powerful #Robotic Arms
-by @fluxfolio_
-  
-#ArtificialIntelligence #Innovation #Technology #Engineering https://t.co/k8AFag9qn0
+      <title>Released 🚦RepoBar 0.4.0.
+
+This one makes the GitHub menu a lot smarter: persistent SQLite caching, f...</title>
+      <link>https://x.com/steipete/status/2051088325100831046</link>
+      <guid isPermaLink="false">2051088325100831046</guid>
+      <pubDate>Sun, 03 May 2026 23:55:38 +0000</pubDate>
+      <description><![CDATA[Released 🚦RepoBar 0.4.0.
+
+This one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API calls, visible rate limits, better Issues/PR loading, archive fallback support.
+
+Tiny menubar app, increasingly useful daily tool. https://t.co/KYzCTtXF1O https://t.co/ZKVoVVXqBC
 
 ---
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 93]]></description>
-      <author>@Ronald_vanLoon</author>
+@steipete | ❤️ 26 | 🔁 2 | 💬 5 | 👁 1505]]></description>
+      <author>@steipete</author>
     </item>
     <item>
-      <title>Oh yes all the time, like my https://t.co/stNvarWNRq game server is Node JS, front end is full JS
-
-A...</title>
-      <link>https://x.com/levelsio/status/2051077329540010297</link>
-      <guid isPermaLink="false">2051077329540010297</guid>
-      <pubDate>Sun, 03 May 2026 23:11:57 +0000</pubDate>
-      <description><![CDATA[Oh yes all the time, like my https://t.co/stNvarWNRq game server is Node JS, front end is full JS
-
-And https://t.co/6TyHKaj8lb last year was a Python server, and I'm trying Rust too
-
-So I have become (like many) language ambiguous
+      <title>RT @threejs: Yes!</title>
+      <link>https://x.com/levelsio/status/2051085443010117902</link>
+      <guid isPermaLink="false">2051085443010117902</guid>
+      <pubDate>Sun, 03 May 2026 23:44:11 +0000</pubDate>
+      <description><![CDATA[RT @threejs: Yes!
 
 ---
-@levelsio | ❤️ 22 | 🔁 0 | 💬 3 | 👁 4394]]></description>
+@levelsio | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Next-Gen Desk Turns Simple Gestures into Interactive Holographic Displays
-by @tw...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051076085714993401</link>
-      <guid isPermaLink="false">2051076085714993401</guid>
-      <pubDate>Sun, 03 May 2026 23:07:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Next-Gen Desk Turns Simple Gestures into Interactive Holographic Displays
-by @tweetciiiim
-  
-#Innovation #EmergingTech…
+      <title>It's a shared VPS with barely any resources used so about $3/mo I'd say</title>
+      <link>https://x.com/levelsio/status/2051084683295744484</link>
+      <guid isPermaLink="false">2051084683295744484</guid>
+      <pubDate>Sun, 03 May 2026 23:41:10 +0000</pubDate>
+      <description><![CDATA[It's a shared VPS with barely any resources used so about $3/mo I'd say
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 20 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Levels came from music actually like I wanted to level myself up from my Drum &amp;amp; Bass music c...</title>
-      <link>https://x.com/levelsio/status/2051075704549150798</link>
-      <guid isPermaLink="false">2051075704549150798</guid>
-      <pubDate>Sun, 03 May 2026 23:05:29 +0000</pubDate>
-      <description><![CDATA[Levels came from music actually like I wanted to level myself up from my Drum &amp;amp; Bass music career (where I'd a mixing desk with audio levels to produce songs or DJ) into a startup career
-
----
-@levelsio | ❤️ 20 | 🔁 0 | 💬 6 | 👁 3598]]></description>
+@levelsio | ❤️ 14 | 🔁 0 | 💬 5 | 👁 3792]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>📻 Also added team radio with real radio voices generated by ElevenLabs (not affiliated)
-
-The AI play...</title>
-      <link>https://x.com/levelsio/status/2051075031006880249</link>
-      <guid isPermaLink="false">2051075031006880249</guid>
-      <pubDate>Sun, 03 May 2026 23:02:49 +0000</pubDate>
-      <description><![CDATA[📻 Also added team radio with real radio voices generated by ElevenLabs (not affiliated)
-
-The AI players also use the team radio when they need you etc and give you their location on the map if they need backup for example https://t.co/7LdowRCxXn
+      <title>We are doomed.</title>
+      <link>https://x.com/tunguz/status/2051083556881924560</link>
+      <guid isPermaLink="false">2051083556881924560</guid>
+      <pubDate>Sun, 03 May 2026 23:36:41 +0000</pubDate>
+      <description><![CDATA[We are doomed.
 
 ---
-@levelsio | ❤️ 20 | 🔁 0 | 💬 2 | 👁 3745]]></description>
-      <author>@levelsio</author>
+@tunguz | ❤️ 16 | 🔁 0 | 💬 2 | 👁 1472]]></description>
+      <author>@tunguz</author>
     </item>
   </channel>
 </rss>
