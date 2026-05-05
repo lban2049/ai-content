@@ -5,317 +5,202 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 May 2026 17:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:31:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Also on YouTube here (like and subscribe!)
-
-https://t.co/HkuacKO5a4</title>
-      <link>https://x.com/mattturck/status/2051708650410914000</link>
-      <guid isPermaLink="false">2051708650410914000</guid>
-      <pubDate>Tue, 05 May 2026 17:00:35 +0000</pubDate>
-      <description><![CDATA[Also on YouTube here (like and subscribe!)
-
-https://t.co/HkuacKO5a4
-
----
-@mattturck | ❤️ 0 | 🔁 0 | 💬 0 | 👁 26]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>.@RampLabs (the AI unit of @tryramp) has been *cooking* with agentic innovation
-
-Here's @a_levitator...</title>
-      <link>https://x.com/mattturck/status/2051708647865020870</link>
-      <guid isPermaLink="false">2051708647865020870</guid>
-      <pubDate>Tue, 05 May 2026 17:00:35 +0000</pubDate>
-      <description><![CDATA[.@RampLabs (the AI unit of @tryramp) has been *cooking* with agentic innovation
-
-Here's @a_levitator discussing and demo'ing code self-maintaining software and the concept of AI software factories #DataDrivenNYC
-
-______________
-00:04 - Intro
-01:11 - The shift from writing code to code maintenance
-01:59 - Introducing Ramp Inspect, the background coding agent 
-03:05 - The first experiment: Nightly AI code automation
-04:23 - The limits of stateless monitoring in large observability surfaces
-05:47 - Using Datadog monitors to give the AI state and focus 
-07:23 - Real-world example: AI autonomously fixing an authentication bug
-08:14 - How to control noise and implement an AI triage pattern
-09:27 - The old vs. new paradigm for continuous code observability 
-10:21 - Key learnings on building autonomous AI software factories
+      <title>The Rise of Hyper-Realistic #Robots Powered by #AI
+by @Khulood_Almani
+ 
+#Robotics #Engineering #Arti...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051714313090474229</link>
+      <guid isPermaLink="false">2051714313090474229</guid>
+      <pubDate>Tue, 05 May 2026 17:23:05 +0000</pubDate>
+      <description><![CDATA[The Rise of Hyper-Realistic #Robots Powered by #AI
+by @Khulood_Almani
+ 
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/hoXRe7WoPh
 
 ---
-@mattturck | ❤️ 0 | 🔁 0 | 💬 1 | 👁 30]]></description>
-      <author>@mattturck</author>
-    </item>
-    <item>
-      <title>RT @OfficialLoganK: Today we are rolling out edit mode in AI Studio Vibe Coding ✏️, select component...</title>
-      <link>https://x.com/Google/status/2051708574938567091</link>
-      <guid isPermaLink="false">2051708574938567091</guid>
-      <pubDate>Tue, 05 May 2026 17:00:17 +0000</pubDate>
-      <description><![CDATA[RT @OfficialLoganK: Today we are rolling out edit mode in AI Studio Vibe Coding ✏️, select components to quickly edit them, annotate right…
-
----
-@Google | ❤️ 0 | 🔁 13 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>RT @thefox: Just shipped AI-powered key moments in Google Finance so you can:
-+Understand major pric...</title>
-      <link>https://x.com/Google/status/2051708534719483939</link>
-      <guid isPermaLink="false">2051708534719483939</guid>
-      <pubDate>Tue, 05 May 2026 17:00:08 +0000</pubDate>
-      <description><![CDATA[RT @thefox: Just shipped AI-powered key moments in Google Finance so you can:
-+Understand major price swings in stock charts (1 month+ view…
-
----
-@Google | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>Register now ⬇️ https://t.co/UOjq73xOJP</title>
-      <link>https://x.com/nvidia/status/2051708508089847924</link>
-      <guid isPermaLink="false">2051708508089847924</guid>
-      <pubDate>Tue, 05 May 2026 17:00:01 +0000</pubDate>
-      <description><![CDATA[Register now ⬇️ https://t.co/UOjq73xOJP
-
----
-@nvidia | ❤️ 0 | 🔁 0 | 💬 0 | 👁 310]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>Join us at #Knowledge26 with six sessions spanning autonomous retail, employee experience, IT and th...</title>
-      <link>https://x.com/nvidia/status/2051708504268837157</link>
-      <guid isPermaLink="false">2051708504268837157</guid>
-      <pubDate>Tue, 05 May 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[Join us at #Knowledge26 with six sessions spanning autonomous retail, employee experience, IT and the future of enterprise AI agents. https://t.co/NNRuwKV7AL
-
----
-@nvidia | ❤️ 3 | 🔁 0 | 💬 1 | 👁 419]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>Sample results from a mission-critical open source project we ran it on this morning. One of the CRI...</title>
-      <link>https://x.com/rauchg/status/2051707392996638832</link>
-      <guid isPermaLink="false">2051707392996638832</guid>
-      <pubDate>Tue, 05 May 2026 16:55:36 +0000</pubDate>
-      <description><![CDATA[Sample results from a mission-critical open source project we ran it on this morning. One of the CRITs has already been confirmed. https://t.co/fmSpS4qEBo
-
----
-@rauchg | ❤️ 1 | 🔁 0 | 💬 0 | 👁 413]]></description>
-      <author>@rauchg</author>
-    </item>
-    <item>
-      <title>I asked Molty to review my PR and it made a song. https://t.co/cV88Fcl19e https://t.co/uGfLZ8urFc</title>
-      <link>https://x.com/steipete/status/2051707256396267913</link>
-      <guid isPermaLink="false">2051707256396267913</guid>
-      <pubDate>Tue, 05 May 2026 16:55:03 +0000</pubDate>
-      <description><![CDATA[I asked Molty to review my PR and it made a song. https://t.co/cV88Fcl19e https://t.co/uGfLZ8urFc
-
----
-@steipete | ❤️ 29 | 🔁 2 | 💬 14 | 👁 2573]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>Codex-native apps are here:</title>
-      <link>https://x.com/danshipper/status/2051706784562446463</link>
-      <guid isPermaLink="false">2051706784562446463</guid>
-      <pubDate>Tue, 05 May 2026 16:53:10 +0000</pubDate>
-      <description><![CDATA[Codex-native apps are here:
-
----
-@danshipper | ❤️ 3 | 🔁 0 | 💬 1 | 👁 524]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>#AI's #Healthcare Promise: Creating Healthcare Equity By Empowering All Practices
-by Sameer Bhat @Fo...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051706749686526190</link>
-      <guid isPermaLink="false">2051706749686526190</guid>
-      <pubDate>Tue, 05 May 2026 16:53:02 +0000</pubDate>
-      <description><![CDATA[#AI's #Healthcare Promise: Creating Healthcare Equity By Empowering All Practices
-by Sameer Bhat @Forbes
-
-Learn more: https://t.co/fg209YO96e
-
-#MedTech #HealthTech #Tech #TechForGood https://t.co/c6Bg9MFeq6
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 49]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 73]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Brockman’s counsel is doing a good job of laying out the timeline — but done little so far to refute...</title>
-      <link>https://x.com/GaryMarcus/status/2051706314678767948</link>
-      <guid isPermaLink="false">2051706314678767948</guid>
-      <pubDate>Tue, 05 May 2026 16:51:18 +0000</pubDate>
-      <description><![CDATA[Brockman’s counsel is doing a good job of laying out the timeline — but done little so far to refute yesterday’s dissection of her client’s self-dealing and dodgy behavior regarding his fiduciary responsibilities to the nonprofit.
+      <title>So proud of you guys @_amirabs @sadeghian_ali ; it's been wonderful working with you guys, and seein...</title>
+      <link>https://x.com/drfeifei/status/2051710871601356965</link>
+      <guid isPermaLink="false">2051710871601356965</guid>
+      <pubDate>Tue, 05 May 2026 17:09:25 +0000</pubDate>
+      <description><![CDATA[So proud of you guys @_amirabs @sadeghian_ali ; it's been wonderful working with you guys, and seeing the progress of @PlayAstrocade !🚀
 
 ---
-@GaryMarcus | ❤️ 10 | 🔁 0 | 💬 1 | 👁 895]]></description>
+@drfeifei | ❤️ 13 | 🔁 1 | 💬 2 | 👁 1740]]></description>
+      <author>@drfeifei</author>
+    </item>
+    <item>
+      <title>RT @ednewtonrex: Major new class action lawsuit accuses Meta of copyright infringement around AI tra...</title>
+      <link>https://x.com/GaryMarcus/status/2051710772884246932</link>
+      <guid isPermaLink="false">2051710772884246932</guid>
+      <pubDate>Tue, 05 May 2026 17:09:01 +0000</pubDate>
+      <description><![CDATA[RT @ednewtonrex: Major new class action lawsuit accuses Meta of copyright infringement around AI training.
+
+It says they trained on pirated…
+
+---
+@GaryMarcus | ❤️ 0 | 🔁 44 | 💬 0 | 👁 4]]></description>
       <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>Why SaaS freemium playbooks don’t work in AI, and what to do instead
-
-How to build an AI monetizatio...</title>
-      <link>https://x.com/lennysan/status/2051705784116113695</link>
-      <guid isPermaLink="false">2051705784116113695</guid>
-      <pubDate>Tue, 05 May 2026 16:49:12 +0000</pubDate>
-      <description><![CDATA[Why SaaS freemium playbooks don’t work in AI, and what to do instead
-
-How to build an AI monetization strategy that actually works by @vikaskansalHQ
-
-https://t.co/spmq8mSbpk
+      <title>RT @heavybit: On episode 9 of High Leverage, Joe Ruscio (@josephruscio) sits down with Simon Williso...</title>
+      <link>https://x.com/simonw/status/2051710297350852678</link>
+      <guid isPermaLink="false">2051710297350852678</guid>
+      <pubDate>Tue, 05 May 2026 17:07:08 +0000</pubDate>
+      <description><![CDATA[RT @heavybit: On episode 9 of High Leverage, Joe Ruscio (@josephruscio) sits down with Simon Willison (@simonw) to unpack the rapid evoluti…
 
 ---
-@lennysan | ❤️ 2 | 🔁 0 | 💬 1 | 👁 530]]></description>
-      <author>@lennysan</author>
+@simonw | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
+      <author>@simonw</author>
     </item>
     <item>
-      <title>&quot;Why pay $20/month when the free version is already smarter than I am?&quot;
+      <title>Persistent Visual Memory
 
-That's the parado...</title>
-      <link>https://x.com/lennysan/status/2051705781993828530</link>
-      <guid isPermaLink="false">2051705781993828530</guid>
-      <pubDate>Tue, 05 May 2026 16:49:11 +0000</pubDate>
-      <description><![CDATA[&quot;Why pay $20/month when the free version is already smarter than I am?&quot;
+Sustaining Perception for Deep Generation in LVLMs
 
-That's the paradox @GoogleAI hit while designing its AI bundle.
+paper: https://t.co/us...</title>
+      <link>https://x.com/_akhaliq/status/2051710062159138842</link>
+      <guid isPermaLink="false">2051710062159138842</guid>
+      <pubDate>Tue, 05 May 2026 17:06:12 +0000</pubDate>
+      <description><![CDATA[Persistent Visual Memory
 
-@vikaskansalHQ helped craft Google's AI freemium strategy, which has become arguably the most successful (and profitable) consumer subscription product in history (w/ Gemini, Nano Banana, NotebookLM, Veo3, and terabytes of cloud storage).
+Sustaining Perception for Deep Generation in LVLMs
 
-In today’s in-depth guest post, Vikas shares all the lessons he and his team have learned about why SaaS freemium playbooks don’t work in AI, and what to do instead.
-
-Inside: why gating your smartest model backfires, the anti-patterns that turn power users into GPU-melting freeloaders, and the three pillars of a modern AI paywall.
-
-Link below 👇
+paper: https://t.co/usMOD6s8ms https://t.co/WRxCYpVU11
 
 ---
-@lennysan | ❤️ 7 | 🔁 1 | 💬 3 | 👁 854]]></description>
-      <author>@lennysan</author>
+@_akhaliq | ❤️ 8 | 🔁 1 | 💬 3 | 👁 1103]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>Today, the CEO of @coinbase announced a 14% headcount reduction. Let's talk about why.
+      <title>From Context to Skills
 
-He cites AI ...</title>
-      <link>https://x.com/alliekmiller/status/2051705468071100703</link>
-      <guid isPermaLink="false">2051705468071100703</guid>
-      <pubDate>Tue, 05 May 2026 16:47:57 +0000</pubDate>
-      <description><![CDATA[Today, the CEO of @coinbase announced a 14% headcount reduction. Let's talk about why.
+Can Language Models Learn from Context Skillfully?
 
-He cites AI as a core reason for the shift, alongside market dynamics - though we don't know whether each of those dynamics account for 10% or 90% of the decision. Honestly reads a bit heavier on the market dynamics side in his post.
+paper: https://t.co/oGOp...</title>
+      <link>https://x.com/_akhaliq/status/2051709659115872311</link>
+      <guid isPermaLink="false">2051709659115872311</guid>
+      <pubDate>Tue, 05 May 2026 17:04:36 +0000</pubDate>
+      <description><![CDATA[From Context to Skills
 
-Notably, he actually called out the three REAL workforce shifts that they're going to make, which few leaders are disclosing publicly. His three (and my comments on them) are:
+Can Language Models Learn from Context Skillfully?
 
-1. Fewer layers, faster decisions.
-
-He's flattening the org structure to five layers max below the CEO/COO. He shared that layers create friction, slow things down, and make it harder to get team alignment, and believes that the future is small, high-context teams that can move quickly. He cites that leaders might have 15+ direct reports. I'm seeing the same thing in my conversations with folks, and even just chatted with a senior leader with over 40 direct reports. If context engineering is how agents become most valuable, then finding ways to maintain high context is also going to be valuable.
-
-2. No pure managers.
-
-He said every team lead should also be a strong and active (if part-time) individual contributor. I saw this happening nonstop at Amazon when I was there, even when teams were large. Getting your hands dirty and staying in the day-to-day work was a badge of honor. This one makes sense to me. (Also aren’t we all managing dozens of agents anyways? So in that way, everyone is both a manager and an IC?)
-
-3. AI-native pods.
-
-He talked about centering on smaller pods, including experimenting with one-person teams, and combining engineering, design, and product management all in one role. The focus is on AI-native talent who will manage fleets of agents to 10x themselves (or more!). I personally see the biggest gains with two to six person teams at the moment, and am glad that the one-person team is an experiment and not an org-wide leadership mandate. I also don't think the majority of companies can combine engineering, design, and product management into one role at this point - that angle is largely reserved for tech companies and, in particular, developer-facing platforms, where the company's engineers are the end users themselves. 
-
-Expect more announcements like this, with the same blurry mix of “AI…but also market dynamics!” behind them.
+paper: https://t.co/oGOpg6ku5L https://t.co/VOICRJxWwY
 
 ---
-@alliekmiller | ❤️ 8 | 🔁 0 | 💬 4 | 👁 797]]></description>
+@_akhaliq | ❤️ 5 | 🔁 1 | 💬 1 | 👁 996]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>RT @ClementDelangue: More governments and public agencies should use HF and open-source AI in genera...</title>
+      <link>https://x.com/_akhaliq/status/2051709258551431350</link>
+      <guid isPermaLink="false">2051709258551431350</guid>
+      <pubDate>Tue, 05 May 2026 17:03:00 +0000</pubDate>
+      <description><![CDATA[RT @ClementDelangue: More governments and public agencies should use HF and open-source AI in general. Let’s go sovereign AI!
+
+---
+@_akhaliq | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
+      <author>@_akhaliq</author>
+    </item>
+    <item>
+      <title>For those affected, you're going to see a lot of advice on social media for what to do next.
+
+I like...</title>
+      <link>https://x.com/alliekmiller/status/2051709178570563745</link>
+      <guid isPermaLink="false">2051709178570563745</guid>
+      <pubDate>Tue, 05 May 2026 17:02:41 +0000</pubDate>
+      <description><![CDATA[For those affected, you're going to see a lot of advice on social media for what to do next.
+
+I like Claire's tweet a lot. Here's my version of her tweet for millennial/gen x business professionals:
+
+- download claude desktop app and purchase at least the $20/mo claude account 
+- go into cowork or claude code and describe a full day of work, core competencies, what you worked on before, metrics you were goaled on, your experience in AI so far, your technical skillset, and ask &quot;what are the top 10 high-leverage skills we can build together right now that would make me a 10x &lt;job&gt; instead of a 2x&quot;....then review those 10, pick your top 5, iterate more, get about a dozen
+- create a portfolio site with claude design (web browser capability), show the skills in action, show you testing and using the skills, talk through the business impact of each skill, publish it (i prefer vercel)
+- link the portfolio page to all your social profiles and share with friends, offer to teach folks those skills for $$
+- create several social posts that start with &quot;i'm a &lt;job&gt;, i was just laid off, and here's how i'm using ai today&quot; or &quot;here are the top x ways a &lt;job&gt; can use agents and skills&quot; or &quot;i'm a &lt;job&gt; and i just built an ai agent that &lt;value&gt;&quot; and link your portfolio in all of them
+- take either anthropic's free claude code courses, my free courses, or my mastermind (I've already helped several laid off people find new jobs)
+
+I'm sorry to those affected. It's easy for me to say &quot;this is a great time to reskill or pivot!&quot;, but it's truly what I believe and the steps above take a few days maximum. Anyone can do it. No coding required. 
+
+https://t.co/QteHXDl4BU
+
+---
+@alliekmiller | ❤️ 6 | 🔁 0 | 💬 1 | 👁 358]]></description>
       <author>@alliekmiller</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Menteebot Unveiled: Mentee #Robotics’ Vision for Agile Humanoid #Automation
-by @...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051705232057373161</link>
-      <guid isPermaLink="false">2051705232057373161</guid>
-      <pubDate>Tue, 05 May 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Menteebot Unveiled: Mentee #Robotics’ Vision for Agile Humanoid #Automation
-by @MenteeBot
+      <title>GPT-5.5 Instant is rolling out over the next two days as the default model to all ChatGPT users, and...</title>
+      <link>https://x.com/OpenAI/status/2051709035347694047</link>
+      <guid isPermaLink="false">2051709035347694047</guid>
+      <pubDate>Tue, 05 May 2026 17:02:07 +0000</pubDate>
+      <description><![CDATA[GPT-5.5 Instant is rolling out over the next two days as the default model to all ChatGPT users, and as ‘gpt-5.5-chat-latest’ in the API.
 
-#Robotics #MachineLearning #…
+Personalization improvements are rolling out to Plus and Pro users on the web, and soon on mobile.
+
+Memory sources are rolling out across all ChatGPT consumer plans on the web, and soon on mobile. https://t.co/SxAxEzPnC9
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@OpenAI | ❤️ 180 | 🔁 15 | 💬 9 | 👁 18076]]></description>
+      <author>@OpenAI</author>
     </item>
     <item>
-      <title>open-slide 这个开源的 Slides 项目不错，可以通过 Agent + Skills 制作 Slides，然后还有一个 Web 程序可以编辑生成好的 Slides。
+      <title>We’re also improving memory and personalization.
 
-并且可以支持动画，以...</title>
-      <link>https://x.com/dotey/status/2051704609299701821</link>
-      <guid isPermaLink="false">2051704609299701821</guid>
-      <pubDate>Tue, 05 May 2026 16:44:32 +0000</pubDate>
-      <description><![CDATA[open-slide 这个开源的 Slides 项目不错，可以通过 Agent + Skills 制作 Slides，然后还有一个 Web 程序可以编辑生成好的 Slides。
+ChatGPT can now better use context from saved memo...</title>
+      <link>https://x.com/OpenAI/status/2051709033414025647</link>
+      <guid isPermaLink="false">2051709033414025647</guid>
+      <pubDate>Tue, 05 May 2026 17:02:07 +0000</pubDate>
+      <description><![CDATA[We’re also improving memory and personalization.
 
-并且可以支持动画，以及网页直接播放 slides。
+ChatGPT can now better use context from saved memories, past chats, files, and connected Gmail accounts to give more personalized responses.
 
-期待完善：
-- 更好的编辑
-- 导出 pptx
-
-https://t.co/rhZSr6H7Lf
+Memory sources show what relevant context was used to personalize a response and allow you to update, delete, or disconnect as needed.
 
 ---
-@dotey | ❤️ 6 | 🔁 0 | 💬 2 | 👁 1225]]></description>
-      <author>@dotey</author>
+@OpenAI | ❤️ 374 | 🔁 20 | 💬 16 | 👁 30248]]></description>
+      <author>@OpenAI</author>
     </item>
     <item>
-      <title>version controlled, ready out of the box, and intended for you to use in your own applications. 
+      <title>GPT-5.5 Instant is starting to roll out in ChatGPT.
 
-cl...</title>
-      <link>https://x.com/_hi_mc/status/2051703790815138183</link>
-      <guid isPermaLink="false">2051703790815138183</guid>
-      <pubDate>Tue, 05 May 2026 16:41:17 +0000</pubDate>
-      <description><![CDATA[version controlled, ready out of the box, and intended for you to use in your own applications. 
+It’s a big upgrade, giving you smarter, clearer...</title>
+      <link>https://x.com/OpenAI/status/2051709028250915275</link>
+      <guid isPermaLink="false">2051709028250915275</guid>
+      <pubDate>Tue, 05 May 2026 17:02:05 +0000</pubDate>
+      <description><![CDATA[GPT-5.5 Instant is starting to roll out in ChatGPT.
 
-clone it, remix it, take what works for you, and ditch the rest. 
+It’s a big upgrade, giving you smarter, clearer, and more personalized answers in a warmer, more natural tone.
 
-we want to make it easy and delightful for you to focus on your own products. this is the power of Claude Managed Agents.
+And it's also more concise, which we heard you wanted. We think you'll love chatting with it. https://t.co/HSQOhjqxp7
 
 ---
-@_hi_mc | ❤️ 1 | 🔁 0 | 💬 0 | 👁 228]]></description>
-      <author>@_hi_mc</author>
+@OpenAI | ❤️ 1872 | 🔁 173 | 💬 153 | 👁 68158]]></description>
+      <author>@OpenAI</author>
     </item>
     <item>
-      <title>RT @PomelliByGoogle: Today, we're introducing Pomelli Catalog.📣✨
+      <title>MolmoAct2
 
-Add your products or services, and...</title>
-      <link>https://x.com/Google/status/2051702944634929310</link>
-      <guid isPermaLink="false">2051702944634929310</guid>
-      <pubDate>Tue, 05 May 2026 16:37:55 +0000</pubDate>
-      <description><![CDATA[RT @PomelliByGoogle: Today, we're introducing Pomelli Catalog.📣✨
+Action Reasoning Models for Real-world Deployment
 
-Add your products or services, and Pomelli will use them to generate pers…
+paper: https://t.co/aKO4mzBqBz https:/...</title>
+      <link>https://x.com/_akhaliq/status/2051708841453121626</link>
+      <guid isPermaLink="false">2051708841453121626</guid>
+      <pubDate>Tue, 05 May 2026 17:01:21 +0000</pubDate>
+      <description><![CDATA[MolmoAct2
 
----
-@Google | ❤️ 0 | 🔁 14 | 💬 0 | 👁 7]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>RT @benhylak: devin is really cooking rn. completely under the twitter-radar somehow.</title>
-      <link>https://x.com/swyx/status/2051702938121424905</link>
-      <guid isPermaLink="false">2051702938121424905</guid>
-      <pubDate>Tue, 05 May 2026 16:37:53 +0000</pubDate>
-      <description><![CDATA[RT @benhylak: devin is really cooking rn. completely under the twitter-radar somehow.
+Action Reasoning Models for Real-world Deployment
+
+paper: https://t.co/aKO4mzBqBz https://t.co/6IYcKJtzFK
 
 ---
-@swyx | ❤️ 0 | 🔁 14 | 💬 0 | 👁 1]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>Can’t believe that dopey CMU ML professor tried to convince me that hallucinations had been solved. ...</title>
-      <link>https://x.com/GaryMarcus/status/2051702843858690120</link>
-      <guid isPermaLink="false">2051702843858690120</guid>
-      <pubDate>Tue, 05 May 2026 16:37:31 +0000</pubDate>
-      <description><![CDATA[Can’t believe that dopey CMU ML professor tried to convince me that hallucinations had been solved.  🙄
-
----
-@GaryMarcus | ❤️ 31 | 🔁 5 | 💬 2 | 👁 2190]]></description>
-      <author>@GaryMarcus</author>
+@_akhaliq | ❤️ 2 | 🔁 1 | 💬 0 | 👁 1011]]></description>
+      <author>@_akhaliq</author>
     </item>
   </channel>
 </rss>
