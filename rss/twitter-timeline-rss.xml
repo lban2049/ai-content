@@ -5,193 +5,65 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 May 2026 21:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:00:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Doesn’t compute</title>
-      <link>https://x.com/tunguz/status/2051776536835940457</link>
-      <guid isPermaLink="false">2051776536835940457</guid>
-      <pubDate>Tue, 05 May 2026 21:30:21 +0000</pubDate>
-      <description><![CDATA[Doesn’t compute
+      <title>RT @MilksandMatcha: &quot;Technical writing completely changed my life.&quot; - @trq212   
+
+ In unde...</title>
+      <link>https://x.com/swyx/status/2051783565227307316</link>
+      <guid isPermaLink="false">2051783565227307316</guid>
+      <pubDate>Tue, 05 May 2026 21:58:16 +0000</pubDate>
+      <description><![CDATA[RT @MilksandMatcha: &quot;Technical writing completely changed my life.&quot; - @trq212   
+
+ In under 2 years, Thariq (@AnthropicAI) cracked the code…
 
 ---
-@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 1]]></description>
-      <author>@tunguz</author>
+@swyx | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
     </item>
     <item>
-      <title>Easy to forget.</title>
-      <link>https://x.com/tunguz/status/2051775567406453199</link>
-      <guid isPermaLink="false">2051775567406453199</guid>
-      <pubDate>Tue, 05 May 2026 21:26:30 +0000</pubDate>
-      <description><![CDATA[Easy to forget.
+      <title>5.5 in codex is so good for non-coding tasks.
+
+i keep assuming it won't be able to do something, but...</title>
+      <link>https://x.com/sama/status/2051783339502375418</link>
+      <guid isPermaLink="false">2051783339502375418</guid>
+      <pubDate>Tue, 05 May 2026 21:57:23 +0000</pubDate>
+      <description><![CDATA[5.5 in codex is so good for non-coding tasks.
+
+i keep assuming it won't be able to do something, but a lot of the time i am pleasantly surprised.
 
 ---
-@tunguz | ❤️ 3 | 🔁 1 | 💬 1 | 👁 270]]></description>
-      <author>@tunguz</author>
+@sama | ❤️ 136 | 🔁 5 | 💬 63 | 👁 5597]]></description>
+      <author>@sama</author>
     </item>
     <item>
-      <title>Holding people accountable means understanding them and their circumstances well enough to assess wh...</title>
-      <link>https://x.com/RayDalio/status/2051775020775465153</link>
-      <guid isPermaLink="false">2051775020775465153</guid>
-      <pubDate>Tue, 05 May 2026 21:24:19 +0000</pubDate>
-      <description><![CDATA[Holding people accountable means understanding them and their circumstances well enough to assess whether they can and should do some things differently, getting in sync with them about that, and, if they can't adequately do what is required, removing them from their jobs. It is not micromanaging them, nor is it expecting them to be perfect (holding particularly overloaded people accountable for doing everything excellently is often impractical, not to mention unfair).
+      <title>This Plant-Inspired #Robot Handles Objects with Care
+by @MIT
 
-But people can resent being held accountable, and you don't want to have to tell them what to do all the time. Reason with them so that they understand the value of what you're doing, but never let them off the hook. By interacting with my digital twin, you can evaluate your own decision-making processes and evolve your approach in real-time. The faster you evolve, the faster your results will follow. Click the link here to start our conversation now: https://t.co/daCo3GY70r
+#Robotics #Engineering #ArtificialInte...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051781496550154517</link>
+      <guid isPermaLink="false">2051781496550154517</guid>
+      <pubDate>Tue, 05 May 2026 21:50:03 +0000</pubDate>
+      <description><![CDATA[This Plant-Inspired #Robot Handles Objects with Care
+by @MIT
 
----
-@RayDalio | ❤️ 31 | 🔁 4 | 💬 7 | 👁 3803]]></description>
-      <author>@RayDalio</author>
-    </item>
-    <item>
-      <title>RT @tunguz: So much for the “rapidly depreciating value of AI infrastructure.”</title>
-      <link>https://x.com/tunguz/status/2051774412857192880</link>
-      <guid isPermaLink="false">2051774412857192880</guid>
-      <pubDate>Tue, 05 May 2026 21:21:54 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: So much for the “rapidly depreciating value of AI infrastructure.”
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/IpDoXtRMOa
 
 ---
-@tunguz | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @tunguz: Europe nerfed itself with is well designed urban planing and walkable neighborhoods.</title>
-      <link>https://x.com/tunguz/status/2051774387490095567</link>
-      <guid isPermaLink="false">2051774387490095567</guid>
-      <pubDate>Tue, 05 May 2026 21:21:48 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Europe nerfed itself with is well designed urban planing and walkable neighborhoods.
-
----
-@tunguz | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @tunguz: Yeah Codex is really good. Even for non-coding tasks.</title>
-      <link>https://x.com/tunguz/status/2051774357295304719</link>
-      <guid isPermaLink="false">2051774357295304719</guid>
-      <pubDate>Tue, 05 May 2026 21:21:41 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Yeah Codex is really good. Even for non-coding tasks.
-
----
-@tunguz | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @tunguz: Oh sh*t.</title>
-      <link>https://x.com/tunguz/status/2051774321853379074</link>
-      <guid isPermaLink="false">2051774321853379074</guid>
-      <pubDate>Tue, 05 May 2026 21:21:33 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Oh sh*t.
-
----
-@tunguz | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @tunguz: Called it.</title>
-      <link>https://x.com/tunguz/status/2051774292535202070</link>
-      <guid isPermaLink="false">2051774292535202070</guid>
-      <pubDate>Tue, 05 May 2026 21:21:26 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: Called it.
-
----
-@tunguz | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Waymo Debuts 6th-Gen Zeekr RT with Fast-Charging in San Diego
-by @niccruzpatane
- 
-#Automotive #Trans...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051773969670226417</link>
-      <guid isPermaLink="false">2051773969670226417</guid>
-      <pubDate>Tue, 05 May 2026 21:20:09 +0000</pubDate>
-      <description><![CDATA[Waymo Debuts 6th-Gen Zeekr RT with Fast-Charging in San Diego
-by @niccruzpatane
- 
-#Automotive #Transport #EV #Technology #Innovation https://t.co/axCIJCzcKh
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 95]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 109]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Great analogy</title>
-      <link>https://x.com/levelsio/status/2051773288905375958</link>
-      <guid isPermaLink="false">2051773288905375958</guid>
-      <pubDate>Tue, 05 May 2026 21:17:26 +0000</pubDate>
-      <description><![CDATA[Great analogy
+      <title>A couple of years ago a fake sports media company, based in Germany, went after many users on this a...</title>
+      <link>https://x.com/tunguz/status/2051778405943726268</link>
+      <guid isPermaLink="false">2051778405943726268</guid>
+      <pubDate>Tue, 05 May 2026 21:37:46 +0000</pubDate>
+      <description><![CDATA[A couple of years ago a fake sports media company, based in Germany, went after many users on this app for posting short clips of that horrible Australian breakdancer. They were operating in bad faith, and those clips were clearly under the fair use protection of the copyright law. Among other things I decided to write a review of that fake company on Google. Some time ago I got a notification that Google removed that review, but now I checked and it still seems to be there.
 
 ---
-@levelsio | ❤️ 45 | 🔁 2 | 💬 4 | 👁 5689]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>The advantage is mine costs $3/mo and the SaaS costs $900/mo</title>
-      <link>https://x.com/levelsio/status/2051772460475847042</link>
-      <guid isPermaLink="false">2051772460475847042</guid>
-      <pubDate>Tue, 05 May 2026 21:14:09 +0000</pubDate>
-      <description><![CDATA[The advantage is mine costs $3/mo and the SaaS costs $900/mo
-
----
-@levelsio | ❤️ 34 | 🔁 0 | 💬 5 | 👁 5053]]></description>
-      <author>@levelsio</author>
-    </item>
-    <item>
-      <title>Half a million projects in a single day. One user used up $10k in agent workloads while another expl...</title>
-      <link>https://x.com/amasad/status/2051771141388407187</link>
-      <guid isPermaLink="false">2051771141388407187</guid>
-      <pubDate>Tue, 05 May 2026 21:08:54 +0000</pubDate>
-      <description><![CDATA[Half a million projects in a single day. One user used up $10k in agent workloads while another explored hundreds of business ideas.
-
----
-@amasad | ❤️ 43 | 🔁 1 | 💬 15 | 👁 3606]]></description>
-      <author>@amasad</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Hubei GuangGuDongZhi wheeled humanoid #Robot is practicing serving plates
-by @Cy...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051769406246592992</link>
-      <guid isPermaLink="false">2051769406246592992</guid>
-      <pubDate>Tue, 05 May 2026 21:02:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Hubei GuangGuDongZhi wheeled humanoid #Robot is practicing serving plates
-by @CyberRobooo
-  
-#Robotics #RPA #Artificial…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>With lots of help from @clarklab I got rigging working
-
-My model from @tripoai was too complex for M...</title>
-      <link>https://x.com/levelsio/status/2051769203678433747</link>
-      <guid isPermaLink="false">2051769203678433747</guid>
-      <pubDate>Tue, 05 May 2026 21:01:12 +0000</pubDate>
-      <description><![CDATA[With lots of help from @clarklab I got rigging working
-
-My model from @tripoai was too complex for Mixamo, so he compressed / made it smaller
-
-Now I exported the T-Pose as Soldier_TPose.fbx with the full texture etc, and exporting each animation individually like this:
-
-  Anim_Idle.fbx
-  Anim_Walking.fbx
-  Anim_CrouchedIdle.fbx
-  Anim_CrouchedWalking.fbx
-  Anim_Crawling.fbx
-  Anim_FiringRifle.fbx
-  Anim_Reloading.fbx
-  Anim_HitReaction.fbx
-  Anim_DeathFront.fbx
-  Anim_DeathBack.fbx
-  Anim_Running.fbx
-
-Very cool!!!
-
----
-@levelsio | ❤️ 15 | 🔁 1 | 💬 3 | 👁 5119]]></description>
-      <author>@levelsio</author>
+@tunguz | ❤️ 8 | 🔁 0 | 💬 1 | 👁 1035]]></description>
+      <author>@tunguz</author>
     </item>
   </channel>
 </rss>
