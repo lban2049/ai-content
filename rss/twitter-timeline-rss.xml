@@ -5,64 +5,171 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 May 2026 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:30:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @MilksandMatcha: &quot;Technical writing completely changed my life.&quot; - @trq212   
+      <title>IT WORKS!!
 
- In unde...</title>
-      <link>https://x.com/swyx/status/2051783565227307316</link>
-      <guid isPermaLink="false">2051783565227307316</guid>
-      <pubDate>Tue, 05 May 2026 21:58:16 +0000</pubDate>
-      <description><![CDATA[RT @MilksandMatcha: &quot;Technical writing completely changed my life.&quot; - @trq212   
+Lots of tweaking with AI but soldiers are starting to move around naturally now, really ...</title>
+      <link>https://x.com/levelsio/status/2051791595427516713</link>
+      <guid isPermaLink="false">2051791595427516713</guid>
+      <pubDate>Tue, 05 May 2026 22:30:11 +0000</pubDate>
+      <description><![CDATA[IT WORKS!!
 
- In under 2 years, Thariq (@AnthropicAI) cracked the code…
+Lots of tweaking with AI but soldiers are starting to move around naturally now, really cool :O
+
+First load is a bit heavy cause it rigs 128 players, not sure how to fix that, the GLB is only 5mb though https://t.co/8FXuRnrb2U
 
 ---
-@swyx | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@swyx</author>
+@levelsio | ❤️ 2 | 🔁 0 | 💬 0 | 👁 29]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>5.5 in codex is so good for non-coding tasks.
+      <title>Ok I kinda got animated soldiers now to work
 
-i keep assuming it won't be able to do something, but...</title>
-      <link>https://x.com/sama/status/2051783339502375418</link>
-      <guid isPermaLink="false">2051783339502375418</guid>
-      <pubDate>Tue, 05 May 2026 21:57:23 +0000</pubDate>
-      <description><![CDATA[5.5 in codex is so good for non-coding tasks.
+On the server I used Blender to compile the FBX animat...</title>
+      <link>https://x.com/levelsio/status/2051789380403229157</link>
+      <guid isPermaLink="false">2051789380403229157</guid>
+      <pubDate>Tue, 05 May 2026 22:21:23 +0000</pubDate>
+      <description><![CDATA[Ok I kinda got animated soldiers now to work
 
-i keep assuming it won't be able to do something, but a lot of the time i am pleasantly surprised.
+On the server I used Blender to compile the FBX animations into one GLB that has the soldier model and all its animations like walking and running etc
+
+It's still bit buggy but the dying animations look great
+
+The running feels like it keeps resetting the animation instead of looping it, dunno why
 
 ---
-@sama | ❤️ 136 | 🔁 5 | 💬 63 | 👁 5597]]></description>
-      <author>@sama</author>
+@levelsio | ❤️ 9 | 🔁 0 | 💬 2 | 👁 1636]]></description>
+      <author>@levelsio</author>
     </item>
     <item>
-      <title>This Plant-Inspired #Robot Handles Objects with Care
-by @MIT
-
-#Robotics #Engineering #ArtificialInte...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051781496550154517</link>
-      <guid isPermaLink="false">2051781496550154517</guid>
-      <pubDate>Tue, 05 May 2026 21:50:03 +0000</pubDate>
-      <description><![CDATA[This Plant-Inspired #Robot Handles Objects with Care
-by @MIT
-
-#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/IpDoXtRMOa
+      <title>I'm European, it feels good to fight back and hold the line</title>
+      <link>https://x.com/levelsio/status/2051789346190004519</link>
+      <guid isPermaLink="false">2051789346190004519</guid>
+      <pubDate>Tue, 05 May 2026 22:21:15 +0000</pubDate>
+      <description><![CDATA[I'm European, it feels good to fight back and hold the line
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 109]]></description>
+@levelsio | ❤️ 26 | 🔁 0 | 💬 2 | 👁 2044]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>The first thing I always do is lower it to the God-prescribed 69.</title>
+      <link>https://x.com/tunguz/status/2051788785466139001</link>
+      <guid isPermaLink="false">2051788785466139001</guid>
+      <pubDate>Tue, 05 May 2026 22:19:01 +0000</pubDate>
+      <description><![CDATA[The first thing I always do is lower it to the God-prescribed 69.
+
+---
+@tunguz | ❤️ 7 | 🔁 0 | 💬 1 | 👁 557]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>AI-run business experiments are interesting and fun up to the point where they waste the time of hum...</title>
+      <link>https://x.com/simonw/status/2051788176071745592</link>
+      <guid isPermaLink="false">2051788176071745592</guid>
+      <pubDate>Tue, 05 May 2026 22:16:36 +0000</pubDate>
+      <description><![CDATA[AI-run business experiments are interesting and fun up to the point where they waste the time of humans who haven't opted into the experiments - I think they need to keep their own human operators in the loop for outbound actions that affect other people https://t.co/QluYQ7lwi5
+
+---
+@simonw | ❤️ 7 | 🔁 0 | 💬 1 | 👁 977]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>#AI on the Assembly Line: Instant Potato Counting with Minimal Training
+by @IlirAliu_
+  
+#Artificial...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051788056319971444</link>
+      <guid isPermaLink="false">2051788056319971444</guid>
+      <pubDate>Tue, 05 May 2026 22:16:07 +0000</pubDate>
+      <description><![CDATA[#AI on the Assembly Line: Instant Potato Counting with Minimal Training
+by @IlirAliu_
+  
+#ArtificialIntelligence #MachineLearning #ML #MI https://t.co/FqLAHp8d66
+
+---
+@Ronald_vanLoon | ❤️ 2 | 🔁 0 | 💬 0 | 👁 120]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>A couple of years ago a fake sports media company, based in Germany, went after many users on this a...</title>
-      <link>https://x.com/tunguz/status/2051778405943726268</link>
-      <guid isPermaLink="false">2051778405943726268</guid>
-      <pubDate>Tue, 05 May 2026 21:37:46 +0000</pubDate>
-      <description><![CDATA[A couple of years ago a fake sports media company, based in Germany, went after many users on this app for posting short clips of that horrible Australian breakdancer. They were operating in bad faith, and those clips were clearly under the fair use protection of the copyright law. Among other things I decided to write a review of that fake company on Google. Some time ago I got a notification that Google removed that review, but now I checked and it still seems to be there.
+      <title>RT @Ronald_vanLoon: 6 Types of #AI Models
+by @PythonPr
+  
+#ArtificialIntelligence #MachineLearning #...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051787023044804993</link>
+      <guid isPermaLink="false">2051787023044804993</guid>
+      <pubDate>Tue, 05 May 2026 22:12:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: 6 Types of #AI Models
+by @PythonPr
+  
+#ArtificialIntelligence #MachineLearning #ML https://t.co/Tk8vRFRxXw
 
 ---
-@tunguz | ❤️ 8 | 🔁 0 | 💬 1 | 👁 1035]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 5 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @AndrewRousso: when online shopping goes WAY too far https://t.co/1QY8nqw4gM</title>
+      <link>https://x.com/levelsio/status/2051786148431737075</link>
+      <guid isPermaLink="false">2051786148431737075</guid>
+      <pubDate>Tue, 05 May 2026 22:08:32 +0000</pubDate>
+      <description><![CDATA[RT @AndrewRousso: when online shopping goes WAY too far https://t.co/1QY8nqw4gM
+
+---
+@levelsio | ❤️ 0 | 🔁 159 | 💬 0 | 👁 6]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>RT @dair_ai: NEW paper from Microsoft Research.
+
+Nice study on long-horizon agent generalization.
+
+(...</title>
+      <link>https://x.com/dair_ai/status/2051785581844103516</link>
+      <guid isPermaLink="false">2051785581844103516</guid>
+      <pubDate>Tue, 05 May 2026 22:06:17 +0000</pubDate>
+      <description><![CDATA[RT @dair_ai: NEW paper from Microsoft Research.
+
+Nice study on long-horizon agent generalization.
+
+(bookmark it)
+
+The team runs a study whe…
+
+---
+@dair_ai | ❤️ 0 | 🔁 11 | 💬 0 | 👁 0]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>RT @omarsar0: // Skills as Verifiable Artifacts //
+
+Pay attention to this one, AI devs.
+
+If you ship...</title>
+      <link>https://x.com/dair_ai/status/2051785558972579921</link>
+      <guid isPermaLink="false">2051785558972579921</guid>
+      <pubDate>Tue, 05 May 2026 22:06:12 +0000</pubDate>
+      <description><![CDATA[RT @omarsar0: // Skills as Verifiable Artifacts //
+
+Pay attention to this one, AI devs.
+
+If you ship agent skills, your runtime is treating…
+
+---
+@dair_ai | ❤️ 0 | 🔁 9 | 💬 0 | 👁 1]]></description>
+      <author>@dair_ai</author>
+    </item>
+    <item>
+      <title>Gary, Indiana.</title>
+      <link>https://x.com/tunguz/status/2051784936948928857</link>
+      <guid isPermaLink="false">2051784936948928857</guid>
+      <pubDate>Tue, 05 May 2026 22:03:43 +0000</pubDate>
+      <description><![CDATA[Gary, Indiana.
+
+---
+@tunguz | ❤️ 19 | 🔁 0 | 💬 0 | 👁 2251]]></description>
       <author>@tunguz</author>
     </item>
   </channel>
