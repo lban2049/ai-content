@@ -5,64 +5,149 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 May 2026 12:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:00:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @GeoffreyHuntley: bun being ported from zig to rust? https://t.co/Kuco0HsZXs</title>
-      <link>https://x.com/steipete/status/2051640533739549145</link>
-      <guid isPermaLink="false">2051640533739549145</guid>
-      <pubDate>Tue, 05 May 2026 12:29:55 +0000</pubDate>
-      <description><![CDATA[RT @GeoffreyHuntley: bun being ported from zig to rust? https://t.co/Kuco0HsZXs
+      <title>RT @teslaownersSV: Elon Musk is playing a long game most people don’t think about.
+
+The idea lines u...</title>
+      <link>https://x.com/elonmusk/status/2051648017804222774</link>
+      <guid isPermaLink="false">2051648017804222774</guid>
+      <pubDate>Tue, 05 May 2026 12:59:39 +0000</pubDate>
+      <description><![CDATA[RT @teslaownersSV: Elon Musk is playing a long game most people don’t think about.
+
+The idea lines up with the Kardashev scale. Not just im…
 
 ---
-@steipete | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@elonmusk | ❤️ 0 | 🔁 62 | 💬 0 | 👁 1]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>对近期的几个 Agent 协作产品的第一印象
-Moxt → AI Native Notion
-Multica →  Linear for Agents
-Slock →  Slack for Agent...</title>
-      <link>https://x.com/oran_ge/status/2051640461983670629</link>
-      <guid isPermaLink="false">2051640461983670629</guid>
-      <pubDate>Tue, 05 May 2026 12:29:38 +0000</pubDate>
-      <description><![CDATA[对近期的几个 Agent 协作产品的第一印象
-Moxt → AI Native Notion
-Multica →  Linear for Agents
-Slock →  Slack for Agents
-Bloome → 微信群 for Agents
+      <title>RT @XFreeze: Elon Musk sees a path where the cost to orbit drops below commercial air freight
 
-前面三个都偏工作场景， Bloome 偏个人场景
-我建了个群，老实说也没想好能做什么，不过如果你有 Agent 可以来玩
-好像最多只能 100 人
+Ultim...</title>
+      <link>https://x.com/elonmusk/status/2051647716225429670</link>
+      <guid isPermaLink="false">2051647716225429670</guid>
+      <pubDate>Tue, 05 May 2026 12:58:27 +0000</pubDate>
+      <description><![CDATA[RT @XFreeze: Elon Musk sees a path where the cost to orbit drops below commercial air freight
 
-https://t.co/rXp1qibCsO
+Ultimately Starship will be able to fly acro…
 
 ---
-@oran_ge | ❤️ 1 | 🔁 0 | 💬 0 | 👁 21]]></description>
-      <author>@oran_ge</author>
+@elonmusk | ❤️ 0 | 🔁 177 | 💬 0 | 👁 5]]></description>
+      <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @tunguz: This might be the last year when most of us plebs get access to the near-SOTA models. En...</title>
-      <link>https://x.com/tunguz/status/2051639555569164736</link>
-      <guid isPermaLink="false">2051639555569164736</guid>
-      <pubDate>Tue, 05 May 2026 12:26:02 +0000</pubDate>
-      <description><![CDATA[RT @tunguz: This might be the last year when most of us plebs get access to the near-SOTA models. Enjoy it while it lasts.
+      <title>RT @tunguz: Sleep for 8 hours.
+
+Walk for 10,000 steps.
+
+Eat 2000 calories.
+
+That’s 90%+ of all welln...</title>
+      <link>https://x.com/tunguz/status/2051646105255903366</link>
+      <guid isPermaLink="false">2051646105255903366</guid>
+      <pubDate>Tue, 05 May 2026 12:52:03 +0000</pubDate>
+      <description><![CDATA[RT @tunguz: Sleep for 8 hours.
+
+Walk for 10,000 steps.
+
+Eat 2000 calories.
+
+That’s 90%+ of all wellness.
 
 ---
-@tunguz | ❤️ 0 | 🔁 24 | 💬 0 | 👁 0]]></description>
+@tunguz | ❤️ 0 | 🔁 18 | 💬 0 | 👁 0]]></description>
       <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @pvncher: This is pretty nuts https://t.co/UxnU0pyA1Y</title>
-      <link>https://x.com/steipete/status/2051638734966157609</link>
-      <guid isPermaLink="false">2051638734966157609</guid>
-      <pubDate>Tue, 05 May 2026 12:22:46 +0000</pubDate>
-      <description><![CDATA[RT @pvncher: This is pretty nuts https://t.co/UxnU0pyA1Y
+      <title>Sudo R1: A #Robot Trained Entirely in Simulation
+by @sudo_robotics
+
+#Robotics #ArtificialIntelligenc...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051645643215495477</link>
+      <guid isPermaLink="false">2051645643215495477</guid>
+      <pubDate>Tue, 05 May 2026 12:50:13 +0000</pubDate>
+      <description><![CDATA[Sudo R1: A #Robot Trained Entirely in Simulation
+by @sudo_robotics
+
+#Robotics #ArtificialIntelligence #Innovation #MI #ML #Tech https://t.co/6lnk3UgvCU
 
 ---
-@steipete | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@steipete</author>
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 114]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @MakeSenseMarie: This man says, “let me get this straight. 
+
+When White people move into an area,...</title>
+      <link>https://x.com/elonmusk/status/2051645350860161089</link>
+      <guid isPermaLink="false">2051645350860161089</guid>
+      <pubDate>Tue, 05 May 2026 12:49:04 +0000</pubDate>
+      <description><![CDATA[RT @MakeSenseMarie: This man says, “let me get this straight. 
+
+When White people move into an area, it’s called “colonizing” or “gentrific…
+
+---
+@elonmusk | ❤️ 0 | 🔁 5618 | 💬 0 | 👁 17]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Try Tesla, Starlink &amp;amp; auto-translation on 𝕏 https://t.co/enxwcUXrCh</title>
+      <link>https://x.com/elonmusk/status/2051643823265370217</link>
+      <guid isPermaLink="false">2051643823265370217</guid>
+      <pubDate>Tue, 05 May 2026 12:42:59 +0000</pubDate>
+      <description><![CDATA[Try Tesla, Starlink &amp;amp; auto-translation on 𝕏 https://t.co/enxwcUXrCh
+
+---
+@elonmusk | ❤️ 2302 | 🔁 358 | 💬 658 | 👁 574692]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>RT @anishmoonka: There's a clay tablet with the founding charter of a 12-partner company on it. Twel...</title>
+      <link>https://x.com/elonmusk/status/2051642728883310851</link>
+      <guid isPermaLink="false">2051642728883310851</guid>
+      <pubDate>Tue, 05 May 2026 12:38:38 +0000</pubDate>
+      <description><![CDATA[RT @anishmoonka: There's a clay tablet with the founding charter of a 12-partner company on it. Twelve merchants pooled 33 pounds of gold t…
+
+---
+@elonmusk | ❤️ 0 | 🔁 647 | 💬 0 | 👁 71]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>https://t.co/sgAh2tlJUX</title>
+      <link>https://x.com/elonmusk/status/2051641477684666801</link>
+      <guid isPermaLink="false">2051641477684666801</guid>
+      <pubDate>Tue, 05 May 2026 12:33:40 +0000</pubDate>
+      <description><![CDATA[https://t.co/sgAh2tlJUX
+
+---
+@elonmusk | ❤️ 8384 | 🔁 977 | 💬 2058 | 👁 1568841]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>Oh I agree, I love old houses like this, my parents house was like this until my dad fully insulated...</title>
+      <link>https://x.com/levelsio/status/2051641067770896610</link>
+      <guid isPermaLink="false">2051641067770896610</guid>
+      <pubDate>Tue, 05 May 2026 12:32:02 +0000</pubDate>
+      <description><![CDATA[Oh I agree, I love old houses like this, my parents house was like this until my dad fully insulated it, and now it's stuffy and you sneeze a lot
+
+Breathing houses are great!
+
+---
+@levelsio | ❤️ 33 | 🔁 0 | 💬 3 | 👁 8465]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>RT @zarathustra5150: Dostoevsky captures the essence of the modern, downwardly mobile progressive ac...</title>
+      <link>https://x.com/elonmusk/status/2051640873931382815</link>
+      <guid isPermaLink="false">2051640873931382815</guid>
+      <pubDate>Tue, 05 May 2026 12:31:16 +0000</pubDate>
+      <description><![CDATA[RT @zarathustra5150: Dostoevsky captures the essence of the modern, downwardly mobile progressive activist, 150 years early. A conviction o…
+
+---
+@elonmusk | ❤️ 0 | 🔁 254 | 💬 0 | 👁 63]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
