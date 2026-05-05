@@ -5,135 +5,211 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 May 2026 20:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:31:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: Spot Gets Smarter with Gemini #AI
-by @BostonDynamics
-
-#Robotics #Engineering #Ar...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051753930007228908</link>
-      <guid isPermaLink="false">2051753930007228908</guid>
-      <pubDate>Tue, 05 May 2026 20:00:31 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Spot Gets Smarter with Gemini #AI
-by @BostonDynamics
-
-#Robotics #Engineering #ArtificialIntelligence #Innovation #Techn…
+      <title>Major ChatGPT upgrade rolling out now, in the form of GPT-5.5 Instant:</title>
+      <link>https://x.com/gdb/status/2051759920467312940</link>
+      <guid isPermaLink="false">2051759920467312940</guid>
+      <pubDate>Tue, 05 May 2026 20:24:19 +0000</pubDate>
+      <description><![CDATA[Major ChatGPT upgrade rolling out now, in the form of GPT-5.5 Instant:
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+@gdb | ❤️ 81 | 🔁 4 | 💬 9 | 👁 3972]]></description>
+      <author>@gdb</author>
+    </item>
+    <item>
+      <title>In vividly explaining how he deceived Musk about his commitment to the nonprofit, without a trace of...</title>
+      <link>https://x.com/GaryMarcus/status/2051758733349560658</link>
+      <guid isPermaLink="false">2051758733349560658</guid>
+      <pubDate>Tue, 05 May 2026 20:19:36 +0000</pubDate>
+      <description><![CDATA[In vividly explaining how he deceived Musk about his commitment to the nonprofit, without a trace of remorse, OpenAI’s Brockman has done Musk’s counsel quite a service. 
+ 
+Brockman’s also been pretty great about illustrating Musk’s contributions to the early years of the company.
+
+---
+@GaryMarcus | ❤️ 12 | 🔁 1 | 💬 2 | 👁 1016]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>Beihang University Unveils 2 cm Microbot with Ultrafast Untethered Speed
+via @WevolverApp
+  
+#AI #Ro...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051758614230995222</link>
+      <guid isPermaLink="false">2051758614230995222</guid>
+      <pubDate>Tue, 05 May 2026 20:19:08 +0000</pubDate>
+      <description><![CDATA[Beihang University Unveils 2 cm Microbot with Ultrafast Untethered Speed
+via @WevolverApp
+  
+#AI #Robotics #MachineLearning #ArtificialIntelligence https://t.co/BN6RijA61e
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 91]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>It's @theannalux</title>
-      <link>https://x.com/levelsio/status/2051753320490922483</link>
-      <guid isPermaLink="false">2051753320490922483</guid>
-      <pubDate>Tue, 05 May 2026 19:58:05 +0000</pubDate>
-      <description><![CDATA[It's @theannalux
+      <title>Read more about Model Spec Midtraining: https://t.co/lOMoi1EfJh
+
+Or read the full study: https://t.c...</title>
+      <link>https://x.com/AnthropicAI/status/2051758544999927943</link>
+      <guid isPermaLink="false">2051758544999927943</guid>
+      <pubDate>Tue, 05 May 2026 20:18:51 +0000</pubDate>
+      <description><![CDATA[Read more about Model Spec Midtraining: https://t.co/lOMoi1EfJh
+
+Or read the full study: https://t.co/GvPneIYATU
 
 ---
-@levelsio | ❤️ 2 | 🔁 0 | 💬 0 | 👁 552]]></description>
+@AnthropicAI | ❤️ 10 | 🔁 1 | 💬 2 | 👁 4067]]></description>
+      <author>@AnthropicAI</author>
+    </item>
+    <item>
+      <title>Using MSM, we can also empirically study which model specs or constitutions yield the best generaliz...</title>
+      <link>https://x.com/AnthropicAI/status/2051758541002719734</link>
+      <guid isPermaLink="false">2051758541002719734</guid>
+      <pubDate>Tue, 05 May 2026 20:18:50 +0000</pubDate>
+      <description><![CDATA[Using MSM, we can also empirically study which model specs or constitutions yield the best generalization from alignment training.
+
+Specifying rules works to some extent, but explaining the values underlying those rules (or adding more detailed subrules) is even better. https://t.co/b2XKbyBGeI
+
+---
+@AnthropicAI | ❤️ 8 | 🔁 0 | 💬 3 | 👁 4658]]></description>
+      <author>@AnthropicAI</author>
+    </item>
+    <item>
+      <title>New Anthropic Fellows research: Model Spec Midtraining (MSM).
+
+Standard alignment methods train AIs ...</title>
+      <link>https://x.com/AnthropicAI/status/2051758528562364902</link>
+      <guid isPermaLink="false">2051758528562364902</guid>
+      <pubDate>Tue, 05 May 2026 20:18:47 +0000</pubDate>
+      <description><![CDATA[New Anthropic Fellows research: Model Spec Midtraining (MSM).
+
+Standard alignment methods train AIs on examples of desired behavior. But this can fail to generalize to new situations.
+
+MSM addresses this by first teaching AIs how we would like them to generalize and why.
+
+---
+@AnthropicAI | ❤️ 170 | 🔁 16 | 💬 25 | 👁 10459]]></description>
+      <author>@AnthropicAI</author>
+    </item>
+    <item>
+      <title>in particular, the combination of improvements to speed, intelligence, personality, and great memory...</title>
+      <link>https://x.com/sama/status/2051758445402223051</link>
+      <guid isPermaLink="false">2051758445402223051</guid>
+      <pubDate>Tue, 05 May 2026 20:18:27 +0000</pubDate>
+      <description><![CDATA[in particular, the combination of improvements to speed, intelligence, personality, and great memory/personalization feels like a more-than-sum-of-the-parts thing when it all hits together
+
+---
+@sama | ❤️ 333 | 🔁 14 | 💬 86 | 👁 25328]]></description>
+      <author>@sama</author>
+    </item>
+    <item>
+      <title>the new instant model in chatgpt is so good damn
+
+if you have been thinking-model-only for awhile, g...</title>
+      <link>https://x.com/sama/status/2051758152224506203</link>
+      <guid isPermaLink="false">2051758152224506203</guid>
+      <pubDate>Tue, 05 May 2026 20:17:17 +0000</pubDate>
+      <description><![CDATA[the new instant model in chatgpt is so good damn
+
+if you have been thinking-model-only for awhile, give it a try!
+
+---
+@sama | ❤️ 666 | 🔁 25 | 💬 170 | 👁 49996]]></description>
+      <author>@sama</author>
+    </item>
+    <item>
+      <title>RT @MIT_CSAIL: In the '80s, future MIT prof. Bill Freeman envisioned a three-sided zipper that could...</title>
+      <link>https://x.com/MIT_CSAIL/status/2051757892441669822</link>
+      <guid isPermaLink="false">2051757892441669822</guid>
+      <pubDate>Tue, 05 May 2026 20:16:16 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: In the '80s, future MIT prof. Bill Freeman envisioned a three-sided zipper that could switch items between soft &amp;amp; rigid stat…
+
+---
+@MIT_CSAIL | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
+    </item>
+    <item>
+      <title>@pangramlabs is this AI slop? cc @amyecheetham</title>
+      <link>https://x.com/nikunj/status/2051757212411023441</link>
+      <guid isPermaLink="false">2051757212411023441</guid>
+      <pubDate>Tue, 05 May 2026 20:13:33 +0000</pubDate>
+      <description><![CDATA[@pangramlabs is this AI slop? cc @amyecheetham
+
+---
+@nikunj | ❤️ 1 | 🔁 0 | 💬 1 | 👁 97]]></description>
+      <author>@nikunj</author>
+    </item>
+    <item>
+      <title>RT @every: Steal this Codex-native email workflow from @danshipper:
+
+1. Write a one-page operating m...</title>
+      <link>https://x.com/nickbaumann_/status/2051756146395054554</link>
+      <guid isPermaLink="false">2051756146395054554</guid>
+      <pubDate>Tue, 05 May 2026 20:09:19 +0000</pubDate>
+      <description><![CDATA[RT @every: Steal this Codex-native email workflow from @danshipper:
+
+1. Write a one-page operating manual for your inbox
+
+Include:
+- VIPs
+-…
+
+---
+@nickbaumann_ | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>@theannalux Proof
+
+Left: reviews inside EU, immediately rejected with [ Not published ]
+
+Right: revi...</title>
+      <link>https://x.com/levelsio/status/2051755958863286411</link>
+      <guid isPermaLink="false">2051755958863286411</guid>
+      <pubDate>Tue, 05 May 2026 20:08:35 +0000</pubDate>
+      <description><![CDATA[@theannalux Proof
+
+Left: reviews inside EU, immediately rejected with [ Not published ]
+
+Right: reviews outside EU, published fine!
+
+Crazy huh? https://t.co/rir3RyZeqn
+
+---
+@levelsio | ❤️ 50 | 🔁 2 | 💬 7 | 👁 6225]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>People ask me what my AI agent team does.
-
-The reality is that it is incredibly horizontal, incredib...</title>
-      <link>https://x.com/alliekmiller/status/2051753244813332704</link>
-      <guid isPermaLink="false">2051753244813332704</guid>
-      <pubDate>Tue, 05 May 2026 19:57:47 +0000</pubDate>
-      <description><![CDATA[People ask me what my AI agent team does.
-
-The reality is that it is incredibly horizontal, incredibly open and flexible, and fully driven by a flywheel of verbalized, documented, and reviewed goals-context-decisions.
-
-See example prompt below. 
-
-(And though a bit needy, it worked.)
-
-In the span of 10m49s, Simon and the crew reviewed my calendar, slack, gmail, and recent fireflies recordings. 
-
-They completed 11 tasks in parallel (emails, documents, workshop agenda), set up 5 auditors (that don't need me) to track projects in progress, and suggested 2 meetings to move off my calendar. 
-
-...and people are still using ChatGPT like Google.
-
-My current agent infra: I have one CoS named Simon, an assistant for Simon to document and memorialize, 6 named directors/avengers, 20+ unnamed but pre-specified subagents/sidekicks managed by the directors, and unlimited civilians spawned by Simon or the directors/avengers).
+      <title>RT @scottfalconer: @sama Each year I try to use a model to help me plan out my most efficient route ...</title>
+      <link>https://x.com/nickbaumann_/status/2051755847169294460</link>
+      <guid isPermaLink="false">2051755847169294460</guid>
+      <pubDate>Tue, 05 May 2026 20:08:08 +0000</pubDate>
+      <description><![CDATA[RT @scottfalconer: @sama Each year I try to use a model to help me plan out my most efficient route for running the Boise Trails Challenge…
 
 ---
-@alliekmiller | ❤️ 2 | 🔁 0 | 💬 2 | 👁 131]]></description>
-      <author>@alliekmiller</author>
+@nickbaumann_ | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
     </item>
     <item>
-      <title>Advanced health monitoring, a pair of spacesuit checks, and @SpaceX cargo mission preparations kept ...</title>
-      <link>https://x.com/Space_Station/status/2051752148233273441</link>
-      <guid isPermaLink="false">2051752148233273441</guid>
-      <pubDate>Tue, 05 May 2026 19:53:26 +0000</pubDate>
-      <description><![CDATA[Advanced health monitoring, a pair of spacesuit checks, and @SpaceX cargo mission preparations kept the Expedition 74 crew busy on Tuesday. More... https://t.co/lR8Dfsmzi5 https://t.co/8hTdhxVcaP
+      <title>Extreme levels of cope in the reply section here from employees at SaaS companies that don't want to...</title>
+      <link>https://x.com/levelsio/status/2051755279117676776</link>
+      <guid isPermaLink="false">2051755279117676776</guid>
+      <pubDate>Tue, 05 May 2026 20:05:52 +0000</pubDate>
+      <description><![CDATA[Extreme levels of cope in the reply section here from employees at SaaS companies that don't want to lose their job
+
+SaaS stocks went down 80% for a reason
+
+Obviously there will be SaaS that remain and new SaaS but many are just an hour or a day of work to replace with AI
+
+I already built my own screenshot service (for social media images), image resizing for all my sites, NSFW content moderation, community content moderation, uptime monitor with status pages, automated backup service etc
+
+Before I paid for all those SaaS!
 
 ---
-@Space_Station | ❤️ 26 | 🔁 3 | 💬 3 | 👁 3915]]></description>
-      <author>@Space_Station</author>
-    </item>
-    <item>
-      <title>How to avoid #SupplyChain issues as #Drone and #Robot production increases exponentially
-by Cell Pre...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051751045928243600</link>
-      <guid isPermaLink="false">2051751045928243600</guid>
-      <pubDate>Tue, 05 May 2026 19:49:03 +0000</pubDate>
-      <description><![CDATA[How to avoid #SupplyChain issues as #Drone and #Robot production increases exponentially
-by Cell Press @TechXplore_com
-
-Learn more: https://t.co/SndqAxyIOi
-
-#Innovation #EmergingTech #Technology https://t.co/X1xpqQUB62
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 80]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>ComboStoc
-
-Combinatorial Stochasticity for Diffusion Generative Models
-
-paper: https://t.co/Y3s1IkKx...</title>
-      <link>https://x.com/_akhaliq/status/2051749021182517317</link>
-      <guid isPermaLink="false">2051749021182517317</guid>
-      <pubDate>Tue, 05 May 2026 19:41:00 +0000</pubDate>
-      <description><![CDATA[ComboStoc
-
-Combinatorial Stochasticity for Diffusion Generative Models
-
-paper: https://t.co/Y3s1IkKxjF https://t.co/Fpe2FMTpFc
-
----
-@_akhaliq | ❤️ 6 | 🔁 2 | 💬 2 | 👁 1102]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>RT @googlegemma: Gemma 4 just got even faster!
-
-We're releasing Multi-Token Prediction (MTP) drafter...</title>
-      <link>https://x.com/demishassabis/status/2051748020488708462</link>
-      <guid isPermaLink="false">2051748020488708462</guid>
-      <pubDate>Tue, 05 May 2026 19:37:02 +0000</pubDate>
-      <description><![CDATA[RT @googlegemma: Gemma 4 just got even faster!
-
-We're releasing Multi-Token Prediction (MTP) drafters that deliver up to a 3x speedup, with…
-
----
-@demishassabis | ❤️ 0 | 🔁 54 | 💬 0 | 👁 3]]></description>
-      <author>@demishassabis</author>
-    </item>
-    <item>
-      <title>Grok 4.3</title>
-      <link>https://x.com/elonmusk/status/2051747828201066783</link>
-      <guid isPermaLink="false">2051747828201066783</guid>
-      <pubDate>Tue, 05 May 2026 19:36:16 +0000</pubDate>
-      <description><![CDATA[Grok 4.3
-
----
-@elonmusk | ❤️ 4193 | 🔁 550 | 💬 1287 | 👁 855611]]></description>
-      <author>@elonmusk</author>
+@levelsio | ❤️ 109 | 🔁 4 | 💬 12 | 👁 16750]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
