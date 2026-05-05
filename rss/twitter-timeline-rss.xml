@@ -5,69 +5,135 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 May 2026 19:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:00:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Added these drone prongs that are in front of many Ukrainian drones, and on touch they blow up
+      <title>RT @Ronald_vanLoon: Spot Gets Smarter with Gemini #AI
+by @BostonDynamics
 
-They...</title>
-      <link>https://x.com/levelsio/status/2051744881148821880</link>
-      <guid isPermaLink="false">2051744881148821880</guid>
-      <pubDate>Tue, 05 May 2026 19:24:33 +0000</pubDate>
-      <description><![CDATA[Added these drone prongs that are in front of many Ukrainian drones, and on touch they blow up
+#Robotics #Engineering #Ar...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051753930007228908</link>
+      <guid isPermaLink="false">2051753930007228908</guid>
+      <pubDate>Tue, 05 May 2026 20:00:31 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Spot Gets Smarter with Gemini #AI
+by @BostonDynamics
 
-They're very precise and I tested it a lot so you can fly inside buildings carefully but the moment you touch the wall 💥 BOOM
-
-Also added a proximity sound like peep peep peep PEEPPPPPPP
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Techn…
 
 ---
-@levelsio | ❤️ 8 | 🔁 1 | 💬 2 | 👁 1908]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>It's @theannalux</title>
+      <link>https://x.com/levelsio/status/2051753320490922483</link>
+      <guid isPermaLink="false">2051753320490922483</guid>
+      <pubDate>Tue, 05 May 2026 19:58:05 +0000</pubDate>
+      <description><![CDATA[It's @theannalux
+
+---
+@levelsio | ❤️ 2 | 🔁 0 | 💬 0 | 👁 552]]></description>
       <author>@levelsio</author>
     </item>
     <item>
-      <title>China’s Hyper-#Automated Auto Plants: One Car Every 30 Seconds Rolls Off the Line
-by @Eng_china5
+      <title>People ask me what my AI agent team does.
 
-#R...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051744520530719033</link>
-      <guid isPermaLink="false">2051744520530719033</guid>
-      <pubDate>Tue, 05 May 2026 19:23:07 +0000</pubDate>
-      <description><![CDATA[China’s Hyper-#Automated Auto Plants: One Car Every 30 Seconds Rolls Off the Line
-by @Eng_china5
+The reality is that it is incredibly horizontal, incredib...</title>
+      <link>https://x.com/alliekmiller/status/2051753244813332704</link>
+      <guid isPermaLink="false">2051753244813332704</guid>
+      <pubDate>Tue, 05 May 2026 19:57:47 +0000</pubDate>
+      <description><![CDATA[People ask me what my AI agent team does.
 
-#Robotics #EmergingTech #Innovation #Technology https://t.co/LWot8ymHwq
+The reality is that it is incredibly horizontal, incredibly open and flexible, and fully driven by a flywheel of verbalized, documented, and reviewed goals-context-decisions.
+
+See example prompt below. 
+
+(And though a bit needy, it worked.)
+
+In the span of 10m49s, Simon and the crew reviewed my calendar, slack, gmail, and recent fireflies recordings. 
+
+They completed 11 tasks in parallel (emails, documents, workshop agenda), set up 5 auditors (that don't need me) to track projects in progress, and suggested 2 meetings to move off my calendar. 
+
+...and people are still using ChatGPT like Google.
+
+My current agent infra: I have one CoS named Simon, an assistant for Simon to document and memorialize, 6 named directors/avengers, 20+ unnamed but pre-specified subagents/sidekicks managed by the directors, and unlimited civilians spawned by Simon or the directors/avengers).
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 84]]></description>
+@alliekmiller | ❤️ 2 | 🔁 0 | 💬 2 | 👁 131]]></description>
+      <author>@alliekmiller</author>
+    </item>
+    <item>
+      <title>Advanced health monitoring, a pair of spacesuit checks, and @SpaceX cargo mission preparations kept ...</title>
+      <link>https://x.com/Space_Station/status/2051752148233273441</link>
+      <guid isPermaLink="false">2051752148233273441</guid>
+      <pubDate>Tue, 05 May 2026 19:53:26 +0000</pubDate>
+      <description><![CDATA[Advanced health monitoring, a pair of spacesuit checks, and @SpaceX cargo mission preparations kept the Expedition 74 crew busy on Tuesday. More... https://t.co/lR8Dfsmzi5 https://t.co/8hTdhxVcaP
+
+---
+@Space_Station | ❤️ 26 | 🔁 3 | 💬 3 | 👁 3915]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>How to avoid #SupplyChain issues as #Drone and #Robot production increases exponentially
+by Cell Pre...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051751045928243600</link>
+      <guid isPermaLink="false">2051751045928243600</guid>
+      <pubDate>Tue, 05 May 2026 19:49:03 +0000</pubDate>
+      <description><![CDATA[How to avoid #SupplyChain issues as #Drone and #Robot production increases exponentially
+by Cell Press @TechXplore_com
+
+Learn more: https://t.co/SndqAxyIOi
+
+#Innovation #EmergingTech #Technology https://t.co/X1xpqQUB62
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 80]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Enron wasn't wrong, just early</title>
-      <link>https://x.com/thenanyu/status/2051741795801780423</link>
-      <guid isPermaLink="false">2051741795801780423</guid>
-      <pubDate>Tue, 05 May 2026 19:12:18 +0000</pubDate>
-      <description><![CDATA[Enron wasn't wrong, just early
+      <title>ComboStoc
+
+Combinatorial Stochasticity for Diffusion Generative Models
+
+paper: https://t.co/Y3s1IkKx...</title>
+      <link>https://x.com/_akhaliq/status/2051749021182517317</link>
+      <guid isPermaLink="false">2051749021182517317</guid>
+      <pubDate>Tue, 05 May 2026 19:41:00 +0000</pubDate>
+      <description><![CDATA[ComboStoc
+
+Combinatorial Stochasticity for Diffusion Generative Models
+
+paper: https://t.co/Y3s1IkKxjF https://t.co/Fpe2FMTpFc
 
 ---
-@thenanyu | ❤️ 1 | 🔁 0 | 💬 0 | 👁 128]]></description>
-      <author>@thenanyu</author>
+@_akhaliq | ❤️ 6 | 🔁 2 | 💬 2 | 👁 1102]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Use #AI To Learn Anything Faster 
-by @Krishnasagrawal
- 
-#ArtificialIntelligence ...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051739964199649452</link>
-      <guid isPermaLink="false">2051739964199649452</guid>
-      <pubDate>Tue, 05 May 2026 19:05:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Use #AI To Learn Anything Faster 
-by @Krishnasagrawal
- 
-#ArtificialIntelligence #MachineLearning #ML #DL https://t.co/2…
+      <title>RT @googlegemma: Gemma 4 just got even faster!
+
+We're releasing Multi-Token Prediction (MTP) drafter...</title>
+      <link>https://x.com/demishassabis/status/2051748020488708462</link>
+      <guid isPermaLink="false">2051748020488708462</guid>
+      <pubDate>Tue, 05 May 2026 19:37:02 +0000</pubDate>
+      <description><![CDATA[RT @googlegemma: Gemma 4 just got even faster!
+
+We're releasing Multi-Token Prediction (MTP) drafters that deliver up to a 3x speedup, with…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@demishassabis | ❤️ 0 | 🔁 54 | 💬 0 | 👁 3]]></description>
+      <author>@demishassabis</author>
+    </item>
+    <item>
+      <title>Grok 4.3</title>
+      <link>https://x.com/elonmusk/status/2051747828201066783</link>
+      <guid isPermaLink="false">2051747828201066783</guid>
+      <pubDate>Tue, 05 May 2026 19:36:16 +0000</pubDate>
+      <description><![CDATA[Grok 4.3
+
+---
+@elonmusk | ❤️ 4193 | 🔁 550 | 💬 1287 | 👁 855611]]></description>
+      <author>@elonmusk</author>
     </item>
   </channel>
 </rss>
