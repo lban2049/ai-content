@@ -5,135 +5,280 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 14:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:01:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Here's my new post with my honest opinions on OpenClaw, Hermes, Claude Code, Codex, and Gemini as yo...</title>
-      <link>https://x.com/petergyang/status/2052031581641224484</link>
-      <guid isPermaLink="false">2052031581641224484</guid>
-      <pubDate>Wed, 06 May 2026 14:23:48 +0000</pubDate>
-      <description><![CDATA[Here's my new post with my honest opinions on OpenClaw, Hermes, Claude Code, Codex, and Gemini as your personal agent. 
+      <title>Three months ago, Codex was trash for knowledge work. I said that on a live call with OpenAI people ...</title>
+      <link>https://x.com/danshipper/status/2052040702058750206</link>
+      <guid isPermaLink="false">2052040702058750206</guid>
+      <pubDate>Wed, 06 May 2026 15:00:03 +0000</pubDate>
+      <description><![CDATA[Three months ago, Codex was trash for knowledge work. I said that on a live call with OpenAI people in the room, and I stand by it.
 
-📌 Read now: https://t.co/MMpuoHrI6h
+It was built for senior engineers, argued with you constantly, and had zero emotional intelligence.
 
-https://t.co/3ZfbYPMVpS
+Now it's my daily driver—for writing, recruiting, deep engineering work, and everything in between.
+
+I chatted with @every's head of growth Austin Tedesco (@tedescau) on AI &amp; I about what changed, and why he now spends 80% of his working time in the Codex desktop app.  
+
+We get into:
+- How Codex went from making Austin feel like an idiot to being the place he goes to get stuff done, including complex tasks like writing go-to-market plans using existing material from Slack, Notion, and meeting transcripts.
+- Why the Codex’s desktop app, which is faster and more reliable than Claude Desktop/Cowork, is the real differentiator.
+- How I source candidates with Codex by having it identify career arcs, not keywords—my go-to move is identifying organizations likely to teach the skills Every needs for a role, and then find candidates from that pool who have since gone on to work in AI.
+
+This is a must-watch for anyone who's wondering whether it’s finally time to give Codex a try.
+
+Watch below!
+
+Timestamps
+How Codex went from a tool for senior engineers to a daily driver for knowledge work: 00:00:57
+How Claude Code proved that a great coding agent works for any knowledge work: 00:02:42
+Austin's switch to Codex: 00:07:24
+How Austin set up Codex with folders, keys, and reviewer agents: 00:13:48
+Using Codex to brainstorm automations across Gmail, Slack, and Notion: 00:18:24
+How Austin manages the human review step when Codex is drafting communications: 00:22:42
+Using Codex to build specialized agents inspired by product executive Claire Vo: 00:28:54
+Synthesizing meeting transcripts and Slack threads into a go-to-market plan: 00:31:09
+Building a live KPI tracker in Notion that agents can read: 00:40:15
+Using Codex for recruiting: 00:44:54
 
 ---
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 267]]></description>
-      <author>@petergyang</author>
+@danshipper | ❤️ 1 | 🔁 0 | 💬 0 | 👁 40]]></description>
+      <author>@danshipper</author>
     </item>
     <item>
-      <title>China’s 29-Hour Construction Miracle: An Entire 11-Storey Building
-by @Arcfunmi
+      <title>RT @Ronald_vanLoon: Ultra-Precise #Robot Arm Powered by Custom Software Redefines Industrial #Automa...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052040231461826761</link>
+      <guid isPermaLink="false">2052040231461826761</guid>
+      <pubDate>Wed, 06 May 2026 14:58:10 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Ultra-Precise #Robot Arm Powered by Custom Software Redefines Industrial #Automation
+by @olekstepanenko
 
-#TechForGood #Techn...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052031430180343983</link>
-      <guid isPermaLink="false">2052031430180343983</guid>
-      <pubDate>Wed, 06 May 2026 14:23:12 +0000</pubDate>
-      <description><![CDATA[China’s 29-Hour Construction Miracle: An Entire 11-Storey Building
-by @Arcfunmi
-
-#TechForGood #Technology #Innovation #EmergingTech https://t.co/Xfvum2EMx5
+#Robotics #Art…
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 79]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>The tldr:
-
-→ OpenClaw: Most flexible but breaks too often
-
-→ Hermes: Seems more reliable than OpenCl...</title>
-      <link>https://x.com/petergyang/status/2052030226616680919</link>
-      <guid isPermaLink="false">2052030226616680919</guid>
-      <pubDate>Wed, 06 May 2026 14:18:25 +0000</pubDate>
-      <description><![CDATA[The tldr:
-
-→ OpenClaw: Most flexible but breaks too often
-
-→ Hermes: Seems more reliable than OpenClaw so far
-
-→ Claude Code: Love Opus' personality but 98% uptime isn't great
-
-→ Codex: Best desktop app, GPT 5.5 is great, but no mobile is a deal breaker
-
-→ Gemini: Should be winning this race honestly but still missing basic features like editing Google Docs from the Gemini app.
-
-These are just my opinions. Read the post for more pros and cons of each option: https://t.co/JlEeBXNIQR
+      <title>I was talking with @josephruscio on the @heavybit podcast the other day when I realized that vibe co...</title>
+      <link>https://x.com/simonw/status/2052040005275779552</link>
+      <guid isPermaLink="false">2052040005275779552</guid>
+      <pubDate>Wed, 06 May 2026 14:57:16 +0000</pubDate>
+      <description><![CDATA[I was talking with @josephruscio on the @heavybit podcast the other day when I realized that vibe coding and agentic engineering have started to blur a bit in some of my work - I published some extracts from the transcript https://t.co/evxoG06Vpa
 
 ---
-@petergyang | ❤️ 1 | 🔁 0 | 💬 0 | 👁 354]]></description>
-      <author>@petergyang</author>
+@simonw | ❤️ 3 | 🔁 0 | 💬 0 | 👁 307]]></description>
+      <author>@simonw</author>
     </item>
     <item>
-      <title>I've spent way too long testing OpenClaw, Hermes, Claude Code, Codex, and Gemini as my personal agen...</title>
-      <link>https://x.com/petergyang/status/2052030213861879894</link>
-      <guid isPermaLink="false">2052030213861879894</guid>
-      <pubDate>Wed, 06 May 2026 14:18:22 +0000</pubDate>
-      <description><![CDATA[I've spent way too long testing OpenClaw, Hermes, Claude Code, Codex, and Gemini as my personal agent.
-
-The truth is, nobody has won this race yet.
-
-Here's my new deep dive with my honest take on where each product stands, plus the personal agent stack I use right now.
-
-📌 Read now: https://t.co/JlEeBXNIQR
+      <title>Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGrfUX
+Apple
+https://t.co/0AdZ1ZteOV
+YouTu...</title>
+      <link>https://x.com/OpenAI/status/2052039804288946368</link>
+      <guid isPermaLink="false">2052039804288946368</guid>
+      <pubDate>Wed, 06 May 2026 14:56:29 +0000</pubDate>
+      <description><![CDATA[Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGrfUX
+Apple
+https://t.co/0AdZ1ZteOV
+YouTube
+https://t.co/icUCRg2a2o
 
 ---
-@petergyang | ❤️ 9 | 🔁 0 | 💬 5 | 👁 890]]></description>
-      <author>@petergyang</author>
+@OpenAI | ❤️ 12 | 🔁 0 | 💬 2 | 👁 3916]]></description>
+      <author>@OpenAI</author>
     </item>
     <item>
-      <title>看介绍视频是完成度不错的一款 agent matrix based harness product</title>
-      <link>https://x.com/turingou/status/2052029314695348703</link>
-      <guid isPermaLink="false">2052029314695348703</guid>
-      <pubDate>Wed, 06 May 2026 14:14:48 +0000</pubDate>
-      <description><![CDATA[看介绍视频是完成度不错的一款 agent matrix based harness product
+      <title>AI supercomputers need a new kind of network to stay in sync at massive scale.
+
+OpenAI’s @markjhandl...</title>
+      <link>https://x.com/OpenAI/status/2052039800384057348</link>
+      <guid isPermaLink="false">2052039800384057348</guid>
+      <pubDate>Wed, 06 May 2026 14:56:28 +0000</pubDate>
+      <description><![CDATA[AI supercomputers need a new kind of network to stay in sync at massive scale.
+
+OpenAI’s @markjhandley and @poyntingatgreg join @AndrewMayne to discuss what it takes to move data across record numbers of chips reliably and efficiently, the new Multipath Reliable Connection (MRC) networking protocol, and why it's available for the whole industry to use.
 
 ---
-@turingou | ❤️ 6 | 🔁 0 | 💬 0 | 👁 2191]]></description>
-      <author>@turingou</author>
+@OpenAI | ❤️ 112 | 🔁 12 | 💬 21 | 👁 9974]]></description>
+      <author>@OpenAI</author>
     </item>
     <item>
-      <title>RT @sdamico: Continuous-video agents (computer use, robotics, static scenes) burn compute re-ingesti...</title>
-      <link>https://x.com/swyx/status/2052029093793902613</link>
-      <guid isPermaLink="false">2052029093793902613</guid>
-      <pubDate>Wed, 06 May 2026 14:13:55 +0000</pubDate>
-      <description><![CDATA[RT @sdamico: Continuous-video agents (computer use, robotics, static scenes) burn compute re-ingesting pixels that didn't move.
+      <title>1 year at @FPVventures already.. time is simply flying. 
 
-VLMaxxing…
+Thankful to the team - this is the most fu...</title>
+      <link>https://x.com/nikunj/status/2052039292600627383</link>
+      <guid isPermaLink="false">2052039292600627383</guid>
+      <pubDate>Wed, 06 May 2026 14:54:27 +0000</pubDate>
+      <description><![CDATA[1 year at @FPVventures already.. time is simply flying. 
+
+Thankful to the team - this is the most fun I’ve had in years. 
+
+Thankful to our LPs - who give us the trust (and capital) that we don’t take lightly. 
+
+And most importantly, thankful to all the founders who give us the privilege to work with them. It’s easily the most fulfilling part of this job. 
+
+It’s not all glory though - I’m still struggling, still learning. Sharing some excerpts of a much longer note that I shared with my closest confidants earlier this week. 
+
+To an abundant era 🙏
 
 ---
-@swyx | ❤️ 0 | 🔁 33 | 💬 0 | 👁 0]]></description>
+@nikunj | ❤️ 5 | 🔁 0 | 💬 1 | 👁 221]]></description>
+      <author>@nikunj</author>
+    </item>
+    <item>
+      <title>I would feel judged for doing donuts in this thing</title>
+      <link>https://x.com/nickbaumann_/status/2052037808941089214</link>
+      <guid isPermaLink="false">2052037808941089214</guid>
+      <pubDate>Wed, 06 May 2026 14:48:33 +0000</pubDate>
+      <description><![CDATA[I would feel judged for doing donuts in this thing
+
+---
+@nickbaumann_ | ❤️ 2 | 🔁 0 | 💬 0 | 👁 187]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>yep, we are about to live in a world where nobody trusts anything.
+
+just like Putin always wanted.
+
+...</title>
+      <link>https://x.com/GaryMarcus/status/2052036179730870600</link>
+      <guid isPermaLink="false">2052036179730870600</guid>
+      <pubDate>Wed, 06 May 2026 14:42:04 +0000</pubDate>
+      <description><![CDATA[yep, we are about to live in a world where nobody trusts anything.
+
+just like Putin always wanted.
+
+congratulations!
+
+ps it will suck
+
+---
+@GaryMarcus | ❤️ 31 | 🔁 6 | 💬 9 | 👁 4857]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>这两天 AI 用得太猛，把自用的一个 App 搞到几乎不能用…究其原因，除了多线并行+手工验收外，还有一个重要原因是觉得是自用，随意点也没事，结果失控了。幸好还有一个正面例子，那就是给一个上架的 Ap...</title>
+      <link>https://x.com/tualatrix/status/2052036044816789967</link>
+      <guid isPermaLink="false">2052036044816789967</guid>
+      <pubDate>Wed, 06 May 2026 14:41:32 +0000</pubDate>
+      <description><![CDATA[这两天 AI 用得太猛，把自用的一个 App 搞到几乎不能用…究其原因，除了多线并行+手工验收外，还有一个重要原因是觉得是自用，随意点也没事，结果失控了。幸好还有一个正面例子，那就是给一个上架的 App 修复了一个重要问题。发布产品还是很重要的，即使只有一个用户，都意味着要负责，就不会随意搞。
+
+---
+@tualatrix | ❤️ 9 | 🔁 0 | 💬 3 | 👁 679]]></description>
+      <author>@tualatrix</author>
+    </item>
+    <item>
+      <title>The last sentence in this abstract is really important, in a way that professional programmers will ...</title>
+      <link>https://x.com/GaryMarcus/status/2052035943121785158</link>
+      <guid isPermaLink="false">2052035943121785158</guid>
+      <pubDate>Wed, 06 May 2026 14:41:08 +0000</pubDate>
+      <description><![CDATA[The last sentence in this abstract is really important, in a way that professional programmers will immediately recognize: the models favored big single files rather than breaking things into modules.
+
+That means that the code these systems write is going to be really hard to maintain. 
+
+AI code might get written quickly, but especially in new, complex projects, fixing it will be hell.
+
+---
+@GaryMarcus | ❤️ 9 | 🔁 2 | 💬 3 | 👁 1528]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>Legal stuff:
+
+Commodity perpetual futures are available only to users in eligible jurisdictions and ...</title>
+      <link>https://x.com/coinbase/status/2052034506572349821</link>
+      <guid isPermaLink="false">2052034506572349821</guid>
+      <pubDate>Wed, 06 May 2026 14:35:25 +0000</pubDate>
+      <description><![CDATA[Legal stuff:
+
+Commodity perpetual futures are available only to users in eligible jurisdictions and are offered by Coinbase Bermuda Ltd., a Class F entity licensed by the Bermuda Monetary Authority. All trading and investment strategies involve risk, including loss of capital, and may not be suitable for everyone.
+
+---
+@coinbase | ❤️ 8 | 🔁 1 | 💬 4 | 👁 7442]]></description>
+      <author>@coinbase</author>
+    </item>
+    <item>
+      <title>Find out more ↓
+
+https://t.co/Hgn76OpwHH</title>
+      <link>https://x.com/coinbase/status/2052034504781369736</link>
+      <guid isPermaLink="false">2052034504781369736</guid>
+      <pubDate>Wed, 06 May 2026 14:35:25 +0000</pubDate>
+      <description><![CDATA[Find out more ↓
+
+https://t.co/Hgn76OpwHH
+
+---
+@coinbase | ❤️ 13 | 🔁 0 | 💬 5 | 👁 14349]]></description>
+      <author>@coinbase</author>
+    </item>
+    <item>
+      <title>Gold &amp;amp; silver perps are live on Coinbase.
+
+Bringing traditional stores-of-value to our most ...</title>
+      <link>https://x.com/coinbase/status/2052034503120433381</link>
+      <guid isPermaLink="false">2052034503120433381</guid>
+      <pubDate>Wed, 06 May 2026 14:35:25 +0000</pubDate>
+      <description><![CDATA[Gold &amp;amp; silver perps are live on Coinbase.
+
+Bringing traditional stores-of-value to our most advanced and secure trading infrastructure.
+
+With 24/7 gold &amp;amp; silver US futures coming soon. https://t.co/8uCyU7XPjI
+
+---
+@coinbase | ❤️ 106 | 🔁 12 | 💬 28 | 👁 11150]]></description>
+      <author>@coinbase</author>
+    </item>
+    <item>
+      <title>truly scary: anybody, no matter how noble, can be destroyed by misused AI.</title>
+      <link>https://x.com/GaryMarcus/status/2052034124748312704</link>
+      <guid isPermaLink="false">2052034124748312704</guid>
+      <pubDate>Wed, 06 May 2026 14:33:54 +0000</pubDate>
+      <description><![CDATA[truly scary: anybody, no matter how noble, can be destroyed by misused AI.
+
+---
+@GaryMarcus | ❤️ 14 | 🔁 5 | 💬 2 | 👁 1594]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>https://t.co/49ipRdUICp</title>
+      <link>https://x.com/swyx/status/2052033919013560824</link>
+      <guid isPermaLink="false">2052033919013560824</guid>
+      <pubDate>Wed, 06 May 2026 14:33:05 +0000</pubDate>
+      <description><![CDATA[https://t.co/49ipRdUICp
+
+---
+@swyx | ❤️ 0 | 🔁 0 | 💬 0 | 👁 571]]></description>
       <author>@swyx</author>
     </item>
     <item>
-      <title>And don’t forget to pre-register for the main event 👇
-https://t.co/vsjcfeIvjg</title>
-      <link>https://x.com/binance/status/2052027285969289266</link>
-      <guid isPermaLink="false">2052027285969289266</guid>
-      <pubDate>Wed, 06 May 2026 14:06:44 +0000</pubDate>
-      <description><![CDATA[And don’t forget to pre-register for the main event 👇
-https://t.co/vsjcfeIvjg
+      <title>New fun thing I did to secure my VPS even further
+
+I installed @Cloudflare Tunnel, many of you recom...</title>
+      <link>https://x.com/levelsio/status/2052033385778823436</link>
+      <guid isPermaLink="false">2052033385778823436</guid>
+      <pubDate>Wed, 06 May 2026 14:30:58 +0000</pubDate>
+      <description><![CDATA[New fun thing I did to secure my VPS even further
+
+I installed @Cloudflare Tunnel, many of you recommended me this
+
+I already had 443 inbound firewall limited to Cloudflare's IP range, but this is even better
+
+Cloudflare Tunnel is outbound, which means it connects from your server to Cloudflare, and keeps the connection active, then if someone opens your site, Cloudflare sends you the package via the tunnel and your server responds
+
+Then you can block ALL inbound traffic on your firewall (in my case the Hetzner firewall in the dashboard), so now NOBODY can ever access my server, only Cloudflare and Tailscale (which is my own subnet which just my server and my laptop on it)
+
+You can just ask AI to set it up on the server etc., very easy
 
 ---
-@binance | ❤️ 14 | 🔁 1 | 💬 4 | 👁 11237]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: Differences Between Additive Manufacturing and Large-Scale Manufacturing 
-by @an...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052026277884760208</link>
-      <guid isPermaLink="false">2052026277884760208</guid>
-      <pubDate>Wed, 06 May 2026 14:02:44 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Differences Between Additive Manufacturing and Large-Scale Manufacturing 
-by @antgrasso
- 
-#Innovation #EmergingTech #Te…
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@levelsio | ❤️ 103 | 🔁 1 | 💬 13 | 👁 10718]]></description>
+      <author>@levelsio</author>
     </item>
   </channel>
 </rss>
