@@ -5,84 +5,90 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 06:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 07:00:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Exoskeleton Suit Giving Mobility to the Handicapped
-by @MarchUnofficial
-  
-#Engineering #ArtificialI...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051910693369040980</link>
-      <guid isPermaLink="false">2051910693369040980</guid>
-      <pubDate>Wed, 06 May 2026 06:23:26 +0000</pubDate>
-      <description><![CDATA[Exoskeleton Suit Giving Mobility to the Handicapped
-by @MarchUnofficial
-  
-#Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/EC7jNo2fWR
+      <title>Security isn’t optional in an AI world. 
+
+It’s infrastructure.</title>
+      <link>https://x.com/binance/status/2051919896066568691</link>
+      <guid isPermaLink="false">2051919896066568691</guid>
+      <pubDate>Wed, 06 May 2026 07:00:00 +0000</pubDate>
+      <description><![CDATA[Security isn’t optional in an AI world. 
+
+It’s infrastructure.
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 67]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RFKjr == Lyssenko</title>
-      <link>https://x.com/ylecun/status/2051909244102869082</link>
-      <guid isPermaLink="false">2051909244102869082</guid>
-      <pubDate>Wed, 06 May 2026 06:17:41 +0000</pubDate>
-      <description><![CDATA[RFKjr == Lyssenko
-
----
-@ylecun | ❤️ 20 | 🔁 2 | 💬 4 | 👁 2688]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>opening Binance every 2 seconds, trying to remember what I came for..</title>
-      <link>https://x.com/binance/status/2051907164147499497</link>
-      <guid isPermaLink="false">2051907164147499497</guid>
-      <pubDate>Wed, 06 May 2026 06:09:25 +0000</pubDate>
-      <description><![CDATA[opening Binance every 2 seconds, trying to remember what I came for..
-
----
-@binance | ❤️ 244 | 🔁 16 | 💬 138 | 👁 13221]]></description>
+@binance | ❤️ 0 | 🔁 0 | 💬 0 | 👁 12]]></description>
       <author>@binance</author>
     </item>
     <item>
-      <title>RT @MarioNawfal: 🇺🇸 Rogan and Chamath just nailed why Elon doesn't care what you think about him.
-
-H...</title>
-      <link>https://x.com/elonmusk/status/2051905761354338801</link>
-      <guid isPermaLink="false">2051905761354338801</guid>
-      <pubDate>Wed, 06 May 2026 06:03:50 +0000</pubDate>
-      <description><![CDATA[RT @MarioNawfal: 🇺🇸 Rogan and Chamath just nailed why Elon doesn't care what you think about him.
-
-He's not playing defense. He's not manag…
+      <title>RT @claudeai: New for financial services: ready-to-run Claude agent templates for building pitches, ...</title>
+      <link>https://x.com/noahzweben/status/2051919634375565657</link>
+      <guid isPermaLink="false">2051919634375565657</guid>
+      <pubDate>Wed, 06 May 2026 06:58:58 +0000</pubDate>
+      <description><![CDATA[RT @claudeai: New for financial services: ready-to-run Claude agent templates for building pitches, conducting valuation reviews, closing t…
 
 ---
-@elonmusk | ❤️ 0 | 🔁 131 | 💬 0 | 👁 34]]></description>
-      <author>@elonmusk</author>
+@noahzweben | ❤️ 0 | 🔁 2075 | 💬 0 | 👁 0]]></description>
+      <author>@noahzweben</author>
     </item>
     <item>
-      <title>Merci! imsg 0.6 + 0.7 are live
+      <title>RT @browser_use: Hermes agent just gained a new skill: browser-harness
 
-🔵 Private API bridge landed
-📡 Watch/history reliability fixes
-💬 Bett...</title>
-      <link>https://x.com/steipete/status/2051905175355351440</link>
-      <guid isPermaLink="false">2051905175355351440</guid>
-      <pubDate>Wed, 06 May 2026 06:01:31 +0000</pubDate>
-      <description><![CDATA[Merci! imsg 0.6 + 0.7 are live
+Now, Hermes agent has: 
+&amp...</title>
+      <link>https://x.com/gregpr07/status/2051919323979976887</link>
+      <guid isPermaLink="false">2051919323979976887</guid>
+      <pubDate>Wed, 06 May 2026 06:57:44 +0000</pubDate>
+      <description><![CDATA[RT @browser_use: Hermes agent just gained a new skill: browser-harness
 
-🔵 Private API bridge landed
-📡 Watch/history reliability fixes
-💬 Better chat + account diagnostics
-🛠️ Long fallback messages decode correctly
-
-Private APIs, public receipts.
-https://t.co/kbJOIDo17p
+Now, Hermes agent has: 
+&amp;gt; self-improving browser tools 
+&amp;gt; parallel…
 
 ---
-@steipete | ❤️ 28 | 🔁 3 | 💬 1 | 👁 6247]]></description>
-      <author>@steipete</author>
+@gregpr07 | ❤️ 0 | 🔁 48 | 💬 0 | 👁 0]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>Magnetic Camera Rigs Revolutionize Real-Speed Car Chase Filming in China
+by @Rainmaker1973
+
+#Innovat...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051919173719089487</link>
+      <guid isPermaLink="false">2051919173719089487</guid>
+      <pubDate>Wed, 06 May 2026 06:57:08 +0000</pubDate>
+      <description><![CDATA[Magnetic Camera Rigs Revolutionize Real-Speed Car Chase Filming in China
+by @Rainmaker1973
+
+#Innovation #EmergingTech #Technology https://t.co/IHSXsJHEpm
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 34]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Chinese models are getting really close for browser use tasks</title>
+      <link>https://x.com/gregpr07/status/2051919098301325791</link>
+      <guid isPermaLink="false">2051919098301325791</guid>
+      <pubDate>Wed, 06 May 2026 06:56:50 +0000</pubDate>
+      <description><![CDATA[Chinese models are getting really close for browser use tasks
+
+---
+@gregpr07 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 30]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>When @Superhuman CLI?</title>
+      <link>https://x.com/gregpr07/status/2051918660353081616</link>
+      <guid isPermaLink="false">2051918660353081616</guid>
+      <pubDate>Wed, 06 May 2026 06:55:06 +0000</pubDate>
+      <description><![CDATA[When @Superhuman CLI?
+
+---
+@gregpr07 | ❤️ 1 | 🔁 0 | 💬 0 | 👁 69]]></description>
+      <author>@gregpr07</author>
     </item>
   </channel>
 </rss>
