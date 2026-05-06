@@ -5,99 +5,75 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 04:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:00:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bleh.  Talks.  But dishes also works.  The keynotes are like a multicourse tasting menu!</title>
-      <link>https://x.com/JeffDean/status/2051881201926127702</link>
-      <guid isPermaLink="false">2051881201926127702</guid>
-      <pubDate>Wed, 06 May 2026 04:26:15 +0000</pubDate>
-      <description><![CDATA[Bleh.  Talks.  But dishes also works.  The keynotes are like a multicourse tasting menu!
+      <title>一个月前，Slack 关了大中华区所有 workspace。
+消息记录、文件、频道里积累的所有决策上下文全部无法访问，90天后永久删除。官方连基本的数据备份和下载服务都不提供。
+这件事也让我认真思考一...</title>
+      <link>https://x.com/oran_ge/status/2051889623442563312</link>
+      <guid isPermaLink="false">2051889623442563312</guid>
+      <pubDate>Wed, 06 May 2026 04:59:43 +0000</pubDate>
+      <description><![CDATA[一个月前，Slack 关了大中华区所有 workspace。
+消息记录、文件、频道里积累的所有决策上下文全部无法访问，90天后永久删除。官方连基本的数据备份和下载服务都不提供。
+这件事也让我认真思考一个问题：AI native 时代，我们今天还需要 Slack 吗？
+
+与此同时，4月很多 AI native workspace 涌出水面，大家的切入点各有不同。
+不过很有意思的是，新的这些 Workspace 似乎都在想办法取代 Slack+Linear+Notion 的组合。
+有的更像 Slack，有的更像 Linear，有的更像 Notion。有的 2B 有的 2C，昨天也跟大家分享了一些第一印象。
+
+总体而言大部分产品还处在相当早期的阶段，相对比较成熟的是 Tanka，适合团队协作也适合一人公司使用。
+协作方面，它有团队沟通聊天功能，可以平替 Slack。
+Agent 方面，自带 Agent 能直接做事情，也能调用团队的上下文。
+连接方面，还能连 Google 全家桶、Notion 等外部工具作为上下文。
+官方还贴心地做了 Slack to Tanka 的迁移。
+
+如果有需要，可以试试看。
+
+用我的邀请链接注册，可以获得价值 $29 Plus plan： https://t.co/OETn0tcps9
 
 ---
-@JeffDean | ❤️ 2 | 🔁 0 | 💬 0 | 👁 299]]></description>
-      <author>@JeffDean</author>
+@oran_ge | ❤️ 0 | 🔁 0 | 💬 0 | 👁 9]]></description>
+      <author>@oran_ge</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: #AI smart glasses will help visually impaired runners take on the London Maratho...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051878622734975119</link>
-      <guid isPermaLink="false">2051878622734975119</guid>
-      <pubDate>Wed, 06 May 2026 04:16:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #AI smart glasses will help visually impaired runners take on the London Marathon
-by Mustakim Hasnath @TechXplore_com…
+      <title>RT @hi_caicai: 朋友最近和我诉苦：
+他们团队人人都在用AI，但依然什么都学不会，大事小事还要来问他。
+他说，感觉好像 AI 只是多了一个中转站，终点还是他。
+有些人的问题从来不是没有工具...</title>
+      <link>https://x.com/tualatrix/status/2051885763613409791</link>
+      <guid isPermaLink="false">2051885763613409791</guid>
+      <pubDate>Wed, 06 May 2026 04:44:22 +0000</pubDate>
+      <description><![CDATA[RT @hi_caicai: 朋友最近和我诉苦：
+他们团队人人都在用AI，但依然什么都学不会，大事小事还要来问他。
+他说，感觉好像 AI 只是多了一个中转站，终点还是他。
+有些人的问题从来不是没有工具。
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@Ronald_vanLoon</author>
+@tualatrix | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
+      <author>@tualatrix</author>
     </item>
     <item>
-      <title>RT @boringcompany: TBC is excited to announce the first residential Music City Loop station agreemen...</title>
-      <link>https://x.com/elonmusk/status/2051878087965696291</link>
-      <guid isPermaLink="false">2051878087965696291</guid>
-      <pubDate>Wed, 06 May 2026 04:13:52 +0000</pubDate>
-      <description><![CDATA[RT @boringcompany: TBC is excited to announce the first residential Music City Loop station agreement, serving those living at the beautifu…
+      <title>CodexBar 0.24 is live
+
+🤖 New Windsurf, Codebuff + DeepSeek providers
+👥 Copilot multi-account switchi...</title>
+      <link>https://x.com/steipete/status/2051882417292525950</link>
+      <guid isPermaLink="false">2051882417292525950</guid>
+      <pubDate>Wed, 06 May 2026 04:31:05 +0000</pubDate>
+      <description><![CDATA[CodexBar 0.24 is live
+
+🤖 New Windsurf, Codebuff + DeepSeek providers
+👥 Copilot multi-account switching
+🧹 Opt-in local storage breakdowns
+🔋 Hung Codex RPC + redraw battery drain fixed
+
+Tiny menu bar, ridiculous changelog.
+https://t.co/wHwYvCIoxK
 
 ---
-@elonmusk | ❤️ 0 | 🔁 228 | 💬 0 | 👁 29]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>This Bipedal #Robot Can Moonwalk, Kick, and Move Like a Human
-via @ZappyZappy7
- 
-#Robotics #Emerging...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051877904817025468</link>
-      <guid isPermaLink="false">2051877904817025468</guid>
-      <pubDate>Wed, 06 May 2026 04:13:09 +0000</pubDate>
-      <description><![CDATA[This Bipedal #Robot Can Moonwalk, Kick, and Move Like a Human
-via @ZappyZappy7
- 
-#Robotics #EmergingTech #TechForGood #Innovation #Technology https://t.co/9zhMftTDZ8
-
----
-@Ronald_vanLoon | ❤️ 2 | 🔁 1 | 💬 0 | 👁 108]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>One app for all your AI visual creation &gt;&gt;
-iOS: https://t.co/kzWOw3c6QV
-Android: https://t.co/...</title>
-      <link>https://x.com/Hailuo_AI/status/2051877335960596861</link>
-      <guid isPermaLink="false">2051877335960596861</guid>
-      <pubDate>Wed, 06 May 2026 04:10:53 +0000</pubDate>
-      <description><![CDATA[One app for all your AI visual creation &gt;&gt;
-iOS: https://t.co/kzWOw3c6QV
-Android: https://t.co/2PC89LysfQ
-
----
-@Hailuo_AI | ❤️ 2 | 🔁 0 | 💬 0 | 👁 142]]></description>
-      <author>@Hailuo_AI</author>
-    </item>
-    <item>
-      <title>🚨 BIG UPDATE on Hailuo AI APP
-Update to latest Hailuo AI App v2.10.0 and get instant access to:
-
-👚 O...</title>
-      <link>https://x.com/Hailuo_AI/status/2051877331783004399</link>
-      <guid isPermaLink="false">2051877331783004399</guid>
-      <pubDate>Wed, 06 May 2026 04:10:52 +0000</pubDate>
-      <description><![CDATA[🚨 BIG UPDATE on Hailuo AI APP
-Update to latest Hailuo AI App v2.10.0 and get instant access to:
-
-👚 Outfit Swap
-📸 AI Edit
-🎞️ Film Now
-🕺 Motion Control
-
-Swap your fit. Restore old photos. Add film vibes. Make ANYTHING move.  
-
-Your new vibe, one tap away. 🙌
-
-#MiniMax #Hailuo
-
----
-@Hailuo_AI | ❤️ 14 | 🔁 2 | 💬 1 | 👁 312]]></description>
-      <author>@Hailuo_AI</author>
+@steipete | ❤️ 39 | 🔁 1 | 💬 8 | 👁 4339]]></description>
+      <author>@steipete</author>
     </item>
   </channel>
 </rss>
