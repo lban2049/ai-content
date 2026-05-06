@@ -5,27 +5,114 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 15:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:02:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Three months ago, Codex was trash for knowledge work. I said that on a live call with OpenAI people ...</title>
-      <link>https://x.com/danshipper/status/2052040702058750206</link>
-      <guid isPermaLink="false">2052040702058750206</guid>
-      <pubDate>Wed, 06 May 2026 15:00:03 +0000</pubDate>
-      <description><![CDATA[Three months ago, Codex was trash for knowledge work. I said that on a live call with OpenAI people in the room, and I stand by it.
+      <title>Subquadratic is nothing.
 
-It was built for senior engineers, argued with you constantly, and had zero emotional intelligence.
+Sublogarithmic is where the real money is.</title>
+      <link>https://x.com/tunguz/status/2052056030423482623</link>
+      <guid isPermaLink="false">2052056030423482623</guid>
+      <pubDate>Wed, 06 May 2026 16:00:57 +0000</pubDate>
+      <description><![CDATA[Subquadratic is nothing.
 
-Now it's my daily driver—for writing, recruiting, deep engineering work, and everything in between.
+Sublogarithmic is where the real money is.
 
-I chatted with @every's head of growth Austin Tedesco (@tedescau) on AI &amp; I about what changed, and why he now spends 80% of his working time in the Codex desktop app.  
+---
+@tunguz | ❤️ 0 | 🔁 0 | 💬 0 | 👁 52]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>RT @ClaudeDevs: Code with Claude is happening now!
+
+▪︎ 9:00AM - Keynote 
+▪︎ 10:30AM -  What's new in...</title>
+      <link>https://x.com/claudeai/status/2052055964036063654</link>
+      <guid isPermaLink="false">2052055964036063654</guid>
+      <pubDate>Wed, 06 May 2026 16:00:41 +0000</pubDate>
+      <description><![CDATA[RT @ClaudeDevs: Code with Claude is happening now!
+
+▪︎ 9:00AM - Keynote 
+▪︎ 10:30AM -  What's new in Claude Code
+▪︎ 11:15AM - Building on C…
+
+---
+@claudeai | ❤️ 0 | 🔁 25 | 💬 0 | 👁 0]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>RT @jaesmail: Over the last 10 days, I've almost fully transitioned from a Claude Code-driven busine...</title>
+      <link>https://x.com/danshipper/status/2052055896260579339</link>
+      <guid isPermaLink="false">2052055896260579339</guid>
+      <pubDate>Wed, 06 May 2026 16:00:25 +0000</pubDate>
+      <description><![CDATA[RT @jaesmail: Over the last 10 days, I've almost fully transitioned from a Claude Code-driven business to a Codex-driven business. The app…
+
+---
+@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>I'm at the Claude w/ Code event in San Francisco, and I'll be live blogging the keynote here https:/...</title>
+      <link>https://x.com/simonw/status/2052055655230706032</link>
+      <guid isPermaLink="false">2052055655230706032</guid>
+      <pubDate>Wed, 06 May 2026 15:59:28 +0000</pubDate>
+      <description><![CDATA[I'm at the Claude w/ Code event in San Francisco, and I'll be live blogging the keynote here https://t.co/6U1Amd2XSZ
+
+---
+@simonw | ❤️ 6 | 🔁 0 | 💬 0 | 👁 282]]></description>
+      <author>@simonw</author>
+    </item>
+    <item>
+      <title>PeritasAI Is Bringing Real-Time #AI Intelligence Into the Operating Room
+by @NVIDIARobotics
+
+#Roboti...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052055310450241802</link>
+      <guid isPermaLink="false">2052055310450241802</guid>
+      <pubDate>Wed, 06 May 2026 15:58:06 +0000</pubDate>
+      <description><![CDATA[PeritasAI Is Bringing Real-Time #AI Intelligence Into the Operating Room
+by @NVIDIARobotics
+
+#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/kX2v8mdDLk
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 54]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Spotify: https://t.co/NHfoNjyXeW
+
+YouTube: https://t.co/SrRvI368Xu</title>
+      <link>https://x.com/danshipper/status/2052054081632415942</link>
+      <guid isPermaLink="false">2052054081632415942</guid>
+      <pubDate>Wed, 06 May 2026 15:53:13 +0000</pubDate>
+      <description><![CDATA[Spotify: https://t.co/NHfoNjyXeW
+
+YouTube: https://t.co/SrRvI368Xu
+
+---
+@danshipper | ❤️ 0 | 🔁 0 | 💬 0 | 👁 228]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>Three months ago, Codex was trash for knowledge work. Now it's my daily driver.
+
+I use it for writin...</title>
+      <link>https://x.com/danshipper/status/2052054077656252512</link>
+      <guid isPermaLink="false">2052054077656252512</guid>
+      <pubDate>Wed, 06 May 2026 15:53:12 +0000</pubDate>
+      <description><![CDATA[Three months ago, Codex was trash for knowledge work. Now it's my daily driver.
+
+I use it for writing, recruiting, deep engineering work, and everything in between. It even keeps me at inbox 0.
+
+I chatted with @every's head of growth Austin @tedescau on @every's AI &amp; I about what changed, and why he now spends 80% of his working time in the Codex desktop app too. 
 
 We get into:
 - How Codex went from making Austin feel like an idiot to being the place he goes to get stuff done, including complex tasks like writing go-to-market plans using existing material from Slack, Notion, and meeting transcripts.
 - Why the Codex’s desktop app, which is faster and more reliable than Claude Desktop/Cowork, is the real differentiator.
-- How I source candidates with Codex by having it identify career arcs, not keywords—my go-to move is identifying organizations likely to teach the skills Every needs for a role, and then find candidates from that pool who have since gone on to work in AI.
+- How I source candidates with Codex by having it identify career arcs, not keywords—my go-to move is identifying organizations likely to teach the skills Every needs for a role, and then find candidates from that pool who have since gone on to work in AI. 
 
-This is a must-watch for anyone who's wondering whether it’s finally time to give Codex a try.
+This is a must-watch for anyone who's wondering whether it’s finally time to give Codex a try. 
 
 Watch below!
 
@@ -42,243 +129,389 @@ Building a live KPI tracker in Notion that agents can read: 00:40:15
 Using Codex for recruiting: 00:44:54
 
 ---
-@danshipper | ❤️ 1 | 🔁 0 | 💬 0 | 👁 40]]></description>
+@danshipper | ❤️ 11 | 🔁 0 | 💬 2 | 👁 604]]></description>
       <author>@danshipper</author>
     </item>
     <item>
-      <title>RT @Ronald_vanLoon: Ultra-Precise #Robot Arm Powered by Custom Software Redefines Industrial #Automa...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052040231461826761</link>
-      <guid isPermaLink="false">2052040231461826761</guid>
-      <pubDate>Wed, 06 May 2026 14:58:10 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Ultra-Precise #Robot Arm Powered by Custom Software Redefines Industrial #Automation
-by @olekstepanenko
-
-#Robotics #Art…
+      <title>There are no greater battles than those between our feelings (most importantly controlled by our amy...</title>
+      <link>https://x.com/RayDalio/status/2052054074091094088</link>
+      <guid isPermaLink="false">2052054074091094088</guid>
+      <pubDate>Wed, 06 May 2026 15:53:11 +0000</pubDate>
+      <description><![CDATA[There are no greater battles than those between our feelings (most importantly controlled by our amygdala, which operates subconsciously) and our rational thinking (most importantly controlled by our prefrontal cortex, which operates consciously). If you understand how those battles occur you will understand why it is so important to reconcile what you get from your subconscious with what you get from your conscious mind. #principleoftheday
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+@RayDalio | ❤️ 53 | 🔁 7 | 💬 6 | 👁 5594]]></description>
+      <author>@RayDalio</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Top 9 #Algorithms that Power the Modern World
+by @Python_Dv
+  
+#AI #DataStructur...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052053025083023723</link>
+      <guid isPermaLink="false">2052053025083023723</guid>
+      <pubDate>Wed, 06 May 2026 15:49:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Top 9 #Algorithms that Power the Modern World
+by @Python_Dv
+  
+#AI #DataStructures #ArtificialIntelligence https://t.co…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 4 | 💬 0 | 👁 0]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>I was talking with @josephruscio on the @heavybit podcast the other day when I realized that vibe co...</title>
-      <link>https://x.com/simonw/status/2052040005275779552</link>
-      <guid isPermaLink="false">2052040005275779552</guid>
-      <pubDate>Wed, 06 May 2026 14:57:16 +0000</pubDate>
-      <description><![CDATA[I was talking with @josephruscio on the @heavybit podcast the other day when I realized that vibe coding and agentic engineering have started to blur a bit in some of my work - I published some extracts from the transcript https://t.co/evxoG06Vpa
+      <title>RT @trevin: Created some quick docs for #CompoundEngineering plugin that explains each of the key sk...</title>
+      <link>https://x.com/danshipper/status/2052051689130336298</link>
+      <guid isPermaLink="false">2052051689130336298</guid>
+      <pubDate>Wed, 06 May 2026 15:43:42 +0000</pubDate>
+      <description><![CDATA[RT @trevin: Created some quick docs for #CompoundEngineering plugin that explains each of the key skills: https://t.co/WebaZq88rQ
 
 ---
-@simonw | ❤️ 3 | 🔁 0 | 💬 0 | 👁 307]]></description>
-      <author>@simonw</author>
+@danshipper | ❤️ 0 | 🔁 7 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
     </item>
     <item>
-      <title>Listen to the OpenAI Podcast on—
-Spotify
-https://t.co/hLcRdGrfUX
-Apple
-https://t.co/0AdZ1ZteOV
-YouTu...</title>
-      <link>https://x.com/OpenAI/status/2052039804288946368</link>
-      <guid isPermaLink="false">2052039804288946368</guid>
-      <pubDate>Wed, 06 May 2026 14:56:29 +0000</pubDate>
-      <description><![CDATA[Listen to the OpenAI Podcast on—
-Spotify
-https://t.co/hLcRdGrfUX
-Apple
-https://t.co/0AdZ1ZteOV
-YouTube
-https://t.co/icUCRg2a2o
+      <title>I’ll be at Code with Claude today with @kieranklaassen and @tedescau 
+
+Come say hi!</title>
+      <link>https://x.com/danshipper/status/2052050161388634197</link>
+      <guid isPermaLink="false">2052050161388634197</guid>
+      <pubDate>Wed, 06 May 2026 15:37:38 +0000</pubDate>
+      <description><![CDATA[I’ll be at Code with Claude today with @kieranklaassen and @tedescau 
+
+Come say hi!
 
 ---
-@OpenAI | ❤️ 12 | 🔁 0 | 💬 2 | 👁 3916]]></description>
-      <author>@OpenAI</author>
+@danshipper | ❤️ 8 | 🔁 1 | 💬 1 | 👁 630]]></description>
+      <author>@danshipper</author>
     </item>
     <item>
-      <title>AI supercomputers need a new kind of network to stay in sync at massive scale.
-
-OpenAI’s @markjhandl...</title>
-      <link>https://x.com/OpenAI/status/2052039800384057348</link>
-      <guid isPermaLink="false">2052039800384057348</guid>
-      <pubDate>Wed, 06 May 2026 14:56:28 +0000</pubDate>
-      <description><![CDATA[AI supercomputers need a new kind of network to stay in sync at massive scale.
-
-OpenAI’s @markjhandley and @poyntingatgreg join @AndrewMayne to discuss what it takes to move data across record numbers of chips reliably and efficiently, the new Multipath Reliable Connection (MRC) networking protocol, and why it's available for the whole industry to use.
+      <title>https://t.co/X6Je2DwuoE</title>
+      <link>https://x.com/dotey/status/2052050155570864519</link>
+      <guid isPermaLink="false">2052050155570864519</guid>
+      <pubDate>Wed, 06 May 2026 15:37:36 +0000</pubDate>
+      <description><![CDATA[https://t.co/X6Je2DwuoE
 
 ---
-@OpenAI | ❤️ 112 | 🔁 12 | 💬 21 | 👁 9974]]></description>
-      <author>@OpenAI</author>
+@dotey | ❤️ 11 | 🔁 1 | 💬 2 | 👁 1295]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>1 year at @FPVventures already.. time is simply flying. 
+      <title>RT @9hills: 插件推荐：plannotator
 
-Thankful to the team - this is the most fu...</title>
-      <link>https://x.com/nikunj/status/2052039292600627383</link>
-      <guid isPermaLink="false">2052039292600627383</guid>
-      <pubDate>Wed, 06 May 2026 14:54:27 +0000</pubDate>
-      <description><![CDATA[1 year at @FPVventures already.. time is simply flying. 
+可评论、编辑和共享的 Plan，结合 pi 好用（也支持别的 Agent）。
 
-Thankful to the team - this is the most fun I’ve had in years. 
+基本的工作流程：
+1. /plannotator 实现xxx...</title>
+      <link>https://x.com/dotey/status/2052050136134471770</link>
+      <guid isPermaLink="false">2052050136134471770</guid>
+      <pubDate>Wed, 06 May 2026 15:37:32 +0000</pubDate>
+      <description><![CDATA[RT @9hills: 插件推荐：plannotator
 
-Thankful to our LPs - who give us the trust (and capital) that we don’t take lightly. 
+可评论、编辑和共享的 Plan，结合 pi 好用（也支持别的 Agent）。
 
-And most importantly, thankful to all the founders who give us the privilege to work with them. It’s easily the most fulfilling part of this job. 
-
-It’s not all glory though - I’m still struggling, still learning. Sharing some excerpts of a much longer note that I shared with my closest confidants earlier this week. 
-
-To an abundant era 🙏
+基本的工作流程：
+1. /plannotator 实现xxx功能 
+2. 生成plan，保存到本地并打开一个web评审页面
+3. 类似 C…
 
 ---
-@nikunj | ❤️ 5 | 🔁 0 | 💬 1 | 👁 221]]></description>
-      <author>@nikunj</author>
+@dotey | ❤️ 0 | 🔁 5 | 💬 0 | 👁 13]]></description>
+      <author>@dotey</author>
     </item>
     <item>
-      <title>I would feel judged for doing donuts in this thing</title>
-      <link>https://x.com/nickbaumann_/status/2052037808941089214</link>
-      <guid isPermaLink="false">2052037808941089214</guid>
-      <pubDate>Wed, 06 May 2026 14:48:33 +0000</pubDate>
-      <description><![CDATA[I would feel judged for doing donuts in this thing
+      <title>Got questions for them, drop them below ↓
+
+They’ll answer selected ones live during the AMA on Binan...</title>
+      <link>https://x.com/binance/status/2052047542624608379</link>
+      <guid isPermaLink="false">2052047542624608379</guid>
+      <pubDate>Wed, 06 May 2026 15:27:14 +0000</pubDate>
+      <description><![CDATA[Got questions for them, drop them below ↓
+
+They’ll answer selected ones live during the AMA on Binance.
 
 ---
-@nickbaumann_ | ❤️ 2 | 🔁 0 | 💬 0 | 👁 187]]></description>
-      <author>@nickbaumann_</author>
+@binance | ❤️ 91 | 🔁 3 | 💬 55 | 👁 16646]]></description>
+      <author>@binance</author>
     </item>
     <item>
-      <title>yep, we are about to live in a world where nobody trusts anything.
+      <title>Exclusive fireside chat at Binance Online with Co-CEOs @heyibinance &amp;amp; @_RichardTeng 
 
-just like Putin always wanted.
+They’l...</title>
+      <link>https://x.com/binance/status/2052047538988216491</link>
+      <guid isPermaLink="false">2052047538988216491</guid>
+      <pubDate>Wed, 06 May 2026 15:27:13 +0000</pubDate>
+      <description><![CDATA[Exclusive fireside chat at Binance Online with Co-CEOs @heyibinance &amp;amp; @_RichardTeng 
 
-...</title>
-      <link>https://x.com/GaryMarcus/status/2052036179730870600</link>
-      <guid isPermaLink="false">2052036179730870600</guid>
-      <pubDate>Wed, 06 May 2026 14:42:04 +0000</pubDate>
-      <description><![CDATA[yep, we are about to live in a world where nobody trusts anything.
+They’ll discuss the journey from 300M → 3B users. Plus the infrastructure, products, and the sauce making that scale possible.
 
-just like Putin always wanted.
-
-congratulations!
-
-ps it will suck
+Save your seat now → https://t.co/vsjcfeIvjg https://t.co/yGgJ0pKAL0
 
 ---
-@GaryMarcus | ❤️ 31 | 🔁 6 | 💬 9 | 👁 4857]]></description>
+@binance | ❤️ 221 | 🔁 24 | 💬 85 | 👁 24639]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>Meet the #Robot That Collects Tolls
+by @BrianRoemmele
+  
+#EmergingTech #Innovation #TechForGood #Tec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052046498133623233</link>
+      <guid isPermaLink="false">2052046498133623233</guid>
+      <pubDate>Wed, 06 May 2026 15:23:04 +0000</pubDate>
+      <description><![CDATA[Meet the #Robot That Collects Tolls
+by @BrianRoemmele
+  
+#EmergingTech #Innovation #TechForGood #Technology https://t.co/HaZsl5vEPV
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 192]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @Astro_Jessica: The winding Grand Canyon is simply magical viewed from the @Space_Station. Someti...</title>
+      <link>https://x.com/Space_Station/status/2052044553310343511</link>
+      <guid isPermaLink="false">2052044553310343511</guid>
+      <pubDate>Wed, 06 May 2026 15:15:21 +0000</pubDate>
+      <description><![CDATA[RT @Astro_Jessica: The winding Grand Canyon is simply magical viewed from the @Space_Station. Sometimes these images reverse themselves on…
+
+---
+@Space_Station | ❤️ 0 | 🔁 38 | 💬 0 | 👁 1]]></description>
+      <author>@Space_Station</author>
+    </item>
+    <item>
+      <title>Am I right that hyperscaling compute is the biggest bet in history? 
+
+Any counter examples? 
+
+It’s w...</title>
+      <link>https://x.com/GaryMarcus/status/2052043618509328664</link>
+      <guid isPermaLink="false">2052043618509328664</guid>
+      <pubDate>Wed, 06 May 2026 15:11:38 +0000</pubDate>
+      <description><![CDATA[Am I right that hyperscaling compute is the biggest bet in history? 
+
+Any counter examples? 
+
+It’s way more expensive than the Manhattan Project, the Apollo project, and railways across the US.
+
+If it doesn’t yield AGI, it may also be the biggest failed bet in history.
+
+---
+@GaryMarcus | ❤️ 75 | 🔁 5 | 💬 21 | 👁 2902]]></description>
       <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>这两天 AI 用得太猛，把自用的一个 App 搞到几乎不能用…究其原因，除了多线并行+手工验收外，还有一个重要原因是觉得是自用，随意点也没事，结果失控了。幸好还有一个正面例子，那就是给一个上架的 Ap...</title>
-      <link>https://x.com/tualatrix/status/2052036044816789967</link>
-      <guid isPermaLink="false">2052036044816789967</guid>
-      <pubDate>Wed, 06 May 2026 14:41:32 +0000</pubDate>
-      <description><![CDATA[这两天 AI 用得太猛，把自用的一个 App 搞到几乎不能用…究其原因，除了多线并行+手工验收外，还有一个重要原因是觉得是自用，随意点也没事，结果失控了。幸好还有一个正面例子，那就是给一个上架的 App 修复了一个重要问题。发布产品还是很重要的，即使只有一个用户，都意味着要负责，就不会随意搞。
+      <title>RT @TheHumanoidHub: This is the first time we're seeing the latest generation Boston Dynamics Atlas ...</title>
+      <link>https://x.com/DeepLearn007/status/2052042951463748054</link>
+      <guid isPermaLink="false">2052042951463748054</guid>
+      <pubDate>Wed, 06 May 2026 15:08:59 +0000</pubDate>
+      <description><![CDATA[RT @TheHumanoidHub: This is the first time we're seeing the latest generation Boston Dynamics Atlas in motion.
+
+- Features 56 DoF, with 360…
 
 ---
-@tualatrix | ❤️ 9 | 🔁 0 | 💬 3 | 👁 679]]></description>
-      <author>@tualatrix</author>
+@DeepLearn007 | ❤️ 0 | 🔁 322 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>The last sentence in this abstract is really important, in a way that professional programmers will ...</title>
-      <link>https://x.com/GaryMarcus/status/2052035943121785158</link>
-      <guid isPermaLink="false">2052035943121785158</guid>
-      <pubDate>Wed, 06 May 2026 14:41:08 +0000</pubDate>
-      <description><![CDATA[The last sentence in this abstract is really important, in a way that professional programmers will immediately recognize: the models favored big single files rather than breaking things into modules.
-
-That means that the code these systems write is going to be really hard to maintain. 
-
-AI code might get written quickly, but especially in new, complex projects, fixing it will be hell.
+      <title>RT @azizamtara: #ElhamZeraatpisheh, a defense attorney and a member of the Fars Province Bar Associa...</title>
+      <link>https://x.com/DeepLearn007/status/2052042931435978890</link>
+      <guid isPermaLink="false">2052042931435978890</guid>
+      <pubDate>Wed, 06 May 2026 15:08:54 +0000</pubDate>
+      <description><![CDATA[RT @azizamtara: #ElhamZeraatpisheh, a defense attorney and a member of the Fars Province Bar Association, was arrested on May 4, 2026 in Sh…
 
 ---
-@GaryMarcus | ❤️ 9 | 🔁 2 | 💬 3 | 👁 1528]]></description>
-      <author>@GaryMarcus</author>
+@DeepLearn007 | ❤️ 0 | 🔁 32 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Legal stuff:
+      <title>RT @Kylechasse: Humans are being injected with anti-aging code for the first time.
 
-Commodity perpetual futures are available only to users in eligible jurisdictions and ...</title>
-      <link>https://x.com/coinbase/status/2052034506572349821</link>
-      <guid isPermaLink="false">2052034506572349821</guid>
-      <pubDate>Wed, 06 May 2026 14:35:25 +0000</pubDate>
-      <description><![CDATA[Legal stuff:
+David Sinclair's...</title>
+      <link>https://x.com/DeepLearn007/status/2052042869939024228</link>
+      <guid isPermaLink="false">2052042869939024228</guid>
+      <pubDate>Wed, 06 May 2026 15:08:39 +0000</pubDate>
+      <description><![CDATA[RT @Kylechasse: Humans are being injected with anti-aging code for the first time.
 
-Commodity perpetual futures are available only to users in eligible jurisdictions and are offered by Coinbase Bermuda Ltd., a Class F entity licensed by the Bermuda Monetary Authority. All trading and investment strategies involve risk, including loss of capital, and may not be suitable for everyone.
+David Sinclair's Life Biosciences just got FDA approval…
 
 ---
-@coinbase | ❤️ 8 | 🔁 1 | 💬 4 | 👁 7442]]></description>
-      <author>@coinbase</author>
+@DeepLearn007 | ❤️ 0 | 🔁 63 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Find out more ↓
-
-https://t.co/Hgn76OpwHH</title>
-      <link>https://x.com/coinbase/status/2052034504781369736</link>
-      <guid isPermaLink="false">2052034504781369736</guid>
-      <pubDate>Wed, 06 May 2026 14:35:25 +0000</pubDate>
-      <description><![CDATA[Find out more ↓
-
-https://t.co/Hgn76OpwHH
+      <title>RT @kyronis_talks: 🚨 Scientists Warn: AI Is on the Brink of Darwinian Evolution — Creating Self-Repl...</title>
+      <link>https://x.com/DeepLearn007/status/2052042804553990310</link>
+      <guid isPermaLink="false">2052042804553990310</guid>
+      <pubDate>Wed, 06 May 2026 15:08:24 +0000</pubDate>
+      <description><![CDATA[RT @kyronis_talks: 🚨 Scientists Warn: AI Is on the Brink of Darwinian Evolution — Creating Self-Replicating, Evolving Systems That Could Es…
 
 ---
-@coinbase | ❤️ 13 | 🔁 0 | 💬 5 | 👁 14349]]></description>
-      <author>@coinbase</author>
+@DeepLearn007 | ❤️ 0 | 🔁 78 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>Gold &amp;amp; silver perps are live on Coinbase.
+      <title>RT @NoaMagid: Don’t let her die in the dark.
 
-Bringing traditional stores-of-value to our most ...</title>
-      <link>https://x.com/coinbase/status/2052034503120433381</link>
-      <guid isPermaLink="false">2052034503120433381</guid>
-      <pubDate>Wed, 06 May 2026 14:35:25 +0000</pubDate>
-      <description><![CDATA[Gold &amp;amp; silver perps are live on Coinbase.
+Save Shakila Ghasemi. https://t.co/HDMHPiF1Mk</title>
+      <link>https://x.com/DeepLearn007/status/2052042777945334013</link>
+      <guid isPermaLink="false">2052042777945334013</guid>
+      <pubDate>Wed, 06 May 2026 15:08:18 +0000</pubDate>
+      <description><![CDATA[RT @NoaMagid: Don’t let her die in the dark.
 
-Bringing traditional stores-of-value to our most advanced and secure trading infrastructure.
-
-With 24/7 gold &amp;amp; silver US futures coming soon. https://t.co/8uCyU7XPjI
+Save Shakila Ghasemi. https://t.co/HDMHPiF1Mk
 
 ---
-@coinbase | ❤️ 106 | 🔁 12 | 💬 28 | 👁 11150]]></description>
-      <author>@coinbase</author>
+@DeepLearn007 | ❤️ 0 | 🔁 1249 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>truly scary: anybody, no matter how noble, can be destroyed by misused AI.</title>
-      <link>https://x.com/GaryMarcus/status/2052034124748312704</link>
-      <guid isPermaLink="false">2052034124748312704</guid>
-      <pubDate>Wed, 06 May 2026 14:33:54 +0000</pubDate>
-      <description><![CDATA[truly scary: anybody, no matter how noble, can be destroyed by misused AI.
+      <title>RT @techNmak: Most engineers have seen this formula.
+
+P(A|B) = P(B|A) × P(A) / P(B)
+
+Almost none can...</title>
+      <link>https://x.com/DeepLearn007/status/2052042742348308635</link>
+      <guid isPermaLink="false">2052042742348308635</guid>
+      <pubDate>Wed, 06 May 2026 15:08:09 +0000</pubDate>
+      <description><![CDATA[RT @techNmak: Most engineers have seen this formula.
+
+P(A|B) = P(B|A) × P(A) / P(B)
+
+Almost none can explain what it actually does.
+
+Here's…
 
 ---
-@GaryMarcus | ❤️ 14 | 🔁 5 | 💬 2 | 👁 1594]]></description>
-      <author>@GaryMarcus</author>
+@DeepLearn007 | ❤️ 0 | 🔁 109 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>https://t.co/49ipRdUICp</title>
-      <link>https://x.com/swyx/status/2052033919013560824</link>
-      <guid isPermaLink="false">2052033919013560824</guid>
-      <pubDate>Wed, 06 May 2026 14:33:05 +0000</pubDate>
-      <description><![CDATA[https://t.co/49ipRdUICp
+      <title>RT @nexta_tv: Video from the Austrian pavilion at the Venice Biennale: 
+
+Artist Florentina Holzinger...</title>
+      <link>https://x.com/DeepLearn007/status/2052042697779687678</link>
+      <guid isPermaLink="false">2052042697779687678</guid>
+      <pubDate>Wed, 06 May 2026 15:07:58 +0000</pubDate>
+      <description><![CDATA[RT @nexta_tv: Video from the Austrian pavilion at the Venice Biennale: 
+
+Artist Florentina Holzinger hangs upside down inside a giant bronz…
 
 ---
-@swyx | ❤️ 0 | 🔁 0 | 💬 0 | 👁 571]]></description>
-      <author>@swyx</author>
+@DeepLearn007 | ❤️ 0 | 🔁 3431 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
     <item>
-      <title>New fun thing I did to secure my VPS even further
-
-I installed @Cloudflare Tunnel, many of you recom...</title>
-      <link>https://x.com/levelsio/status/2052033385778823436</link>
-      <guid isPermaLink="false">2052033385778823436</guid>
-      <pubDate>Wed, 06 May 2026 14:30:58 +0000</pubDate>
-      <description><![CDATA[New fun thing I did to secure my VPS even further
-
-I installed @Cloudflare Tunnel, many of you recommended me this
-
-I already had 443 inbound firewall limited to Cloudflare's IP range, but this is even better
-
-Cloudflare Tunnel is outbound, which means it connects from your server to Cloudflare, and keeps the connection active, then if someone opens your site, Cloudflare sends you the package via the tunnel and your server responds
-
-Then you can block ALL inbound traffic on your firewall (in my case the Hetzner firewall in the dashboard), so now NOBODY can ever access my server, only Cloudflare and Tailscale (which is my own subnet which just my server and my laptop on it)
-
-You can just ask AI to set it up on the server etc., very easy
+      <title>商业奇才啊！左撇子铅笔 1 块钱 5 支，右撇子铅笔 20 块钱一支。你看出门道来了吗？ https://t.co/qDsmsuhIk2</title>
+      <link>https://x.com/bearliu/status/2052042212737737076</link>
+      <guid isPermaLink="false">2052042212737737076</guid>
+      <pubDate>Wed, 06 May 2026 15:06:03 +0000</pubDate>
+      <description><![CDATA[商业奇才啊！左撇子铅笔 1 块钱 5 支，右撇子铅笔 20 块钱一支。你看出门道来了吗？ https://t.co/qDsmsuhIk2
 
 ---
-@levelsio | ❤️ 103 | 🔁 1 | 💬 13 | 👁 10718]]></description>
-      <author>@levelsio</author>
+@bearliu | ❤️ 2 | 🔁 0 | 💬 5 | 👁 1749]]></description>
+      <author>@bearliu</author>
+    </item>
+    <item>
+      <title>The shift is simple, but critical:
+
+Move AI closer to where decisions happen.
+
+With Edge Control fro...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052041071626977474</link>
+      <guid isPermaLink="false">2052041071626977474</guid>
+      <pubDate>Wed, 06 May 2026 15:01:31 +0000</pubDate>
+      <description><![CDATA[The shift is simple, but critical:
+
+Move AI closer to where decisions happen.
+
+With Edge Control from @TMobileBusiness:
+→ Ultra-low latency through local data processing
+→ Private-network-like performance with secure data handling
+→ Reliable, near real-time responsiveness for mission-critical applications
+
+All managed through T-Platform, a unified portal that provides a single place to monitor and control every Edge Control deployment at scale.
+
+That’s how AI moves from analysis to execution.
+
+Learn More: https://t.co/7BLgoYkULw
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 104]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Here’s the problem with most AI setups:
+
+→ Data is sent to the cloud
+→ Models process remotely
+→ Dec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052041067772403849</link>
+      <guid isPermaLink="false">2052041067772403849</guid>
+      <pubDate>Wed, 06 May 2026 15:01:30 +0000</pubDate>
+      <description><![CDATA[Here’s the problem with most AI setups:
+
+→ Data is sent to the cloud
+→ Models process remotely
+→ Decisions come back with delay
+
+That delay is latency.
+
+And in operations, latency slows performance, limits responsiveness, and impacts business value.
+
+---
+@Ronald_vanLoon | ❤️ 3 | 🔁 0 | 💬 1 | 👁 144]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>In real operations, speed isn’t a feature.
+It’s the requirement.
+
+Think about:
+→ Manufacturing lines...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052041063213265061</link>
+      <guid isPermaLink="false">2052041063213265061</guid>
+      <pubDate>Wed, 06 May 2026 15:01:29 +0000</pubDate>
+      <description><![CDATA[In real operations, speed isn’t a feature.
+It’s the requirement.
+
+Think about:
+→ Manufacturing lines
+→ Logistics networks
+→ Smart infrastructure
+
+These environments depend on ultra-low latency and real-time responsiveness.
+
+They don’t need insights later.
+They need decisions now.
+
+---
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 66]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Many AI projects don’t fail because of bad models.
+
+They fail because of where the AI runs.
+
+That’s ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052041058486198482</link>
+      <guid isPermaLink="false">2052041058486198482</guid>
+      <pubDate>Wed, 06 May 2026 15:01:28 +0000</pubDate>
+      <description><![CDATA[Many AI projects don’t fail because of bad models.
+
+They fail because of where the AI runs.
+
+That’s the part most teams overlook, and why “working AI” in the lab doesn’t translate into real operations.
+
+Here’s the breakdown…
+
+@TMobileBusiness Partner https://t.co/gsCntYnBQW
+
+---
+@Ronald_vanLoon | ❤️ 9 | 🔁 1 | 💬 1 | 👁 249]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
