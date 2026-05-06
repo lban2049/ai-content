@@ -5,304 +5,389 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 16:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:01:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @omarsar0: arXiv Papers → LLM Artifacts
-
-This is how I keep up with AI research now.
-
-It's like h...</title>
-      <link>https://x.com/dair_ai/status/2052063048316104835</link>
-      <guid isPermaLink="false">2052063048316104835</guid>
-      <pubDate>Wed, 06 May 2026 16:28:50 +0000</pubDate>
-      <description><![CDATA[RT @omarsar0: arXiv Papers → LLM Artifacts
-
-This is how I keep up with AI research now.
-
-It's like having access to the most personalized a…
+      <title>Cursor 3.3 里面可以方便的看 Context 占用情况。看了下我的 Skills 有 6.8 K，有点多了</title>
+      <link>https://x.com/dotey/status/2052069994372997377</link>
+      <guid isPermaLink="false">2052069994372997377</guid>
+      <pubDate>Wed, 06 May 2026 16:56:26 +0000</pubDate>
+      <description><![CDATA[Cursor 3.3 里面可以方便的看 Context 占用情况。看了下我的 Skills 有 6.8 K，有点多了
 
 ---
-@dair_ai | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@dair_ai</author>
-    </item>
-    <item>
-      <title>SVGS
-
-Enhancing Gaussian Splatting Using Primitives with Spatially Varying Colors
-
-paper: https://t....</title>
-      <link>https://x.com/_akhaliq/status/2052062729997873563</link>
-      <guid isPermaLink="false">2052062729997873563</guid>
-      <pubDate>Wed, 06 May 2026 16:27:34 +0000</pubDate>
-      <description><![CDATA[SVGS
-
-Enhancing Gaussian Splatting Using Primitives with Spatially Varying Colors
-
-paper: https://t.co/fcaU4jBI7X https://t.co/lq8VBRSU1I
-
----
-@_akhaliq | ❤️ 0 | 🔁 0 | 💬 0 | 👁 289]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>Hybrid Rescue #Robot: Humanoid with Transformable #Drone for Rapid Emergency Response
-via @ZappyZapp...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052062180514701540</link>
-      <guid isPermaLink="false">2052062180514701540</guid>
-      <pubDate>Wed, 06 May 2026 16:25:23 +0000</pubDate>
-      <description><![CDATA[Hybrid Rescue #Robot: Humanoid with Transformable #Drone for Rapid Emergency Response
-via @ZappyZappy7
- 
-#Robotics #Innovation #EmergingTech #Tech #Technology https://t.co/LqCsdpG6ao
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 52]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @latentspacepod: experiment:
-livetweeting the @AnthropicAI code with claude event!
-
-first up - @k...</title>
-      <link>https://x.com/swyx/status/2052062165117649169</link>
-      <guid isPermaLink="false">2052062165117649169</guid>
-      <pubDate>Wed, 06 May 2026 16:25:20 +0000</pubDate>
-      <description><![CDATA[RT @latentspacepod: experiment:
-livetweeting the @AnthropicAI code with claude event!
-
-first up - @katelyn_lesse and @angjiang on claude pl…
-
----
-@swyx | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@swyx</author>
-    </item>
-    <item>
-      <title>Excited to work with one of the world’s biggest music companies
-
-Artists will be able to experiment ...</title>
-      <link>https://x.com/joshwoodward/status/2052061728029212976</link>
-      <guid isPermaLink="false">2052061728029212976</guid>
-      <pubDate>Wed, 06 May 2026 16:23:36 +0000</pubDate>
-      <description><![CDATA[Excited to work with one of the world’s biggest music companies
-
-Artists will be able to experiment and explore new ways to craft melodies and instruments! https://t.co/4Zpv68pcfO
-
----
-@joshwoodward | ❤️ 20 | 🔁 0 | 💬 0 | 👁 605]]></description>
-      <author>@joshwoodward</author>
-    </item>
-    <item>
-      <title>Not so &quot;mis&quot;Anthropic any more it seems.</title>
-      <link>https://x.com/tunguz/status/2052061247097512354</link>
-      <guid isPermaLink="false">2052061247097512354</guid>
-      <pubDate>Wed, 06 May 2026 16:21:41 +0000</pubDate>
-      <description><![CDATA[Not so &quot;mis&quot;Anthropic any more it seems.
-
----
-@tunguz | ❤️ 8 | 🔁 0 | 💬 3 | 👁 463]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Read more about our usage limit increases and our SpaceX compute partnership: https://t.co/4Pf6r5zKj...</title>
-      <link>https://x.com/claudeai/status/2052060696255283346</link>
-      <guid isPermaLink="false">2052060696255283346</guid>
-      <pubDate>Wed, 06 May 2026 16:19:30 +0000</pubDate>
-      <description><![CDATA[Read more about our usage limit increases and our SpaceX compute partnership: https://t.co/4Pf6r5zKjl
-
----
-@claudeai | ❤️ 150 | 🔁 11 | 💬 7 | 👁 14066]]></description>
-      <author>@claudeai</author>
-    </item>
-    <item>
-      <title>Our agreement with @SpaceX means we will use all the compute capacity at their Colossus 1 data cente...</title>
-      <link>https://x.com/claudeai/status/2052060694699237558</link>
-      <guid isPermaLink="false">2052060694699237558</guid>
-      <pubDate>Wed, 06 May 2026 16:19:29 +0000</pubDate>
-      <description><![CDATA[Our agreement with @SpaceX means we will use all the compute capacity at their Colossus 1 data center.
-
-This will give us over 300 megawatts of additional capacity to deploy within the month.
-
----
-@claudeai | ❤️ 447 | 🔁 33 | 💬 12 | 👁 19559]]></description>
-      <author>@claudeai</author>
-    </item>
-    <item>
-      <title>We’ve agreed to a partnership with @SpaceX that will substantially increase our compute capacity.
-
-T...</title>
-      <link>https://x.com/claudeai/status/2052060691893227611</link>
-      <guid isPermaLink="false">2052060691893227611</guid>
-      <pubDate>Wed, 06 May 2026 16:19:29 +0000</pubDate>
-      <description><![CDATA[We’ve agreed to a partnership with @SpaceX that will substantially increase our compute capacity.
-
-This, along with our other recent compute deals, means that we’ve been able to increase our usage limits for Claude Code and the Claude API.
-
----
-@claudeai | ❤️ 1756 | 🔁 206 | 💬 216 | 👁 40119]]></description>
-      <author>@claudeai</author>
-    </item>
-    <item>
-      <title>@danshipper @every @tedescau Are you tweeting this at the Claude keynote 😅</title>
-      <link>https://x.com/petergyang/status/2052060549987651900</link>
-      <guid isPermaLink="false">2052060549987651900</guid>
-      <pubDate>Wed, 06 May 2026 16:18:55 +0000</pubDate>
-      <description><![CDATA[@danshipper @every @tedescau Are you tweeting this at the Claude keynote 😅
-
----
-@petergyang | ❤️ 0 | 🔁 0 | 💬 0 | 👁 90]]></description>
-      <author>@petergyang</author>
-    </item>
-    <item>
-      <title>RT @ClementDelangue: We're launching the agentic robotics app store today. Let's democratize AI robo...</title>
-      <link>https://x.com/_akhaliq/status/2052059973652185504</link>
-      <guid isPermaLink="false">2052059973652185504</guid>
-      <pubDate>Wed, 06 May 2026 16:16:37 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: We're launching the agentic robotics app store today. Let's democratize AI robotics for all!
-
-300+ apps shipped. 10,00…
-
----
-@_akhaliq | ❤️ 0 | 🔁 11 | 💬 0 | 👁 2]]></description>
-      <author>@_akhaliq</author>
-    </item>
-    <item>
-      <title>The sleeping giant awakes.</title>
-      <link>https://x.com/tunguz/status/2052059896296685847</link>
-      <guid isPermaLink="false">2052059896296685847</guid>
-      <pubDate>Wed, 06 May 2026 16:16:19 +0000</pubDate>
-      <description><![CDATA[The sleeping giant awakes.
-
----
-@tunguz | ❤️ 29 | 🔁 4 | 💬 1 | 👁 1436]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>RT @ClaudeDevs: Code with Claude is happening now!
-
-▪︎ 9:00AM - Keynote 
-▪︎ 10:30AM -  What's new in...</title>
-      <link>https://x.com/trq212/status/2052059593921134634</link>
-      <guid isPermaLink="false">2052059593921134634</guid>
-      <pubDate>Wed, 06 May 2026 16:15:07 +0000</pubDate>
-      <description><![CDATA[RT @ClaudeDevs: Code with Claude is happening now!
-
-▪︎ 9:00AM - Keynote 
-▪︎ 10:30AM -  What's new in Claude Code
-▪︎ 11:15AM - Building on C…
-
----
-@trq212 | ❤️ 0 | 🔁 170 | 💬 0 | 👁 1]]></description>
-      <author>@trq212</author>
-    </item>
-    <item>
-      <title>Multipath Reliable Connection (MRC): a new open networking protocol for large AI training clusters, ...</title>
-      <link>https://x.com/gdb/status/2052059553542328829</link>
-      <guid isPermaLink="false">2052059553542328829</guid>
-      <pubDate>Wed, 06 May 2026 16:14:57 +0000</pubDate>
-      <description><![CDATA[Multipath Reliable Connection (MRC): a new open networking protocol for large AI training clusters, deployed in production on our largest training clusters.
-
----
-@gdb | ❤️ 113 | 🔁 3 | 💬 15 | 👁 7150]]></description>
-      <author>@gdb</author>
-    </item>
-    <item>
-      <title>RT @tedescau: Find me at the breakout session at Swan Oyster Depot</title>
-      <link>https://x.com/danshipper/status/2052059473586643127</link>
-      <guid isPermaLink="false">2052059473586643127</guid>
-      <pubDate>Wed, 06 May 2026 16:14:38 +0000</pubDate>
-      <description><![CDATA[RT @tedescau: Find me at the breakout session at Swan Oyster Depot
-
----
-@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 1]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>Anthropic is partnering with SpaceX to use the capacity in their Colossus supercluster!
-
-Doubling ra...</title>
-      <link>https://x.com/danshipper/status/2052058966075846661</link>
-      <guid isPermaLink="false">2052058966075846661</guid>
-      <pubDate>Wed, 06 May 2026 16:12:37 +0000</pubDate>
-      <description><![CDATA[Anthropic is partnering with SpaceX to use the capacity in their Colossus supercluster!
-
-Doubling rate limits!
-
----
-@danshipper | ❤️ 16 | 🔁 2 | 💬 2 | 👁 771]]></description>
-      <author>@danshipper</author>
-    </item>
-    <item>
-      <title>RT @oleksiyML: Plugin-based architecture @openclaw is a massive W. No more bloated binaries! 📦 Just ...</title>
-      <link>https://x.com/steipete/status/2052058114011062312</link>
-      <guid isPermaLink="false">2052058114011062312</guid>
-      <pubDate>Wed, 06 May 2026 16:09:14 +0000</pubDate>
-      <description><![CDATA[RT @oleksiyML: Plugin-based architecture @openclaw is a massive W. No more bloated binaries! 📦 Just installed the Codex harness as a standa…
-
----
-@steipete | ❤️ 0 | 🔁 2 | 💬 0 | 👁 5]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>Pick your side.
-
-Trade in Gold or BTC to unlock rewards.
-
-Get started 👇
-https://t.co/kUHwcfWSjC http...</title>
-      <link>https://x.com/binance/status/2052057435360125060</link>
-      <guid isPermaLink="false">2052057435360125060</guid>
-      <pubDate>Wed, 06 May 2026 16:06:32 +0000</pubDate>
-      <description><![CDATA[Pick your side.
-
-Trade in Gold or BTC to unlock rewards.
-
-Get started 👇
-https://t.co/kUHwcfWSjC https://t.co/48QiavyDSt
-
----
-@binance | ❤️ 145 | 🔁 18 | 💬 99 | 👁 12001]]></description>
-      <author>@binance</author>
-    </item>
-    <item>
-      <title>OpenAI 把训练 ChatGPT 用的网络协议开源了。https://t.co/s2euzfedsb
-
-这套协议叫 MRC（Multipath Reliable Connection，多路径可靠连...</title>
-      <link>https://x.com/dotey/status/2052056444330000513</link>
-      <guid isPermaLink="false">2052056444330000513</guid>
-      <pubDate>Wed, 06 May 2026 16:02:36 +0000</pubDate>
-      <description><![CDATA[OpenAI 把训练 ChatGPT 用的网络协议开源了。https://t.co/s2euzfedsb
-
-这套协议叫 MRC（Multipath Reliable Connection，多路径可靠连接），由 OpenAI 联合 AMD、博通、英特尔、微软、英伟达共同开发，通过 OCP（开放计算项目，业内最大的开源硬件标准组织）开放给全行业。AMD、博通、微软、英伟达同步发了配套博文。
-
-训练大模型，几万到十几万张 GPU 要保持步调一致。一次训练步可能涉及几百万次数据传输，只要有一笔晚到，所有 GPU 都得干等。集群越大，链路抖动和故障越频繁。
-
-传统网络的麻烦：一条链路挂了，整个训练任务可能崩掉，得回到上一个检查点重跑；交换机重新算路由要花好几秒甚至几十秒。OpenAI 在搭 Stargate（其大型算力基础设施项目）这种规模的集群时，遇到的第一个瓶颈就是网络。
-
-过去一笔传输只走一条路径，MRC 改成把数据包拆散，同时分头走几百条路径，目的地再按内存地址重新拼起来。
-
-链路出问题，微秒级就能绕开，不需要交换机重算路由表。OpenAI 还把动态路由协议(BGP)整个砍掉,改用 SRv6 源路由:发送方直接指定每个包走哪条路,交换机退化成&quot;无脑&quot;转发器,故障面大幅缩小。
-
-网络结构因此简化。原本要 3 到 4 层交换机才能连起十几万张 GPU,MRC 的多平面设计 2 层就够,功耗、成本、故障点全降。
-
-MRC 已经部署在 OpenAI 所有最大的英伟达 GB200 超算上,包括 Stargate 在德州 Abilene 与甲骨文合建的站点,以及微软 Fairwater 数据中心。多个 OpenAI 模型用它训练出来。
-
-最直观的例子:最近一次前沿模型训练(服务 ChatGPT 和 Codex)期间,团队重启了 4 台核心交换机,不需要跟训练团队协调;每分钟还有多次链路抖动,对训练任务也没有可测量的影响。换以前,这种事故足以让整个任务崩溃。
-
----
-@dotey | ❤️ 28 | 🔁 2 | 💬 2 | 👁 4767]]></description>
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 374]]></description>
       <author>@dotey</author>
     </item>
     <item>
-      <title>The story of Mirai, MIT's AI model that can detect breast cancer years before humans do: https://t.c...</title>
-      <link>https://x.com/MIT_CSAIL/status/2052056409668194378</link>
-      <guid isPermaLink="false">2052056409668194378</guid>
-      <pubDate>Wed, 06 May 2026 16:02:28 +0000</pubDate>
-      <description><![CDATA[The story of Mirai, MIT's AI model that can detect breast cancer years before humans do: https://t.co/5YbCFJRKUK https://t.co/3NLCkWaAqR
+      <title>#AI outperforms doctors in Harvard trial of emergency triage diagnoses
+by Robert Booth @guardian
+
+Le...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052069136755228846</link>
+      <guid isPermaLink="false">2052069136755228846</guid>
+      <pubDate>Wed, 06 May 2026 16:53:02 +0000</pubDate>
+      <description><![CDATA[#AI outperforms doctors in Harvard trial of emergency triage diagnoses
+by Robert Booth @guardian
+
+Learn more: https://t.co/RRAe7ygod2
+
+#MedTech #Healthcare #HealthTech #Tech #TechForGood https://t.co/MW3MepS7sL
 
 ---
-@MIT_CSAIL | ❤️ 6 | 🔁 3 | 💬 0 | 👁 1015]]></description>
-      <author>@MIT_CSAIL</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 76]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>🚀 @claudeai x @SpaceX 🚀</title>
+      <link>https://x.com/angjiang/status/2052068937085681844</link>
+      <guid isPermaLink="false">2052068937085681844</guid>
+      <pubDate>Wed, 06 May 2026 16:52:14 +0000</pubDate>
+      <description><![CDATA[🚀 @claudeai x @SpaceX 🚀
+
+---
+@angjiang | ❤️ 4 | 🔁 0 | 💬 0 | 👁 110]]></description>
+      <author>@angjiang</author>
+    </item>
+    <item>
+      <title>There are only two honest metrics when it comes to benchmarking intelligence: novelty and efficiency...</title>
+      <link>https://x.com/fchollet/status/2052068460805685365</link>
+      <guid isPermaLink="false">2052068460805685365</guid>
+      <pubDate>Wed, 06 May 2026 16:50:21 +0000</pubDate>
+      <description><![CDATA[There are only two honest metrics when it comes to benchmarking intelligence: novelty and efficiency.
+
+You don't need intelligence to solve a known problem (only memory). And you don't need intelligence to solve a problem via brute force. But to solve a novel problem efficiently, intelligence is the only way.
+
+---
+@fchollet | ❤️ 33 | 🔁 2 | 💬 9 | 👁 1757]]></description>
+      <author>@fchollet</author>
+    </item>
+    <item>
+      <title>RT @latentspacepod: @bcherny @_catwu omg @bcherny with banger quotes
+
+“the future is more async agen...</title>
+      <link>https://x.com/swyx/status/2052068086019457341</link>
+      <guid isPermaLink="false">2052068086019457341</guid>
+      <pubDate>Wed, 06 May 2026 16:48:51 +0000</pubDate>
+      <description><![CDATA[RT @latentspacepod: @bcherny @_catwu omg @bcherny with banger quotes
+
+“the future is more async agents… this is why we emphasize verificati…
+
+---
+@swyx | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@swyx</author>
+    </item>
+    <item>
+      <title>Replit in Ghana!</title>
+      <link>https://x.com/amasad/status/2052068011608264742</link>
+      <guid isPermaLink="false">2052068011608264742</guid>
+      <pubDate>Wed, 06 May 2026 16:48:34 +0000</pubDate>
+      <description><![CDATA[Replit in Ghana!
+
+---
+@amasad | ❤️ 21 | 🔁 1 | 💬 2 | 👁 1658]]></description>
+      <author>@amasad</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: China’s Multi-Modal “#Robot Turtle” Showcases Seamless Air, Water, and Land Mobi...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052067624461218267</link>
+      <guid isPermaLink="false">2052067624461218267</guid>
+      <pubDate>Wed, 06 May 2026 16:47:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: China’s Multi-Modal “#Robot Turtle” Showcases Seamless Air, Water, and Land Mobility
+by @lukas_m_ziegler
+
+#Robotics #Ar…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 12 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Available today on the Claude Platform.
+
+Read more: https://t.co/5zHETK3Rje</title>
+      <link>https://x.com/claudeai/status/2052067407204700646</link>
+      <guid isPermaLink="false">2052067407204700646</guid>
+      <pubDate>Wed, 06 May 2026 16:46:10 +0000</pubDate>
+      <description><![CDATA[Available today on the Claude Platform.
+
+Read more: https://t.co/5zHETK3Rje
+
+---
+@claudeai | ❤️ 74 | 🔁 1 | 💬 2 | 👁 12925]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>是 xAI 的推理利用率太低了，以至于外租给 Claude code 使用了吗？</title>
+      <link>https://x.com/turingou/status/2052067403878785437</link>
+      <guid isPermaLink="false">2052067403878785437</guid>
+      <pubDate>Wed, 06 May 2026 16:46:09 +0000</pubDate>
+      <description><![CDATA[是 xAI 的推理利用率太低了，以至于外租给 Claude code 使用了吗？
+
+---
+@turingou | ❤️ 4 | 🔁 0 | 💬 5 | 👁 1424]]></description>
+      <author>@turingou</author>
+    </item>
+    <item>
+      <title>Multiagent orchestration lets a lead agent delegate to specialists that work in parallel on complex ...</title>
+      <link>https://x.com/claudeai/status/2052067404696473833</link>
+      <guid isPermaLink="false">2052067404696473833</guid>
+      <pubDate>Wed, 06 May 2026 16:46:09 +0000</pubDate>
+      <description><![CDATA[Multiagent orchestration lets a lead agent delegate to specialists that work in parallel on complex jobs. https://t.co/akzJICOhk9
+
+---
+@claudeai | ❤️ 90 | 🔁 2 | 💬 4 | 👁 14747]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>Live from Code with Claude: we're launching dreaming in Claude Managed Agents as a research preview....</title>
+      <link>https://x.com/claudeai/status/2052067399088664981</link>
+      <guid isPermaLink="false">2052067399088664981</guid>
+      <pubDate>Wed, 06 May 2026 16:46:08 +0000</pubDate>
+      <description><![CDATA[Live from Code with Claude: we're launching dreaming in Claude Managed Agents as a research preview.
+
+Outcomes, multiagent orchestration, and webhooks are now in public beta. https://t.co/p4DFRzFEd8
+
+---
+@claudeai | ❤️ 1565 | 🔁 119 | 💬 127 | 👁 64268]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>@Adobe Learn more: https://t.co/HHbVaTFPkB</title>
+      <link>https://x.com/nvidia/status/2052067250941694357</link>
+      <guid isPermaLink="false">2052067250941694357</guid>
+      <pubDate>Wed, 06 May 2026 16:45:32 +0000</pubDate>
+      <description><![CDATA[@Adobe Learn more: https://t.co/HHbVaTFPkB
+
+---
+@nvidia | ❤️ 9 | 🔁 1 | 💬 2 | 👁 2618]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>.@Adobe is building Adobe CX Enterprise Coworker on NemoClaw.
+
+Anil Chakravarthy, President of CX Or...</title>
+      <link>https://x.com/nvidia/status/2052067248857084091</link>
+      <guid isPermaLink="false">2052067248857084091</guid>
+      <pubDate>Wed, 06 May 2026 16:45:32 +0000</pubDate>
+      <description><![CDATA[.@Adobe is building Adobe CX Enterprise Coworker on NemoClaw.
+
+Anil Chakravarthy, President of CX Orchestration Business at Adobe, explains how brands can deploy Adobe’s customer experience intelligence within NVIDIA's OpenShell runtime  — keeping enterprise agents governed, observable and auditable at scale.
+
+---
+@nvidia | ❤️ 23 | 🔁 1 | 💬 5 | 👁 3482]]></description>
+      <author>@nvidia</author>
+    </item>
+    <item>
+      <title>You could watch the World Football Final from home.
+
+Or you could win 2 tickets to watch it in New J...</title>
+      <link>https://x.com/coinbase/status/2052067068149637498</link>
+      <guid isPermaLink="false">2052067068149637498</guid>
+      <pubDate>Wed, 06 May 2026 16:44:49 +0000</pubDate>
+      <description><![CDATA[You could watch the World Football Final from home.
+
+Or you could win 2 tickets to watch it in New Jersey with:
+→ Premium seating
+→ Luxury transportation
+→ Expedited stadium access
+→ VIP access to the bronze medal match
+
+First to complete their 14-day streak wins it all.
+
+---
+@coinbase | ❤️ 38 | 🔁 5 | 💬 15 | 👁 9312]]></description>
+      <author>@coinbase</author>
+    </item>
+    <item>
+      <title>I'll be at Code with Claude all day today so come find me and let's chat about Claude!
+
+I'll also be...</title>
+      <link>https://x.com/alexalbert__/status/2052067009605861764</link>
+      <guid isPermaLink="false">2052067009605861764</guid>
+      <pubDate>Wed, 06 May 2026 16:44:35 +0000</pubDate>
+      <description><![CDATA[I'll be at Code with Claude all day today so come find me and let's chat about Claude!
+
+I'll also be giving a talk on the main stage at 530pm PT so tune in, it will be on the livestream!
+
+---
+@alexalbert__ | ❤️ 23 | 🔁 0 | 💬 4 | 👁 1322]]></description>
+      <author>@alexalbert__</author>
+    </item>
+    <item>
+      <title>RT @larsencc: What if you had a personal AI agent running 24/7 that you could text from your phone?
+...</title>
+      <link>https://x.com/gregpr07/status/2052066345928265992</link>
+      <guid isPermaLink="false">2052066345928265992</guid>
+      <pubDate>Wed, 06 May 2026 16:41:57 +0000</pubDate>
+      <description><![CDATA[RT @larsencc: What if you had a personal AI agent running 24/7 that you could text from your phone?
+
+&amp;gt; &quot;Check my email&quot;
+&amp;gt; &quot;Book that restau…
+
+---
+@gregpr07 | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@gregpr07</author>
+    </item>
+    <item>
+      <title>More chips, more Claude</title>
+      <link>https://x.com/alexalbert__/status/2052065953173872912</link>
+      <guid isPermaLink="false">2052065953173872912</guid>
+      <pubDate>Wed, 06 May 2026 16:40:23 +0000</pubDate>
+      <description><![CDATA[More chips, more Claude
+
+---
+@alexalbert__ | ❤️ 101 | 🔁 1 | 💬 11 | 👁 2929]]></description>
+      <author>@alexalbert__</author>
+    </item>
+    <item>
+      <title>We're winding back our peak hours limit reduction and doubling 5 hour limits.
+
+Excited to partner wi...</title>
+      <link>https://x.com/trq212/status/2052065936585457982</link>
+      <guid isPermaLink="false">2052065936585457982</guid>
+      <pubDate>Wed, 06 May 2026 16:40:19 +0000</pubDate>
+      <description><![CDATA[We're winding back our peak hours limit reduction and doubling 5 hour limits.
+
+Excited to partner with SpaceX to bring you more compute and we'll keep pushing to bring you the best coding agent in the world.
+
+---
+@trq212 | ❤️ 287 | 🔁 17 | 💬 47 | 👁 8683]]></description>
+      <author>@trq212</author>
+    </item>
+    <item>
+      <title>we design Cursor to be legible, customizable, and deeply under your control.
+
+see less when you need...</title>
+      <link>https://x.com/ryolu_/status/2052064849346363729</link>
+      <guid isPermaLink="false">2052064849346363729</guid>
+      <pubDate>Wed, 06 May 2026 16:36:00 +0000</pubDate>
+      <description><![CDATA[we design Cursor to be legible, customizable, and deeply under your control.
+
+see less when you need clarity. see more when you want depth.
+
+---
+@ryolu_ | ❤️ 37 | 🔁 3 | 💬 1 | 👁 2061]]></description>
+      <author>@ryolu_</author>
+    </item>
+    <item>
+      <title>RT @tedescau: A fav Codex workflow from this camp: Getting inspired by a @clairevo and @lennysan pod...</title>
+      <link>https://x.com/danshipper/status/2052064331869913472</link>
+      <guid isPermaLink="false">2052064331869913472</guid>
+      <pubDate>Wed, 06 May 2026 16:33:56 +0000</pubDate>
+      <description><![CDATA[RT @tedescau: A fav Codex workflow from this camp: Getting inspired by a @clairevo and @lennysan podcast, dropping that transcript into our…
+
+---
+@danshipper | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>RT @KobeissiLetter: BREAKING: Anthropic's pre-IPO valuation surges to a record $1.2 trillion, rising...</title>
+      <link>https://x.com/DeepLearn007/status/2052064247119561098</link>
+      <guid isPermaLink="false">2052064247119561098</guid>
+      <pubDate>Wed, 06 May 2026 16:33:36 +0000</pubDate>
+      <description><![CDATA[RT @KobeissiLetter: BREAKING: Anthropic's pre-IPO valuation surges to a record $1.2 trillion, rising another +20% in 7 days.
+
+This official…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 229 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @RealMattAdrien: DON’T LOOK AWAY!
+
+Be her voice before it’s too late.
+
+Negin Rajabi, 24, from Teh...</title>
+      <link>https://x.com/DeepLearn007/status/2052064224101245149</link>
+      <guid isPermaLink="false">2052064224101245149</guid>
+      <pubDate>Wed, 06 May 2026 16:33:31 +0000</pubDate>
+      <description><![CDATA[RT @RealMattAdrien: DON’T LOOK AWAY!
+
+Be her voice before it’s too late.
+
+Negin Rajabi, 24, from Tehran
+
+She’s been arrested by the Islamic…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 406 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @ShiningScience: New MRI study shows weekly exercise literally keeps your brain younger.
+
+A new y...</title>
+      <link>https://x.com/DeepLearn007/status/2052064197664481789</link>
+      <guid isPermaLink="false">2052064197664481789</guid>
+      <pubDate>Wed, 06 May 2026 16:33:24 +0000</pubDate>
+      <description><![CDATA[RT @ShiningScience: New MRI study shows weekly exercise literally keeps your brain younger.
+
+A new year-long study suggests that regular ex…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 51 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @NoaMagid: Don’t let her die in the dark.
+
+Save Mahsa Sotoudeh. https://t.co/8S7pKkufqB</title>
+      <link>https://x.com/DeepLearn007/status/2052064172121215236</link>
+      <guid isPermaLink="false">2052064172121215236</guid>
+      <pubDate>Wed, 06 May 2026 16:33:18 +0000</pubDate>
+      <description><![CDATA[RT @NoaMagid: Don’t let her die in the dark.
+
+Save Mahsa Sotoudeh. https://t.co/8S7pKkufqB
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 1921 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @WallStreetApes: Former software engineer at Apple is whistleblowing
+
+She says whenever Apple lau...</title>
+      <link>https://x.com/DeepLearn007/status/2052064130626982405</link>
+      <guid isPermaLink="false">2052064130626982405</guid>
+      <pubDate>Wed, 06 May 2026 16:33:08 +0000</pubDate>
+      <description><![CDATA[RT @WallStreetApes: Former software engineer at Apple is whistleblowing
+
+She says whenever Apple launches a new phone, they would push an u…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 9026 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @OurWorldInData: How much are different countries automating their manufacturing industries?
+
+One...</title>
+      <link>https://x.com/DeepLearn007/status/2052064080903483652</link>
+      <guid isPermaLink="false">2052064080903483652</guid>
+      <pubDate>Wed, 06 May 2026 16:32:57 +0000</pubDate>
+      <description><![CDATA[RT @OurWorldInData: How much are different countries automating their manufacturing industries?
+
+One way to compare this is to look at the…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 50 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
+    </item>
+    <item>
+      <title>RT @scitechgirl: 🚨 THE “HIDDEN ORGAN” YOU NEVER KNEW YOU HAD… UNTIL NOW
+
+For years, scientists belie...</title>
+      <link>https://x.com/DeepLearn007/status/2052063977308352561</link>
+      <guid isPermaLink="false">2052063977308352561</guid>
+      <pubDate>Wed, 06 May 2026 16:32:32 +0000</pubDate>
+      <description><![CDATA[RT @scitechgirl: 🚨 THE “HIDDEN ORGAN” YOU NEVER KNEW YOU HAD… UNTIL NOW
+
+For years, scientists believed the human body had no more secrets…
+
+---
+@DeepLearn007 | ❤️ 0 | 🔁 64 | 💬 0 | 👁 0]]></description>
+      <author>@DeepLearn007</author>
     </item>
   </channel>
 </rss>
