@@ -5,392 +5,214 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 22:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:31:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @rmstein: Personal Intelligence in AI Mode is coming to even more countries. 🌐
-
-Starting today, A...</title>
-      <link>https://x.com/Google/status/2052146569588211818</link>
-      <guid isPermaLink="false">2052146569588211818</guid>
-      <pubDate>Wed, 06 May 2026 22:00:43 +0000</pubDate>
-      <description><![CDATA[RT @rmstein: Personal Intelligence in AI Mode is coming to even more countries. 🌐
-
-Starting today, AI Pro and Ultra subscribers across the…
+      <title>RT @DimitrisPapail: Endless Terminals has &amp;gt;73,000 Hugging Face downloads the past month. Quit...</title>
+      <link>https://x.com/_akhaliq/status/2052153226644922639</link>
+      <guid isPermaLink="false">2052153226644922639</guid>
+      <pubDate>Wed, 06 May 2026 22:27:11 +0000</pubDate>
+      <description><![CDATA[RT @DimitrisPapail: Endless Terminals has &amp;gt;73,000 Hugging Face downloads the past month. Quite impactful internship project by Kanishk!
+htt…
 
 ---
-@Google | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
-      <author>@Google</author>
+@_akhaliq | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@_akhaliq</author>
     </item>
     <item>
-      <title>@ServiceNow Read more: https://t.co/tMbTWrNijv</title>
-      <link>https://x.com/nvidia/status/2052146392789860401</link>
-      <guid isPermaLink="false">2052146392789860401</guid>
-      <pubDate>Wed, 06 May 2026 22:00:01 +0000</pubDate>
-      <description><![CDATA[@ServiceNow Read more: https://t.co/tMbTWrNijv
+      <title>RT @SteveRattner: Over 10 million Americans will lose health care coverage because of Republican cut...</title>
+      <link>https://x.com/ylecun/status/2052153161469563330</link>
+      <guid isPermaLink="false">2052153161469563330</guid>
+      <pubDate>Wed, 06 May 2026 22:26:55 +0000</pubDate>
+      <description><![CDATA[RT @SteveRattner: Over 10 million Americans will lose health care coverage because of Republican cuts to Medicaid and Obamacare subsidies.…
 
 ---
-@nvidia | ❤️ 0 | 🔁 0 | 💬 0 | 👁 141]]></description>
-      <author>@nvidia</author>
+@ylecun | ❤️ 0 | 🔁 136 | 💬 0 | 👁 0]]></description>
+      <author>@ylecun</author>
     </item>
     <item>
-      <title>We’re collaborating with @ServiceNow to deliver autonomous AI agents that can act across enterprise ...</title>
-      <link>https://x.com/nvidia/status/2052146387681259653</link>
-      <guid isPermaLink="false">2052146387681259653</guid>
-      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
-      <description><![CDATA[We’re collaborating with @ServiceNow to deliver autonomous AI agents that can act across enterprise workflows with governance, auditability and secure execution built in.
-
-At @ServiceNow Knowledge 2026, ServiceNow introduced Project Arc, a long-running desktop agent built on open models, specialized agent skills, and NVIDIA OpenShell while  running on efficient AI factories to help bring agentic AI into the enterprise.
+      <title>He will be remembered for the triumph of his will.</title>
+      <link>https://x.com/tunguz/status/2052152583372837059</link>
+      <guid isPermaLink="false">2052152583372837059</guid>
+      <pubDate>Wed, 06 May 2026 22:24:37 +0000</pubDate>
+      <description><![CDATA[He will be remembered for the triumph of his will.
 
 ---
-@nvidia | ❤️ 6 | 🔁 0 | 💬 2 | 👁 227]]></description>
-      <author>@nvidia</author>
+@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 209]]></description>
+      <author>@tunguz</author>
     </item>
     <item>
-      <title>RT @ThierryBorgeat: 🚨Alphabet $GOOGL trades at 133x free cash flow.
-
-For context: its pre-COVID mult...</title>
-      <link>https://x.com/GaryMarcus/status/2052146201403810078</link>
-      <guid isPermaLink="false">2052146201403810078</guid>
-      <pubDate>Wed, 06 May 2026 21:59:16 +0000</pubDate>
-      <description><![CDATA[RT @ThierryBorgeat: 🚨Alphabet $GOOGL trades at 133x free cash flow.
-
-For context: its pre-COVID multiple was ~20x.
-
-And free cash flow hasn…
+      <title>RT @globeandmail: OpenAI violated Canadian privacy laws in developing first ChatGPT model, probe fin...</title>
+      <link>https://x.com/GaryMarcus/status/2052151440924377405</link>
+      <guid isPermaLink="false">2052151440924377405</guid>
+      <pubDate>Wed, 06 May 2026 22:20:05 +0000</pubDate>
+      <description><![CDATA[RT @globeandmail: OpenAI violated Canadian privacy laws in developing first ChatGPT model, probe finds https://t.co/4DQ2yYzZ1q
 
 ---
-@GaryMarcus | ❤️ 0 | 🔁 41 | 💬 0 | 👁 0]]></description>
+@GaryMarcus | ❤️ 0 | 🔁 43 | 💬 0 | 👁 0]]></description>
       <author>@GaryMarcus</author>
     </item>
     <item>
-      <title>closed source, open source, nothing can stop codex. https://t.co/Zua5EeYkOw</title>
-      <link>https://x.com/steipete/status/2052144503595716790</link>
-      <guid isPermaLink="false">2052144503595716790</guid>
-      <pubDate>Wed, 06 May 2026 21:52:31 +0000</pubDate>
-      <description><![CDATA[closed source, open source, nothing can stop codex. https://t.co/Zua5EeYkOw
+      <title>UBTECH’s Walker S2 Takes on a Human in a Live Tennis Rally
+by @XRoboHub
+
+#Robotics #Engineering #Art...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052150446655951193</link>
+      <guid isPermaLink="false">2052150446655951193</guid>
+      <pubDate>Wed, 06 May 2026 22:16:08 +0000</pubDate>
+      <description><![CDATA[UBTECH’s Walker S2 Takes on a Human in a Live Tennis Rally
+by @XRoboHub
+
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/Cau0CBkaXP
 
 ---
-@steipete | ❤️ 44 | 🔁 1 | 💬 9 | 👁 1995]]></description>
-      <author>@steipete</author>
-    </item>
-    <item>
-      <title>European mind could never … https://t.co/xGX58ND2TL</title>
-      <link>https://x.com/tunguz/status/2052143996978315364</link>
-      <guid isPermaLink="false">2052143996978315364</guid>
-      <pubDate>Wed, 06 May 2026 21:50:30 +0000</pubDate>
-      <description><![CDATA[European mind could never … https://t.co/xGX58ND2TL
-
----
-@tunguz | ❤️ 3 | 🔁 0 | 💬 0 | 👁 404]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>Built for the Wild: DFRobot’s 4WD AGV Handles Any Terrain Effortlessly
-by @IlirAliu_
-
-#Robotics #Art...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052143893932568971</link>
-      <guid isPermaLink="false">2052143893932568971</guid>
-      <pubDate>Wed, 06 May 2026 21:50:05 +0000</pubDate>
-      <description><![CDATA[Built for the Wild: DFRobot’s 4WD AGV Handles Any Terrain Effortlessly
-by @IlirAliu_
-
-#Robotics #ArtificialIntelligence #Innovation #Technology https://t.co/FsU5sStIns
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 0 | 👁 72]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 0 | 💬 1 | 👁 101]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>RT @googleflowmusic: Announcing a new partnership between Google Flow Music and global artist develo...</title>
-      <link>https://x.com/demishassabis/status/2052143511168860229</link>
-      <guid isPermaLink="false">2052143511168860229</guid>
-      <pubDate>Wed, 06 May 2026 21:48:34 +0000</pubDate>
-      <description><![CDATA[RT @googleflowmusic: Announcing a new partnership between Google Flow Music and global artist development company, Believe! 🤝 Here's what t…
+      <title>RT @TencentHunyuan: Two weeks after release, Hy3 preview is #1 on @OpenRouter's weekly leaderboard w...</title>
+      <link>https://x.com/jeremyphoward/status/2052150222802067714</link>
+      <guid isPermaLink="false">2052150222802067714</guid>
+      <pubDate>Wed, 06 May 2026 22:15:14 +0000</pubDate>
+      <description><![CDATA[RT @TencentHunyuan: Two weeks after release, Hy3 preview is #1 on @OpenRouter's weekly leaderboard with 3.66T tokens processed, up 298% wee…
 
 ---
-@demishassabis | ❤️ 0 | 🔁 18 | 💬 0 | 👁 0]]></description>
+@jeremyphoward | ❤️ 0 | 🔁 18 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>RT @DKThomp: The future of leisure is fitness, running clubs are replacing night clubs for young peo...</title>
+      <link>https://x.com/levelsio/status/2052150005184504122</link>
+      <guid isPermaLink="false">2052150005184504122</guid>
+      <pubDate>Wed, 06 May 2026 22:14:22 +0000</pubDate>
+      <description><![CDATA[RT @DKThomp: The future of leisure is fitness, running clubs are replacing night clubs for young people, alcohol consumption is falling, an…
+
+---
+@levelsio | ❤️ 0 | 🔁 102 | 💬 0 | 👁 0]]></description>
+      <author>@levelsio</author>
+    </item>
+    <item>
+      <title>RT @_aidan_clark_: I'm disappointed by repeatedly hearing that my colleagues at Anthropic believe th...</title>
+      <link>https://x.com/jeremyphoward/status/2052149871541653712</link>
+      <guid isPermaLink="false">2052149871541653712</guid>
+      <pubDate>Wed, 06 May 2026 22:13:51 +0000</pubDate>
+      <description><![CDATA[RT @_aidan_clark_: I'm disappointed by repeatedly hearing that my colleagues at Anthropic believe they are the only ones who should be trus…
+
+---
+@jeremyphoward | ❤️ 0 | 🔁 13 | 💬 0 | 👁 0]]></description>
+      <author>@jeremyphoward</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: China Builds Solar Farms on Water and Mountains, Preserving Land for Agriculture...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052149408255316081</link>
+      <guid isPermaLink="false">2052149408255316081</guid>
+      <pubDate>Wed, 06 May 2026 22:12:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: China Builds Solar Farms on Water and Mountains, Preserving Land for Agriculture
+by @MarchUnofficial
+  
+#Sustainability…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 17 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @effyyzhang: Founder friends ask me: why Claude Managed Agents vs. X, Y, Z?
+
+Beyond feature fit, ...</title>
+      <link>https://x.com/_hi_mc/status/2052148830691614898</link>
+      <guid isPermaLink="false">2052148830691614898</guid>
+      <pubDate>Wed, 06 May 2026 22:09:42 +0000</pubDate>
+      <description><![CDATA[RT @effyyzhang: Founder friends ask me: why Claude Managed Agents vs. X, Y, Z?
+
+Beyond feature fit, every integration has a cost. Picking a…
+
+---
+@_hi_mc | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
+      <author>@_hi_mc</author>
+    </item>
+    <item>
+      <title>Hard truth: collective *human* intelligence has always been MASSIVELY underutilized. Several orders ...</title>
+      <link>https://x.com/tunguz/status/2052148622679044408</link>
+      <guid isPermaLink="false">2052148622679044408</guid>
+      <pubDate>Wed, 06 May 2026 22:08:53 +0000</pubDate>
+      <description><![CDATA[Hard truth: collective *human* intelligence has always been MASSIVELY underutilized. Several orders of magnitude on the logarithmic scale. We have our imperfect institutions to &quot;blame&quot;.
+
+---
+@tunguz | ❤️ 9 | 🔁 1 | 💬 0 | 👁 579]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>C’mon BBC. Zilis was sharp as a tack on the stand, on her role in the OpenAI *nonprofit* board, and ...</title>
+      <link>https://x.com/GaryMarcus/status/2052148316432121960</link>
+      <guid isPermaLink="false">2052148316432121960</guid>
+      <pubDate>Wed, 06 May 2026 22:07:40 +0000</pubDate>
+      <description><![CDATA[C’mon BBC. Zilis was sharp as a tack on the stand, on her role in the OpenAI *nonprofit* board, and how she managed conflicts as they began to develop, and this (which is not really even news since it was reported a couple years ago) is the headline. 
+
+Annoying, sexist, and missing the main points of her testimony.
+
+---
+@GaryMarcus | ❤️ 23 | 🔁 0 | 💬 6 | 👁 1847]]></description>
+      <author>@GaryMarcus</author>
+    </item>
+    <item>
+      <title>for pretty much everything https://t.co/iO8phFzv9e</title>
+      <link>https://x.com/nickbaumann_/status/2052147803909177797</link>
+      <guid isPermaLink="false">2052147803909177797</guid>
+      <pubDate>Wed, 06 May 2026 22:05:38 +0000</pubDate>
+      <description><![CDATA[for pretty much everything https://t.co/iO8phFzv9e
+
+---
+@nickbaumann_ | ❤️ 12 | 🔁 0 | 💬 2 | 👁 454]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>RT @SteveRattner: Over 10 million Americans will lose health insurance because of Trump’s cuts. 
+
+4 ...</title>
+      <link>https://x.com/ylecun/status/2052147546395484404</link>
+      <guid isPermaLink="false">2052147546395484404</guid>
+      <pubDate>Wed, 06 May 2026 22:04:36 +0000</pubDate>
+      <description><![CDATA[RT @SteveRattner: Over 10 million Americans will lose health insurance because of Trump’s cuts. 
+
+4 million from losing subsidies and 6 mil…
+
+---
+@ylecun | ❤️ 0 | 🔁 705 | 💬 0 | 👁 1]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>More details about the exciting partnership here: https://t.co/Dwa8RpJPny</title>
+      <link>https://x.com/demishassabis/status/2052147239619838058</link>
+      <guid isPermaLink="false">2052147239619838058</guid>
+      <pubDate>Wed, 06 May 2026 22:03:23 +0000</pubDate>
+      <description><![CDATA[More details about the exciting partnership here: https://t.co/Dwa8RpJPny
+
+---
+@demishassabis | ❤️ 28 | 🔁 1 | 💬 0 | 👁 3944]]></description>
       <author>@demishassabis</author>
     </item>
     <item>
-      <title>@turingou 我觉得你可能是因为专注于自我实现软件，反而与世界产生了更多连接。厉害</title>
-      <link>https://x.com/bearliu/status/2052143230926610760</link>
-      <guid isPermaLink="false">2052143230926610760</guid>
-      <pubDate>Wed, 06 May 2026 21:47:27 +0000</pubDate>
-      <description><![CDATA[@turingou 我觉得你可能是因为专注于自我实现软件，反而与世界产生了更多连接。厉害
+      <title>I've always been passionate about games and they've played a big part in @GoogleDeepMind’s history, ...</title>
+      <link>https://x.com/demishassabis/status/2052147236952477923</link>
+      <guid isPermaLink="false">2052147236952477923</guid>
+      <pubDate>Wed, 06 May 2026 22:03:22 +0000</pubDate>
+      <description><![CDATA[I've always been passionate about games and they've played a big part in @GoogleDeepMind’s history, as the perfect proving ground for AI. Thrilled to announce this research partnership with @FenrisCreations - @EveOnline is one of the most extraordinary games ever built and has an amazing community. Very excited to work with @HilmarVeigar and the team!
 
 ---
-@bearliu | ❤️ 0 | 🔁 0 | 💬 0 | 👁 118]]></description>
-      <author>@bearliu</author>
+@demishassabis | ❤️ 152 | 🔁 17 | 💬 18 | 👁 7631]]></description>
+      <author>@demishassabis</author>
     </item>
     <item>
-      <title>RT @micahgallen: The brain does not predict every upcoming word during language comprehension with m...</title>
-      <link>https://x.com/ylecun/status/2052142585183969555</link>
-      <guid isPermaLink="false">2052142585183969555</guid>
-      <pubDate>Wed, 06 May 2026 21:44:53 +0000</pubDate>
-      <description><![CDATA[RT @micahgallen: The brain does not predict every upcoming word during language comprehension with maximum precision, contradicting the ass…
+      <title>@ylecun every day, more of a banana republic</title>
+      <link>https://x.com/mattturck/status/2052146864783315225</link>
+      <guid isPermaLink="false">2052146864783315225</guid>
+      <pubDate>Wed, 06 May 2026 22:01:54 +0000</pubDate>
+      <description><![CDATA[@ylecun every day, more of a banana republic
 
 ---
-@ylecun | ❤️ 0 | 🔁 38 | 💬 0 | 👁 0]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>RT @EzekielOverstr1: SpaceX Super Heavy Booster 19 rolls by as it heads to the launch site for testi...</title>
-      <link>https://x.com/elonmusk/status/2052141322501529750</link>
-      <guid isPermaLink="false">2052141322501529750</guid>
-      <pubDate>Wed, 06 May 2026 21:39:52 +0000</pubDate>
-      <description><![CDATA[RT @EzekielOverstr1: SpaceX Super Heavy Booster 19 rolls by as it heads to the launch site for testing https://t.co/TT5BQ6q4eN
-
----
-@elonmusk | ❤️ 0 | 🔁 348 | 💬 0 | 👁 30]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>https://t.co/1XFiTJEAa1</title>
-      <link>https://x.com/NousResearch/status/2052140122280194349</link>
-      <guid isPermaLink="false">2052140122280194349</guid>
-      <pubDate>Wed, 06 May 2026 21:35:06 +0000</pubDate>
-      <description><![CDATA[https://t.co/1XFiTJEAa1
-
----
-@NousResearch | ❤️ 12 | 🔁 1 | 💬 0 | 👁 1165]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>People love to ask what they can use Hermes Agent for.  
-
-Hermes scraped the internet for answers an...</title>
-      <link>https://x.com/NousResearch/status/2052140057222369541</link>
-      <guid isPermaLink="false">2052140057222369541</guid>
-      <pubDate>Wed, 06 May 2026 21:34:51 +0000</pubDate>
-      <description><![CDATA[People love to ask what they can use Hermes Agent for.  
-
-Hermes scraped the internet for answers and added them to our docs as inspiration. And if you've found an interesting use case, you can submit your own! https://t.co/NuA7ymLjgW
-
----
-@NousResearch | ❤️ 107 | 🔁 9 | 💬 9 | 👁 3186]]></description>
-      <author>@NousResearch</author>
-    </item>
-    <item>
-      <title>RT @ClementDelangue: This week made something clear: you shouldn't take what most tech ceos are sayi...</title>
-      <link>https://x.com/ylecun/status/2052139030108647915</link>
-      <guid isPermaLink="false">2052139030108647915</guid>
-      <pubDate>Wed, 06 May 2026 21:30:46 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: This week made something clear: you shouldn't take what most tech ceos are saying publicly seriously!
-
----
-@ylecun | ❤️ 0 | 🔁 26 | 💬 0 | 👁 2]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>RT @cybertruck: Casual stroll https://t.co/X2xwnKyWm6</title>
-      <link>https://x.com/elonmusk/status/2052137968144687188</link>
-      <guid isPermaLink="false">2052137968144687188</guid>
-      <pubDate>Wed, 06 May 2026 21:26:33 +0000</pubDate>
-      <description><![CDATA[RT @cybertruck: Casual stroll https://t.co/X2xwnKyWm6
-
----
-@elonmusk | ❤️ 0 | 🔁 573 | 💬 0 | 👁 56]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @Rothmus: They seek to undermine and dismantle Western civilization, but they cannot admit it ope...</title>
-      <link>https://x.com/elonmusk/status/2052137923605324175</link>
-      <guid isPermaLink="false">2052137923605324175</guid>
-      <pubDate>Wed, 06 May 2026 21:26:22 +0000</pubDate>
-      <description><![CDATA[RT @Rothmus: They seek to undermine and dismantle Western civilization, but they cannot admit it openly, lest people resist and stop them.…
-
----
-@elonmusk | ❤️ 0 | 🔁 445 | 💬 0 | 👁 25]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>😂</title>
-      <link>https://x.com/elonmusk/status/2052136669525188634</link>
-      <guid isPermaLink="false">2052136669525188634</guid>
-      <pubDate>Wed, 06 May 2026 21:21:23 +0000</pubDate>
-      <description><![CDATA[😂
-
----
-@elonmusk | ❤️ 20286 | 🔁 1355 | 💬 1562 | 👁 1634150]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Ionic Arm: Enabling a Leap from Appliance Repair to Advanced Reconnaissance #Drones
-by @EsperBionics...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052136374967353848</link>
-      <guid isPermaLink="false">2052136374967353848</guid>
-      <pubDate>Wed, 06 May 2026 21:20:13 +0000</pubDate>
-      <description><![CDATA[Ionic Arm: Enabling a Leap from Appliance Repair to Advanced Reconnaissance #Drones
-by @EsperBionics
-  
-#Innovation #EmergingTech #Tech #Technology #TechForGood https://t.co/Xy28ZnF7sQ
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 1 | 💬 0 | 👁 190]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>sounds depressing af</title>
-      <link>https://x.com/tunguz/status/2052136195065249962</link>
-      <guid isPermaLink="false">2052136195065249962</guid>
-      <pubDate>Wed, 06 May 2026 21:19:30 +0000</pubDate>
-      <description><![CDATA[sounds depressing af
-
----
-@tunguz | ❤️ 9 | 🔁 0 | 💬 1 | 👁 1269]]></description>
-      <author>@tunguz</author>
-    </item>
-    <item>
-      <title>I don't think they'll be taking Q&amp;amp;A so I'll ask here: @jarredsumner do you end up actually r...</title>
-      <link>https://x.com/simonw/status/2052136006720299117</link>
-      <guid isPermaLink="false">2052136006720299117</guid>
-      <pubDate>Wed, 06 May 2026 21:18:45 +0000</pubDate>
-      <description><![CDATA[I don't think they'll be taking Q&amp;amp;A so I'll ask here: @jarredsumner do you end up actually reading all of that chatter between the review bots on a PR?
-
----
-@simonw | ❤️ 4 | 🔁 0 | 💬 1 | 👁 2488]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>When debt levels reach extreme sizes relative to income, governments are left with a limited set of ...</title>
-      <link>https://x.com/RayDalio/status/2052135714893287583</link>
-      <guid isPermaLink="false">2052135714893287583</guid>
-      <pubDate>Wed, 06 May 2026 21:17:35 +0000</pubDate>
-      <description><![CDATA[When debt levels reach extreme sizes relative to income, governments are left with a limited set of choices. They can cut spending, raise taxes, restructure the debt, or print money.
-
-History shows that most systems end up relying heavily on the last option, but printing money doesn’t eliminate the problem–it just shifts how the debt cycle plays out.
-
-Understanding this dynamic is key to understanding the economic environment we’re in.
-
----
-@RayDalio | ❤️ 156 | 🔁 28 | 💬 24 | 👁 20694]]></description>
-      <author>@RayDalio</author>
-    </item>
-    <item>
-      <title>The GB300 is the best AI computer</title>
-      <link>https://x.com/elonmusk/status/2052135256866824293</link>
-      <guid isPermaLink="false">2052135256866824293</guid>
-      <pubDate>Wed, 06 May 2026 21:15:46 +0000</pubDate>
-      <description><![CDATA[The GB300 is the best AI computer
-
----
-@elonmusk | ❤️ 8820 | 🔁 813 | 💬 1197 | 👁 2322917]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Learn more about Live translate → https://t.co/LpjRf0cJRa
-
-Plus, get more of our favorite travel hac...</title>
-      <link>https://x.com/Google/status/2052134326641287206</link>
-      <guid isPermaLink="false">2052134326641287206</guid>
-      <pubDate>Wed, 06 May 2026 21:12:04 +0000</pubDate>
-      <description><![CDATA[Learn more about Live translate → https://t.co/LpjRf0cJRa
-
-Plus, get more of our favorite travel hacks ↓ https://t.co/c3uDIXtAWr
-
----
-@Google | ❤️ 11 | 🔁 3 | 💬 1 | 👁 10719]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>Save this tip before your next big trip abroad ⬇️ 
-
-With Google Translate’s Live translate feature, ...</title>
-      <link>https://x.com/Google/status/2052134322535043567</link>
-      <guid isPermaLink="false">2052134322535043567</guid>
-      <pubDate>Wed, 06 May 2026 21:12:03 +0000</pubDate>
-      <description><![CDATA[Save this tip before your next big trip abroad ⬇️ 
-
-With Google Translate’s Live translate feature, you can get instant translations for 70+ languages via any pair of headphones. 
-
-🎧 Just put on your headphones, open the Translate app and tap “Live translate.” You’ll then get real-time translations in your preferred language directly in your ear. Gemini’s advanced speech models preserve the speaker’s tone, emphasis and cadence so you get what they're saying, subtleties and all.
-
----
-@Google | ❤️ 103 | 🔁 15 | 💬 17 | 👁 15138]]></description>
-      <author>@Google</author>
-    </item>
-    <item>
-      <title>Watching @jarredsumner and @bcherny at Code w/ Code talking about robobun, the Bun project's GitHub ...</title>
-      <link>https://x.com/simonw/status/2052133374018699373</link>
-      <guid isPermaLink="false">2052133374018699373</guid>
-      <pubDate>Wed, 06 May 2026 21:08:17 +0000</pubDate>
-      <description><![CDATA[Watching @jarredsumner and @bcherny at Code w/ Code talking about robobun, the Bun project's GitHub bot that's now made more contributions to Bun than Jarred has https://t.co/hXdWTC5kiG https://t.co/TRMW2zarCq
-
----
-@simonw | ❤️ 32 | 🔁 0 | 💬 10 | 👁 4754]]></description>
-      <author>@simonw</author>
-    </item>
-    <item>
-      <title>RT @MikeNellis: Brutal montage from CNN of Trump lying about the ballroom being paid for by private ...</title>
-      <link>https://x.com/ylecun/status/2052133206250446872</link>
-      <guid isPermaLink="false">2052133206250446872</guid>
-      <pubDate>Wed, 06 May 2026 21:07:37 +0000</pubDate>
-      <description><![CDATA[RT @MikeNellis: Brutal montage from CNN of Trump lying about the ballroom being paid for by private donors https://t.co/pXrZIkHi0w
-
----
-@ylecun | ❤️ 0 | 🔁 6512 | 💬 0 | 👁 3]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>Corruption, part N+1</title>
-      <link>https://x.com/ylecun/status/2052132855963074951</link>
-      <guid isPermaLink="false">2052132855963074951</guid>
-      <pubDate>Wed, 06 May 2026 21:06:14 +0000</pubDate>
-      <description><![CDATA[Corruption, part N+1
-
----
-@ylecun | ❤️ 150 | 🔁 10 | 💬 7 | 👁 14207]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>Corruption, part N</title>
-      <link>https://x.com/ylecun/status/2052132802758349015</link>
-      <guid isPermaLink="false">2052132802758349015</guid>
-      <pubDate>Wed, 06 May 2026 21:06:01 +0000</pubDate>
-      <description><![CDATA[Corruption, part N
-
----
-@ylecun | ❤️ 128 | 🔁 14 | 💬 6 | 👁 9175]]></description>
-      <author>@ylecun</author>
-    </item>
-    <item>
-      <title>RT @Ronald_vanLoon: #AGI Arrival by 2030
-by @Khulood_Almani
-
-#ArtificialIntelligence #ML #MachineLea...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052131794011488570</link>
-      <guid isPermaLink="false">2052131794011488570</guid>
-      <pubDate>Wed, 06 May 2026 21:02:01 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: #AGI Arrival by 2030
-by @Khulood_Almani
-
-#ArtificialIntelligence #ML #MachineLearning #Tech https://t.co/yH9i8hlbH0
-
----
-@Ronald_vanLoon | ❤️ 0 | 🔁 9 | 💬 0 | 👁 1]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Binance Earn May Monthly Challenge is live! 
-
-🔸 25,500 USDC total prize pool 
-🔸 Earn up to 8,888 USD...</title>
-      <link>https://x.com/binance/status/2052131471184253095</link>
-      <guid isPermaLink="false">2052131471184253095</guid>
-      <pubDate>Wed, 06 May 2026 21:00:44 +0000</pubDate>
-      <description><![CDATA[Binance Earn May Monthly Challenge is live! 
-
-🔸 25,500 USDC total prize pool 
-🔸 Earn up to 8,888 USDC on Dual Investment 
-🔸 Extra 3,000 USDC rewards, first-come, first-served 
-
-Know more → https://t.co/pu1IdH5KIn https://t.co/yPbZwV1OhL
-
----
-@binance | ❤️ 107 | 🔁 14 | 💬 46 | 👁 18574]]></description>
-      <author>@binance</author>
+@mattturck | ❤️ 0 | 🔁 0 | 💬 0 | 👁 112]]></description>
+      <author>@mattturck</author>
     </item>
   </channel>
 </rss>
