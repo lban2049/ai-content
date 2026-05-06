@@ -5,192 +5,84 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 06:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 06:31:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @Ronald_vanLoon: Infrared Vision Becomes Reality with Next-Gen Smart Contact Lenses
-by @sciencegi...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051904041228050808</link>
-      <guid isPermaLink="false">2051904041228050808</guid>
-      <pubDate>Wed, 06 May 2026 05:57:00 +0000</pubDate>
-      <description><![CDATA[RT @Ronald_vanLoon: Infrared Vision Becomes Reality with Next-Gen Smart Contact Lenses
-by @sciencegirl
-
-#Innovation #TechForGood #EmergingT…
+      <title>Exoskeleton Suit Giving Mobility to the Handicapped
+by @MarchUnofficial
+  
+#Engineering #ArtificialI...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051910693369040980</link>
+      <guid isPermaLink="false">2051910693369040980</guid>
+      <pubDate>Wed, 06 May 2026 06:23:26 +0000</pubDate>
+      <description><![CDATA[Exoskeleton Suit Giving Mobility to the Handicapped
+by @MarchUnofficial
+  
+#Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/EC7jNo2fWR
 
 ---
-@Ronald_vanLoon | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 1 | 👁 67]]></description>
       <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>Progress</title>
-      <link>https://x.com/elonmusk/status/2051903006053151176</link>
-      <guid isPermaLink="false">2051903006053151176</guid>
-      <pubDate>Wed, 06 May 2026 05:52:53 +0000</pubDate>
-      <description><![CDATA[Progress
+      <title>RFKjr == Lyssenko</title>
+      <link>https://x.com/ylecun/status/2051909244102869082</link>
+      <guid isPermaLink="false">2051909244102869082</guid>
+      <pubDate>Wed, 06 May 2026 06:17:41 +0000</pubDate>
+      <description><![CDATA[RFKjr == Lyssenko
 
 ---
-@elonmusk | ❤️ 1286 | 🔁 177 | 💬 675 | 👁 158248]]></description>
+@ylecun | ❤️ 20 | 🔁 2 | 💬 4 | 👁 2688]]></description>
+      <author>@ylecun</author>
+    </item>
+    <item>
+      <title>opening Binance every 2 seconds, trying to remember what I came for..</title>
+      <link>https://x.com/binance/status/2051907164147499497</link>
+      <guid isPermaLink="false">2051907164147499497</guid>
+      <pubDate>Wed, 06 May 2026 06:09:25 +0000</pubDate>
+      <description><![CDATA[opening Binance every 2 seconds, trying to remember what I came for..
+
+---
+@binance | ❤️ 244 | 🔁 16 | 💬 138 | 👁 13221]]></description>
+      <author>@binance</author>
+    </item>
+    <item>
+      <title>RT @MarioNawfal: 🇺🇸 Rogan and Chamath just nailed why Elon doesn't care what you think about him.
+
+H...</title>
+      <link>https://x.com/elonmusk/status/2051905761354338801</link>
+      <guid isPermaLink="false">2051905761354338801</guid>
+      <pubDate>Wed, 06 May 2026 06:03:50 +0000</pubDate>
+      <description><![CDATA[RT @MarioNawfal: 🇺🇸 Rogan and Chamath just nailed why Elon doesn't care what you think about him.
+
+He's not playing defense. He's not manag…
+
+---
+@elonmusk | ❤️ 0 | 🔁 131 | 💬 0 | 👁 34]]></description>
       <author>@elonmusk</author>
     </item>
     <item>
-      <title>RT @shao__meng: Warp 团队这是要把开源进行到底了，在 Warp、Doc 开源后，又把团队用于加速工作流的 Oz Skills 开源了 @warpdotdev 👏🏻👏🏻
+      <title>Merci! imsg 0.6 + 0.7 are live
 
-# War...</title>
-      <link>https://x.com/dotey/status/2051902838100439318</link>
-      <guid isPermaLink="false">2051902838100439318</guid>
-      <pubDate>Wed, 06 May 2026 05:52:13 +0000</pubDate>
-      <description><![CDATA[RT @shao__meng: Warp 团队这是要把开源进行到底了，在 Warp、Doc 开源后，又把团队用于加速工作流的 Oz Skills 开源了 @warpdotdev 👏🏻👏🏻
+🔵 Private API bridge landed
+📡 Watch/history reliability fixes
+💬 Bett...</title>
+      <link>https://x.com/steipete/status/2051905175355351440</link>
+      <guid isPermaLink="false">2051905175355351440</guid>
+      <pubDate>Wed, 06 May 2026 06:01:31 +0000</pubDate>
+      <description><![CDATA[Merci! imsg 0.6 + 0.7 are live
 
-# Warp 团队的 15 个 Skills
-https://t.co/XtK5DWaV…
+🔵 Private API bridge landed
+📡 Watch/history reliability fixes
+💬 Better chat + account diagnostics
+🛠️ Long fallback messages decode correctly
 
----
-@dotey | ❤️ 0 | 🔁 6 | 💬 0 | 👁 0]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>RT @TheChiefNerd: CHAMATH: “Who can you trust to have some super intelligence? … The only person tha...</title>
-      <link>https://x.com/elonmusk/status/2051902828290232437</link>
-      <guid isPermaLink="false">2051902828290232437</guid>
-      <pubDate>Wed, 06 May 2026 05:52:11 +0000</pubDate>
-      <description><![CDATA[RT @TheChiefNerd: CHAMATH: “Who can you trust to have some super intelligence? … The only person that we can trust is Elon … I feel like he…
+Private APIs, public receipts.
+https://t.co/kbJOIDo17p
 
 ---
-@elonmusk | ❤️ 0 | 🔁 259 | 💬 0 | 👁 14]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Hermes Agent 这名字，间接影响了爱马仕广告的投放效果，日常讨论 Hermes 看到广告的大多数不是目标人群😂 https://t.co/jpXQqQjSw5</title>
-      <link>https://x.com/dotey/status/2051902663051157521</link>
-      <guid isPermaLink="false">2051902663051157521</guid>
-      <pubDate>Wed, 06 May 2026 05:51:32 +0000</pubDate>
-      <description><![CDATA[Hermes Agent 这名字，间接影响了爱马仕广告的投放效果，日常讨论 Hermes 看到广告的大多数不是目标人群😂 https://t.co/jpXQqQjSw5
-
----
-@dotey | ❤️ 2 | 🔁 0 | 💬 3 | 👁 725]]></description>
-      <author>@dotey</author>
-    </item>
-    <item>
-      <title>The Ultimate Roadmap to Learn #AIAgents
-by @Python_Dv
-
-#GenerativeAI #ArtificialIntelligence #Machin...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2051902284146090413</link>
-      <guid isPermaLink="false">2051902284146090413</guid>
-      <pubDate>Wed, 06 May 2026 05:50:01 +0000</pubDate>
-      <description><![CDATA[The Ultimate Roadmap to Learn #AIAgents
-by @Python_Dv
-
-#GenerativeAI #ArtificialIntelligence #MachineLearning https://t.co/BzvWxpHPlo
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 66]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>RT @SawyerMerritt: 37 airlines have now either installed or committed to installing SpaceX's @Starli...</title>
-      <link>https://x.com/elonmusk/status/2051901535999967457</link>
-      <guid isPermaLink="false">2051901535999967457</guid>
-      <pubDate>Wed, 06 May 2026 05:47:03 +0000</pubDate>
-      <description><![CDATA[RT @SawyerMerritt: 37 airlines have now either installed or committed to installing SpaceX's @Starlink on their fleet:
-
-• Southwest Airline…
-
----
-@elonmusk | ❤️ 0 | 🔁 230 | 💬 0 | 👁 23]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>Lots of developer tools are having a missed opportunity 
-
-Their product is now essentially useful to...</title>
-      <link>https://x.com/zarazhangrui/status/2051900943831335167</link>
-      <guid isPermaLink="false">2051900943831335167</guid>
-      <pubDate>Wed, 06 May 2026 05:44:42 +0000</pubDate>
-      <description><![CDATA[Lots of developer tools are having a missed opportunity 
-
-Their product is now essentially useful to anyone who has access to an agent, not just professional developers. But their messaging &amp; marketing is still speaking to developers and is intimidating &amp; unintelligible to normal people
-
----
-@zarazhangrui | ❤️ 7 | 🔁 0 | 💬 1 | 👁 436]]></description>
-      <author>@zarazhangrui</author>
-    </item>
-    <item>
-      <title>RT @helloitsaustin: I got married this past weekend so I did what any rational @AnthropicAI employee...</title>
-      <link>https://x.com/zarazhangrui/status/2051900545087287527</link>
-      <guid isPermaLink="false">2051900545087287527</guid>
-      <pubDate>Wed, 06 May 2026 05:43:07 +0000</pubDate>
-      <description><![CDATA[RT @helloitsaustin: I got married this past weekend so I did what any rational @AnthropicAI employee would do and had Claude Code analyze 1…
-
----
-@zarazhangrui | ❤️ 0 | 🔁 85 | 💬 0 | 👁 1]]></description>
-      <author>@zarazhangrui</author>
-    </item>
-    <item>
-      <title>Me and codex were busy.
-
-🔊 https://t.co/kAbQGMTQIQ — Sonos
-🗃️ https://t.co/okyk5oZOSZ — WhatsApp
-🪶 h...</title>
-      <link>https://x.com/steipete/status/2051900143339704730</link>
-      <guid isPermaLink="false">2051900143339704730</guid>
-      <pubDate>Wed, 06 May 2026 05:41:31 +0000</pubDate>
-      <description><![CDATA[Me and codex were busy.
-
-🔊 https://t.co/kAbQGMTQIQ — Sonos
-🗃️ https://t.co/okyk5oZOSZ — WhatsApp
-🪶 https://t.co/IOOLpksihC — X archive
-🧰 https://t.co/8pYSuKt0Ea — GitHub archive
-🛰️ https://t.co/MErsuc1FO7 — Discord archive
-🎧 https://t.co/E4FCEXEixU — Spotify
-💬 https://t.co/cN5M5iRiQs — iMessage
-🧳 https://t.co/f6WRrsXVaj — MCP to CLI
-🗣️ https://t.co/aYKEugKwUC — ElevenLabs voice
-🧿 https://t.co/q6DP88loU9 — second opinion
-
-Upgrading the 🦞 OpenClaw army.
-
----
-@steipete | ❤️ 99 | 🔁 3 | 💬 16 | 👁 4553]]></description>
+@steipete | ❤️ 28 | 🔁 3 | 💬 1 | 👁 6247]]></description>
       <author>@steipete</author>
-    </item>
-    <item>
-      <title>RT @SpaceX: Falcon 9 launches 24 @Starlink satellites from California https://t.co/lynYAHk3b7</title>
-      <link>https://x.com/elonmusk/status/2051899860719480929</link>
-      <guid isPermaLink="false">2051899860719480929</guid>
-      <pubDate>Wed, 06 May 2026 05:40:23 +0000</pubDate>
-      <description><![CDATA[RT @SpaceX: Falcon 9 launches 24 @Starlink satellites from California https://t.co/lynYAHk3b7
-
----
-@elonmusk | ❤️ 0 | 🔁 253 | 💬 0 | 👁 24]]></description>
-      <author>@elonmusk</author>
-    </item>
-    <item>
-      <title>RT @vercel_dev: AI Gateway lets you route to any model.
-
-On May 13 in SF, we're hosting a builder ni...</title>
-      <link>https://x.com/Kimi_Moonshot/status/2051899631907590385</link>
-      <guid isPermaLink="false">2051899631907590385</guid>
-      <pubDate>Wed, 06 May 2026 05:39:29 +0000</pubDate>
-      <description><![CDATA[RT @vercel_dev: AI Gateway lets you route to any model.
-
-On May 13 in SF, we're hosting a builder night powered by those models. Pick one,…
-
----
-@Kimi_Moonshot | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
-      <author>@Kimi_Moonshot</author>
-    </item>
-    <item>
-      <title>You call it a personal agent I call it a thread I've had pinned in codex for a month on a heartbeat</title>
-      <link>https://x.com/nickbaumann_/status/2051898147354677532</link>
-      <guid isPermaLink="false">2051898147354677532</guid>
-      <pubDate>Wed, 06 May 2026 05:33:35 +0000</pubDate>
-      <description><![CDATA[You call it a personal agent I call it a thread I've had pinned in codex for a month on a heartbeat
-
----
-@nickbaumann_ | ❤️ 7 | 🔁 0 | 💬 1 | 👁 160]]></description>
-      <author>@nickbaumann_</author>
     </item>
   </channel>
 </rss>
