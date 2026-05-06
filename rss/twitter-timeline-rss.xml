@@ -5,89 +5,81 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 00:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 00:31:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>the algorithm sent me here. https://t.co/BJec6t0olY</title>
-      <link>https://x.com/binance/status/2051814219570364570</link>
-      <guid isPermaLink="false">2051814219570364570</guid>
-      <pubDate>Wed, 06 May 2026 00:00:05 +0000</pubDate>
-      <description><![CDATA[the algorithm sent me here. https://t.co/BJec6t0olY
+      <title>RT @NotionHQ: &quot;You build taste by just doing the thing, getting feedback, iterating, and there'...</title>
+      <link>https://x.com/lennysan/status/2051821452945719608</link>
+      <guid isPermaLink="false">2051821452945719608</guid>
+      <pubDate>Wed, 06 May 2026 00:28:50 +0000</pubDate>
+      <description><![CDATA[RT @NotionHQ: &quot;You build taste by just doing the thing, getting feedback, iterating, and there's no way to speedrun this.
+
+The [software] d…
 
 ---
-@binance | ❤️ 8 | 🔁 1 | 💬 4 | 👁 199]]></description>
-      <author>@binance</author>
+@lennysan | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>RT @BetaBloomNow: Demo Studio now provides both portrait &amp;amp; landscape product demo from a sin...</title>
-      <link>https://x.com/amasad/status/2051812698154029523</link>
-      <guid isPermaLink="false">2051812698154029523</guid>
-      <pubDate>Tue, 05 May 2026 23:54:02 +0000</pubDate>
-      <description><![CDATA[RT @BetaBloomNow: Demo Studio now provides both portrait &amp;amp; landscape product demo from a single set of recordings.
+      <title>很多刚开始玩推特的朋友，都特别关注广告收益、蓝 V 互助。
 
-* Auto-generated script…
+理解，因为收益的确挺打动人。但这真的不是推特的价值。
+
+很多人都算过了，同样的级别、同样的工作量，拿去打工或者做其他自媒体，收益会比这个好...</title>
+      <link>https://x.com/bearliu/status/2051820494970671269</link>
+      <guid isPermaLink="false">2051820494970671269</guid>
+      <pubDate>Wed, 06 May 2026 00:25:01 +0000</pubDate>
+      <description><![CDATA[很多刚开始玩推特的朋友，都特别关注广告收益、蓝 V 互助。
+
+理解，因为收益的确挺打动人。但这真的不是推特的价值。
+
+很多人都算过了，同样的级别、同样的工作量，拿去打工或者做其他自媒体，收益会比这个好很多。
+
+推特的收益来源于曝光，它是以曝光驱动的模式。不像 YouTube 或其他平台，会出现某个关键词成为搜索热点，一直有人来看你的内容（长青内容）。推特是话题涌现式的，可以理解成各种火花不停闪烁，而 YouTube 是篝火一直在燃烧。
+
+如果要把自己的收益建立在这样的平台上，非常不稳定。你真的得一直追逐热点。
+
+Twitter 的真正价值在于：你可以几乎零成本地和全世界的人建立连接和互动。
+
+真正理解这一点，它的价值几乎没有上限。至少从训练自己表达、学习其他人的灵感和思维来看，就非常值得花时间。
+
+至于每个月几百块的广告收入，就不要全身心去盘算了，不划算。
 
 ---
-@amasad | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
-      <author>@amasad</author>
+@bearliu | ❤️ 3 | 🔁 0 | 💬 0 | 👁 99]]></description>
+      <author>@bearliu</author>
     </item>
     <item>
-      <title>I create Neurosymbolic AI using first Oder logic and predicate calculus alongside our own agentic AI...</title>
-      <link>https://x.com/DeepLearn007/status/2051809096035147964</link>
-      <guid isPermaLink="false">2051809096035147964</guid>
-      <pubDate>Tue, 05 May 2026 23:39:43 +0000</pubDate>
-      <description><![CDATA[I create Neurosymbolic AI using first Oder logic and predicate calculus alongside our own agentic AI stack and LLMs. @pierrepinna
+      <title>RT @Ronald_vanLoon: 10 #AI Concepts for Software Engineers 
+by @systemdesignone
+ 
+#GenAI #Artificial...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051820491606810993</link>
+      <guid isPermaLink="false">2051820491606810993</guid>
+      <pubDate>Wed, 06 May 2026 00:25:00 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: 10 #AI Concepts for Software Engineers 
+by @systemdesignone
+ 
+#GenAI #ArtificialIntelligence #MachineLearning #ML https…
 
 ---
-@DeepLearn007 | ❤️ 0 | 🔁 0 | 💬 0 | 👁 62]]></description>
-      <author>@DeepLearn007</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 3 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
     <item>
-      <title>See you all soon! We've got some fun announcements ahead.
-
-I'll also be doing a workshop on &quot;ho...</title>
-      <link>https://x.com/trq212/status/2051808772423819507</link>
-      <guid isPermaLink="false">2051808772423819507</guid>
-      <pubDate>Tue, 05 May 2026 23:38:26 +0000</pubDate>
-      <description><![CDATA[See you all soon! We've got some fun announcements ahead.
-
-I'll also be doing a workshop on &quot;how we Claude Code&quot; with some workflows I'm excited to share.
-
-Don't worry if you're not there, everything will be recorded and uploaded.
+      <title>HT-100 Helicopter: Tail Rotor-Free Design with Flettner Rotor for Superior Control and Efficiency
+vi...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2051819287254323525</link>
+      <guid isPermaLink="false">2051819287254323525</guid>
+      <pubDate>Wed, 06 May 2026 00:20:13 +0000</pubDate>
+      <description><![CDATA[HT-100 Helicopter: Tail Rotor-Free Design with Flettner Rotor for Superior Control and Efficiency
+via @WevolverApp
+  
+#Innovation #EmergingTech #Tech #Technology https://t.co/XjNbPMORpm
 
 ---
-@trq212 | ❤️ 94 | 🔁 8 | 💬 16 | 👁 3831]]></description>
-      <author>@trq212</author>
-    </item>
-    <item>
-      <title>RT @SciTechera: Reminder
-
-AI reasoning breakthrough
-
-In a new analysis, researchers highlight the ri...</title>
-      <link>https://x.com/DeepLearn007/status/2051808700906480072</link>
-      <guid isPermaLink="false">2051808700906480072</guid>
-      <pubDate>Tue, 05 May 2026 23:38:09 +0000</pubDate>
-      <description><![CDATA[RT @SciTechera: Reminder
-
-AI reasoning breakthrough
-
-In a new analysis, researchers highlight the rise of neurosymbolic AI, a hybrid approa…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
-    </item>
-    <item>
-      <title>RT @BostonDynamics: Balancing commercial goals and robotics research can be tricky, but with Atlas w...</title>
-      <link>https://x.com/DeepLearn007/status/2051808614344454182</link>
-      <guid isPermaLink="false">2051808614344454182</guid>
-      <pubDate>Tue, 05 May 2026 23:37:49 +0000</pubDate>
-      <description><![CDATA[RT @BostonDynamics: Balancing commercial goals and robotics research can be tricky, but with Atlas we're making it work. https://t.co/GHcnR…
-
----
-@DeepLearn007 | ❤️ 0 | 🔁 885 | 💬 0 | 👁 0]]></description>
-      <author>@DeepLearn007</author>
+@Ronald_vanLoon | ❤️ 0 | 🔁 0 | 💬 0 | 👁 85]]></description>
+      <author>@Ronald_vanLoon</author>
     </item>
   </channel>
 </rss>
