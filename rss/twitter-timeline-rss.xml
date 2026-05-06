@@ -5,176 +5,279 @@
     <link>https://x.com</link>
     <description>你的 Twitter Following Timeline（via opencli）</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 May 2026 18:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 19:31:09 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/lban2049/ai-content/main/rss/twitter-timeline-rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RT @ClementDelangue: We're launching the agentic robotics app store today. Let's democratize AI robo...</title>
-      <link>https://x.com/Thom_Wolf/status/2052092464027058339</link>
-      <guid isPermaLink="false">2052092464027058339</guid>
-      <pubDate>Wed, 06 May 2026 18:25:44 +0000</pubDate>
-      <description><![CDATA[RT @ClementDelangue: We're launching the agentic robotics app store today. Let's democratize AI robotics for all!
-
-300+ apps shipped. 10,00…
+      <title>.@NASA and @SpaceX are targeting the launch of Dragon's next cargo mission for 7:16pm ET on May 12 t...</title>
+      <link>https://x.com/Space_Station/status/2052108638810935401</link>
+      <guid isPermaLink="false">2052108638810935401</guid>
+      <pubDate>Wed, 06 May 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[.@NASA and @SpaceX are targeting the launch of Dragon's next cargo mission for 7:16pm ET on May 12 to resupply the Exp 74 crew with about 6,500 pounds of supplies. More... https://t.co/klk5pGCa1w https://t.co/ohid765Eqr
 
 ---
-@Thom_Wolf | ❤️ 0 | 🔁 27 | 💬 0 | 👁 0]]></description>
-      <author>@Thom_Wolf</author>
-    </item>
-    <item>
-      <title>🙌 GPT Image 2 now supports reference images on Hailuo AI
-❣️Unleash your creativity</title>
-      <link>https://x.com/Hailuo_AI/status/2052091895527223324</link>
-      <guid isPermaLink="false">2052091895527223324</guid>
-      <pubDate>Wed, 06 May 2026 18:23:28 +0000</pubDate>
-      <description><![CDATA[🙌 GPT Image 2 now supports reference images on Hailuo AI
-❣️Unleash your creativity
-
----
-@Hailuo_AI | ❤️ 3 | 🔁 0 | 💬 0 | 👁 83]]></description>
-      <author>@Hailuo_AI</author>
-    </item>
-    <item>
-      <title>I've really underestimated the importance of the GPT-5.5 instant launch in ChatGPT
-
-This model is aw...</title>
-      <link>https://x.com/nickbaumann_/status/2052091451576922620</link>
-      <guid isPermaLink="false">2052091451576922620</guid>
-      <pubDate>Wed, 06 May 2026 18:21:42 +0000</pubDate>
-      <description><![CDATA[I've really underestimated the importance of the GPT-5.5 instant launch in ChatGPT
-
-This model is awesome
-
----
-@nickbaumann_ | ❤️ 9 | 🔁 0 | 💬 0 | 👁 317]]></description>
-      <author>@nickbaumann_</author>
-    </item>
-    <item>
-      <title>Two frontier labs. One accelerated computing platform. Congrats to @SpaceX and @AnthropicAI on the n...</title>
-      <link>https://x.com/nvidia/status/2052091408643756296</link>
-      <guid isPermaLink="false">2052091408643756296</guid>
-      <pubDate>Wed, 06 May 2026 18:21:32 +0000</pubDate>
-      <description><![CDATA[Two frontier labs. One accelerated computing platform. Congrats to @SpaceX and @AnthropicAI on the new compute partnership, powered by 220,000+ NVIDIA GPUs inside Colossus 1. The future of AI runs on NVIDIA.
-
----
-@nvidia | ❤️ 84 | 🔁 10 | 💬 9 | 👁 3620]]></description>
-      <author>@nvidia</author>
-    </item>
-    <item>
-      <title>Realistic Finger Prosthetic 
-by @IntEngineering
-  
-#EmergingTech #TechForGood #Innovation #Technolog...</title>
-      <link>https://x.com/Ronald_vanLoon/status/2052090795100897700</link>
-      <guid isPermaLink="false">2052090795100897700</guid>
-      <pubDate>Wed, 06 May 2026 18:19:06 +0000</pubDate>
-      <description><![CDATA[Realistic Finger Prosthetic 
-by @IntEngineering
-  
-#EmergingTech #TechForGood #Innovation #Technology https://t.co/YcCoihqJtg
-
----
-@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 107]]></description>
-      <author>@Ronald_vanLoon</author>
-    </item>
-    <item>
-      <title>Complexity is not an intrinsic property of a problem. It's a property of the relationship between a ...</title>
-      <link>https://x.com/fchollet/status/2052088323548885209</link>
-      <guid isPermaLink="false">2052088323548885209</guid>
-      <pubDate>Wed, 06 May 2026 18:09:16 +0000</pubDate>
-      <description><![CDATA[Complexity is not an intrinsic property of a problem. It's a property of the relationship between a problem and an observer. Once you know the shape of the problem it is no longer complex.
-
----
-@fchollet | ❤️ 57 | 🔁 4 | 💬 14 | 👁 2646]]></description>
-      <author>@fchollet</author>
-    </item>
-    <item>
-      <title>Expedition 74 spent Wednesday maintaining science hardware and life support systems while conducting...</title>
-      <link>https://x.com/Space_Station/status/2052088259287593101</link>
-      <guid isPermaLink="false">2052088259287593101</guid>
-      <pubDate>Wed, 06 May 2026 18:09:01 +0000</pubDate>
-      <description><![CDATA[Expedition 74 spent Wednesday maintaining science hardware and life support systems while conducting cardiovascular research, a vision test, and other science experiments. More... https://t.co/7AwyABujf5 https://t.co/XK0w25IMfo
-
----
-@Space_Station | ❤️ 68 | 🔁 16 | 💬 4 | 👁 7001]]></description>
+@Space_Station | ❤️ 7 | 🔁 2 | 💬 0 | 👁 210]]></description>
       <author>@Space_Station</author>
     </item>
     <item>
-      <title>RT @eugeneyan: some thoughts on working with ai models
-
-• context as infra
-• taste as config
-• verif...</title>
-      <link>https://x.com/swyx/status/2052087585753964897</link>
-      <guid isPermaLink="false">2052087585753964897</guid>
-      <pubDate>Wed, 06 May 2026 18:06:21 +0000</pubDate>
-      <description><![CDATA[RT @eugeneyan: some thoughts on working with ai models
-
-• context as infra
-• taste as config
-• verification for autonomy
-• scaling via dele…
+      <title>明天回东京，睡前刷手机，心里突然冒出几个新产品的想法，上个产品 yuragi FM 做了一些基础的关于音视频 AIGC 的想法，接下来我打算把舞蹈和声乐方面的主题也融入到新产品里去。</title>
+      <link>https://x.com/turingou/status/2052108533295124988</link>
+      <guid isPermaLink="false">2052108533295124988</guid>
+      <pubDate>Wed, 06 May 2026 19:29:35 +0000</pubDate>
+      <description><![CDATA[明天回东京，睡前刷手机，心里突然冒出几个新产品的想法，上个产品 yuragi FM 做了一些基础的关于音视频 AIGC 的想法，接下来我打算把舞蹈和声乐方面的主题也融入到新产品里去。
 
 ---
-@swyx | ❤️ 0 | 🔁 26 | 💬 0 | 👁 0]]></description>
-      <author>@swyx</author>
+@turingou | ❤️ 1 | 🔁 0 | 💬 0 | 👁 24]]></description>
+      <author>@turingou</author>
     </item>
     <item>
-      <title>See what these young builders are doing with AI now that everyone can just build things. 
-
-https://t...</title>
-      <link>https://x.com/OpenAI/status/2052086316230398247</link>
-      <guid isPermaLink="false">2052086316230398247</guid>
-      <pubDate>Wed, 06 May 2026 18:01:18 +0000</pubDate>
-      <description><![CDATA[See what these young builders are doing with AI now that everyone can just build things. 
-
-https://t.co/0UsvsBupF4
+      <title>Enter Lenny's Buildathon: https://t.co/jDRhOpEAse https://t.co/sDbOTuAT4c</title>
+      <link>https://x.com/lennysan/status/2052108095451701670</link>
+      <guid isPermaLink="false">2052108095451701670</guid>
+      <pubDate>Wed, 06 May 2026 19:27:50 +0000</pubDate>
+      <description><![CDATA[Enter Lenny's Buildathon: https://t.co/jDRhOpEAse https://t.co/sDbOTuAT4c
 
 ---
-@OpenAI | ❤️ 110 | 🔁 5 | 💬 7 | 👁 19607]]></description>
-      <author>@OpenAI</author>
+@lennysan | ❤️ 0 | 🔁 0 | 💬 0 | 👁 176]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>Introducing the ChatGPT Futures Class of 2026—26 honorees from the first graduating class to have ha...</title>
-      <link>https://x.com/OpenAI/status/2052086313797705954</link>
-      <guid isPermaLink="false">2052086313797705954</guid>
-      <pubDate>Wed, 06 May 2026 18:01:17 +0000</pubDate>
-      <description><![CDATA[Introducing the ChatGPT Futures Class of 2026—26 honorees from the first graduating class to have had ChatGPT throughout all four years of university, who used AI to:
+      <title>Announcing the Lenny's Newsletter x @Replit Buildathon
 
-- Map 1.5M previously unknown objects in space
+Build something awesome with my podcast and ...</title>
+      <link>https://x.com/lennysan/status/2052108093522346276</link>
+      <guid isPermaLink="false">2052108093522346276</guid>
+      <pubDate>Wed, 06 May 2026 19:27:50 +0000</pubDate>
+      <description><![CDATA[Announcing the Lenny's Newsletter x @Replit Buildathon
 
-- Detect disaster survivors through walls and debris
+Build something awesome with my podcast and newsletter data using Replit, and win fabulous prizes:
+🔸 1:1 career coaching session with @amasad 
+🔸 $5,000 in free Replit credits
+🔸 A free year of Lenny's Newsletter
 
-- Make 100M+ galaxy images searchable
+This is the excuse you've been waiting for to build with AI.
 
-- Preserve endangered languages
+Learn more and enter the thread below. 
 
-- Build infrastructure to reroute 5M+ pounds of unsold inventory from landfills
+P.S. The first 200 joiners get a free month of Replit Core.
 
 ---
-@OpenAI | ❤️ 651 | 🔁 45 | 💬 71 | 👁 35639]]></description>
-      <author>@OpenAI</author>
+@lennysan | ❤️ 4 | 🔁 0 | 💬 2 | 👁 244]]></description>
+      <author>@lennysan</author>
     </item>
     <item>
-      <title>If Forbes had only waited to hear the testimony at this week’s trial
-
-Or read @_KarenHao’s book
-
-Or ...</title>
-      <link>https://x.com/GaryMarcus/status/2052086305308492191</link>
-      <guid isPermaLink="false">2052086305308492191</guid>
-      <pubDate>Wed, 06 May 2026 18:01:15 +0000</pubDate>
-      <description><![CDATA[If Forbes had only waited to hear the testimony at this week’s trial
-
-Or read @_KarenHao’s book
-
-Or @RonanFarrow’s @newyorker investigation
-
-Or my own writings since fall 2023
-
-They would have realized how disgraceful this choice was.
+      <title>MOGrip: Human-Inspired Gripper That Moves Multiple Objects in One Motion
+via @WevolverApp
+ 
+#Robotic...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052106957742289252</link>
+      <guid isPermaLink="false">2052106957742289252</guid>
+      <pubDate>Wed, 06 May 2026 19:23:19 +0000</pubDate>
+      <description><![CDATA[MOGrip: Human-Inspired Gripper That Moves Multiple Objects in One Motion
+via @WevolverApp
+ 
+#Robotics #Engineering #ArtificialIntelligence #Innovation #Technology https://t.co/1outjnnTSQ
 
 ---
-@GaryMarcus | ❤️ 20 | 🔁 3 | 💬 1 | 👁 1683]]></description>
+@Ronald_vanLoon | ❤️ 1 | 🔁 1 | 💬 0 | 👁 91]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>So much space in space that it boggles the mind!</title>
+      <link>https://x.com/elonmusk/status/2052106301401186807</link>
+      <guid isPermaLink="false">2052106301401186807</guid>
+      <pubDate>Wed, 06 May 2026 19:20:43 +0000</pubDate>
+      <description><![CDATA[So much space in space that it boggles the mind!
+
+---
+@elonmusk | ❤️ 1031 | 🔁 140 | 💬 554 | 👁 100391]]></description>
+      <author>@elonmusk</author>
+    </item>
+    <item>
+      <title>好图😂</title>
+      <link>https://x.com/dotey/status/2052106091916320778</link>
+      <guid isPermaLink="false">2052106091916320778</guid>
+      <pubDate>Wed, 06 May 2026 19:19:53 +0000</pubDate>
+      <description><![CDATA[好图😂
+
+---
+@dotey | ❤️ 0 | 🔁 0 | 💬 0 | 👁 252]]></description>
+      <author>@dotey</author>
+    </item>
+    <item>
+      <title>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated...</title>
+      <link>https://x.com/claudeai/status/2052105841864495282</link>
+      <guid isPermaLink="false">2052105841864495282</guid>
+      <pubDate>Wed, 06 May 2026 19:18:53 +0000</pubDate>
+      <description><![CDATA[Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.
+
+https://t.co/InUxTaNimb
+
+---
+@claudeai | ❤️ 274 | 🔁 27 | 💬 40 | 👁 14826]]></description>
+      <author>@claudeai</author>
+    </item>
+    <item>
+      <title>RT @lindsmccallum: it's been so fun to be on this journey with you @danshipper 
+
+read the whole thin...</title>
+      <link>https://x.com/nickbaumann_/status/2052104783000199218</link>
+      <guid isPermaLink="false">2052104783000199218</guid>
+      <pubDate>Wed, 06 May 2026 19:14:41 +0000</pubDate>
+      <description><![CDATA[RT @lindsmccallum: it's been so fun to be on this journey with you @danshipper 
+
+read the whole thing here: https://t.co/EBWRXCRqBD https:/…
+
+---
+@nickbaumann_ | ❤️ 0 | 🔁 2 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>RT @danshipper: Three months ago, Codex was trash for knowledge work. Now it's my daily driver.
+
+I u...</title>
+      <link>https://x.com/nickbaumann_/status/2052104132635640300</link>
+      <guid isPermaLink="false">2052104132635640300</guid>
+      <pubDate>Wed, 06 May 2026 19:12:06 +0000</pubDate>
+      <description><![CDATA[RT @danshipper: Three months ago, Codex was trash for knowledge work. Now it's my daily driver.
+
+I use it for writing, recruiting, deep eng…
+
+---
+@nickbaumann_ | ❤️ 0 | 🔁 9 | 💬 0 | 👁 0]]></description>
+      <author>@nickbaumann_</author>
+    </item>
+    <item>
+      <title>RT @adithya_s_k: It’s been almost a month since I joined @huggingface, and it’s been an absolute bla...</title>
+      <link>https://x.com/Thom_Wolf/status/2052103644296716707</link>
+      <guid isPermaLink="false">2052103644296716707</guid>
+      <pubDate>Wed, 06 May 2026 19:10:09 +0000</pubDate>
+      <description><![CDATA[RT @adithya_s_k: It’s been almost a month since I joined @huggingface, and it’s been an absolute blast.
+
+In traditional big tech, it usuall…
+
+---
+@Thom_Wolf | ❤️ 0 | 🔁 10 | 💬 0 | 👁 0]]></description>
+      <author>@Thom_Wolf</author>
+    </item>
+    <item>
+      <title>RT @MIT_CSAIL: The story of Mirai, MIT's AI model that can detect breast cancer years before humans ...</title>
+      <link>https://x.com/MIT_CSAIL/status/2052102470814286275</link>
+      <guid isPermaLink="false">2052102470814286275</guid>
+      <pubDate>Wed, 06 May 2026 19:05:29 +0000</pubDate>
+      <description><![CDATA[RT @MIT_CSAIL: The story of Mirai, MIT's AI model that can detect breast cancer years before humans do: https://t.co/5YbCFJRKUK https://t.c…
+
+---
+@MIT_CSAIL | ❤️ 0 | 🔁 12 | 💬 0 | 👁 0]]></description>
+      <author>@MIT_CSAIL</author>
+    </item>
+    <item>
+      <title>RT @Ronald_vanLoon: Beijing’s Humanoid #Robot Race: Can Machines Break the 1-Hour Half Marathon?
+by ...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052102353029890444</link>
+      <guid isPermaLink="false">2052102353029890444</guid>
+      <pubDate>Wed, 06 May 2026 19:05:01 +0000</pubDate>
+      <description><![CDATA[RT @Ronald_vanLoon: Beijing’s Humanoid #Robot Race: Can Machines Break the 1-Hour Half Marathon?
+by @XRoboHub
+
+#Robotics #EmergingTech #Tec…
+
+---
+@Ronald_vanLoon | ❤️ 0 | 🔁 8 | 💬 0 | 👁 0]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>RT @ajambrosino: 👀</title>
+      <link>https://x.com/danshipper/status/2052100889427800112</link>
+      <guid isPermaLink="false">2052100889427800112</guid>
+      <pubDate>Wed, 06 May 2026 18:59:12 +0000</pubDate>
+      <description><![CDATA[RT @ajambrosino: 👀
+
+---
+@danshipper | ❤️ 0 | 🔁 1 | 💬 0 | 👁 0]]></description>
+      <author>@danshipper</author>
+    </item>
+    <item>
+      <title>Future Living Starts Here: Royal Bin NOIR 17L Smart Trash Bin
+by @IntEngineering
+
+#EmergingTech #Tec...</title>
+      <link>https://x.com/Ronald_vanLoon/status/2052100118464111093</link>
+      <guid isPermaLink="false">2052100118464111093</guid>
+      <pubDate>Wed, 06 May 2026 18:56:09 +0000</pubDate>
+      <description><![CDATA[Future Living Starts Here: Royal Bin NOIR 17L Smart Trash Bin
+by @IntEngineering
+
+#EmergingTech #Technology #Innovation #Tech https://t.co/lY6RB3kyEh
+
+---
+@Ronald_vanLoon | ❤️ 4 | 🔁 0 | 💬 0 | 👁 256]]></description>
+      <author>@Ronald_vanLoon</author>
+    </item>
+    <item>
+      <title>Learn more and sign up today  ↓ https://t.co/1cttGpMmqL</title>
+      <link>https://x.com/Google/status/2052097668768231789</link>
+      <guid isPermaLink="false">2052097668768231789</guid>
+      <pubDate>Wed, 06 May 2026 18:46:25 +0000</pubDate>
+      <description><![CDATA[Learn more and sign up today  ↓ https://t.co/1cttGpMmqL
+
+---
+@Google | ❤️ 14 | 🔁 1 | 💬 3 | 👁 10064]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>We're helping small businesses level up this National Small Business Week! 🚀
+
+We’re giving U.S. smal...</title>
+      <link>https://x.com/Google/status/2052097664456548507</link>
+      <guid isPermaLink="false">2052097664456548507</guid>
+      <pubDate>Wed, 06 May 2026 18:46:23 +0000</pubDate>
+      <description><![CDATA[We're helping small businesses level up this National Small Business Week! 🚀
+
+We’re giving U.S. small businesses and their teams no-cost access to our best AI tools and training to help your team to streamline daily tasks, sharpen your strategy, and get more done:
+
+🎓 Google AI Professional Certificate
+✨ 3 months of Google AI Pro
+💼 3 months of Google Workspace Business Standard
+
+---
+@Google | ❤️ 54 | 🔁 12 | 💬 17 | 👁 11335]]></description>
+      <author>@Google</author>
+    </item>
+    <item>
+      <title>AFAIK BD doesn’t use RL for their robots.</title>
+      <link>https://x.com/tunguz/status/2052096867916239058</link>
+      <guid isPermaLink="false">2052096867916239058</guid>
+      <pubDate>Wed, 06 May 2026 18:43:14 +0000</pubDate>
+      <description><![CDATA[AFAIK BD doesn’t use RL for their robots.
+
+---
+@tunguz | ❤️ 5 | 🔁 0 | 💬 0 | 👁 1466]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>He should just convert it into a floating datacenter.</title>
+      <link>https://x.com/tunguz/status/2052096173683413002</link>
+      <guid isPermaLink="false">2052096173683413002</guid>
+      <pubDate>Wed, 06 May 2026 18:40:28 +0000</pubDate>
+      <description><![CDATA[He should just convert it into a floating datacenter.
+
+---
+@tunguz | ❤️ 24 | 🔁 0 | 💬 3 | 👁 1583]]></description>
+      <author>@tunguz</author>
+    </item>
+    <item>
+      <title>Precisely what I have been saying since day 1: the challenge in generative AI is reliability.
+
+That ...</title>
+      <link>https://x.com/GaryMarcus/status/2052095084661706819</link>
+      <guid isPermaLink="false">2052095084661706819</guid>
+      <pubDate>Wed, 06 May 2026 18:36:08 +0000</pubDate>
+      <description><![CDATA[Precisely what I have been saying since day 1: the challenge in generative AI is reliability.
+
+That was the challenge, and still is.
+
+---
+@GaryMarcus | ❤️ 18 | 🔁 1 | 💬 6 | 👁 2366]]></description>
       <author>@GaryMarcus</author>
     </item>
   </channel>
